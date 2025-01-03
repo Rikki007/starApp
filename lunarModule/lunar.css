@@ -24,15 +24,53 @@
   font-size: 2rem;
 }
 .zodiac-block {
+  padding: 2rem;
   display: flex;
   overflow: hidden;
-  width: 100%;
-  gap: 3.5rem;
+  gap: 2rem;
+  border: 1px solid white;
+  border-radius: 3rem;
+  box-shadow: inset -10px -5px 20px black, inset 10px 5px 20px black;
 }
 .zodiac-block__wrapper {
-  min-width: 40%;
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  min-width: calc(50% - 48px);
   transition: transform 0.5s ease-in-out;
 }
+.zodiac-block__logo {
+  display: flex;
+  justify-content: flex-start;
+  gap: 2rem;
+}
+.slider-buttons {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
 .slider-buttons__item {
+  padding: 0.5rem;
+  border-radius: 50%;
   cursor: pointer;
+  transition: 0.3s;
+}
+.slider-buttons__item:hover  .arrow{
+  scale: 0.95;
+  border-radius: 50%;
+  transition: 0.2s;
+}
+.slider-buttons__item:active  .arrow{
+  
+  box-shadow: 5px 5px 5px 5px white, -5px -5px 5px 5px white;
+}
+.arrow__left {
+  transform: rotate(180deg);
+}
+.arrow__right {
+  
 }

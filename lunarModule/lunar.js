@@ -22,10 +22,10 @@ function updateLunarPhase() {
       <div class="zodiac-block">${lunarZodiacCreate()}</div>
       <div class="slider-buttons">
         <div class="slider-buttons__item button__left">
-          <img src="../assets/animation/arrow.gif" alt="arrow" class="arrow__left">
+          <img src="../assets/animation/arrow.png" alt="arrow" class="arrow arrow__left">
         </div>
         <div class="slider-buttons__item button__right">
-          <img src="../assets/animation/arrow.gif" alt="arrow" class="arrow__right">
+          <img src="../assets/animation/arrow.png" alt="arrow" class="arrow arrow__right">
         </div>
       </div>
     </section>
