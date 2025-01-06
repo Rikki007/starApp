@@ -25,28 +25,38 @@
 }
 .zodiac-block {
   padding: 2rem;
-  display: flex;
   overflow: hidden;
-  gap: 2rem;
   border: 1px solid white;
   border-radius: 3rem;
   box-shadow: inset -10px -5px 20px black, inset 10px 5px 20px black;
 }
+.slider {
+  width: 100%;
+  display: flex;
+  gap: 2rem;
+  transition: transform 0.5s ease-in-out;
+}
 .zodiac-block__wrapper {
+  min-width: 46.4%;
   padding: 1rem;
   border: 1px solid white;
   border-radius: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2rem;
-  min-width: calc(50% - 48px);
-  transition: transform 0.5s ease-in-out;
+  gap: 1rem;
 }
 .zodiac-block__logo {
   display: flex;
-  justify-content: flex-start;
-  gap: 2rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+.zodiac-block__picture {
+  width: 2rem;
+  height: 2rem;
+  order: -1;
 }
 .slider-buttons {
   display: flex;
@@ -64,13 +74,6 @@
   border-radius: 50%;
   transition: 0.2s;
 }
-.slider-buttons__item:active  .arrow{
-  
-  box-shadow: 5px 5px 5px 5px white, -5px -5px 5px 5px white;
-}
 .arrow__left {
   transform: rotate(180deg);
-}
-.arrow__right {
-  
 }

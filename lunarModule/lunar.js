@@ -1,6 +1,6 @@
 import lunarInfo from "./lunarInfo.js";
 import calculateLunarDay from "./lunarDay.js";
-import main from "./main.js";
+import main from "../main/main.js";
 import lunarZodiac from "./lunarZodiac.js";
 import lunarZodiacCreate from "./lunarZodiacCreator.js";
 
@@ -19,7 +19,9 @@ function updateLunarPhase() {
         <p class="phase-block__status">${lunarInfo[lunarDay].phase}</p>
         <p class="phase-block__description">${lunarInfo[lunarDay].description}</p>
       </div>
-      <div class="zodiac-block">${lunarZodiacCreate()}</div>
+      <div class="zodiac-block">
+        <div class="slider">${lunarZodiacCreate()}</div>
+      </div>
       <div class="slider-buttons">
         <div class="slider-buttons__item button__left">
           <img src="../assets/animation/arrow.png" alt="arrow" class="arrow arrow__left">
