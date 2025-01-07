@@ -1,7 +1,5 @@
 import updateLunarPhase from "./lunar.js";
 
-updateLunarPhase();
-
 export const rightBtn = document.querySelector('.button__right');
 export const leftBtn = document.querySelector('.button__left');
 export const slider = document.querySelector('.slider');

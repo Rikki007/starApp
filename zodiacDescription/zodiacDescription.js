@@ -1,8 +1,8 @@
-const zodiacDescription = [
+export const zodiacDescription = [
   {
     name: "Aries",
     date: "March 21 - April 19",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/aries.png",
     constellation: "",
     planet: "Mars",
     gems: [
@@ -27,7 +27,7 @@ const zodiacDescription = [
   {
     name: "Taurus",
     date: "April 20 - May 20",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/taurus.png",
     constellation: "",
     planet: "Venus",
     gems: [
@@ -52,7 +52,7 @@ const zodiacDescription = [
   {
     name: "Gemini",
     date: "May 21 - June 20",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/gemini.png",
     constellation: "",
     planet: "Mercury",
     gems: [
@@ -77,7 +77,7 @@ const zodiacDescription = [
   {
     name: "Cancer",
     date: "June 21 - July 22",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/cancer.png",
     constellation: "",
     planet: "Moon",
     gems: [
@@ -102,7 +102,7 @@ const zodiacDescription = [
   {
     name: "Leo",
     date: "July 23 - August 22",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/leo.png",
     constellation: "",
     planet: "Sun",
     gems: [
@@ -127,7 +127,7 @@ const zodiacDescription = [
   {
     name: "Virgo",
     date: "August 23 - September 22",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/virgo.png",
     constellation: "",
     planet: "Mercury",
     gems: [
@@ -152,7 +152,7 @@ const zodiacDescription = [
   {
     name: "Libra",
     date: "September 23 - October 22",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/libra.png",
     constellation: "",
     planet: "Venus",
     gems: [
@@ -177,7 +177,7 @@ const zodiacDescription = [
   {
     name: "Scorpio",
     date: "October 23 - November 21",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/scorpio.png",
     constellation: "",
     planet: "Pluto and Mars",
     gems: [
@@ -202,7 +202,7 @@ const zodiacDescription = [
   {
     name: "Sagittarius",
     date: "November 22 - December 21",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/sagittarius.png",
     constellation: "",
     planet: "Jupiter",
     gems: [
@@ -227,7 +227,7 @@ const zodiacDescription = [
   {
     name: "Capricorn",
     date: "December 22 - January 19",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/capricorn.png",
     constellation: "",
     planet: "Saturn",
     gems: [
@@ -252,7 +252,7 @@ const zodiacDescription = [
   {
     name: "Aquarius",
     date: "January 20 - February 18",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/aquarius.png",
     constellation: "",
     planet: "Uranus and Saturn",
     gems: [
@@ -277,7 +277,7 @@ const zodiacDescription = [
   {
     name: "Pisces",
     date: "February 19 - March 20",
-    sign: "",
+    sign: "../assets/icons/zodiacSighns/pisces.png",
     constellation: "",
     planet: "Neptune and Jupiter",
     gems: [
