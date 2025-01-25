@@ -1,0 +1,30 @@
+.description-section {
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.description-section-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.description-section-title {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+.description-section-title__sign {
+    width: 1.5rem;
+}
+.description-section-gems {
+    display: flex;
+    gap: 1rem;
+}
+.description-section-gems__image {
+    width: 12vw;
+    height: 12vw;
+    border-radius: 2rem;
+}
