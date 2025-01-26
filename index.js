@@ -4,8 +4,10 @@ import registerCall from "./logReg/register.js";
 import logRegSwitch from "./logReg/logswitch.js";
 import * as updateSlider from "./lunarModule/sliderLogic.js";
 import { zodiacDescriptionCreate } from "./zodiacDescription/zodiacDescriptionCreate.js";
+import { zodiacListCreate } from "./zodiacDescription/zodiacList.js";
 
 // logInCall();
 // logRegSwitch();
 // updateSlider.sliceFunction();
-zodiacDescriptionCreate();
+// zodiacDescriptionCreate();
+zodiacListCreate();

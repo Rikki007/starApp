@@ -33,7 +33,7 @@ body {
   background: transparent;
   border: white;
   border-radius: 1rem;
-  box-shadow: 10px 5px 5px black;
+  box-shadow: 8px 5px 5px black, -1px -1px black;
   cursor: pointer;
   transition: 0.3s;
 }

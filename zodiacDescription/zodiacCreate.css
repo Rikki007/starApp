@@ -1,3 +1,65 @@
+.elements-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2rem;
+}
+.container-item {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    background: linear-gradient(to right, #371a44, #1b4f72);
+    box-shadow: 7px 4px 4px 4px black, -1px -1px black;
+}
+.common-container {
+    width: 45vw;
+    display: grid;
+    grid-template-areas: 
+    "img title"
+    "img descript"
+    ;
+    gap: 1.5rem;
+}
+.sign-elements-list {
+    width: 100%;
+    display: flex;
+    gap: 3rem;
+}
+.container-item____picture {
+    width: 10vw;
+    min-width: 10rem;
+    border-radius: 2rem;
+    grid-area: img
+}
+.container-item__title {
+    grid-area: title;
+}
+.container-item__description {
+    grid-area: descript;
+}
+.sign-elements__item {
+    min-width: 5rem;
+    display: flex;
+    justify-content: center;
+    padding: 0.7rem;
+    list-style-type: none;
+    background: transparent;
+    border-radius: 1rem;
+    box-shadow: 8px 5px 5px black, -1px -1px black;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.sign-elements__item:hover {
+    background: white;
+    color: black;
+    border: white;
+    box-shadow: 5px 3px 3px black;
+  }
 .description-section {
     width: 80vw;
     margin: 0 auto;
