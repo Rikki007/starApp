@@ -1,23 +1,20 @@
-import { zodiacDescription } from "./zodiacDescription.js";
 import { gemCreator } from "./gemCreate.js";
 
-export const zodiacItemCreate = () => {
-
-  return zodiacDescription.map((item) => {
+const zodiacItemCreate = (signUnit) => {
     return `
       <div class="description-section-container">
         <div class="description-section-title">
-          <img src="${item.sign}" alt="picture" class="description-section-title__sign">
-          <p class="description-section-title__name">${item.name}</p>
-          <p class="description-section-title__date">${item.date}</p>
+          <img src="${signUnit.sign}" alt="picture" class="description-section-title__sign">
+          <p class="description-section-title__name">${signUnit.name}</p>
+          <p class="description-section-title__date">${signUnit.date}</p>
         </div>
-        <div class="description-section-gems">${gemCreator(item.gems)}</div>
+        <div class="description-section-gems">${gemCreator(signUnit.gems)}</div>
         <div class="description-section-planets">
-          <p class="description-section-planets__name">Planet: ${item.planet}</p>
-          <p class="description-section-planets__description">${item.description}</p>
+          <p class="description-section-planets__name">Planet: ${signUnit.planet}</p>
+          <p class="description-section-planets__description">${signUnit.description}</p>
         </div>
       </div>
   `
-  }).join('');
-  
 }
+
+export default zodiacItemCreate;

@@ -1,6 +1,6 @@
 import main from "../main/main.js";
 
-export const zodiacListCreate = () => {
+const zodiacListCreate = () => {
     main.innerHTML = `
         <div class="elements-container">
             <div class="container-item">
@@ -70,3 +70,5 @@ export const zodiacListCreate = () => {
         <div class="sign-description"></div>
     `
 }
+
+export default zodiacListCreate;
