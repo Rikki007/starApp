@@ -2,9 +2,10 @@ export const zodiacDescription = [
   {
     name: "Aries",
     date: "March 21 - April 19",
-    sign: "./assets/icons/zodiacSighns/aries.png",
+    sign: "./assets/images/signsMain/aries.png",
     constellation: "",
     planet: "Mars",
+    gemsDescription: "Aries are bold and energetic leaders, possessing determination and passion. They are dynamic, initiative, and have a strong will. However, they can also be impulsive, impatient, and sometimes overly aggressive. Diamond enhances the positive qualities of Aries, providing them with clarity of mind and tirelessness in overcoming obstacles. Ruby helps them stay motivated and energetic, highlighting their bravery and strength. Carnelian inspires them for new beginnings and creative projects. These stones help Aries deal with negative energy, fears, and insecurities, turning them into true winners.",
     gems: [
       {
         name: "Diamond",
@@ -30,9 +31,10 @@ export const zodiacDescription = [
   {
     name: "Taurus",
     date: "April 20 - May 20",
-    sign: "./assets/icons/zodiacSighns/taurus.png",
+    sign: "./assets/images/signsMain/taurus.png",
     constellation: "",
     planet: "Venus",
+    gemsDescription: "Taurus are reliable and practical individuals, possessing patience and resilience. They value stability and comfort and have a strong sense of responsibility. However, Taurus can be stubborn and overly conservative. Emerald helps Taurus maintain harmony and stability, reducing stress and negative thoughts. Rose Quartz brings them love and tenderness, helping heal emotional wounds and overcome the fear of love. Jade brings luck and peace, protecting Taurus from negative energy and misfortune.",
     gems: [
       {
         name: "Emerald",
@@ -58,9 +60,10 @@ export const zodiacDescription = [
   {
     name: "Gemini",
     date: "May 21 - June 20",
-    sign: "./assets/icons/zodiacSighns/gemini.png",
+    sign: "./assets/images/signsMain/gemini.png",
     constellation: "",
     planet: "Mercury",
+    gemsDescription: "Gemini are sociable and curious individuals, possessing quick minds and excellent adaptability. They easily make new acquaintances and are always in search of new experiences. However, Gemini can be inconsistent and scattered. Agate helps Gemini maintain balance and harmony, protecting them from negative energy and stress. Citrine gives them confidence, joy, and success, helping them overcome negative thoughts and failures. Tiger's Eye enhances their courage and strength, protecting them from fears and insecurities.",
     gems: [
       {
         name: "Agate",
@@ -86,9 +89,10 @@ export const zodiacDescription = [
   {
     name: "Cancer",
     date: "June 21 - July 22",
-    sign: "./assets/icons/zodiacSighns/cancer.png",
+    sign: "./assets/images/signsMain/cancer.jpg",
     constellation: "",
     planet: "Moon",
+    gemsDescription: "Cancer are emotional and caring individuals, possessing strong intuition and attachment to family and home. They are attentive to the feelings of others and always ready to help. However, Cancer can be overly sensitive and prone to mood swings. Moonstone enhances their intuition and helps maintain emotional balance, protecting them from negative energy and stress. Pearl brings purity and calmness, helping heal emotional wounds. Opal inspires creative projects and supports harmony, protecting from negative thoughts and fears.",
     gems: [
       {
         name: "Moonstone",
@@ -114,9 +118,10 @@ export const zodiacDescription = [
   {
     name: "Leo",
     date: "July 23 - August 22",
-    sign: "./assets/icons/zodiacSighns/leo.png",
+    sign: "./assets/images/signsMain/leo.png",
     constellation: "",
     planet: "Sun",
+    gemsDescription: "Leo are bright and charismatic individuals, possessing a strong sense of self-worth and leadership qualities. They are confident and always strive to be the center of attention. However, Leo can be arrogant and domineering. Ruby enhances their energy and courage, helping Leo stay motivated and energetic. Sunstone gives them vitality, joy, and optimism, protecting them from depression and gloom. Garnet enhances their strength and protects them from negative energy and emotional wounds.",
     gems: [
       {
         name: "Ruby",
@@ -142,9 +147,10 @@ export const zodiacDescription = [
   {
     name: "Virgo",
     date: "August 23 - September 22",
-    sign: "./assets/icons/zodiacSighns/virgo.png",
+    sign: "./assets/images/signsMain/virgo.jpg",
     constellation: "",
     planet: "Mercury",
+    gemsDescription: "Virgo are practical and analytical individuals, possessing high intelligence and attention to detail. They strive for perfection and have a strong sense of responsibility. However, Virgo can be critical and overly demanding. Sapphire gives them wisdom, honesty, and purity, helping them deal with negative thoughts and stress. Peridot supports their health and harmony, protecting them from negative energy and illnesses. Amazonite gives calmness, confidence, and balance, helping them cope with fears and stress.",
     gems: [
       {
         name: "Sapphire",
@@ -170,9 +176,10 @@ export const zodiacDescription = [
   {
     name: "Libra",
     date: "September 23 - October 22",
-    sign: "./assets/icons/zodiacSighns/libra.png",
+    sign: "./assets/images/signsMain/libra.png",
     constellation: "",
     planet: "Venus",
+    gemsDescription: "Libra are harmonious and diplomatic individuals, possessing a strong sense of justice and beauty. They value balance and strive for peace in their relationships. However, Libra can be indecisive and overly dependent on others' opinions. Opal enhances their love and beauty, helping Libra heal emotional wounds and protect them from negative energies. Lapis Lazuli gives them wisdom and calmness, aiding in dealing with stress and negative thoughts. Turquoise provides protection and healing, shielding them from negative energies and illnesses.",
     gems: [
       {
         name: "Opal",
@@ -198,9 +205,10 @@ export const zodiacDescription = [
   {
     name: "Scorpio",
     date: "October 23 - November 21",
-    sign: "./assets/icons/zodiacSighns/scorpio.png",
+    sign: "./assets/images/signsMain/scorpio.png",
     constellation: "",
     planet: "Pluto and Mars",
+    gemsDescription: "Scorpio are intense and passionate individuals, possessing determination and depth. They are mysterious and often have a strong presence. However, Scorpio can be possessive and secretive. Topaz gives them strength and protection, helping Scorpio deal with negative energies and emotional wounds. Obsidian provides cleansing and transformation, protecting them from negative energies and evil spirits. Malachite enhances their balance and transformation, helping them cope with negative thoughts and stress.",
     gems: [
       {
         name: "Topaz",
@@ -226,9 +234,10 @@ export const zodiacDescription = [
   {
     name: "Sagittarius",
     date: "November 22 - December 21",
-    sign: "./assets/icons/zodiacSighns/sagittarius.png",
+    sign: "./assets/images/signsMain/sagittarius.png",
     constellation: "",
     planet: "Jupiter",
+    gemsDescription: "Sagittarius are adventurous and optimistic individuals, possessing a love for freedom and exploration. They are enthusiastic and always seek new knowledge. However, Sagittarius can be reckless and tactless. Turquoise provides wisdom and protection, shielding them from negative energies and illnesses. Amethyst enhances their spirituality and peace, helping them deal with negative thoughts and stress. Citrine gives them confidence, joy, and success, protecting them from negative thoughts and failures.",
     gems: [
       {
         name: "Turquoise",
@@ -254,9 +263,10 @@ export const zodiacDescription = [
   {
     name: "Capricorn",
     date: "December 22 - January 19",
-    sign: "./assets/icons/zodiacSighns/capricorn.png",
+    sign: "./assets/images/signsMain/capricorn.png",
     constellation: "",
     planet: "Saturn",
+    gemsDescription: "Capricorn are disciplined and ambitious individuals, possessing a strong sense of responsibility and determination. They are practical and focused on their goals. However, Capricorn can be pessimistic and overly serious. Garnet gives them stability and strength, helping Capricorn deal with negative energies and emotional wounds. Onyx provides protection and confidence, shielding them from negative thoughts and stress. Jet enhances their healing and balance, protecting them from negative energies and illnesses.",
     gems: [
       {
         name: "Garnet",
@@ -282,9 +292,10 @@ export const zodiacDescription = [
   {
     name: "Aquarius",
     date: "January 20 - February 18",
-    sign: "./assets/icons/zodiacSighns/aquarius.png",
+    sign: "./assets/images/signsMain/aquarius.png",
     constellation: "",
     planet: "Uranus and Saturn",
+    gemsDescription: "Aquarius are innovative and independent individuals, possessing a strong sense of originality and uniqueness. They are forward-thinking and always seek to improve the world around them. However, Aquarius can be unpredictable and detached. Amethyst enhances their spirituality and peace, helping Aquarius deal with negative thoughts and stress. Aquamarine gives them calmness and clarity, protecting them from negative energies and fear. Garnet provides strength and protection, shielding them from negative energies and emotional wounds.",
     gems: [
       {
         name: "Amethyst",
@@ -310,9 +321,10 @@ export const zodiacDescription = [
   {
     name: "Pisces",
     date: "February 19 - March 20",
-    sign: "./assets/icons/zodiacSighns/pisces.png",
+    sign: "./assets/images/signsMain/pisces.jpg",
     constellation: "",
     planet: "Neptune and Jupiter",
+    gemsDescription: "Pisces are compassionate and imaginative individuals, possessing a strong sense of empathy and creativity. They are dreamy and often have a deep connection to the spiritual realm. However, Pisces can be overly sensitive and prone to escapism. Aquamarine gives them calmness and inspiration, helping Pisces deal with negative energies and fear. Amethyst enhances their spirituality and peace, protecting them from negative thoughts and stress. Bloodstone provides protection and healing, shielding them from negative energies and illnesses.",
     gems: [
       {
         name: "Aquamarine",
@@ -336,3 +348,4 @@ export const zodiacDescription = [
     description: "Neptune, the planet of dreams, intuition, and spirituality, governs Pisces alongside Jupiter. Pisces individuals, under Neptune's influence, are deeply empathetic and imaginative. They often find themselves lost in their dreams and fantasies, making them natural artists and creators. Neptune grants them strong intuition and the ability to understand others' hidden motives. However, their sensitivity can sometimes lead to escapism and vulnerability. Despite this, Neptune and Jupiter provide Pisces with a compassionate and creative nature, allowing them to inspire and support those around them through their empathy and artistic expression."
   }
 ]
+

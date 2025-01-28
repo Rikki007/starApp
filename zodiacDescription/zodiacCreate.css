@@ -4,6 +4,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     gap: 2rem;
+    margin-bottom: 2.5rem;
 }
 .container-item {
     padding: 1rem;
@@ -17,11 +18,10 @@
     box-shadow: 7px 4px 4px 4px black, -1px -1px black;
 }
 .common-container {
-    width: 45vw;
     display: grid;
     grid-template-areas: 
-    "img title"
-    "img descript"
+        "img title"
+        "img descript"
     ;
     gap: 1.5rem;
 }
@@ -73,13 +73,25 @@
     gap: 1.5rem;
 }
 .description-section-title {
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-    justify-content: center;
+    display: grid;
+    grid-template-areas: 
+        "avatar name"
+        "avatar date"
+    ;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr 3fr;
 }
 .description-section-title__sign {
-    width: 1.5rem;
+    width: 10vw;
+    min-width: 10rem;
+    border-radius: 2rem;
+    grid-area: avatar;
+}
+.description-section-title__name {
+    grid-area: name;
+}
+.description-section-title__date {
+    grid-area: date;
 }
 .description-section-gems {
     display: flex;
