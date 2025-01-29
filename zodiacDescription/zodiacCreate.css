@@ -98,7 +98,12 @@
     gap: 1rem;
 }
 .description-section-gems__image {
-    width: 12vw;
-    height: 12vw;
+    width: 10vw;
+    min-width: 10rem;
+    border-radius: 2rem;
+}
+.description-section-planets__picture {
+    width: 10vw;
+    min-width: 10rem;
     border-radius: 2rem;
 }

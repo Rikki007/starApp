@@ -26,6 +26,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/carnelian.png",
       },
     ],
+    compatibility : {
+      description: "Aries is a bold and ambitious sign, always ready for a challenge and eager to be the best. Their energy and enthusiasm make them natural leaders. Aries is known for their honesty and directness, which can sometimes come across as blunt. They thrive in dynamic environments and love to be on the move. In relationships, Aries seeks partners who can keep up with their pace and share their zest for life. They are most compatible with Leo, Sagittarius, Gemini, and Aquarius, as these signs match their adventurous spirit. However, they may find it challenging to connect with Cancer, Capricorn, and Taurus due to differing temperaments. Aries values friendship with those who appreciate their straightforward nature and dislikes deceit. They make loyal friends and passionate lovers, but their impulsive nature can sometimes lead to conflicts, especially with Cancer.",
+      best: ["Leo", "Sagittarius", "Gemini", "Aquarius"],
+      worst: ["Cancer", "Capricorn", "Taurus"],
+      friendship: ["Leo", "Sagittarius"],
+      enemies: ["Cancer"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Leo or Sagittarius woman",
+              challenges: "Cancer woman"
+          },
+          female: {
+              bestMatch: "Gemini or Aquarius man",
+              challenges: "Capricorn man"
+          }
+      }
+  },  
+    planetLocation: "./assets/images/planets/mars.jpg",
     description: "Mars, known as the 'Red Planet,' symbolizes energy, drive, and aggression. Aries individuals, under the influence of Mars, are often dynamic leaders who are full of enthusiasm and ready to take on new challenges. They have an innate desire to initiate and lead, making them natural pioneers. Mars endows them with a fierce passion and determination, propelling them toward their goals. However, this energy can sometimes lead to impulsiveness and impatience. Despite these challenges, Mars provides Aries with the courage and motivation needed to overcome obstacles and achieve success."
   },
   {
@@ -55,6 +73,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/jade.png",
       },
     ],
+    compatibility: {
+      description: "Taurus is known for their practicality, reliability, and love for the finer things in life. They are patient and often seen as the anchor in their social circles. Taurus values stability and comfort, preferring routine and predictability. They are most compatible with Virgo, Capricorn, Cancer, and Pisces, who appreciate their grounded nature. However, Leo, Aquarius, and Sagittarius may find Taurus's steadfastness a bit too rigid. In friendships, Taurus is loyal and dependable, enjoying long-lasting connections with those who share their values. They tend to clash with Aquarius due to differing perspectives on life. Taurus men are best matched with Cancer or Pisces women, while Taurus women find compatibility with Virgo or Capricorn men. Despite their stubbornness, Taurus makes a loving partner, seeking harmonious and secure relationships.",
+      best: ["Virgo", "Capricorn", "Cancer", "Pisces"],
+      worst: ["Leo", "Aquarius", "Sagittarius"],
+      friendship: ["Virgo", "Capricorn"],
+      enemies: ["Aquarius"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Cancer or Pisces woman",
+              challenges: "Leo woman"
+          },
+          female: {
+              bestMatch: "Virgo or Capricorn man",
+              challenges: "Sagittarius man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/venus.jpg",
     description: "Venus, the planet of love, beauty, and pleasure, governs Taurus. This influence makes Taurus individuals appreciate aesthetics and seek stability and comfort in their lives. They have a strong affinity for the finer things in life, such as good food, beautiful surroundings, and luxury. Venus grants them a grounded and sensual nature, which helps them enjoy life's simple pleasures. However, this can also lead to stubbornness and resistance to change. Nonetheless, Venus blesses Taurus with a loving and nurturing disposition, making them reliable and devoted partners."
   },
   {
@@ -84,6 +120,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/tigerEye.png",
       },
     ],
+    compatibility: {
+      description: "Gemini is the social butterfly of the zodiac, known for their adaptability, curiosity, and wit. They thrive on mental stimulation and love engaging in lively conversations. Gemini is most compatible with Libra, Aquarius, Aries, and Leo, who share their love for adventure and intellectual pursuits. However, Virgo, Pisces, and Scorpio might struggle with Gemini's ever-changing nature. In friendships, Gemini enjoys the company of those who can keep up with their quick thinking and varied interests. They often clash with Virgo due to differing communication styles. Gemini men are best matched with Libra or Aquarius women, while Gemini women find Aries or Leo men to be ideal partners. Despite their reputation for being inconsistent, Gemini can form deep connections with those who understand their need for variety and excitement.",
+      best: ["Libra", "Aquarius", "Aries", "Leo"],
+      worst: ["Virgo", "Pisces", "Scorpio"],
+      friendship: ["Libra", "Aquarius"],
+      enemies: ["Virgo"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Libra or Aquarius woman",
+              challenges: "Pisces woman"
+          },
+          female: {
+              bestMatch: "Aries or Leo man",
+              challenges: "Scorpio man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/mercury.jpg",
     description: "Mercury, the planet of communication, intellect, and adaptability, rules Gemini. Gemini individuals are known for their curious and versatile nature, always eager to learn and share new ideas. They possess a quick wit and are excellent communicators, making them engaging conversationalists. Mercury's influence enables them to easily adapt to changing circumstances and think on their feet. However, this can also make them prone to superficiality and inconsistency. Despite this, Mercury provides Gemini with the ability to connect with others and navigate complex situations with ease."
   },
   {
@@ -113,6 +167,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/opal.png",
       },
     ],
+    compatibility: {
+      description: "Cancer is deeply intuitive, emotional, and nurturing. They value family and home, often creating a warm and secure environment for their loved ones. Cancer is most compatible with Scorpio, Pisces, Taurus, and Virgo, who appreciate their sensitivity and loyalty. However, Aries, Libra, and Aquarius may find Cancer's emotional nature overwhelming. In friendships, Cancer is supportive and empathetic, forming close bonds with those who share their values. They often clash with Aries due to differing temperaments. Cancer men are best matched with Scorpio or Pisces women, while Cancer women find Taurus or Virgo men to be ideal partners. While they can be moody and protective, Cancer's devotion and care make them cherished friends and partners.",
+      best: ["Scorpio", "Pisces", "Taurus", "Virgo"],
+      worst: ["Aries", "Libra", "Aquarius"],
+      friendship: ["Scorpio", "Pisces"],
+      enemies: ["Aries"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Scorpio or Pisces woman",
+              challenges: "Aries woman"
+          },
+          female: {
+              bestMatch: "Taurus or Virgo man",
+              challenges: "Aquarius man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/moon.jpg",
     description: "The Moon, associated with emotions, intuition, and nurturing, governs Cancer. Under the Moon's influence, Cancer individuals are deeply empathetic and sensitive. They have a strong connection to family and home, often prioritizing the well-being of their loved ones. The Moon endows them with powerful intuition and an understanding of others' emotional needs. However, this sensitivity can also make them vulnerable and prone to mood swings. Nevertheless, the Moon grants Cancer a caring and protective nature, making them devoted caregivers and friends."
   },
   {
@@ -142,6 +214,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/garnet.png",
       },
     ],
+    compatibility: {
+      description: "Leo is charismatic, confident, and loves to be in the spotlight. They are natural leaders with a strong sense of self and a generous heart. Leo is most compatible with Aries, Sagittarius, Gemini, and Libra, who appreciate their enthusiasm and vivacity. However, Taurus, Scorpio, and Capricorn may find Leo's need for attention a bit overwhelming. In friendships, Leo is loyal and protective, enjoying the company of those who admire their bold personality. They often clash with Taurus due to differing approaches to life. Leo men are best matched with Aries or Sagittarius women, while Leo women find Gemini or Libra men to be ideal partners. Despite their sometimes demanding nature, Leo's warmth and generosity make them beloved friends and partners.",
+      best: ["Aries", "Sagittarius", "Gemini", "Libra"],
+      worst: ["Taurus", "Scorpio", "Capricorn"],
+      friendship: ["Aries", "Sagittarius"],
+      enemies: ["Taurus"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Aries or Sagittarius woman",
+              challenges: "Taurus woman"
+          },
+          female: {
+              bestMatch: "Gemini or Libra man",
+              challenges: "Capricorn man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/sun.jpg",
     description: "The Sun, symbolizing vitality, confidence, and self-expression, rules Leo. Leo individuals, under the Sun's influence, are charismatic and crave the spotlight. They possess a natural flair for drama and creativity, often seeking ways to showcase their talents. The Sun gives them a generous spirit and a desire to help others. However, their need for attention can sometimes lead to arrogance and egotism. Despite this, the Sun provides Leo with an inspiring presence, enabling them to shine brightly and lead with confidence."
   },
   {
@@ -171,6 +261,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/amazonite.png",
       },
     ],
+    compatibility: {
+      description: "Virgo is analytical, detail-oriented, and highly organized. They strive for perfection and often provide practical solutions to problems. Virgo is most compatible with Taurus, Capricorn, Cancer, and Scorpio, who appreciate their reliability and diligence. However, Gemini, Sagittarius, and Aquarius may find Virgo's meticulousness a bit too much. In friendships, Virgo is supportive and reliable, forming bonds with those who value their practical approach. They often clash with Gemini due to differing perspectives. Virgo men are best matched with Cancer or Scorpio women, while Virgo women find Taurus or Capricorn men to be ideal partners. Despite their critical nature, Virgo's dedication and attention to detail make them dependable friends and partners.",
+      best: ["Taurus", "Capricorn", "Cancer", "Scorpio"],
+      worst: ["Gemini", "Sagittarius", "Aquarius"],
+      friendship: ["Taurus", "Capricorn"],
+      enemies: ["Gemini"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Cancer or Scorpio woman",
+              challenges: "Gemini woman"
+          },
+          female: {
+              bestMatch: "Taurus or Capricorn man",
+              challenges: "Sagittarius man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/mercury.jpg",
     description: "Mercury also rules Virgo, enhancing their analytical abilities, attention to detail, and practicality. Virgo individuals, under Mercury's influence, are methodical and organized, always striving for perfection. They have a keen eye for detail and a strong desire to improve and optimize their surroundings. Mercury endows them with a sharp intellect and a talent for critical thinking. However, this can sometimes lead to excessive criticism and perfectionism. Despite this, Mercury provides Virgo with a strong sense of duty and a willingness to help others through their skills and knowledge."
   },
   {
@@ -200,6 +308,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/turquoise.png",
       },
     ],
+    compatibility: {
+      description: "Libra is charming, diplomatic, and values harmony in all aspects of life. They have a strong sense of justice and strive to create balance. Libra is most compatible with Gemini, Aquarius, Leo, and Sagittarius, who appreciate their sociability and fairness. However, Cancer, Capricorn, and Pisces may find Libra's indecisiveness frustrating. In friendships, Libra is gracious and supportive, enjoying the company of those who share their love for beauty and balance. They often clash with Cancer due to differing emotional needs. Libra men are best matched with Gemini or Aquarius women, while Libra women find Leo or Sagittarius men to be ideal partners. Despite their tendency to avoid confrontation, Libra's ability to see all sides of a situation makes them excellent friends and partners.",
+      best: ["Gemini", "Aquarius", "Leo", "Sagittarius"],
+      worst: ["Cancer", "Capricorn", "Pisces"],
+      friendship: ["Gemini", "Aquarius"],
+      enemies: ["Cancer"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Gemini or Aquarius woman",
+              challenges: "Cancer woman"
+          },
+          female: {
+              bestMatch: "Leo or Sagittarius man",
+              challenges: "Capricorn man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/venus.jpg",
     description: "Venus, the planet of harmony, beauty, and relationships, governs Libra. Libra individuals, under Venus's influence, strive for balance and fairness in all aspects of life. They have a natural charm and diplomacy, making them skilled negotiators and peacemakers. Venus endows them with an appreciation for art and aesthetics, as well as a desire for harmonious relationships. However, their pursuit of balance can sometimes lead to indecisiveness and avoidance of conflict. Nonetheless, Venus blesses Libra with a gracious and cooperative nature, making them excellent partners and friends"
   },
   {
@@ -229,6 +355,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/malachite.png",
       },
     ],
+    compatibility: {
+      description: "Scorpio is intense, passionate, and deeply emotional. They have a magnetic personality and a strong sense of determination. Scorpio is most compatible with Cancer, Pisces, Virgo, and Capricorn, who appreciate their depth and loyalty. However, Leo, Aquarius, and Gemini may find Scorpio's intensity overwhelming. In friendships, Scorpio is fiercely loyal and protective, forming deep connections with those who share their values. They often clash with Leo due to differing temperaments. Scorpio men are best matched with Cancer or Pisces women, while Scorpio women find Virgo or Capricorn men to be ideal partners. Despite their sometimes secretive nature, Scorpio's passion and loyalty make them devoted friends and partners.",
+      best: ["Cancer", "Pisces", "Virgo", "Capricorn"],
+      worst: ["Leo", "Aquarius", "Gemini"],
+      friendship: ["Cancer", "Pisces"],
+      enemies: ["Leo"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Cancer or Pisces woman",
+              challenges: "Leo woman"
+          },
+          female: {
+              bestMatch: "Virgo or Capricorn man",
+              challenges: "Gemini man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/plutoMars.jpg",
     description: "Pluto, associated with transformation, depth, and power, rules Scorpio alongside Mars. Under these influences, Scorpio individuals possess intense emotions and a profound desire for change and growth. They are mysterious and intuitive, often delving into the hidden aspects of life. Pluto grants them resilience and the ability to endure and overcome challenges. However, their intensity can also lead to jealousy and possessiveness. Despite this, Pluto and Mars endow Scorpio with a strong will and the ability to transform both themselves and those around them."
   },
   {
@@ -258,6 +402,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/citrine.png",
       },
     ],
+    compatibility: {
+      description: "Sagittarius is adventurous, optimistic, and loves to explore new horizons. They have a free-spirited nature and a thirst for knowledge. Sagittarius is most compatible with Aries, Leo, Libra, and Aquarius, who share their love for adventure and intellectual pursuits. However, Virgo, Pisces, and Cancer may find Sagittarius's restlessness challenging. In friendships, Sagittarius is fun-loving and generous, enjoying the company of those who share their enthusiasm for life. They often clash with Virgo due to differing approaches to life. Sagittarius men are best matched with Aries or Leo women, while Sagittarius women find Libra or Aquarius men to be ideal partners. Despite their sometimes restless nature, Sagittarius's optimism and sense of adventure make them exciting friends and partners.",
+      best: ["Aries", "Leo", "Libra", "Aquarius"],
+      worst: ["Virgo", "Pisces", "Cancer"],
+      friendship: ["Aries", "Leo"],
+      enemies: ["Virgo"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Aries or Leo woman",
+              challenges: "Virgo woman"
+          },
+          female: {
+              bestMatch: "Libra or Aquarius man",
+              challenges: "Cancer man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/jupiter.jpg",
     description: "Jupiter, the planet of expansion, optimism, and wisdom, governs Sagittarius. Sagittarius individuals, under Jupiter's influence, are adventurous and constantly seeking new experiences and knowledge. They have an innate curiosity and a love for travel and exploration. Jupiter endows them with a positive outlook and the ability to see the bigger picture. However, their quest for freedom can sometimes lead to restlessness and a lack of focus. Despite this, Jupiter provides Sagittarius with a generous spirit and the desire to inspire and uplift others through their adventures and insights."
   },
   {
@@ -287,6 +449,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/jet.png",
       },
     ],
+    compatibility: {
+      description: "Capricorn is disciplined, ambitious, and values tradition. They have a strong sense of responsibility and work tirelessly to achieve their goals. Capricorn is most compatible with Taurus, Virgo, Scorpio, and Pisces, who appreciate their reliability and determination. However, Aries, Libra, and Gemini may find Capricorn's seriousness a bit too much. In friendships, Capricorn is loyal and dependable, forming bonds with those who share their values. They often clash with Aries due to differing temperaments. Capricorn men are best matched with Taurus or Virgo women, while Capricorn women find Scorpio or Pisces men to be ideal partners. Despite their sometimes reserved nature, Capricorn's dedication and hard work make them trustworthy friends and partners.",
+      best: ["Taurus", "Virgo", "Scorpio", "Pisces"],
+      worst: ["Aries", "Libra", "Gemini"],
+      friendship: ["Taurus", "Virgo"],
+      enemies: ["Aries"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Taurus or Virgo woman",
+              challenges: "Aries woman"
+          },
+          female: {
+              bestMatch: "Scorpio or Pisces man",
+              challenges: "Gemini man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/saturn.jpg",
     description: "Saturn, the planet of discipline, responsibility, and ambition, rules Capricorn. Capricorn individuals, under Saturn's influence, are determined and hardworking, always striving to achieve their goals. They possess a strong sense of duty and a practical approach to life. Saturn grants them patience and the ability to plan for the long term. However, their drive for success can sometimes lead to rigidity and emotional reserve. Despite this, Saturn provides Capricorn with the resilience and perseverance needed to overcome obstacles and achieve lasting success."
   },
   {
@@ -316,6 +496,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/garnet.png",
       },
     ],
+    compatibility: {
+      description: "Aquarius is innovative, independent, and values freedom. They have a progressive mindset and love to think outside the box. Aquarius is most compatible with Gemini, Libra, Aries, and Sagittarius, who appreciate their originality and open-mindedness. However, Taurus, Scorpio, and Cancer may find Aquarius's unconventional ways challenging. In friendships, Aquarius is friendly and open, enjoying the company of those who share their love for new ideas. They often clash with Taurus due to differing perspectives. Aquarius men are best matched with Gemini or Libra women, while Aquarius women find Aries or Sagittarius men to be ideal partners. Despite their sometimes aloof nature, Aquarius's originality and independence make them fascinating friends and partners.",
+      best: ["Gemini", "Libra", "Aries", "Sagittarius"],
+      worst: ["Taurus", "Scorpio", "Cancer"],
+      friendship: ["Gemini", "Libra"],
+      enemies: ["Taurus"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Gemini or Libra woman",
+              challenges: "Taurus woman"
+          },
+          female: {
+              bestMatch: "Aries or Sagittarius man",
+              challenges: "Scorpio man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/uranusSaturn.jpg",
     description: "Uranus, the planet of innovation, originality, and independence, rules Aquarius alongside Saturn. Under these influences, Aquarius individuals are progressive and eccentric, always eager to embrace new ideas and change. They value freedom and independence, often challenging the status quo. Uranus endows them with a visionary outlook and the ability to think outside the box. However, their desire for independence can sometimes lead to detachment and unpredictability. Despite this, Uranus and Saturn provide Aquarius with the creativity and determination to bring about positive change in the world."
   },
   {
@@ -345,6 +543,24 @@ export const zodiacDescription = [
         picture: "./assets/images/stones/bloodstone.png",
       },
     ],
+    compatibility: {
+      description: "Pisces is compassionate, imaginative, and deeply intuitive. They have a gentle and empathetic nature, often understanding others on a profound level. Pisces is most compatible with Cancer, Scorpio, Taurus, and Capricorn, who appreciate their sensitivity and creativity. However, Gemini, Sagittarius, and Leo may find Pisces's emotional depth overwhelming. In friendships, Pisces is supportive and empathetic, forming close bonds with those who share their values. They often clash with Gemini due to differing communication styles. Pisces men are best matched with Cancer or Scorpio women, while Pisces women find Taurus or Capricorn men to be ideal partners. Despite their sometimes dreamy nature, Pisces's compassion and creativity make them cherished friends and partners.",
+      best: ["Cancer", "Scorpio", "Taurus", "Capricorn"],
+      worst: ["Gemini", "Sagittarius", "Leo"],
+      friendship: ["Cancer", "Scorpio"],
+      enemies: ["Gemini"],
+      genderSpecific: {
+          male: {
+              bestMatch: "Cancer or Scorpio woman",
+              challenges: "Gemini woman"
+          },
+          female: {
+              bestMatch: "Taurus or Capricorn man",
+              challenges: "Leo man"
+          }
+      }
+    },
+    planetLocation: "./assets/images/planets/neptunJupiter.jpg",
     description: "Neptune, the planet of dreams, intuition, and spirituality, governs Pisces alongside Jupiter. Pisces individuals, under Neptune's influence, are deeply empathetic and imaginative. They often find themselves lost in their dreams and fantasies, making them natural artists and creators. Neptune grants them strong intuition and the ability to understand others' hidden motives. However, their sensitivity can sometimes lead to escapism and vulnerability. Despite this, Neptune and Jupiter provide Pisces with a compassionate and creative nature, allowing them to inspire and support those around them through their empathy and artistic expression."
   }
 ]

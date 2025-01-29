@@ -11,6 +11,7 @@ const zodiacItemCreate = (signUnit) => {
         <div class="description-section-gems-description">${signUnit.gemsDescription}</div>
         <div class="description-section-gems">${gemCreator(signUnit.gems)}</div>
         <div class="description-section-planets">
+          <img src="${signUnit.planetLocation}" class="description-section-planets__picture" alt="picture"/>
           <p class="description-section-planets__name">Planet: ${signUnit.planet}</p>
           <p class="description-section-planets__description">${signUnit.description}</p>
         </div>
