@@ -3,24 +3,37 @@ import { personCreator } from "./personcreator.js";
 
 const zodiacItemCreate = (signUnit) => {
     return `
-      <div class="description-section-container">
-        <div class="description-section-title">
-          <img src="${signUnit.sign}" alt="picture" class="description-section-title__sign">
-          <h3 class="description-section-title__name">${signUnit.name}</h3>
-          <p class="description-section-title__date">${signUnit.date}</p>
+      <div class="description-container">
+
+        <div class="section-title">
+          <h3 class="section-title__name">${signUnit.name}</h3>
+          <p class="section-title__date">${signUnit.date}</p>
         </div>
-        <div class="description-section-gems-section">
-          <div class="description-section-gems-description">${signUnit.gemsDescription}</div>
-          <div class="description-section-gems">${gemCreator(signUnit.gems)}</div>
+
+        <div class="section-main">
+          <img src="${signUnit.sign}" alt="picture" class="section-main__pic">
+          <div class="section-main-info">
+            <div class="info-description">${signUnit.gemsDescription}</div>
+            <div class="info-gems">${gemCreator(signUnit.gems)}</div>
+          </div>
         </div>
-        <div class="description-section-planets">
-          <img src="${signUnit.planetLocation}" class="description-section-planets__picture" alt="picture"/>
-          <p class="description-section-planets__name">Planet: ${signUnit.planet}</p>
-          <p class="description-section-planets__description">${signUnit.description}</p>
+
+        <div class="section-planets-relationships">
+          <div class="planets-info">
+            <div class="planets-info-unit">
+              <h3 class="planets-info__name">Planet: ${signUnit.planet}.</h3>
+              <p class="planets-info__description">${signUnit.description}</p>
+            </div>
+            <div class="planets-info-unit">
+              <h3 class="subtitle">Relationships</h3>
+              <p class="description-section-relations__desc">${signUnit.compatibility.description}</p>
+            </div>
+          </div>
+          <img src="${signUnit.planetLocation}" class="section-planets__image" alt="picture"/>
         </div>
+
         <div class="description-section-relations">
-          <h3 class="subtitle">Relationships</h3>
-          <p class="description-section-relations__desc">${signUnit.compatibility.description}</p>
+          <img src="${signUnit.compatibility.icon}" class="description-section-relations" alt="picture">
           <p class="description-section-relations__desc">Friends: ${signUnit.compatibility.friendship.join(', ')}.</p>
           <P class="description-section-relations__desc">Enemies: ${signUnit.compatibility.enemies}.</P>
           <h3 class="subtitle">Relationships with the opposite sex</h3>
@@ -31,12 +44,14 @@ const zodiacItemCreate = (signUnit) => {
           <p class="description-section-relations__desc">best match: ${signUnit.compatibility.genderSpecific.female.bestMatch}.</p>
           <p class="description-section-relations__desc">complicated relationships: ${signUnit.compatibility.genderSpecific.female.challenges}.</p>
         </div>
+
         <div class="description-section-professions-selebrities">
           <h3 class="subtitle">Suitable professions.</h3>
           <p class="description-section-relations__desc">${signUnit.professions}</p>
           <h3 class="subtitle">Famouf people.</h3>
           <div>${personCreator(signUnit.famousPeople)}</div>
         </div>
+
       </div>
   `
 }

@@ -21,6 +21,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility : {
+      icon: "./assets/images/relations.png",
       description: "Aries is a bold and ambitious sign, always ready for a challenge and eager to be the best. Their energy and enthusiasm make them natural leaders. Aries is known for their honesty and directness, which can sometimes come across as blunt. They thrive in dynamic environments and love to be on the move. In relationships, Aries seeks partners who can keep up with their pace and share their zest for life. They are most compatible with Leo, Sagittarius, Gemini, and Aquarius, as these signs match their adventurous spirit. However, they may find it challenging to connect with Cancer, Capricorn, and Taurus due to differing temperaments. Aries values friendship with those who appreciate their straightforward nature and dislikes deceit. They make loyal friends and passionate lovers, but their impulsive nature can sometimes lead to conflicts, especially with Cancer.",
       friendship: ["Leo", "Sagittarius"],
       enemies: ["Cancer"],
@@ -68,6 +69,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Taurus is known for their practicality, reliability, and love for the finer things in life. They are patient and often seen as the anchor in their social circles. Taurus values stability and comfort, preferring routine and predictability. They are most compatible with Virgo, Capricorn, Cancer, and Pisces, who appreciate their grounded nature. However, Leo, Aquarius, and Sagittarius may find Taurus's steadfastness a bit too rigid. In friendships, Taurus is loyal and dependable, enjoying long-lasting connections with those who share their values. They tend to clash with Aquarius due to differing perspectives on life. Taurus men are best matched with Cancer or Pisces women, while Taurus women find compatibility with Virgo or Capricorn men. Despite their stubbornness, Taurus makes a loving partner, seeking harmonious and secure relationships.",
       best: ["Virgo", "Capricorn", "Cancer", "Pisces"],
       worst: ["Leo", "Aquarius", "Sagittarius"],
@@ -117,6 +119,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Gemini is the social butterfly of the zodiac, known for their adaptability, curiosity, and wit. They thrive on mental stimulation and love engaging in lively conversations. Gemini is most compatible with Libra, Aquarius, Aries, and Leo, who share their love for adventure and intellectual pursuits. However, Virgo, Pisces, and Scorpio might struggle with Gemini's ever-changing nature. In friendships, Gemini enjoys the company of those who can keep up with their quick thinking and varied interests. They often clash with Virgo due to differing communication styles. Gemini men are best matched with Libra or Aquarius women, while Gemini women find Aries or Leo men to be ideal partners. Despite their reputation for being inconsistent, Gemini can form deep connections with those who understand their need for variety and excitement.",
       best: ["Libra", "Aquarius", "Aries", "Leo"],
       worst: ["Virgo", "Pisces", "Scorpio"],
@@ -166,6 +169,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Cancer is deeply intuitive, emotional, and nurturing. They value family and home, often creating a warm and secure environment for their loved ones. Cancer is most compatible with Scorpio, Pisces, Taurus, and Virgo, who appreciate their sensitivity and loyalty. However, Aries, Libra, and Aquarius may find Cancer's emotional nature overwhelming. In friendships, Cancer is supportive and empathetic, forming close bonds with those who share their values. They often clash with Aries due to differing temperaments. Cancer men are best matched with Scorpio or Pisces women, while Cancer women find Taurus or Virgo men to be ideal partners. While they can be moody and protective, Cancer's devotion and care make them cherished friends and partners.",
       best: ["Scorpio", "Pisces", "Taurus", "Virgo"],
       worst: ["Aries", "Libra", "Aquarius"],
@@ -215,6 +219,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Leo is charismatic, confident, and loves to be in the spotlight. They are natural leaders with a strong sense of self and a generous heart. Leo is most compatible with Aries, Sagittarius, Gemini, and Libra, who appreciate their enthusiasm and vivacity. However, Taurus, Scorpio, and Capricorn may find Leo's need for attention a bit overwhelming. In friendships, Leo is loyal and protective, enjoying the company of those who admire their bold personality. They often clash with Taurus due to differing approaches to life. Leo men are best matched with Aries or Sagittarius women, while Leo women find Gemini or Libra men to be ideal partners. Despite their sometimes demanding nature, Leo's warmth and generosity make them beloved friends and partners.",
       best: ["Aries", "Sagittarius", "Gemini", "Libra"],
       worst: ["Taurus", "Scorpio", "Capricorn"],
@@ -264,6 +269,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Virgo is analytical, detail-oriented, and highly organized. They strive for perfection and often provide practical solutions to problems. Virgo is most compatible with Taurus, Capricorn, Cancer, and Scorpio, who appreciate their reliability and diligence. However, Gemini, Sagittarius, and Aquarius may find Virgo's meticulousness a bit too much. In friendships, Virgo is supportive and reliable, forming bonds with those who value their practical approach. They often clash with Gemini due to differing perspectives. Virgo men are best matched with Cancer or Scorpio women, while Virgo women find Taurus or Capricorn men to be ideal partners. Despite their critical nature, Virgo's dedication and attention to detail make them dependable friends and partners.",
       best: ["Taurus", "Capricorn", "Cancer", "Scorpio"],
       worst: ["Gemini", "Sagittarius", "Aquarius"],
@@ -313,6 +319,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Libra is charming, diplomatic, and values harmony in all aspects of life. They have a strong sense of justice and strive to create balance. Libra is most compatible with Gemini, Aquarius, Leo, and Sagittarius, who appreciate their sociability and fairness. However, Cancer, Capricorn, and Pisces may find Libra's indecisiveness frustrating. In friendships, Libra is gracious and supportive, enjoying the company of those who share their love for beauty and balance. They often clash with Cancer due to differing emotional needs. Libra men are best matched with Gemini or Aquarius women, while Libra women find Leo or Sagittarius men to be ideal partners. Despite their tendency to avoid confrontation, Libra's ability to see all sides of a situation makes them excellent friends and partners.",
       best: ["Gemini", "Aquarius", "Leo", "Sagittarius"],
       worst: ["Cancer", "Capricorn", "Pisces"],
@@ -362,6 +369,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Scorpio is intense, passionate, and deeply emotional. They have a magnetic personality and a strong sense of determination. Scorpio is most compatible with Cancer, Pisces, Virgo, and Capricorn, who appreciate their depth and loyalty. However, Leo, Aquarius, and Gemini may find Scorpio's intensity overwhelming. In friendships, Scorpio is fiercely loyal and protective, forming deep connections with those who share their values. They often clash with Leo due to differing temperaments. Scorpio men are best matched with Cancer or Pisces women, while Scorpio women find Virgo or Capricorn men to be ideal partners. Despite their sometimes secretive nature, Scorpio's passion and loyalty make them devoted friends and partners.",
       best: ["Cancer", "Pisces", "Virgo", "Capricorn"],
       worst: ["Leo", "Aquarius", "Gemini"],
@@ -411,6 +419,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Sagittarius is adventurous, optimistic, and loves to explore new horizons. They have a free-spirited nature and a thirst for knowledge. Sagittarius is most compatible with Aries, Leo, Libra, and Aquarius, who share their love for adventure and intellectual pursuits. However, Virgo, Pisces, and Cancer may find Sagittarius's restlessness challenging. In friendships, Sagittarius is fun-loving and generous, enjoying the company of those who share their enthusiasm for life. They often clash with Virgo due to differing approaches to life. Sagittarius men are best matched with Aries or Leo women, while Sagittarius women find Libra or Aquarius men to be ideal partners. Despite their sometimes restless nature, Sagittarius's optimism and sense of adventure make them exciting friends and partners.",
       best: ["Aries", "Leo", "Libra", "Aquarius"],
       worst: ["Virgo", "Pisces", "Cancer"],
@@ -460,6 +469,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Capricorn is disciplined, ambitious, and values tradition. They have a strong sense of responsibility and work tirelessly to achieve their goals. Capricorn is most compatible with Taurus, Virgo, Scorpio, and Pisces, who appreciate their reliability and determination. However, Aries, Libra, and Gemini may find Capricorn's seriousness a bit too much. In friendships, Capricorn is loyal and dependable, forming bonds with those who share their values. They often clash with Aries due to differing temperaments. Capricorn men are best matched with Taurus or Virgo women, while Capricorn women find Scorpio or Pisces men to be ideal partners. Despite their sometimes reserved nature, Capricorn's dedication and hard work make them trustworthy friends and partners.",
       best: ["Taurus", "Virgo", "Scorpio", "Pisces"],
       worst: ["Aries", "Libra", "Gemini"],
@@ -509,6 +519,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Aquarius is innovative, independent, and values freedom. They have a progressive mindset and love to think outside the box. Aquarius is most compatible with Gemini, Libra, Aries, and Sagittarius, who appreciate their originality and open-mindedness. However, Taurus, Scorpio, and Cancer may find Aquarius's unconventional ways challenging. In friendships, Aquarius is friendly and open, enjoying the company of those who share their love for new ideas. They often clash with Taurus due to differing perspectives. Aquarius men are best matched with Gemini or Libra women, while Aquarius women find Aries or Sagittarius men to be ideal partners. Despite their sometimes aloof nature, Aquarius's originality and independence make them fascinating friends and partners.",
       best: ["Gemini", "Libra", "Aries", "Sagittarius"],
       worst: ["Taurus", "Scorpio", "Cancer"],
@@ -558,6 +569,7 @@ export const zodiacDescription = [
       },
     ],
     compatibility: {
+      icon: "./assets/images/relations.png",
       description: "Pisces is compassionate, imaginative, and deeply intuitive. They have a gentle and empathetic nature, often understanding others on a profound level. Pisces is most compatible with Cancer, Scorpio, Taurus, and Capricorn, who appreciate their sensitivity and creativity. However, Gemini, Sagittarius, and Leo may find Pisces's emotional depth overwhelming. In friendships, Pisces is supportive and empathetic, forming close bonds with those who share their values. They often clash with Gemini due to differing communication styles. Pisces men are best matched with Cancer or Scorpio women, while Pisces women find Taurus or Capricorn men to be ideal partners. Despite their sometimes dreamy nature, Pisces's compassion and creativity make them cherished friends and partners.",
       best: ["Cancer", "Scorpio", "Taurus", "Capricorn"],
       worst: ["Gemini", "Sagittarius", "Leo"],
@@ -585,5 +597,4 @@ export const zodiacDescription = [
       { name: "Shakira", birthDate: "February 2, 1977", description: "Singer" }
     ],
   }
-]
-
+];
