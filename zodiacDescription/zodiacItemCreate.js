@@ -32,24 +32,42 @@ const zodiacItemCreate = (signUnit) => {
           <img src="${signUnit.planetLocation}" class="section-planets__image" alt="picture"/>
         </div>
 
-        <div class="description-section-relations">
-          <img src="${signUnit.compatibility.icon}" class="description-section-relations" alt="picture">
-          <p class="description-section-relations__desc">Friends: ${signUnit.compatibility.friendship.join(', ')}.</p>
-          <P class="description-section-relations__desc">Enemies: ${signUnit.compatibility.enemies}.</P>
-          <h3 class="subtitle">Relationships with the opposite sex</h3>
-          <p class="description-section-relations__desc">For him.</p>
-          <p class="description-section-relations__desc">best match: ${signUnit.compatibility.genderSpecific.male.bestMatch}.</p>
-          <p class="description-section-relations__desc">complicated relationships: ${signUnit.compatibility.genderSpecific.male.challenges}.</p>
-          <p class="description-section-relations__desc">For her.</p>
-          <p class="description-section-relations__desc">best match: ${signUnit.compatibility.genderSpecific.female.bestMatch}.</p>
-          <p class="description-section-relations__desc">complicated relationships: ${signUnit.compatibility.genderSpecific.female.challenges}.</p>
+        <div class="section-relations">
+          <div class="section-relations-item">
+            <h3 class="description-section-relations__desc">Interactions.</h3>
+            <div class="relations-item-discription">
+              <p class="description-section-relations__desc">Friends: ${signUnit.compatibility.friendship.join(', ')}.</p>
+              <p class="description-section-relations__desc">Enemies: ${signUnit.compatibility.enemies}.</p>
+            </div>
+          </div>
+          
+          <div class="section-relations-item">
+            <h3 class="description-section-relations__desc">For him.</h3>
+            <div class="relations-item-discription">
+              <p class="description-section-relations__desc">best match: ${signUnit.compatibility.genderSpecific.male.bestMatch}.</p>
+              <p class="description-section-relations__desc">complicated relationships: ${signUnit.compatibility.genderSpecific.male.challenges}.</p>
+            </div>
+          </div>
+
+          <div class="section-relations-item">
+            <h3 class="description-section-relations__desc">For her.</h3>
+            <div class="relations-item-discription">
+              <p class="description-section-relations__desc">best match: ${signUnit.compatibility.genderSpecific.female.bestMatch}.</p>
+              <p class="description-section-relations__desc">complicated relationships: ${signUnit.compatibility.genderSpecific.female.challenges}.</p>
+            </div>
+          </div>
         </div>
 
-        <div class="description-section-professions-selebrities">
-          <h3 class="subtitle">Suitable professions.</h3>
-          <p class="description-section-relations__desc">${signUnit.professions}</p>
-          <h3 class="subtitle">Famouf people.</h3>
-          <div>${personCreator(signUnit.famousPeople)}</div>
+        <div class="section-professions-selebrities">
+          <div class="section-relations-item">
+            <h3 class="subtitle">Suitable professions.</h3>
+            <p class="description-section-relations__desc">${signUnit.professions}</p>
+          </div>
+
+          <div class="section-relations-item">
+            <h3 class="subtitle">Famouf people.</h3>
+            <div class="persons-list">${personCreator(signUnit.famousPeople)}</div>
+          </div>
         </div>
 
       </div>

@@ -1,0 +1,21 @@
+.footer {
+    width: 94vw;
+    max-width: 90rem;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-rights {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+.footer-contacts {
+    display: flex;
+    gap: 1rem;
+}
+.footer-logo {
+    width: 3.5rem;
+}
