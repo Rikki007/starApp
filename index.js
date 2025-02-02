@@ -9,4 +9,4 @@ import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
 // logInCall();
 // logRegSwitch();
 // updateSlider.sliceFunction();
-zodiacListAction();
+// zodiacListAction();
