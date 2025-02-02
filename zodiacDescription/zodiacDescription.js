@@ -41,7 +41,7 @@ export const zodiacDescription = [
     famousPeople: [
       { name: "Leonardo da Vinci", birthDate: "April 15, 1452", description: "Genius artist, scientist, and inventor" },
       { name: "Vincent Van Gogh", birthDate: "March 30, 1853", description: "Renowned post-impressionist painter" },
-      { name: "Thomas Jefferson", birthDate: "April 13, 1743", description: "One of the Founding Fathers of the USA, author of the Declaration of Independence" },
+      { name: "Thomas Jefferson", birthDate: "April 13, 1743", description: "One of the Founding Fathers of the USA" },
       { name: "Nikolai Gogol", birthDate: "April 1, 1809", description: "Great Russian writer" },
       { name: "Charlie Chaplin", birthDate: "April 16, 1889", description: "Legendary actor and filmmaker" }
     ],
@@ -333,7 +333,7 @@ export const zodiacDescription = [
     planetLocation: "./assets/images/planets/venus.jpg",
     description: "Venus, the planet of harmony, beauty, and relationships, governs Libra. Libra individuals, under Venus's influence, strive for balance and fairness in all aspects of life. They have a natural charm and diplomacy, making them skilled negotiators and peacemakers. Venus endows them with an appreciation for art and aesthetics, as well as a desire for harmonious relationships. However, their pursuit of balance can sometimes lead to indecisiveness and avoidance of conflict. Nonetheless, Venus blesses Libra with a gracious and cooperative nature, making them excellent partners and friends",
     famousPeople: [
-      { name: "Mahatma Gandhi", birthDate: "October 2, 1869", description: "Leader of the Indian independence movement" },
+      { name: "Mahatma Gandhi", birthDate: "October 2, 1869", description: "Leader of independence movement" },
       { name: "Friedrich Nietzsche", birthDate: "October 15, 1844", description: "Philosopher" },
       { name: "John Lennon", birthDate: "October 9, 1940", description: "Member of The Beatles" },
       { name: "Oscar Wilde", birthDate: "October 16, 1854", description: "Writer and poet" },
@@ -382,7 +382,7 @@ export const zodiacDescription = [
     planetLocation: "./assets/images/planets/plutoMars.jpg",
     description: "Pluto, associated with transformation, depth, and power, rules Scorpio alongside Mars. Under these influences, Scorpio individuals possess intense emotions and a profound desire for change and growth. They are mysterious and intuitive, often delving into the hidden aspects of life. Pluto grants them resilience and the ability to endure and overcome challenges. However, their intensity can also lead to jealousy and possessiveness. Despite this, Pluto and Mars endow Scorpio with a strong will and the ability to transform both themselves and those around them.",
     famousPeople: [
-      { name: "Marie Curie", birthDate: "November 7, 1867", description: "Scientist, two-time Nobel Prize winner" },
+      { name: "Marie Curie", birthDate: "November 7, 1867", description: "Scientist, Nobel Prize winner" },
       { name: "Pablo Picasso", birthDate: "October 25, 1881", description: "Innovative artist" },
       { name: "Theodore Roosevelt", birthDate: "October 27, 1858", description: "26th President of the USA" },
       { name: "Bill Gates", birthDate: "October 28, 1955", description: "Founder of Microsoft" },
@@ -578,7 +578,7 @@ export const zodiacDescription = [
     planetLocation: "./assets/images/planets/neptunJupiter.jpg",
     description: "Neptune, the planet of dreams, intuition, and spirituality, governs Pisces alongside Jupiter. Pisces individuals, under Neptune's influence, are deeply empathetic and imaginative. They often find themselves lost in their dreams and fantasies, making them natural artists and creators. Neptune grants them strong intuition and the ability to understand others' hidden motives. However, their sensitivity can sometimes lead to escapism and vulnerability. Despite this, Neptune and Jupiter provide Pisces with a compassionate and creative nature, allowing them to inspire and support those around them through their empathy and artistic expression.",
     famousPeople: [
-      { name: "Albert Einstein", birthDate: "March 14, 1879", description: "Physicist, author of the theory of relativity" },
+      { name: "Albert Einstein", birthDate: "March 14, 1879", description: "Physicist" },
       { name: "Michelangelo", birthDate: "March 6, 1475", description: "Artist and sculptor" },
       { name: "Victor Hugo", birthDate: "February 26, 1802", description: "Writer ('Les Misérables')" },
       { name: "Steve Jobs", birthDate: "February 24, 1955", description: "Co-founder of Apple" },

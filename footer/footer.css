@@ -7,11 +7,6 @@
     align-items: center;
     justify-content: space-between;
 }
-.footer-rights {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
-}
 .footer-contacts {
     display: flex;
     gap: 1rem;

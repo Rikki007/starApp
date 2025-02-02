@@ -3,7 +3,6 @@ body {
   font-family: Arial, sans-serif;
   background: linear-gradient(to right, #371a44, #1b4f72);
   color: white;
-  height: 100vh;
   margin: 0 auto;
 }
 .header {
