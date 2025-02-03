@@ -9,8 +9,13 @@
 }
 .footer-contacts {
     display: flex;
+    align-items: center;
     gap: 1rem;
 }
 .footer-logo {
-    width: 3.5rem;
+    width: 2.5rem;
+    transition: 0.2s;
+}
+.footer-logo:hover {
+    scale: 1.1;
 }
