@@ -1,16 +1,208 @@
-const retrogradeMercuryDates = [
-    { 
-        year: 2025,
-        periods: ["29 января – 21 февраля", "26 мая – 19 июня", "22 сентября – 14 октября"]
+const retrogradMercuryDates = [
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2025-03-15",
+        "end": "2025-04-07",
     },
-    { year: 2026, periods: ["13 января – 4 февраля", "10 мая – 2 июня", "5 сентября – 28 сентября", "29 декабря 2026 – 18 января 2027"] },
-    { year: 2027, periods: ["9 мая – 1 июня", "1 сентября – 23 сентября", "25 декабря 2027 – 14 января 2028"] },
-    { year: 2028, periods: ["29 апреля – 21 мая", "26 августа – 17 сентября", "21 декабря 2028 – 9 января 2029"] },
-    { year: 2029, periods: ["18 апреля – 10 мая", "20 августа – 11 сентября", "17 декабря 2029 – 5 января 2030"] },
-    { year: 2030, periods: ["7 апреля – 29 апреля", "13 августа – 4 сентября", "13 декабря 2030 – 1 января 2031"] },
-    { year: 2031, periods: ["28 марта – 19 апреля", "6 августа – 28 августа", "9 декабря 2031 – 28 декабря 2031"] },
-    { year: 2032, periods: ["18 марта – 9 апреля", "30 июля – 21 августа", "4 декабря 2032 – 23 декабря 2032"] },
-    { year: 2033, periods: ["8 марта – 30 марта", "23 июля – 14 августа", "27 ноября 2033 – 16 декабря 2033"] },
-    { year: 2034, periods: ["26 февраля – 19 марта", "15 июля – 6 августа", "20 ноября 2034 – 9 декабря 2034"] },
-    { year: 2035, periods: ["16 февраля – 9 марта", "7 июля – 29 июля", "13 ноября – 3 декабря"] }
-  ];
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2025-07-18",
+        "end": "2025-08-11",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2025-11-09",
+        "end": "2025-04-29",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2026-02-26",
+        "end": "2026-03-20",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2026-06-29",
+        "end": "2026-07-23",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2026-10-24",
+        "end": "2026-11-13",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2027-02-09",
+        "end": "2027-03-03",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2027-06-10",
+        "end": "2027-07-04",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2027-10-07",
+        "end": "2027-10-28",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2028-01-24",
+        "end": "2028-02-14",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2028-05-21",
+        "end": "2028-06-14",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2028-09-19",
+        "end": "2028-10-11",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2029-01-07",
+        "end": "2029-01-27",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2029-05-01",
+        "end": "2029-05-25",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2029-09-02",
+        "end": "2029-09-25",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2029-12-22",
+        "end": "2030-01-11",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2030-04-13",
+        "end": "2030-05-06",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2030-08-16",
+        "end": "2030-09-08",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2030-12-06",
+        "end": "2030-12-25",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2031-03-26",
+        "end": "2031-04-18",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2031-07-29",
+        "end": "2031-08-22",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2031-11-19",
+        "end": "2031-12-09",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2032-03-07",
+        "end": "2032-03-30",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2032-07-10",
+        "end": "2032-08-03",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2032-11-02",
+        "end": "2032-11-22",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2033-02-18",
+        "end": "2033-03-13",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2033-06-21",
+        "end": "2033-07-15",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2033-10-16",
+        "end": "2033-11-06",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2034-02-02",
+        "end": "2034-02-23",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2034-06-02",
+        "end": "2034-06-26",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2034-09-30",
+        "end": "2034-10-21",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2035-01-17",
+        "end": "2035-02-07",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2035-05-13",
+        "end": "2035-06-06",
+    },
+    {
+        "name": "Retrograd Mercury",
+        "picture": "./assets/images/events/retrogradeMercury.jpg",
+        "date": "2035-09-13",
+        "end": "2035-10-05",
+    }
+];
+
+export default retrogradMercuryDates;
