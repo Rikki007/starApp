@@ -1,5 +1,6 @@
 import { gemCreator } from "./gemCreate.js";
 import { personCreator } from "./personcreator.js";
+import { humanQualitiesCreator } from "./humanQualities.js";
 
 const zodiacItemCreate = (signUnit) => {
     return `
@@ -15,6 +16,17 @@ const zodiacItemCreate = (signUnit) => {
           <div class="section-main-info">
             <div class="info-description">${signUnit.gemsDescription}</div>
             <div class="info-gems">${gemCreator(signUnit.gems)}</div>
+          </div>
+        </div>
+
+        <div class="info-qualities">
+          <div class="qualities-wrapper">
+            <h2 class="qualities-title"> Negative qualities</h2>
+            ${humanQualitiesCreator(signUnit.negativeTraits)}
+          </div>
+          <div class="qualities-wrapper">
+            <h2 class="qualities-title"> Positive qualities</h2>
+            ${humanQualitiesCreator(signUnit.positiveTraits)}
           </div>
         </div>
 

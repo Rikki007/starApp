@@ -10,5 +10,5 @@ import futureEvents from "./futureEvents/futureEvents.js"
 // logInCall();
 // logRegSwitch();
 // updateSlider.sliceFunction();
-// zodiacListAction();
-futureEvents();
+zodiacListAction();
+// futureEvents();

@@ -114,6 +114,18 @@
     min-width: 10rem;
     border-radius: 2rem;
 }
+.info-qualities {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.qualities-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+}
 .section-planets-relationships {
     width: 100%;
     display: flex;
