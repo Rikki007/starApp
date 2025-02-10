@@ -1,14 +1,12 @@
 import appBody from "./logReg/body.js";
-import logInCall from "./logReg/login.js";
-import registerCall from "./logReg/register.js";
-import logRegSwitch from "./logReg/logswitch.js";
-import * as updateSlider from "./lunarModule/sliderLogic.js";
-import zodiacListCreate from "./zodiacDescription/zodiacList.js";
-import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
-import futureEvents from "./futureEvents/futureEvents.js"
+import headerCreate from "./header/header.js";
+import mainCreate from "./main/main.js";
+import footerCreate from "./footer/footer.js";
+import futureEventsAction from "./header/futureEventsAction.js";
 
-// logInCall();
-// logRegSwitch();
-// updateSlider.sliceFunction();
-zodiacListAction();
-// futureEvents();
+document.addEventListener('DOMContentLoaded', () => {
+    appBody.insertAdjacentHTML('afterbegin', headerCreate());
+    appBody.insertAdjacentHTML('beforeend', mainCreate());
+    appBody.insertAdjacentHTML('beforeend', footerCreate());
+    futureEventsAction();
+});

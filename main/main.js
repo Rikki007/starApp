@@ -1,3 +1,7 @@
-const main = document.querySelector('.main');
+const mainCreate = () => {
+    return `
+        <main class="main"></main>
+    `
+}
 
-export default main;
+export default mainCreate;
