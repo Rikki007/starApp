@@ -13,9 +13,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <p class="sign-elements__item">Aries</p>
-                    <p class="sign-elements__item">Leo</p>
-                    <p class="sign-elements__item">Sagittarius</p>
+                    <button class="sign-elements__item" name="aries">Aries</button>
+                    <button class="sign-elements__item" name="leo">Leo</button>
+                    <button class="sign-elements__item" name="sagittarius">Sagittarius</button>
                 </div>
             </div>
 
@@ -29,9 +29,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <p class="sign-elements__item">Cancer</p>
-                    <p class="sign-elements__item">Scorpio</p>
-                    <p class="sign-elements__item">Pisces</p>
+                    <button class="sign-elements__item" name="cancer">Cancer</button>
+                    <button class="sign-elements__item" name="scorpio">Scorpio</button>
+                    <button class="sign-elements__item" name="pisces">Pisces</button>
                 </div>
             </div>
         
@@ -45,9 +45,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <p class="sign-elements__item">Taurus</p>
-                    <p class="sign-elements__item">Virgo</p>
-                    <p class="sign-elements__item">Capricorn</p>
+                    <button class="sign-elements__item" name="taurus">Taurus</button>
+                    <button class="sign-elements__item" name="virgo">Virgo</button>
+                    <button class="sign-elements__item" name="capricorn">Capricorn</button>
                 </div>
             </div>
 
@@ -61,9 +61,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <p class="sign-elements__item">Gemini</p>
-                    <p class="sign-elements__item">Libra</p>
-                    <p class="sign-elements__item">Aquarius</p>
+                    <button class="sign-elements__item" name="gemini">Gemini</button>
+                    <button class="sign-elements__item" name="libra">Libra</button>
+                    <button class="sign-elements__item" name="aquarius">Aquarius</button>
                 </div>
             </div>
         </div>

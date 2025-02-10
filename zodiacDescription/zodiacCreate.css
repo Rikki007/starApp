@@ -44,6 +44,9 @@
 }
 .sign-elements__item {
     min-width: 5rem;
+    background: black;
+    color: white;
+    border: black;
     display: flex;
     justify-content: center;
     padding: 0.7rem;
@@ -165,7 +168,9 @@
 .persons-list {
     width: 100%;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
     gap: 2rem;
+}
+.persons-list-item {
+    display: flex;
+    flex-direction: column;
 }

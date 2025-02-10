@@ -36,25 +36,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Hot-tempered", description: "Quickly flares up with anger, can be aggressive in conflicts." },
-      { trait: "Egocentric", description: "Often puts their interests above others, ignoring other people's feelings." },
-      { trait: "Vindictive", description: "If hurt, may respond harshly and immediately without thinking about the consequences." },
-      { trait: "Impatience", description: "Gets annoyed by the slowness or indecisiveness of others." }
+      {
+        trait: "Hot-tempered",
+        description: "Quickly flares up with anger, can be aggressive in conflicts."
+      },
+      {
+        trait: "Egocentric",
+        description: "Often puts their interests above others, ignoring other people's feelings."
+      },
+      {
+        trait: "Vindictive",
+        description: "If hurt, may respond harshly and immediately without thinking about the consequences."
+      },
+      {
+        trait: "Impatience",
+        description: "Gets annoyed by the slowness or indecisiveness of others."
+      }
     ],
     positiveTraits: [
-      { trait: "Protector of the Weak", description: "Passionately stands up for those who are bullied, even risking themselves." },
-      { trait: "Enthusiasm in Helping", description: "Always ready to support loved ones with actions, not just words." },
-      { trait: "Generosity of Spirit", description: "Shares resources and energy with those in need." }
+      {
+        trait: "Protector of the Weak",
+        description: "Passionately stands up for those who are bullied, even risking themselves."
+      },
+      {
+        trait: "Enthusiasm in Helping",
+        description: "Always ready to support loved ones with actions, not just words."
+      },
+      {
+        trait: "Generosity of Spirit",
+        description: "Shares resources and energy with those in need."
+      }
     ],
     professions: "Athlete, military officer, entrepreneur, manager, firefighter, police officer.",
     planetLocation: "./assets/images/planets/mars.jpg",
     description: "Mars, known as the 'Red Planet,' symbolizes energy, drive, and aggression. Aries individuals, under the influence of Mars, are often dynamic leaders who are full of enthusiasm and ready to take on new challenges. They have an innate desire to initiate and lead, making them natural pioneers. Mars endows them with a fierce passion and determination, propelling them toward their goals. However, this energy can sometimes lead to impulsiveness and impatience. Despite these challenges, Mars provides Aries with the courage and motivation needed to overcome obstacles and achieve success.",
     famousPeople: [
-      { name: "Leonardo da Vinci", birthDate: "April 15, 1452", description: "Genius artist, scientist, and inventor" },
-      { name: "Vincent Van Gogh", birthDate: "March 30, 1853", description: "Renowned post-impressionist painter" },
-      { name: "Thomas Jefferson", birthDate: "April 13, 1743", description: "One of the Founding Fathers of the USA" },
-      { name: "Nikolai Gogol", birthDate: "April 1, 1809", description: "Great Russian writer" },
-      { name: "Charlie Chaplin", birthDate: "April 16, 1889", description: "Legendary actor and filmmaker" }
+      {
+        name: "Leonardo da Vinci",
+        birthDate: "April 15, 1452",
+        description: "Genius artist, scientist, and inventor",
+      },
+      {
+        name: "Vincent Van Gogh",
+        birthDate: "March 30, 1853",
+        description: "Renowned post-impressionist painter",
+      },
+      {
+        name: "Thomas Jefferson",
+        birthDate: "April 13, 1743",
+        description: "One of the Founding Fathers of the USA",
+      },
+      {
+        name: "Nikolai Gogol",
+        birthDate: "April 1, 1809",
+        description: "Great Russian writer",
+      },
+      {
+        name: "Charlie Chaplin",
+        birthDate: "April 16, 1889",
+        description: "Legendary actor and filmmaker",
+      }
     ],
   },
   {
@@ -96,25 +137,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Stubbornness", description: "Willing to stand their ground even at the expense of relationships." },
-      { trait: "Miserliness", description: "Sometimes too pragmatic, refuses to help if there is no benefit." },
-      { trait: "Resentment", description: "Remembers betrayal for a long time, can hold a grudge for years." },
-      { trait: "Passive Aggression", description: "Instead of open conflict, will sabotage plans or ignore the offender." }
+      {
+        trait: "Stubbornness",
+        description: "Willing to stand their ground even at the expense of relationships."
+      },
+      {
+        trait: "Miserliness",
+        description: "Sometimes too pragmatic, refuses to help if there is no benefit."
+      },
+      {
+        trait: "Resentment",
+        description: "Remembers betrayal for a long time, can hold a grudge for years."
+      },
+      {
+        trait: "Passive Aggression",
+        description: "Instead of open conflict, will sabotage plans or ignore the offender."
+      }
     ],
     positiveTraits: [
-      { trait: "Reliable Support", description: "Can be relied on in difficult times — won't betray or abandon." },
-      { trait: "Sensitivity to Comfort", description: "Cares to ensure loved ones are fed, clothed, and feel safe." },
-      { trait: "Loyalty", description: "Deeply attached to people and remains faithful to relationships for years." }
+      {
+        trait: "Reliable Support",
+        description: "Can be relied on in difficult times — won't betray or abandon."
+      },
+      {
+        trait: "Sensitivity to Comfort",
+        description: "Cares to ensure loved ones are fed, clothed, and feel safe."
+      },
+      {
+        trait: "Loyalty",
+        description: "Deeply attached to people and remains faithful to relationships for years."
+      }
     ],
     professions: "Banker, interior designer, chef, farmer, jeweler, florist.",
     planetLocation: "./assets/images/planets/venus.jpg",
     description: "Venus, the planet of love, beauty, and pleasure, governs Taurus. This influence makes Taurus individuals appreciate aesthetics and seek stability and comfort in their lives. They have a strong affinity for the finer things in life, such as good food, beautiful surroundings, and luxury. Venus grants them a grounded and sensual nature, which helps them enjoy life's simple pleasures. However, this can also lead to stubbornness and resistance to change. Nonetheless, Venus blesses Taurus with a loving and nurturing disposition, making them reliable and devoted partners.",
     famousPeople: [
-      { name: "William Shakespeare", birthDate: "April 26, 1564", description: "Greatest playwright in history" },
-      { name: "Sigmund Freud", birthDate: "May 6, 1856", description: "Founder of psychoanalysis" },
-      { name: "Karl Marx", birthDate: "May 5, 1818", description: "Philosopher, author of 'Das Kapital'" },
-      { name: "Catherine the Great", birthDate: "May 2, 1729", description: "Empress of Russia" },
-      { name: "Al Pacino", birthDate: "April 25, 1940", description: "Famous actor" }
+      {
+        name: "William Shakespeare",
+        birthDate: "April 26, 1564",
+        description: "Greatest playwright in history",
+      },
+      {
+        name: "Sigmund Freud",
+        birthDate: "May 6, 1856",
+        description: "Founder of psychoanalysis",
+      },
+      {
+        name: "Karl Marx",
+        birthDate: "May 5, 1818",
+        description: "Philosopher, author of 'Das Kapital'",
+      },
+      {
+        name: "Catherine the Great",
+        birthDate: "May 2, 1729",
+        description: "Empress of Russia",
+      },
+      {
+        name: "Al Pacino",
+        birthDate: "April 25, 1940",
+        description: "Famous actor",
+      }
     ],
   },
   {
@@ -156,25 +238,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Unreliability", description: "Often changes opinion, promises more than they do." },
-      { trait: "Superficiality", description: "Can spread gossip or manipulate information for entertainment." },
-      { trait: "Sarcasm", description: "Sharp jokes sometimes hurt others." },
-      { trait: "Chaotic", description: "Messy in everyday life due to constant rush and switching between tasks." }
+      {
+        trait: "Unreliability",
+        description: "Often changes opinion, promises more than they do."
+      },
+      {
+        trait: "Superficiality",
+        description: "Can spread gossip or manipulate information for entertainment."
+      },
+      {
+        trait: "Sarcasm",
+        description: "Sharp jokes sometimes hurt others."
+      },
+      {
+        trait: "Chaotic",
+        description: "Messy in everyday life due to constant rush and switching between tasks."
+      }
     ],
     positiveTraits: [
-      { trait: "Emotional Support", description: "Able to dispel sadness with a joke or wise advice." },
-      { trait: "Adaptability", description: "Adjusts to the mood of others to help them open up." },
-      { trait: "Intellectual Empathy", description: "Explains complex situations, helping to see them from a new perspective." }
+      {
+        trait: "Emotional Support",
+        description: "Able to dispel sadness with a joke or wise advice."
+      },
+      {
+        trait: "Adaptability",
+        description: "Adjusts to the mood of others to help them open up."
+      },
+      {
+        trait: "Intellectual Empathy",
+        description: "Explains complex situations, helping to see them from a new perspective."
+      }
     ],
     professions: "Journalist, writer, teacher, marketer, actor, salesperson.",
     planetLocation: "./assets/images/planets/mercury.jpg",
     description: "Mercury, the planet of communication, intellect, and adaptability, rules Gemini. Gemini individuals are known for their curious and versatile nature, always eager to learn and share new ideas. They possess a quick wit and are excellent communicators, making them engaging conversationalists. Mercury's influence enables them to easily adapt to changing circumstances and think on their feet. However, this can also make them prone to superficiality and inconsistency. Despite this, Mercury provides Gemini with the ability to connect with others and navigate complex situations with ease.",
     famousPeople: [
-      { name: "Marilyn Monroe", birthDate: "June 1, 1926", description: "Hollywood icon" },
-      { name: "Nicholas II", birthDate: "May 18, 1868", description: "Last Emperor of Russia" },
-      { name: "Arthur Conan Doyle", birthDate: "May 22, 1859", description: "Creator of Sherlock Holmes" },
-      { name: "John F. Kennedy", birthDate: "May 29, 1917", description: "35th President of the USA" },
-      { name: "Vincent Cassel", birthDate: "November 23, 1966", description: "French actor" }
+      {
+        name: "Marilyn Monroe",
+        birthDate: "June 1, 1926",
+        description: "Hollywood icon",
+      },
+      {
+        name: "Nicholas II",
+        birthDate: "May 18, 1868",
+        description: "Last Emperor of Russia",
+      },
+      {
+        name: "Arthur Conan Doyle",
+        birthDate: "May 22, 1859",
+        description: "Creator of Sherlock Holmes",
+      },
+      {
+        name: "John F. Kennedy",
+        birthDate: "May 29, 1917",
+        description: "35th President of the USA",
+      },
+      {
+        name: "Vincent Cassel",
+        birthDate: "November 23, 1966",
+        description: "French actor",
+      }
     ],
   },
   {
@@ -216,25 +339,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Suspiciousness", description: "Sees a catch even in neutral situations, prone to excessive dramatization." },
-      { trait: "Manipulativeness", description: "Uses emotions (tears, grievances) to control others." },
-      { trait: "Vindictiveness", description: "Keeps old grievances in memory, can unexpectedly remind of them after years." },
-      { trait: "Passivity", description: "Avoids direct conflicts, preferring 'quiet revenge'." }
+      {
+        trait: "Suspiciousness",
+        description: "Sees a catch even in neutral situations, prone to excessive dramatization."
+      },
+      {
+        trait: "Manipulativeness",
+        description: "Uses emotions (tears, grievances) to control others."
+      },
+      {
+        trait: "Vindictiveness",
+        description: "Keeps old grievances in memory, can unexpectedly remind of them after years."
+      },
+      {
+        trait: "Passivity",
+        description: "Avoids direct conflicts, preferring 'quiet revenge'."
+      }
     ],
     positiveTraits: [
-      { trait: "Boundless Empathy", description: "Feels the emotions of others as their own." },
-      { trait: "Creator of Comfort", description: "Turns home into a 'safe haven' for loved ones." },
-      { trait: "Sacrificial Care", description: "Willing to set aside their interests to support loved ones." }
+      {
+        trait: "Boundless Empathy",
+        description: "Feels the emotions of others as their own."
+      },
+      {
+        trait: "Creator of Comfort",
+        description: "Turns home into a 'safe haven' for loved ones."
+      },
+      {
+        trait: "Sacrificial Care",
+        description: "Willing to set aside their interests to support loved ones."
+      }
     ],
     professions: "Psychologist, social worker, teacher, historian, architect, chef.",
     planetLocation: "./assets/images/planets/moon.jpg",
     description: "The Moon, associated with emotions, intuition, and nurturing, governs Cancer. Under the Moon's influence, Cancer individuals are deeply empathetic and sensitive. They have a strong connection to family and home, often prioritizing the well-being of their loved ones. The Moon endows them with powerful intuition and an understanding of others' emotional needs. However, this sensitivity can also make them vulnerable and prone to mood swings. Nevertheless, the Moon grants Cancer a caring and protective nature, making them devoted caregivers and friends.",
     famousPeople: [
-      { name: "George Orwell", birthDate: "June 25, 1903", description: "Author of '1984' and 'Animal Farm'" },
-      { name: "Princess Diana", birthDate: "July 1, 1961", description: "Princess of Wales" },
-      { name: "Frida Kahlo", birthDate: "July 6, 1907", description: "Mexican painter" },
-      { name: "Ernest Hemingway", birthDate: "July 21, 1899", description: "Nobel Prize-winning writer" },
-      { name: "Tom Cruise", birthDate: "July 3, 1962", description: "Hollywood actor" }
+      {
+        name: "George Orwell",
+        birthDate: "June 25, 1903",
+        description: "Author of '1984' and 'Animal Farm'",
+      },
+      {
+        name: "Princess Diana",
+        birthDate: "July 1, 1961",
+        description: "Princess of Wales",
+      },
+      {
+        name: "Frida Kahlo",
+        birthDate: "July 6, 1907",
+        description: "Mexican painter",
+      },
+      {
+        name: "Ernest Hemingway",
+        birthDate: "July 21, 1899",
+        description: "Nobel Prize-winning writer",
+      },
+      {
+        name: "Tom Cruise",
+        birthDate: "July 3, 1962",
+        description: "Hollywood actor",
+      }
     ],
   },
   {
@@ -276,25 +440,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Arrogance", description: "Considers themselves the 'center of the universe', dismissive of others' achievements." },
-      { trait: "Jealousy", description: "Doesn't tolerate competition, may retaliate against those who challenge their authority." },
-      { trait: "Extravagance", description: "Spends money on status items, ignoring practicality." },
-      { trait: "Selfishness", description: "Demands constant attention, even if it inconveniences others." }
+      {
+        trait: "Arrogance",
+        description: "Considers themselves the 'center of the universe', dismissive of others' achievements."
+      },
+      {
+        trait: "Jealousy",
+        description: "Doesn't tolerate competition, may retaliate against those who challenge their authority."
+      },
+      {
+        trait: "Extravagance",
+        description: "Spends money on status items, ignoring practicality."
+      },
+      {
+        trait: "Selfishness",
+        description: "Demands constant attention, even if it inconveniences others."
+      }
     ],
     positiveTraits: [
-      { trait: "Generosity of Heart", description: "Showers loved ones with gifts, attention, and public praise." },
-      { trait: "Inspirational Support", description: "Believes in people more than they do themselves and motivates them to achieve." },
-      { trait: "Loyalty", description: "Protects 'their own' from any adversities like a true king of the beasts." }
+      {
+        trait: "Generosity of Heart",
+        description: "Showers loved ones with gifts, attention, and public praise."
+      },
+      {
+        trait: "Inspirational Support",
+        description: "Believes in people more than they do themselves and motivates them to achieve."
+      },
+      {
+        trait: "Loyalty",
+        description: "Protects 'their own' from any adversities like a true king of the beasts."
+      }
     ],
     professions: "Actor, director, politician, manager, designer, event planner.",
     planetLocation: "./assets/images/planets/sun.jpg",
     description: "The Sun, symbolizing vitality, confidence, and self-expression, rules Leo. Leo individuals, under the Sun's influence, are charismatic and crave the spotlight. They possess a natural flair for drama and creativity, often seeking ways to showcase their talents. The Sun gives them a generous spirit and a desire to help others. However, their need for attention can sometimes lead to arrogance and egotism. Despite this, the Sun provides Leo with an inspiring presence, enabling them to shine brightly and lead with confidence.",
     famousPeople: [
-      { name: "Napoleon Bonaparte", birthDate: "August 15, 1769", description: "French Emperor and military leader" },
-      { name: "Barack Obama", birthDate: "August 4, 1961", description: "44th President of the USA" },
-      { name: "Madonna", birthDate: "August 16, 1958", description: "Pop icon" },
-      { name: "Alfred Hitchcock", birthDate: "August 13, 1899", description: "Master of suspense and filmmaker" },
-      { name: "Coco Chanel", birthDate: "August 19, 1883", description: "Legendary fashion designer" }
+      {
+        name: "Napoleon Bonaparte",
+        birthDate: "August 15, 1769",
+        description: "French Emperor and military leader",
+      },
+      {
+        name: "Barack Obama",
+        birthDate: "August 4, 1961",
+        description: "44th President of the USA",
+      },
+      {
+        name: "Madonna",
+        birthDate: "August 16, 1958",
+        description: "Pop icon",
+      },
+      {
+        name: "Alfred Hitchcock",
+        birthDate: "August 13, 1899",
+        description: "Master of suspense and filmmaker",
+      },
+      {
+        name: "Coco Chanel",
+        birthDate: "August 19, 1883",
+        description: "Legendary fashion designer",
+      }
     ],
   },
   {
@@ -336,25 +541,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Criticism", description: "Criticizes the smallest flaws, becoming a 'perfectionist tyrant'." },
-      { trait: "Coldness", description: "Can seem unemotional, especially in stressful situations." },
-      { trait: "Controlling", description: "Manages others under the pretext of care." },
-      { trait: "Pedantic", description: "Messiness of others causes disgust, leading to conflicts." }
+      {
+        trait: "Criticism",
+        description: "Criticizes the smallest flaws, becoming a 'perfectionist tyrant'."
+      },
+      {
+        trait: "Coldness",
+        description: "Can seem unemotional, especially in stressful situations."
+      },
+      {
+        trait: "Controlling",
+        description: "Manages others under the pretext of care."
+      },
+      {
+        trait: "Pedantic",
+        description: "Messiness of others causes disgust, leading to conflicts."
+      }
     ],
     positiveTraits: [
-      { trait: "Practical Care", description: "Helps not with words but with deeds — from cooking soup to solving bureaucratic issues." },
-      { trait: "Responsibility", description: "Always completes what they start, especially if it is important to others." },
-      { trait: "Analytical Empathy", description: "Seeks the root of problems to offer a systematic solution." }
+      {
+        trait: "Practical Care",
+        description: "Helps not with words but with deeds — from cooking soup to solving bureaucratic issues."
+      },
+      {
+        trait: "Responsibility",
+        description: "Always completes what they start, especially if it is important to others."
+      },
+      {
+        trait: "Analytical Empathy",
+        description: "Seeks the root of problems to offer a systematic solution."
+      }
     ],
     professions: "Doctor, accountant, editor, analyst, engineer, researcher.",
     planetLocation: "./assets/images/planets/mercury.jpg",
     description: "Mercury also rules Virgo, enhancing their analytical abilities, attention to detail, and practicality. Virgo individuals, under Mercury's influence, are methodical and organized, always striving for perfection. They have a keen eye for detail and a strong desire to improve and optimize their surroundings. Mercury endows them with a sharp intellect and a talent for critical thinking. However, this can sometimes lead to excessive criticism and perfectionism. Despite this, Mercury provides Virgo with a strong sense of duty and a willingness to help others through their skills and knowledge.",
     famousPeople: [
-      { name: "Leo Tolstoy", birthDate: "September 9, 1828", description: "Great Russian writer" },
-      { name: "Freddie Mercury", birthDate: "September 5, 1946", description: "Leader of Queen" },
-      { name: "Agatha Christie", birthDate: "September 15, 1890", description: "Queen of crime novels" },
-      { name: "Beyonce", birthDate: "September 4, 1981", description: "Singer and actress" },
-      { name: "Mikhail Kutuzov", birthDate: "September 16, 1745", description: "Russian military leader" }
+      {
+        name: "Leo Tolstoy",
+        birthDate: "September 9, 1828",
+        description: "Great Russian writer",
+      },
+      {
+        name: "Freddie Mercury",
+        birthDate: "September 5, 1946",
+        description: "Leader of Queen",
+      },
+      {
+        name: "Agatha Christie",
+        birthDate: "September 15, 1890",
+        description: "Queen of crime novels",
+      },
+      {
+        name: "Beyonce",
+        birthDate: "September 4, 1981",
+        description: "Singer and actress",
+      },
+      {
+        name: "Mikhail Kutuzov",
+        birthDate: "September 16, 1745",
+        description: "Russian military leader",
+      }
     ],
   },
   {
@@ -396,25 +642,65 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Indecisiveness", description: "Constantly hesitates, shifting responsibility to others." },
-      { trait: "Hypocrisy", description: "Tries to please everyone, hiding true emotions." },
-      { trait: "Passive Aggression", description: "Instead of an honest conversation, will spread discontent behind the scenes." },
-      { trait: "Superficiality", description: "Sometimes chooses a beautiful lie over unpleasant truth." }
+      {
+        trait: "Indecisiveness",
+        description: "Constantly hesitates, shifting responsibility to others."
+      },
+      {
+        trait: "Hypocrisy",
+        description: "Tries to please everyone, hiding true emotions."
+      },
+      {
+        trait: "Passive Aggression",
+        description: "Instead of an honest conversation, will spread discontent behind the scenes."
+      },
+      {
+        trait: "Superficiality",
+        description: "Sometimes chooses a beautiful lie over unpleasant truth."
+      }
     ],
     positiveTraits: [
-      { trait: "Diplomacy", description: "Quenches conflicts by finding compromises that satisfy everyone." },
-      { trait: "Aesthetic Harmony", description: "Creates an atmosphere of beauty and tranquility around them." },
-      { trait: "Striving for Justice", description: "Fights for equality and fairness in relationships." }
+      {
+        trait: "Diplomacy",
+        description: "Quenches conflicts by finding compromises that satisfy everyone."
+      },
+      {
+        trait: "Aesthetic Harmony",
+        description: "Creates an atmosphere of beauty and tranquility around them."
+      },
+      {
+        trait: "Striving for Justice",
+        description: "Fights for equality and fairness in relationships."
+      }
     ],
     professions: "Lawyer, diplomat, artist, stylist, HR manager, architect.",
     planetLocation: "./assets/images/planets/venus.jpg",
     description: "Venus, the planet of harmony, beauty, and relationships, governs Libra. Libra individuals, under Venus's influence, strive for balance and fairness in all aspects of life. They have a natural charm and diplomacy, making them skilled negotiators and peacemakers. Venus endows them with an appreciation for art and aesthetics, as well as a desire for harmonious relationships. However, their pursuit of balance can sometimes lead to indecisiveness and avoidance of conflict. Nonetheless, Venus blesses Libra with a gracious and cooperative nature, making them excellent partners and friends",
     famousPeople: [
-      { name: "Mahatma Gandhi", birthDate: "October 2, 1869", description: "Leader of independence movement" },
-      { name: "Friedrich Nietzsche", birthDate: "October 15, 1844", description: "Philosopher" },
-      { name: "John Lennon", birthDate: "October 9, 1940", description: "Member of The Beatles" },
-      { name: "Oscar Wilde", birthDate: "October 16, 1854", description: "Writer and poet" },
-      { name: "Sergei Yesenin", birthDate: "October 3, 1895", description: "Russian poet" }
+      {
+        name: "Mahatma Gandhi",
+        birthDate: "October 2, 1869",
+        description: "Leader of independence movement",
+      },
+      {
+        name: "Friedrich Nietzsche",
+        birthDate: "October 15, 1844",
+        description: "Philosopher",
+      },
+      {
+        name: "John Lennon",
+        birthDate: "October 9, 1940",
+        description: "Member of The Beatles",
+      },
+      {
+        name: "Oscar Wilde",
+        birthDate: "October 16, 1854",
+        description: "Writer and poet",
+      },
+      {
+        name: "Sergei Yesenin",
+        birthDate: "October 3, 1895",
+      }
     ],
   },
   {
@@ -456,25 +742,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Vindictiveness", description: "Capable of plotting revenge for years if they feel betrayed." },
-      { trait: "Jealousy", description: "Suspicious, may check on their partner or friends." },
-      { trait: "Cynicism", description: "Openly expresses contempt for those they consider weak or naive." },
-      { trait: "Manipulation", description: "Uses others' weaknesses as leverage." }
+      {
+        trait: "Vindictiveness",
+        description: "Capable of plotting revenge for years if they feel betrayed."
+      },
+      {
+        trait: "Jealousy",
+        description: "Suspicious, may check on their partner or friends."
+      },
+      {
+        trait: "Cynicism",
+        description: "Openly expresses contempt for those they consider weak or naive."
+      },
+      {
+        trait: "Manipulation",
+        description: "Uses others' weaknesses as leverage."
+      }
     ],
     positiveTraits: [
-      { trait: "Deep Connection", description: "Forms relationships at the soul level, not superficial interests." },
-      { trait: "Loyalty to the End", description: "If they accept someone into their circle, they will protect them at all costs." },
-      { trait: "Transformational Support", description: "Helps others through crises and helps them become stronger." }
+      {
+        trait: "Deep Connection",
+        description: "Forms relationships at the soul level, not superficial interests."
+      },
+      {
+        trait: "Loyalty to the End",
+        description: "If they accept someone into their circle, they will protect them at all costs."
+      },
+      {
+        trait: "Transformational Support",
+        description: "Helps others through crises and helps them become stronger."
+      }
     ],
     professions: "Detective, psychologist, surgeon, scientist, criminologist, financier.",
     planetLocation: "./assets/images/planets/plutoMars.jpg",
     description: "Pluto, associated with transformation, depth, and power, rules Scorpio alongside Mars. Under these influences, Scorpio individuals possess intense emotions and a profound desire for change and growth. They are mysterious and intuitive, often delving into the hidden aspects of life. Pluto grants them resilience and the ability to endure and overcome challenges. However, their intensity can also lead to jealousy and possessiveness. Despite this, Pluto and Mars endow Scorpio with a strong will and the ability to transform both themselves and those around them.",
     famousPeople: [
-      { name: "Marie Curie", birthDate: "November 7, 1867", description: "Scientist, Nobel Prize winner" },
-      { name: "Pablo Picasso", birthDate: "October 25, 1881", description: "Innovative artist" },
-      { name: "Theodore Roosevelt", birthDate: "October 27, 1858", description: "26th President of the USA" },
-      { name: "Bill Gates", birthDate: "October 28, 1955", description: "Founder of Microsoft" },
-      { name: "Leon Trotsky", birthDate: "November 7, 1879", description: "Revolutionary" }
+      {
+        name: "Marie Curie",
+        birthDate: "November 7, 1867",
+        description: "Scientist, Nobel Prize winner",
+      },
+      {
+        name: "Pablo Picasso",
+        birthDate: "October 25, 1881",
+        description: "Innovative artist",
+      },
+      {
+        name: "Theodore Roosevelt",
+        birthDate: "October 27, 1858",
+        description: "26th President of the USA",
+      },
+      {
+        name: "Bill Gates",
+        birthDate: "October 28, 1955",
+        description: "Founder of Microsoft",
+      },
+      {
+        name: "Leon Trotsky",
+        birthDate: "November 7, 1879",
+        description: "Revolutionary",
+      }
     ],
   },
   {
@@ -516,25 +843,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Tactlessness", description: "Speaks the truth to the face, even if it is rude or inappropriate." },
-      { trait: "Irresponsibility", description: "May abandon a task halfway if they lose interest." },
-      { trait: "Disregard for feelings", description: "Considers others' emotions 'unnecessary drama'." },
-      { trait: "Extravagance", description: "Spends resources on adventures, without thinking about the future." }
+      {
+        trait: "Tactlessness",
+        description: "Speaks the truth to the face, even if it is rude or inappropriate."
+      },
+      {
+        trait: "Irresponsibility",
+        description: "May abandon a task halfway if they lose interest."
+      },
+      {
+        trait: "Disregard for feelings",
+        description: "Considers others' emotions 'unnecessary drama'."
+      },
+      {
+        trait: "Extravagance",
+        description: "Spends resources on adventures, without thinking about the future."
+      }
     ],
     positiveTraits: [
-      { trait: "Optimistic Support", description: "Infuses faith in the best even in the darkest situations." },
-      { trait: "Philosophical Compassion", description: "Teaches to see the meaning in difficulties and grow through them." },
-      { trait: "Freedom-loving Support", description: "Inspires others to be themselves, without looking back at stereotypes." }
+      {
+        trait: "Optimistic Support",
+        description: "Infuses faith in the best even in the darkest situations."
+      },
+      {
+        trait: "Philosophical Compassion",
+        description: "Teaches to see the meaning in difficulties and grow through them."
+      },
+      {
+        trait: "Freedom-loving Support",
+        description: "Inspires others to be themselves, without looking back at stereotypes."
+      }
     ],
     professions: "Traveler, teacher, philosopher, athlete, journalist, tour guide.",
     planetLocation: "./assets/images/planets/jupiter.jpg",
     description: "Jupiter, the planet of expansion, optimism, and wisdom, governs Sagittarius. Sagittarius individuals, under Jupiter's influence, are adventurous and constantly seeking new experiences and knowledge. They have an innate curiosity and a love for travel and exploration. Jupiter endows them with a positive outlook and the ability to see the bigger picture. However, their quest for freedom can sometimes lead to restlessness and a lack of focus. Despite this, Jupiter provides Sagittarius with a generous spirit and the desire to inspire and uplift others through their adventures and insights.",
     famousPeople: [
-      { name: "Winston Churchill", birthDate: "November 30, 1874", description: "British Prime Minister" },
-      { name: "Ludwig van Beethoven", birthDate: "December 16, 1770", description: "Composer" },
-      { name: "Walt Disney", birthDate: "December 5, 1901", description: "Creator of Disney" },
-      { name: "Nikolay Pirogov", birthDate: "November 25, 1810", description: "Great surgeon" },
-      { name: "Jane Austen", birthDate: "December 16, 1775", description: "Novelist" }
+      {
+        name: "Winston Churchill",
+        birthDate: "November 30, 1874",
+        description: "British Prime Minister",
+      },
+      {
+        name: "Ludwig van Beethoven",
+        birthDate: "December 16, 1770",
+        description: "Composer",
+      },
+      {
+        name: "Walt Disney",
+        birthDate: "December 5, 1901",
+        description: "Creator of Disney",
+      },
+      {
+        name: "Nikolay Pirogov",
+        birthDate: "November 25, 1810",
+        description: "Great surgeon",
+      },
+      {
+        name: "Jane Austen",
+        birthDate: "December 16, 1775",
+        description: "Novelist",
+      }
     ],
   },
   {
@@ -576,25 +944,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Calculative", description: "Sees people as tools to achieve goals." },
-      { trait: "Coldness", description: "Ignores the emotional needs of loved ones, focusing on results." },
-      { trait: "Ruthlessness", description: "May intentionally harm if it helps their plans." },
-      { trait: "Miserliness", description: "Refuses to help if they see no practical benefit." }
+      {
+        trait: "Calculative",
+        description: "Sees people as tools to achieve goals."
+      },
+      {
+        trait: "Coldness",
+        description: "Ignores the emotional needs of loved ones, focusing on results."
+      },
+      {
+        trait: "Ruthlessness",
+        description: "May intentionally harm if it helps their plans."
+      },
+      {
+        trait: "Miserliness",
+        description: "Refuses to help if they see no practical benefit."
+      }
     ],
     positiveTraits: [
-      { trait: "Responsibility as a Foundation", description: "Never lets down if relied upon." },
-      { trait: "Wise Care", description: "Shares experience and knowledge to help others avoid mistakes." },
-      { trait: "Stability", description: "Creates a sense of 'rock' that can be leaned on in the chaos of life." }
+      {
+        trait: "Responsibility as a Foundation",
+        description: "Never lets down if relied upon."
+      },
+      {
+        trait: "Wise Care",
+        description: "Shares experience and knowledge to help others avoid mistakes."
+      },
+      {
+        trait: "Stability",
+        description: "Creates a sense of 'rock' that can be leaned on in the chaos of life."
+      }
     ],
     professions: "Manager, engineer, architect, lawyer, politician, financier.",
     planetLocation: "./assets/images/planets/saturn.jpg",
     description: "Saturn, the planet of discipline, responsibility, and ambition, rules Capricorn. Capricorn individuals, under Saturn's influence, are determined and hardworking, always striving to achieve their goals. They possess a strong sense of duty and a practical approach to life. Saturn grants them patience and the ability to plan for the long term. However, their drive for success can sometimes lead to rigidity and emotional reserve. Despite this, Saturn provides Capricorn with the resilience and perseverance needed to overcome obstacles and achieve lasting success.",
     famousPeople: [
-      { name: "Isaac Newton", birthDate: "January 4, 1643", description: "Physicist and mathematician" },
-      { name: "Martin Luther King Jr.", birthDate: "January 15, 1929", description: "Civil rights leader" },
-      { name: "Elvis Presley", birthDate: "January 8, 1935", description: "King of rock 'n' roll" },
-      { name: "Joan of Arc", birthDate: "January 6, 1412", description: "National heroine of France" },
-      { name: "Stephen Hawking", birthDate: "January 8, 1942", description: "Theoretical physicist" }
+      {
+        name: "Isaac Newton",
+        birthDate: "January 4, 1643",
+        description: "Physicist and mathematician",
+      },
+      {
+        name: "Martin Luther King Jr.",
+        birthDate: "January 15, 1929",
+        description: "Civil rights leader",
+      },
+      {
+        name: "Elvis Presley",
+        birthDate: "January 8, 1935",
+        description: "King of rock 'n' roll",
+      },
+      {
+        name: "Joan of Arc",
+        birthDate: "January 6, 1412",
+        description: "National heroine of France",
+      },
+      {
+        name: "Stephen Hawking",
+        birthDate: "January 8, 1942",
+        description: "Theoretical physicist",
+      }
     ],
   },
   {
@@ -636,25 +1045,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Emotional detachment", description: "Seems indifferent to others' problems." },
-      { trait: "Stubbornness", description: "Insists on being right, even if obviously wrong." },
-      { trait: "Impracticality", description: "Messy in everyday life due to immersion in ideas." },
-      { trait: "Rebelliousness", description: "Sometimes harms themselves and others just to challenge rules." }
+      {
+        trait: "Emotional detachment",
+        description: "Seems indifferent to others' problems."
+      },
+      {
+        trait: "Stubbornness",
+        description: "Insists on being right, even if obviously wrong."
+      },
+      {
+        trait: "Impracticality",
+        description: "Messy in everyday life due to immersion in ideas."
+      },
+      {
+        trait: "Rebelliousness",
+        description: "Sometimes harms themselves and others just to challenge rules."
+      }
     ],
     positiveTraits: [
-      { trait: "Humanism", description: "Fights for the rights of others, even if it doesn't concern them personally." },
-      { trait: "Innovative Support", description: "Seeks unconventional ways to help those rejected by society." },
-      { trait: "Friendship without Borders", description: "Accepts people with all their quirks, creating a sense of belonging." }
+      {
+        trait: "Humanism",
+        description: "Fights for the rights of others, even if it doesn't concern them personally."
+      },
+      {
+        trait: "Innovative Support",
+        description: "Seeks unconventional ways to help those rejected by society."
+      },
+      {
+        trait: "Friendship without Borders",
+        description: "Accepts people with all their quirks, creating a sense of belonging."
+      }
     ],
     professions: "Scientist, inventor, programmer, social activist, designer, astrologer.",
     planetLocation: "./assets/images/planets/uranusSaturn.jpg",
     description: "Uranus, the planet of innovation, originality, and independence, rules Aquarius alongside Saturn. Under these influences, Aquarius individuals are progressive and eccentric, always eager to embrace new ideas and change. They value freedom and independence, often challenging the status quo. Uranus endows them with a visionary outlook and the ability to think outside the box. However, their desire for independence can sometimes lead to detachment and unpredictability. Despite this, Uranus and Saturn provide Aquarius with the creativity and determination to bring about positive change in the world.",
     famousPeople: [
-      { name: "Charles Darwin", birthDate: "February 12, 1809", description: "Author of the theory of evolution" },
-      { name: "Abraham Lincoln", birthDate: "February 12, 1809", description: "16th President of the USA" },
-      { name: "Galileo Galilei", birthDate: "February 15, 1564", description: "Astronomer and physicist" },
-      { name: "Virginia Woolf", birthDate: "January 25, 1882", description: "Writer" },
-      { name: "Thomas Edison", birthDate: "February 11, 1847", description: "Inventor" }
+      {
+        name: "Charles Darwin",
+        birthDate: "February 12, 1809",
+        description: "Author of the theory of evolution",
+      },
+      {
+        name: "Abraham Lincoln",
+        birthDate: "February 12, 1809",
+        description: "16th President of the USA",
+      },
+      {
+        name: "Galileo Galilei",
+        birthDate: "February 15, 1564",
+        description: "Astronomer and physicist",
+      },
+      {
+        name: "Virginia Woolf",
+        birthDate: "January 25, 1882",
+        description: "Writer",
+      },
+      {
+        name: "Thomas Edison",
+        birthDate: "February 11, 1847",
+        description: "Inventor",
+      }
     ],
   },
   {
@@ -696,25 +1146,66 @@ export const zodiacDescription = [
       }
     },
     negativeTraits: [
-      { trait: "Passive Aggression", description: "Avoids direct conflicts but creates an atmosphere of guilt." },
-      { trait: "Victimhood", description: "Manipulates others by playing on their sympathy." },
-      { trait: "Deception", description: "Embellishes reality to avoid responsibility." },
-      { trait: "Messiness", description: "Messy in everyday life due to being immersed in dreams." }
+      {
+        trait: "Passive Aggression",
+        description: "Avoids direct conflicts but creates an atmosphere of guilt."
+      },
+      {
+        trait: "Victimhood",
+        description: "Manipulates others by playing on their sympathy."
+      },
+      {
+        trait: "Deception",
+        description: "Embellishes reality to avoid responsibility."
+      },
+      {
+        trait: "Messiness",
+        description: "Messy in everyday life due to being immersed in dreams."
+      }
     ],
     positiveTraits: [
-      { trait: "Boundless Compassion", description: "Empathizes with all living things, from people to stray animals." },
-      { trait: "Creative Empathy", description: "Expresses support through art, music, or metaphors." },
-      { trait: "Healing Softness", description: "Can listen without judgment and give the opportunity to cry out." }
+      {
+        trait: "Boundless Compassion",
+        description: "Empathizes with all living things, from people to stray animals."
+      },
+      {
+        trait: "Creative Empathy",
+        description: "Expresses support through art, music, or metaphors."
+      },
+      {
+        trait: "Healing Softness",
+        description: "Can listen without judgment and give the opportunity to cry out."
+      }
     ],
     professions: "Artist, musician, psychologist, doctor, writer, social worker.",
     planetLocation: "./assets/images/planets/neptunJupiter.jpg",
     description: "Neptune, the planet of dreams, intuition, and spirituality, governs Pisces alongside Jupiter. Pisces individuals, under Neptune's influence, are deeply empathetic and imaginative. They often find themselves lost in their dreams and fantasies, making them natural artists and creators. Neptune grants them strong intuition and the ability to understand others' hidden motives. However, their sensitivity can sometimes lead to escapism and vulnerability. Despite this, Neptune and Jupiter provide Pisces with a compassionate and creative nature, allowing them to inspire and support those around them through their empathy and artistic expression.",
     famousPeople: [
-      { name: "Albert Einstein", birthDate: "March 14, 1879", description: "Physicist" },
-      { name: "Michelangelo", birthDate: "March 6, 1475", description: "Artist and sculptor" },
-      { name: "Victor Hugo", birthDate: "February 26, 1802", description: "Writer ('Les Misérables')" },
-      { name: "Steve Jobs", birthDate: "February 24, 1955", description: "Co-founder of Apple" },
-      { name: "Shakira", birthDate: "February 2, 1977", description: "Singer" }
+      {
+        name: "Albert Einstein",
+        birthDate: "March 14, 1879",
+        description: "Physicist",
+      },
+      {
+        name: "Michelangelo",
+        birthDate: "March 6, 1475",
+        description: "Artist and sculptor",
+      },
+      {
+        name: "Victor Hugo",
+        birthDate: "February 26, 1802",
+        description: "Writer ('Les Misérables')",
+      },
+      {
+        name: "Steve Jobs",
+        birthDate: "February 24, 1955",
+        description: "Co-founder of Apple",
+      },
+      {
+        name: "Shakira",
+        birthDate: "February 2, 1977",
+        description: "Singer",
+      }
     ],
   }
 ];
