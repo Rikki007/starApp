@@ -1,16 +1,16 @@
-import main from "../main/main.js";
 import lunarEclipses from "./LunarEclipses.js";
 import solarEclipses from "./solarEclipses.js";
 import dateFilter from "./dateFilter.js";
 import retrogradMercuryDates from "./retrogradMercury.js";
+
 const futureEvents = () => {
     const lunarEvent = dateFilter(lunarEclipses);
     const solarEvent = dateFilter(solarEclipses);
     const mercuryEvents = dateFilter(retrogradMercuryDates);
-    console.log(mercuryEvents)
+    const main = document.querySelector('.main');
 
     if (lunarEvent && solarEvent && mercuryEvents) {
-        main.innerHTML = `
+        return main.innerHTML = `
             <section class="event-section">
                 <h2>Future Events</h2>
                 <article class="event-item">

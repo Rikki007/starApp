@@ -1,5 +1,4 @@
-import headerCreate from "./header.js";
-import futureEvents from "../futureEvents/futureEvents.js";
+import futureEvents from "./futureEvents.js";
 
 const futureEventsAction = () => {
     const futureEventsButton = document.querySelector('.future-events');
