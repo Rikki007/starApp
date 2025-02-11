@@ -31,9 +31,6 @@ export const sliceFunction = () => {
       }
     });
   }
-    
-
-    
 }
 
 
