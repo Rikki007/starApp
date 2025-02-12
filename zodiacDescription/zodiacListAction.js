@@ -14,6 +14,10 @@ const zodiacListAction = () => {
                 });
                 const discriptionOfSigns = document.querySelector('.sign-description');
                 discriptionOfSigns.innerHTML = zodiacItemCreate(signUnit);
+                discriptionOfSigns.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                })
             });
         });
     });
