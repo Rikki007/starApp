@@ -4,7 +4,7 @@ import mainCreate from "./main/main.js";
 import footerCreate from "./footer/footer.js";
 import futureEventsAction from "./futureEvents/futureEventsAction.js";
 import lunarAction from "./lunarModule/lunarAction.js";
-import * as slider from "./lunarModule/sliderLogic.js";
+import "./lunarModule/sliderLogic.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', headerCreate());
@@ -12,5 +12,4 @@ document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('beforeend', footerCreate());
     futureEventsAction();
     lunarAction();
-    slider.sliceFunction();
 });
