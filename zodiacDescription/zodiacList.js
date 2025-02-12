@@ -1,6 +1,5 @@
-import main from "../main/main.js";
-
 const zodiacListCreate = () => {
+    const main = document.querySelector('.main')
     main.innerHTML = `
         <div class="elements-container">
             <div class="container-item">

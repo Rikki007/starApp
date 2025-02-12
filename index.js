@@ -5,6 +5,7 @@ import footerCreate from "./footer/footer.js";
 import futureEventsAction from "./futureEvents/futureEventsAction.js";
 import lunarAction from "./lunarModule/lunarAction.js";
 import "./lunarModule/sliderLogic.js";
+import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', headerCreate());
@@ -12,4 +13,5 @@ document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('beforeend', footerCreate());
     futureEventsAction();
     lunarAction();
+    zodiacListAction();
 });
