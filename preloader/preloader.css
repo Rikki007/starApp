@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(to right, #371a44, #1b4f72);
 }
 .loader {
     position: absolute;
