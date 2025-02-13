@@ -6,8 +6,10 @@ import futureEventsAction from "./futureEvents/futureEventsAction.js";
 import lunarAction from "./lunarModule/lunarAction.js";
 import "./lunarModule/sliderLogic.js";
 import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
+import preloader from "./preloader/preloader.js";
 
 document.addEventListener('DOMContentLoaded', () => {
+    appBody.insertAdjacentHTML('afterbegin', preloader());
     appBody.insertAdjacentHTML('afterbegin', headerCreate());
     appBody.insertAdjacentHTML('beforeend', mainCreate());
     appBody.insertAdjacentHTML('beforeend', footerCreate());
