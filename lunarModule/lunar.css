@@ -4,6 +4,15 @@
   flex-direction: column;
   gap: 1rem;
 }
+.cycle-block {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.cycle-block__preview {
+  width: 12rem;
+  color: white;
+}
 .phase-block {
   width: 100%;
   display: flex;
@@ -12,13 +21,16 @@
   gap: 1rem;
 }
 .phase-block__image {
+  width: 25rem;
+  height: 25rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .moon {
-  width: 90%;
-  min-width: 10rem;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .phase-block__status {
   font-size: 2rem;

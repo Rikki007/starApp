@@ -17,6 +17,7 @@ const headerCreate = () => {
                 <li class="navbar__item future-events">Future Events</li>
                 <li class="navbar__item zodiac-description">Zodiac Description</li>
                 <li class="navbar__item horoscope">Horoscope</li>
+                <li class="navbar__item natal-chart">Natal Chart</li></li>
 
             </ul>
 
