@@ -26,6 +26,11 @@ const prewiev = () => {
     };
 
     loadImages().then(() => {
+      const viewArea = document.querySelector(".phase-block__image");
+      viewArea.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      })
       preloader.classList.toggle("loader-container_disable");
       prewievButton.disabled = true;
       prewievButton.classList.toggle("cycle-block__preview_disable");
