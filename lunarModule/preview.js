@@ -6,8 +6,13 @@ const prewiev = () => {
   const preloader = document.querySelector(".loader-container");
 
   prewievButton.addEventListener('click', () => {
-    preloader.classList.toggle("loader-container_disable");
 
+    preloader.classList.toggle("loader-container_disable");
+    const viewArea = document.querySelector(".phase-block__image");
+      viewArea.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
     const startDay = +(moonImage.src.slice(-6, -4));
     let currentIndex = startDay;
 
@@ -26,11 +31,6 @@ const prewiev = () => {
     };
 
     loadImages().then(() => {
-      const viewArea = document.querySelector(".phase-block__image");
-      viewArea.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
-      })
       preloader.classList.toggle("loader-container_disable");
       prewievButton.disabled = true;
       prewievButton.classList.toggle("cycle-block__preview_disable");
