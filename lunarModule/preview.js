@@ -21,7 +21,7 @@ const prewiev = () => {
     }
 
     preloader.classList.toggle("loader-container_disable");
-    prewievButton.disabled = 'true';
+    prewievButton.disabled = true;
     prewievButton.classList.toggle("cycle-block__preview_disable");
 
     const interval = setInterval(() => {
@@ -32,7 +32,7 @@ const prewiev = () => {
         
 
         if (currentIndex === startDay) {
-          prewievButton.disabled = 'false';
+          prewievButton.disabled = false;
           prewievButton.classList.toggle("cycle-block__preview_disable");
           clearInterval(interval);
           return;
