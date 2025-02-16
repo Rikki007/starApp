@@ -12,6 +12,13 @@
 .cycle-block__preview {
   width: 12rem;
   color: white;
+  transition: 0.3s;
+}
+.cycle-block__preview_disable {
+  background: white;
+  color: black;
+  border: white;
+  box-shadow: 5px 3px 3px black;
 }
 .phase-block {
   width: 100%;
@@ -81,7 +88,7 @@
   cursor: pointer;
   transition: 0.3s;
 }
-.slider-buttons__item:hover  .arrow{
+.slider-buttons__item:hover  .arrow {
   scale: 0.95;
   border-radius: 50%;
   transition: 0.2s;
