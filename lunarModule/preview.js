@@ -19,8 +19,10 @@ const prewiev = () => {
       img.src = `./assets/images/moon/lunarCycle${i}.png`;
       arr.push(img);
     }
-
-    preloader.classList.toggle("loader-container_disable");
+    setTimeout(() => {
+      preloader.classList.toggle("loader-container_disable");
+    }, 1500);
+    
     prewievButton.disabled = true;
     prewievButton.classList.toggle("cycle-block__preview_disable");
 
