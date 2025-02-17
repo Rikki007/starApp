@@ -1,0 +1,25 @@
+.horoscope-section {
+    width: 100%;
+    display: grid;
+    row-gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+.sign-block {
+    width: 60%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid white;
+    border-radius: 2rem;
+}
+.sign-block__image {
+    width: 70%;
+    border-radius: 2rem;
+}
+.sign-block__button {
+    color: white;
+}
