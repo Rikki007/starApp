@@ -8,6 +8,7 @@ import horoscopeAction from "./horoscope/horoscopeAction.js";
 import "./lunarModule/sliderLogic.js";
 import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
 import preloader from "./preloader/preloader.js";
+import languageAction from "./languageModule/languageAction.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', preloader());
@@ -18,4 +19,5 @@ document.addEventListener('DOMContentLoaded', () => {
     lunarAction();
     zodiacListAction();
     horoscopeAction();
+    languageAction();
 });

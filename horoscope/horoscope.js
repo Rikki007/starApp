@@ -21,3 +21,5 @@ const horoscope = () => {
 }
 
 export default horoscope;
+
+'sk-414b2dc1db0842ab801e96c86a519242'

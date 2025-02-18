@@ -12,15 +12,36 @@ body {
   margin-top: 1.5rem;
   display: flex;
   align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.header__item {
+  display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+.lang {
+  position: relative;
+  width: 5%;
+  cursor: pointer;
+}
+.other {
+  width: 95%;
+}
+.settings {
+  width: 4rem;
+  transition: 0.3s;
+}
+.settings:hover {
+  scale: 1.05;
 }
 .logo-container {
   display: flex;
   gap: 1rem;
 }
 .logo-container__image {
-  width: 4.5rem;
-  height: 4.5rem;
+  width: 4rem;
+  height: 4rem;
 }
 .navbar__list {
   display: flex;

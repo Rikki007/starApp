@@ -2,26 +2,32 @@ const headerCreate = () => {
     return `
         <header class="header">
 
-            <div class="logo-container">
-
-            <img src="./assets/images/lunarOracleLoge.png" alt="logo picture" class="logo-container__image">
-            <h1 class="logo-container__title">Lunar Oracle</h1>
-
+            <div class="header__item lang">
+                <img src="./assets/icons/gear.png" class="settings" alt="gear picture"/>
             </div>
+            
+            <div class="header__item other">
+                <div class="logo-container">
 
-            <nav class="navbar">
+                    <img src="./assets/images/lunarOracleLoge.png" alt="logo picture" class="logo-container__image">
+                    <h1 class="logo-container__title">Luora</h1>
 
-            <ul class="navbar__list">
+                </div>
 
-                <li class="navbar__item moon-position">Moon Position</li>
-                <li class="navbar__item future-events">Future Events</li>
-                <li class="navbar__item zodiac-description">Zodiac Description</li>
-                <li class="navbar__item horoscope">Horoscope</li>
-                <li class="navbar__item numerology">Numerology</li></li>
+                <nav class="navbar">
 
-            </ul>
+                    <ul class="navbar__list">
 
-            </nav>
+                        <li class="navbar__item moon-position">Moon Position</li>
+                        <li class="navbar__item future-events">Future Events</li>
+                        <li class="navbar__item zodiac-description">Zodiac Description</li>
+                        <li class="navbar__item horoscope">Horoscope</li>
+                        
+                    </ul>
+
+                </nav>
+            </div>
+            
 
         </header>
     `
