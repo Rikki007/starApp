@@ -23,13 +23,47 @@ body {
 .lang {
   position: relative;
   width: 5%;
+  display: flex;
+  justify-content: center;
   cursor: pointer;
 }
-.other {
+.slide-menu {
+  position: absolute;
+  top: 110%;
+  left: 100%;
+  background: linear-gradient(to right, #371a44, #1b4f72);
+  border-radius: 2rem;
+  transition: 0.3s;
+}
+.slide-menu_deactive {
+  transform: translateY(-22rem);
+}
+.container-list {
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.container-list-item {
+  padding: 0.2rem;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  transition: 0.3s;
+}
+.container-list-item:hover {
+  border: 1px solid white;
+}
+.content {
   width: 95%;
 }
 .settings {
-  width: 4rem;
+  width: 3rem;
   transition: 0.3s;
 }
 .settings:hover {
