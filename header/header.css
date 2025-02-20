@@ -29,20 +29,26 @@ body {
 }
 .slide-menu {
   position: absolute;
+  padding: 0.5rem;
   top: 110%;
-  left: 100%;
-  background: linear-gradient(to right, #371a44, #1b4f72);
+  left: 0;
+  background: rgba(124, 124, 124, 0.418);
   border-radius: 2rem;
   transition: 0.3s;
+  cursor: default;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
 }
 .slide-menu_deactive {
-  transform: translateY(-22rem);
+  transform: translateY(-23rem);
 }
 .container-list {
   margin: 0;
-  padding: 1rem;
   display: flex;
   flex-direction: column;
+  padding: 0.2rem;
   gap: 1rem;
 }
 .container-list-item {
@@ -55,6 +61,7 @@ body {
   border: 1px solid transparent;
   border-radius: 1rem;
   transition: 0.3s;
+  cursor: pointer;
 }
 .container-list-item:hover {
   border: 1px solid white;

@@ -5,23 +5,32 @@ const headerCreate = () => {
             <div class="header__item lang">
                 <img src="./assets/icons/gear.png" class="settings" alt="gear picture"/>
                 <div class="slide-menu slide-menu_deactive">
+
                     <nav class="slide-menu-container">
+                    
                         <ul class="container-list">
-                            <li class="container-list-item">
+
+                            <li class="container-list-item en">
                                 <img src="./assets/images/localization/eng.png" class="item__pic" alt="eng"/>
                                 <p class="item__language">english</p>
                             </li>
-                            <li class="container-list-item">
+
+                            <li class="container-list-item ru">
                                 <img src="./assets/images/localization/ru.png" class="item__pic" alt="ru"/>
                                 <p class="item__language">русский</p>
                             </li>
-                            <li class="container-list-item">
+
+                            <li class="container-list-item cz">
                                 <img src="./assets/images/localization/cz.png" class="item__pic" alt="cz"/>
                                 <p class="item__language">čeština</p>
                             </li>
+
                         </ul>
+
                     </nav>
+
                 </div>
+
             </div>
             
             <div class="header__item content">
