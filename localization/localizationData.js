@@ -3,7 +3,7 @@ const localization = {
         "header": {
             "buttons": {
                 "position": "Moon Position",
-                "events": "Future Events",
+                "events": "Events",
                 "zodiac": "Zodiac Description",
                 "horoscope": "Horoscope"
             }
@@ -13,7 +13,7 @@ const localization = {
         "header": {
             "buttons": {
                 "position": "Положение Луны",
-                "events": "Будущие События",
+                "events": "События",
                 "zodiac": "Описание Знаков",
                 "horoscope": "Гороскоп"
             }
@@ -23,7 +23,7 @@ const localization = {
         "header": {
             "buttons": {
                 "position": "Pozice Měsíce",
-                "events": "Budoucí Události",
+                "events": "Události",
                 "zodiac": "Popis Znamení",
                 "horoscope": "Horoskop"
             }
@@ -31,3 +31,5 @@ const localization = {
     }
 
 }
+
+export default localization;

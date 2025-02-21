@@ -1,9 +1,16 @@
+import localization from "../localization/localizationData.js";
+import getLanguage from "../localization/localizationUtils.js";
+import languageButtonChange from "../languageModule/languageButtonChange.js";
+
 const headerCreate = () => {
+    
+    const lang = getLanguage();
+
     return `
         <header class="header">
 
             <div class="header__item lang">
-                <img src="./assets/icons/gear.png" class="settings" alt="gear picture"/>
+                <img src="${languageButtonChange()}" class="settings" alt="language picture"/>
                 <div class="slide-menu slide-menu_deactive">
 
                     <nav class="slide-menu-container">
@@ -45,10 +52,18 @@ const headerCreate = () => {
 
                     <ul class="navbar__list">
 
-                        <li class="navbar__item moon-position">Moon Position</li>
-                        <li class="navbar__item future-events">Future Events</li>
-                        <li class="navbar__item zodiac-description">Zodiac Description</li>
-                        <li class="navbar__item horoscope">Horoscope</li>
+                        <li class="navbar__item moon-position">
+                            ${localization[lang].header.buttons.position}
+                        </li>
+                        <li class="navbar__item future-events">
+                            ${localization[lang].header.buttons.events}
+                        </li>
+                        <li class="navbar__item zodiac-description">
+                            ${localization[lang].header.buttons.zodiac}
+                        </li>
+                        <li class="navbar__item horoscope">
+                            ${localization[lang].header.buttons.horoscope}
+                        </li>
                         
                     </ul>
 
@@ -58,6 +73,7 @@ const headerCreate = () => {
 
         </header>
     `
+
 }
 
 export default headerCreate;

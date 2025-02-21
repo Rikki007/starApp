@@ -3,7 +3,6 @@ import languageChange from "./languageChange.js";
 const languageMenuCreate = () => {
         const languageButton = document.querySelector('.lang');
         const slideMenu = document.querySelector('.slide-menu');
-        const languageItemButton = document.querySelectorAll(".container-list-item");
       
         const toggleMenu = () => {
           slideMenu.classList.toggle('slide-menu_deactive');
@@ -20,7 +19,7 @@ const languageMenuCreate = () => {
           }
         });
 
-        languageItemButton.addEventListener("click", languageChange);
+        languageChange();
 };
 
 export default languageMenuCreate;
