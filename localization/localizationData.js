@@ -15,6 +15,423 @@ const localization = {
 
         },
 
+        "futureEvents": {
+
+            "eventSectionTitle": "Events",
+            "containerLocation": "Location: ",
+            "containerDate": "Date: ",
+            "containerDescription": "Retrograde Mercury is an astronomical event that occurs when Mercury, the closest planet to the Sun, appears to move backward in its orbit from Earth's perspective. This phenomenon happens three to four times a year and lasts about three weeks each time. It is an optical illusion caused by the differing orbital speeds of Earth and Mercury as they travel around the Sun. During this period, Mercury doesn't actually reverse direction but appears to do so due to the relative motion between the two planets. From an astrological perspective, Mercury retrograde is often associated with communication breakdowns, technological glitches, and misunderstandings. Astrologers believe that since Mercury rules communication, travel, and technology, its retrograde motion can disrupt these areas of life. People may experience delays, miscommunications, or challenges in making decisions. It is often advised to avoid signing contracts, starting new projects, or making major purchases during this time, as plans may not unfold as expected. However, Mercury retrograde is not all negative. Astrologically, it is seen as a time for reflection, revisiting past projects, and reconnecting with old friends or unresolved issues. It encourages slowing down, reviewing plans, and paying attention to details. While it can be a frustrating period, it also offers an opportunity to reassess and realign with one's goals. Many people use this time to reorganize, reflect, and prepare for a fresh start once Mercury goes direct again. Despite its reputation, Mercury retrograde is a natural cycle that can be navigated with mindfulness and patience.",
+            "containerDateStart": "Starts from ",
+            "containerDateEnd": " to ",
+
+        },
+
+        "lunarEclipses": [
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Total Lunar Eclipse",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "A total lunar eclipse occurs when the Earth's umbra (the central, darkest part of its shadow) completely covers the Moon. During this event, the Moon often takes on a reddish or coppery hue, known as a 'Blood Moon.' This happens because sunlight passes through Earth's atmosphere, where shorter wavelengths (like blue) are scattered, and longer wavelengths (like red) are bent toward the Moon. Total lunar eclipses are the most striking and dramatic type, as the entire Moon is engulfed in shadow. They can last for over an hour, depending on the alignment of the Sun, Earth, and Moon. These eclipses are visible from anywhere on Earth where the Moon is above the horizon during the event and are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, North America",
+                "date": "2025-03-14"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Partial Lunar Eclipse",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "A partial lunar eclipse occurs when only a portion of the Moon enters the Earth's umbra, leaving the rest of the Moon illuminated by sunlight. During this event, a dark, curved shadow slowly moves across the lunar surface, creating a striking contrast between the shadowed and lit areas. The visibility of the eclipse depends on how much of the Moon enters the umbra; sometimes only a small fraction is covered, while other times nearly the entire Moon is shadowed. Partial lunar eclipses are more common than total eclipses and can be observed from any location where the Moon is visible during the event. Like all lunar eclipses, they are safe to view with the naked eye.",
+                "location": "Americas, Europe, Africa, Asia",
+                "date": "2025-09-07"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2025-11-05"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Penumbral Lunar Eclipse",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "A penumbral lunar eclipse is the most subtle type of lunar eclipse, occurring when the Moon passes through the Earth's penumbra (the outer, lighter part of its shadow). Unlike total or partial eclipses, the Moon does not enter the dark umbra, so there is no dramatic shadow or red coloration. Instead, the Moon appears slightly dimmer, with a faint shading on one side that can be difficult to notice without careful observation. Penumbral eclipses are often mistaken for a regular full Moon, and their visibility depends on the Moon's position within the penumbra. They are the least dramatic of the three types but still offer an interesting astronomical event for those who know what to look for. Like all lunar eclipses, they are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, North America",
+                "date": "2026-03-03"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Total Lunar Eclipse",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "A total lunar eclipse occurs when the Earth's umbra (the central, darkest part of its shadow) completely covers the Moon. During this event, the Moon often takes on a reddish or coppery hue, known as a 'Blood Moon.' This happens because sunlight passes through Earth's atmosphere, where shorter wavelengths (like blue) are scattered, and longer wavelengths (like red) are bent toward the Moon. Total lunar eclipses are the most striking and dramatic type, as the entire Moon is engulfed in shadow. They can last for over an hour, depending on the alignment of the Sun, Earth, and Moon. These eclipses are visible from anywhere on Earth where the Moon is above the horizon during the event and are safe to view without special equipment.",
+                "location": "Asia, Australia, Americas",
+                "date": "2026-08-28"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2026-10-17"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Penumbral Lunar Eclipse",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "A penumbral lunar eclipse is the most subtle type of lunar eclipse, occurring when the Moon passes through the Earth's penumbra (the outer, lighter part of its shadow). Unlike total or partial eclipses, the Moon does not enter the dark umbra, so there is no dramatic shadow or red coloration. Instead, the Moon appears slightly dimmer, with a faint shading on one side that can be difficult to notice without careful observation. Penumbral eclipses are often mistaken for a regular full Moon, and their visibility depends on the Moon's position within the penumbra. They are the least dramatic of the three types but still offer an interesting astronomical event for those who know what to look for. Like all lunar eclipses, they are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2027-02-20"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Penumbral Lunar Eclipse",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "A penumbral lunar eclipse is the most subtle type of lunar eclipse, occurring when the Moon passes through the Earth's penumbra (the outer, lighter part of its shadow). Unlike total or partial eclipses, the Moon does not enter the dark umbra, so there is no dramatic shadow or red coloration. Instead, the Moon appears slightly dimmer, with a faint shading on one side that can be difficult to notice without careful observation. Penumbral eclipses are often mistaken for a regular full Moon, and their visibility depends on the Moon's position within the penumbra. They are the least dramatic of the three types but still offer an interesting astronomical event for those who know what to look for. Like all lunar eclipses, they are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2027-08-17"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2027-09-28"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Partial Lunar Eclipse",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "A partial lunar eclipse occurs when only a portion of the Moon enters the Earth's umbra, leaving the rest of the Moon illuminated by sunlight. During this event, a dark, curved shadow slowly moves across the lunar surface, creating a striking contrast between the shadowed and lit areas. The visibility of the eclipse depends on how much of the Moon enters the umbra; sometimes only a small fraction is covered, while other times nearly the entire Moon is shadowed. Partial lunar eclipses are more common than total eclipses and can be observed from any location where the Moon is visible during the event. Like all lunar eclipses, they are safe to view with the naked eye.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2028-01-12"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Total Lunar Eclipse",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "A total lunar eclipse occurs when the Earth's umbra (the central, darkest part of its shadow) completely covers the Moon. During this event, the Moon often takes on a reddish or coppery hue, known as a 'Blood Moon.' This happens because sunlight passes through Earth's atmosphere, where shorter wavelengths (like blue) are scattered, and longer wavelengths (like red) are bent toward the Moon. Total lunar eclipses are the most striking and dramatic type, as the entire Moon is engulfed in shadow. They can last for over an hour, depending on the alignment of the Sun, Earth, and Moon. These eclipses are visible from anywhere on Earth where the Moon is above the horizon during the event and are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, North America",
+                "date": "2028-12-31"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2028-11-14"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Penumbral Lunar Eclipse",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "A penumbral lunar eclipse is the most subtle type of lunar eclipse, occurring when the Moon passes through the Earth's penumbra (the outer, lighter part of its shadow). Unlike total or partial eclipses, the Moon does not enter the dark umbra, so there is no dramatic shadow or red coloration. Instead, the Moon appears slightly dimmer, with a faint shading on one side that can be difficult to notice without careful observation. Penumbral eclipses are often mistaken for a regular full Moon, and their visibility depends on the Moon's position within the penumbra. They are the least dramatic of the three types but still offer an interesting astronomical event for those who know what to look for. Like all lunar eclipses, they are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2029-06-26"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Total Lunar Eclipse",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "A total lunar eclipse occurs when the Earth's umbra (the central, darkest part of its shadow) completely covers the Moon. During this event, the Moon often takes on a reddish or coppery hue, known as a 'Blood Moon.' This happens because sunlight passes through Earth's atmosphere, where shorter wavelengths (like blue) are scattered, and longer wavelengths (like red) are bent toward the Moon. Total lunar eclipses are the most striking and dramatic type, as the entire Moon is engulfed in shadow. They can last for over an hour, depending on the alignment of the Sun, Earth, and Moon. These eclipses are visible from anywhere on Earth where the Moon is above the horizon during the event and are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2029-12-20"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2029-10-03"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Partial Lunar Eclipse",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "A partial lunar eclipse occurs when only a portion of the Moon enters the Earth's umbra, leaving the rest of the Moon illuminated by sunlight. During this event, a dark, curved shadow slowly moves across the lunar surface, creating a striking contrast between the shadowed and lit areas. The visibility of the eclipse depends on how much of the Moon enters the umbra; sometimes only a small fraction is covered, while other times nearly the entire Moon is shadowed. Partial lunar eclipses are more common than total eclipses and can be observed from any location where the Moon is visible during the event. Like all lunar eclipses, they are safe to view with the naked eye.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2030-06-15"
+            },
+
+            {
+                "type": "Lunar Eclipse",
+                "name": "Penumbral Lunar Eclipse",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "A penumbral lunar eclipse is the most subtle type of lunar eclipse, occurring when the Moon passes through the Earth's penumbra (the outer, lighter part of its shadow). Unlike total or partial eclipses, the Moon does not enter the dark umbra, so there is no dramatic shadow or red coloration. Instead, the Moon appears slightly dimmer, with a faint shading on one side that can be difficult to notice without careful observation. Penumbral eclipses are often mistaken for a regular full Moon, and their visibility depends on the Moon's position within the penumbra. They are the least dramatic of the three types but still offer an interesting astronomical event for those who know what to look for. Like all lunar eclipses, they are safe to view without special equipment.",
+                "location": "Europe, Asia, Australia, Africa, Americas",
+                "date": "2030-12-09"
+            },
+
+            {
+                "type": "Supermoon",
+                "name": "Supermoon",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "A supermoon is a captivating astronomical event that occurs when a full moon or new moon coincides with the Moon's closest approach to Earth in its elliptical orbit, known as perigee. During this time, the Moon appears larger and brighter in the sky compared to an average full moon. This happens because the Moon's distance from Earth varies between approximately 357,000 kilometers (222,000 miles) at perigee and 406,000 kilometers (252,000 miles) at its farthest point, or apogee. When the Moon is near perigee, it can appear up to 14% larger and 30% brighter than when it is at apogee",
+                "location": "Worldwide",
+                "date": "2030-11-25"
+            }
+        ],
+
+        "retrogradMercuryDates": [
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2025-03-15",
+                "end": "2025-04-07",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2025-07-18",
+                "end": "2025-08-11",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2025-11-09",
+                "end": "2025-04-29",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2026-02-26",
+                "end": "2026-03-20",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2026-06-29",
+                "end": "2026-07-23",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2026-10-24",
+                "end": "2026-11-13",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2027-02-09",
+                "end": "2027-03-03",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2027-06-10",
+                "end": "2027-07-04",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2027-10-07",
+                "end": "2027-10-28",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2028-01-24",
+                "end": "2028-02-14",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2028-05-21",
+                "end": "2028-06-14",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2028-09-19",
+                "end": "2028-10-11",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2029-01-07",
+                "end": "2029-01-27",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2029-05-01",
+                "end": "2029-05-25",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2029-09-02",
+                "end": "2029-09-25",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2029-12-22",
+                "end": "2030-01-11",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2030-04-13",
+                "end": "2030-05-06",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2030-08-16",
+                "end": "2030-09-08",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2030-12-06",
+                "end": "2030-12-25",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2031-03-26",
+                "end": "2031-04-18",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2031-07-29",
+                "end": "2031-08-22",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2031-11-19",
+                "end": "2031-12-09",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2032-03-07",
+                "end": "2032-03-30",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2032-07-10",
+                "end": "2032-08-03",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2032-11-02",
+                "end": "2032-11-22",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2033-02-18",
+                "end": "2033-03-13",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2033-06-21",
+                "end": "2033-07-15",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2033-10-16",
+                "end": "2033-11-06",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2034-02-02",
+                "end": "2034-02-23",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2034-06-02",
+                "end": "2034-06-26",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2034-09-30",
+                "end": "2034-10-21",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2035-01-17",
+                "end": "2035-02-07",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2035-05-13",
+                "end": "2035-06-06",
+            },
+
+            {
+                "name": "Retrograd Mercury",
+                "picture": "./assets/images/events/retrogradeMercury.jpg",
+                "date": "2035-09-13",
+                "end": "2035-10-05",
+            }
+        ],
+
         "lunar": {
 
             "lunarSectionTitle": "Lunar phases",
@@ -320,6 +737,185 @@ const localization = {
 
             }
 
+        },
+
+        "futureEvents": {
+
+            "eventSectionTitle": "События",
+            "containerLocation": "Местоположение: ",
+            "containerDate": "Дата: ",
+            "containerDescription": "Ретроградный Меркурий - это астрономическое явление, которое происходит, когда Меркурий, ближайшая к Солнцу планета, кажется движется назад в своей орбите с точки зрения Земли. Это явление происходит три-четыре раза в год и длится около трех недель каждый раз. Это оптическая иллюзия, вызванная различной орбитальной скоростью Земли и Меркурия, когда они движутся вокруг Солнца. В этот период Меркурий на самом деле не меняет направления, но кажется, что делает это из-за относительного движения между двумя планетами. С астрологической точки зрения ретроградный Меркурий часто ассоциируется с нарушениями в общении, технологическими сбоями и недоразумениями. Астрологи считают, что поскольку Меркурий управляет общением, путешествиями и технологиями, его ретроградное движение может нарушить эти области жизни. Люди могут сталкиваться с задержками, недоразумениями или трудностями при принятии решений. Часто советуют избегать подписания контрактов, начала новых проектов или крупных покупок в это время, так как планы могут не складываться так, как ожидалось. Однако ретроградный Меркурий не всегда несет только негативные последствия. С астрологической точки зрения это время для размышлений, возвращения к прошлым проектам и восстановления связей со старыми друзьями или неразрешенными проблемами. Это способствует замедлению темпа, пересмотру планов и вниманию к деталям. Несмотря на то, что этот период может быть напряженным, он также предоставляет возможность пересмотреть и согласовать свои цели. Многие люди используют это время для реорганизации, размышлений и подготовки к новому началу, когда Меркурий снова станет директным. Несмотря на свою репутацию, ретроградный Меркурий - это естественный цикл, который можно преодолеть с осознанностью и терпением.",
+            "containerDateStart": "Начинается с ",
+            "containerDateEnd": " до "
+        },
+
+        "lunarEclipses": [
+            {
+                "type": "Лунное затмение",
+                "name": "Полное лунное затмение",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Полное лунное затмение происходит, когда земная тень (центральная, самая темная часть тени) полностью покрывает Луну. Во время этого события Луна часто приобретает красноватый или медный оттенок, известный как 'Кровавая Луна.' Это происходит потому, что солнечный свет проходит через атмосферу Земли, где короткие волны (например, синие) рассеиваются, а длинные волны (например, красные) изгибаются к Луне. Полные лунные затмения являются самыми впечатляющими и драматичными, так как вся Луна оказывается в тени. Они могут длиться более часа в зависимости от выравнивания Солнца, Земли и Луны. Эти затмения видны отовсюду на Земле, где Луна находится над горизонтом во время события, и их безопасно наблюдать без специального оборудования.",
+                "location": "Европа, Азия, Австралия, Африка, Северная Америка",
+                "date": "2025-03-14"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Частичное лунное затмение",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Частичное лунное затмение происходит, когда только часть Луны входит в земную тень, оставляя остальную часть Луны освещенной солнечным светом. Во время этого события темная, изогнутая тень медленно перемещается по поверхности Луны, создавая яркий контраст между затененными и освещенными участками. Видимость затмения зависит от того, сколько Луны входит в тень; иногда покрыта только малая часть, а иногда затенена почти вся Луна. Частичные лунные затмения более распространены, чем полные затмения, и их можно наблюдать из любого места, где Луна видна во время события. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Америка, Европа, Африка, Азия",
+                "date": "2025-09-07"
+            },
+            
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2025-11-05"
+            },
+
+            {
+                "type": "Лунное затмение",
+                "name": "Полутеневое лунное затмение",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Полутеневое лунное затмение является наиболее тонким типом лунного затмения, происходящим, когда Луна проходит через земную полутень (внешнюю, более светлую часть тени). В отличие от полных или частичных затмений, Луна не входит в темную тень, поэтому не возникает драматической тени или красного окрашивания. Вместо этого Луна кажется немного тусклее, с легким затемнением на одной стороне, которое может быть трудно заметить без тщательного наблюдения. Полутеневые затмения часто принимают за обычное полнолуние, и их видимость зависит от положения Луны в полутени. Это наименее драматичный из трех типов, но все же предлагает интересное астрономическое событие для тех, кто знает, на что смотреть. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Северная Америка",
+                "date": "2026-03-03"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полное лунное затмение",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Полное лунное затмение происходит, когда земная тень (центральная, самая темная часть тени) полностью покрывает Луну. Во время этого события Луна часто приобретает красноватый или медный оттенок, известный как 'Кровавая Луна.' Это происходит потому, что солнечный свет проходит через атмосферу Земли, где короткие волны (например, синие) рассеиваются, а длинные волны (например, красные) изгибаются к Луне. Полные лунные затмения являются самыми впечатляющими и драматичными, так как вся Луна оказывается в тени. Они могут длиться более часа в зависимости от выравнивания Солнца, Земли и Луны. Эти затмения видны отовсюду на Земле, где Луна находится над горизонтом во время события, и их безопасно наблюдать без специального оборудования.",
+                "location": "Азия, Австралия, Америка",
+                "date": "2026-08-28"
+            },
+            
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2026-10-17"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полутеневое лунное затмение",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Полутеневое лунное затмение является наиболее тонким типом лунного затмения, происходящим, когда Луна проходит через земную полутень (внешнюю, более светлую часть тени). В отличие от полных или частичных затмений, Луна не входит в темную тень, поэтому не возникает драматической тени или красного окрашивания. Вместо этого Луна кажется немного тусклее, с легким затемнением на одной стороне, которое может быть трудно заметить без тщательного наблюдения. Полутеневые затмения часто принимают за обычное полнолуние, и их видимость зависит от положения Луны в полутени. Это наименее драматичный из трех типов, но все же предлагает интересное астрономическое событие для тех, кто знает, на что смотреть. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2027-02-20"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полутеневое лунное затмение",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Полутеневое лунное затмение является наиболее тонким типом лунного затмения, происходящим, когда Луна проходит через земную полутень (внешнюю, более светлую часть тени). В отличие от полных или частичных затмений, Луна не входит в темную тень, поэтому не возникает драматической тени или красного окрашивания. Вместо этого Луна кажется немного тусклее, с легким затемнением на одной стороне, которое может быть трудно заметить без тщательного наблюдения. Полутеневые затмения часто принимают за обычное полнолуние, и их видимость зависит от положения Луны в полутени. Это наименее драматичный из трех типов, но все же предлагает интересное астрономическое событие для тех, кто знает, на что смотреть. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2027-08-17"
+            },
+            
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2027-09-28"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Частичное лунное затмение",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Частичное лунное затмение происходит, когда только часть Луны входит в земную тень, оставляя остальную часть Луны освещенной солнечным светом. Во время этого события темная, изогнутая тень медленно перемещается по поверхности Луны, создавая яркий контраст между затененными и освещенными участками. Видимость затмения зависит от того, сколько Луны входит в тень; иногда покрыта только малая часть, а иногда затенена почти вся Луна. Частичные лунные затмения более распространены, чем полные затмения, и их можно наблюдать из любого места, где Луна видна во время события. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2028-01-12"
+            },
+
+            {
+                "type": "Лунное затмение",
+                "name": "Полное лунное затмение",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Полное лунное затмение происходит, когда земная тень (центральная, самая темная часть тени) полностью покрывает Луну. Во время этого события Луна часто приобретает красноватый или медный оттенок, известный как 'Кровавая Луна.' Это происходит потому, что солнечный свет проходит через атмосферу Земли, где короткие волны (например, синие) рассеиваются, а длинные волны (например, красные) изгибаются к Луне. Полные лунные затмения являются самыми впечатляющими и драматичными, так как вся Луна оказывается в тени. Они могут длиться более часа в зависимости от выравнивания Солнца, Земли и Луны. Эти затмения видны отовсюду на Земле, где Луна находится над горизонтом во время события, и их безопасно наблюдать без специального оборудования.",
+                "location": "Европа, Азия, Австралия, Африка, Северная Америка",
+                "date": "2028-12-31"
+            },
+            
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2028-11-14"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полутеневое лунное затмение",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Полутеневое лунное затмение является наиболее тонким типом лунного затмения, происходящим, когда Луна проходит через земную полутень (внешнюю, более светлую часть тени). В отличие от полных или частичных затмений, Луна не входит в темную тень, поэтому не возникает драматической тени или красного окрашивания. Вместо этого Луна кажется немного тусклее, с легким затемнением на одной стороне, которое может быть трудно заметить без тщательного наблюдения. Полутеневые затмения часто принимают за обычное полнолуние, и их видимость зависит от положения Луны в полутени. Это наименее драматичный из трех типов, но все же предлагает интересное астрономическое событие для тех, кто знает, на что смотреть. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2029-06-26"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полное лунное затмение",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Полное лунное затмение происходит, когда земная тень (центральная, самая темная часть тени) полностью покрывает Луну. Во время этого события Луна часто приобретает красноватый или медный оттенок, известный как 'Кровавая Луна.' Это происходит потому, что солнечный свет проходит через атмосферу Земли, где короткие волны (например, синие) рассеиваются, а длинные волны (например, красные) изгибаются к Луне. Полные лунные затмения являются самыми впечатляющими и драматичными, так как вся Луна оказывается в тени. Они могут длиться более часа в зависимости от выравнивания Солнца, Земли и Луны. Эти затмения видны отовсюду на Земле, где Луна находится над горизонтом во время события, и их безопасно наблюдать без специального оборудования.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2029-12-20"
+            },
+
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2029-10-03"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Частичное лунное затмение",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Частичное лунное затмение происходит, когда только часть Луны входит в земную тень, оставляя остальную часть Луны освещенной солнечным светом. Во время этого события темная, изогнутая тень медленно перемещается по поверхности Луны, создавая яркий контраст между затененными и освещенными участками. Видимость затмения зависит от того, сколько Луны входит в тень; иногда покрыта только малая часть, а иногда затенена почти вся Луна. Частичные лунные затмения более распространены, чем полные затмения, и их можно наблюдать из любого места, где Луна видна во время события. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2030-06-15"
+            },
+            
+            {
+                "type": "Лунное затмение",
+                "name": "Полутеневое лунное затмение",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Полутеневое лунное затмение является наиболее тонким типом лунного затмения, происходящим, когда Луна проходит через земную полутень (внешнюю, более светлую часть тени). В отличие от полных или частичных затмений, Луна не входит в темную тень, поэтому не возникает драматической тени или красного окрашивания. Вместо этого Луна кажется немного тусклее, с легким затемнением на одной стороне, которое может быть трудно заметить без тщательного наблюдения. Полутеневые затмения часто принимают за обычное полнолуние, и их видимость зависит от положения Луны в полутени. Это наименее драматичный из трех типов, но все же предлагает интересное астрономическое событие для тех, кто знает, на что смотреть. Как и все лунные затмения, их безопасно смотреть невооруженным глазом.",
+                "location": "Европа, Азия, Австралия, Африка, Америка",
+                "date": "2030-12-09"
+            },
+            
+            {
+                "type": "Суперлуние",
+                "name": "Суперлуние",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Суперлуние - это захватывающее астрономическое событие, которое происходит, когда полнолуние или новолуние совпадает с ближайшим приближением Луны к Земле на ее эллиптической орбите, известном как перигей. В это время Луна кажется больше и ярче на небе по сравнению с обычным полнолунием. Это происходит, потому что расстояние Луны от Земли варьируется между приблизительно 357 000 километров (222 000 миль) при перигее и 406 000 километров (252 000 миль) при ее самой удаленной точке, или апогее. Когда Луна находится близко к перигею, она может казаться до 14% больше и 30% ярче, чем при апогее.",
+                "location": "По всему миру",
+                "date": "2030-11-25"
+            },
+            
+        ],
+
+        "retrogradMercuryDates": {  
+            "name": "Ретроградный Меркурий", 
         },
 
         "lunar": {
@@ -628,6 +1224,184 @@ const localization = {
 
             }
 
+        },
+
+        "futureEvents": {
+            "eventSectionTitle": "Události",
+            "containerLocation": "Místo: ",
+            "containerDate": "Datum: ",
+            "containerDescription": "Retrográdní Merkur je astronomická událost, která nastává, když se Merkur, nejbližší planeta ke Slunci, zdá, že se z pohledu Země pohybuje zpět ve své oběžné dráze. Tento jev se vyskytuje třikrát až čtyřikrát ročně a trvá přibližně tři týdny pokaždé. Jedná se o optickou iluzi způsobenou rozdílnými oběžnými rychlostmi Země a Merkuru, když cestují kolem Slunce. Během tohoto období Merkur ve skutečnosti nemění směr, ale zdá se, že tak činí kvůli relativnímu pohybu mezi dvěma planetami. Z astrologického hlediska je retrográdní Merkur často spojován s komunikačními problémy, technologickými poruchami a nedorozuměními. Astrologové věří, že protože Merkur vládne komunikaci, cestování a technologiím, jeho retrográdní pohyb může narušit tyto oblasti života. Lidé mohou zažívat zpoždění, nedorozumění nebo obtíže při rozhodování. Často se doporučuje vyhýbat se podepisování smluv, začínání nových projektů nebo dělání velkých nákupů v tomto období, protože plány nemusí probíhat podle očekávání. Nicméně retrográdní Merkur není pouze negativní. Astrologicky je vnímán jako čas pro reflexi, návrat k minulým projektům a obnovování spojení se starými přáteli nebo nevyřešenými problémy. Povzbuzuje zpomalení, revizi plánů a věnování pozornosti detailům. Přestože může být tento období frustrující, nabízí také příležitost k přehodnocení a sladění s vlastními cíli. Mnoho lidí využívá tento čas k reorganizaci, reflexi a přípravě na nový začátek, jakmile Merkur opět jde přímým směrem. Navzdory své pověsti je retrográdní Merkur přirozený cyklus, který lze překonat s uvědomělostí a trpělivostí.",
+            "containerDateStart": "Začíná od ",
+            "containerDateEnd": " do "
+        },
+
+        "lunarEclipses": [
+            {
+                "type": "Lunární zatmění",
+                "name": "Úplné lunární zatmění",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Úplné lunární zatmění nastává, když zemský stín (centrální, nejtemnější část stínu) zcela pokryje Měsíc. Během této události Měsíc často získá načervenalý nebo měděný odstín, známý jako 'krvavý Měsíc.' K tomu dochází, protože sluneční světlo prochází zemskou atmosférou, kde se kratší vlnové délky (jako modrá) rozptylují a delší vlnové délky (jako červená) se ohýbají směrem k Měsíci. Úplná lunární zatmění jsou nejvýraznější a nejdramatičtější typ, protože celý Měsíc je ponořen do stínu. Mohou trvat více než hodinu, v závislosti na zarovnání Slunce, Země a Měsíce. Tato zatmění jsou viditelná odkudkoli na Zemi, kde je Měsíc nad obzorem během události a je bezpečné je sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Severní Amerika",
+                "date": "2025-03-14"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Částečné lunární zatmění",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Částečné lunární zatmění nastává, když pouze část Měsíce vstoupí do zemského stínu, zatímco zbytek Měsíce je osvětlován slunečním světlem. Během této události se po povrchu Měsíce pomalu pohybuje tmavý, zakřivený stín, čímž vytváří výrazný kontrast mezi stinnými a osvětlenými oblastmi. Viditelnost zatmění závisí na tom, kolik Měsíce vstoupí do stínu; někdy je pokryta jen malá část, zatímco jindy je zastíněna téměř celá Měsíc. Částečné lunární zatmění jsou běžnější než úplné zatmění a lze je pozorovat z jakéhokoli místa, kde je během události viditelný Měsíc. Stejně jako všechna lunární zatmění jsou bezpečné sledovat volným okem.",
+                "location": "Amerika, Evropa, Afrika, Asie",
+                "date": "2025-09-07"
+            },
+            
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2025-11-05"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Polostínové lunární zatmění",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Polostínové lunární zatmění je nejjemnější typ lunárního zatmění, ke kterému dochází, když Měsíc prochází zemským polostínem (vnější, světlejší částí stínu). Na rozdíl od úplných nebo částečných zatmění Měsíc nevstupuje do temného stínu, takže nedochází k dramatickému stínu nebo červenému zabarvení. Místo toho se Měsíc jeví mírně tlumenější, s jemným zastíněním na jedné straně, které může být těžké zaznamenat bez pečlivého pozorování. Polostínové zatmění jsou často zaměňována s běžným úplňkem a jejich viditelnost závisí na poloze Měsíce v polostínu. Jsou nejméně dramatickým z tří typů, ale stále nabízejí zajímavou astronomickou událost pro ty, kteří vědí, na co se dívat. Stejně jako všechna lunární zatmění jsou bezpečné sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Severní Amerika",
+                "date": "2026-03-03"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Úplné lunární zatmění",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Úplné lunární zatmění nastává, když zemský stín (centrální, nejtemnější část stínu) zcela pokryje Měsíc. Během této události Měsíc často získá načervenalý nebo měděný odstín, známý jako 'krvavý Měsíc.' K tomu dochází, protože sluneční světlo prochází zemskou atmosférou, kde se kratší vlnové délky (jako modrá) rozptylují a delší vlnové délky (jako červená) se ohýbají směrem k Měsíci. Úplná lunární zatmění jsou nejvýraznější a nejdramatičtější typ, protože celý Měsíc je ponořen do stínu. Mohou trvat více než hodinu, v závislosti na zarovnání Slunce, Země a Měsíce. Tato zatmění jsou viditelná odkudkoli na Zemi, kde je Měsíc nad obzorem během události a je bezpečné je sledovat bez speciálního vybavení.",
+                "location": "Asie, Austrálie, Amerika",
+                "date": "2026-08-28"
+            },
+            
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2026-10-17"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Polostínové lunární zatmění",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Polostínové lunární zatmění je nejjemnější typ lunárního zatmění, ke kterému dochází, když Měsíc prochází zemským polostínem (vnější, světlejší částí stínu). Na rozdíl od úplného nebo částečného zatmění Měsíc nevstupuje do temného stínu, takže nedochází k dramatickému stínu nebo červenému zabarvení. Místo toho se Měsíc jeví mírně tlumenější, s jemným zastíněním na jedné straně, které může být těžké zaznamenat bez pečlivého pozorování. Polostínové zatmění jsou často zaměňována s běžným úplňkem a jejich viditelnost závisí na poloze Měsíce v polostínu. Jsou nejméně dramatickým z tří typů, ale stále nabízejí zajímavou astronomickou událost pro ty, kteří vědí, na co se dívat. Stejně jako všechna lunární zatmění jsou bezpečné sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2027-02-20"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Polostínové lunární zatmění",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Polostínové lunární zatmění je nejjemnější typ lunárního zatmění, ke kterému dochází, když Měsíc prochází zemským polostínem (vnější, světlejší částí stínu). Na rozdíl od úplného nebo částečného zatmění Měsíc nevstupuje do temného stínu, takže nedochází k dramatickému stínu nebo červenému zabarvení. Místo toho se Měsíc jeví mírně tlumenější, s jemným zastíněním na jedné straně, které může být těžké zaznamenat bez pečlivého pozorování. Polostínové zatmění jsou často zaměňována s běžným úplňkem a jejich viditelnost závisí na poloze Měsíce v polostínu. Jsou nejméně dramatickým z tří typů, ale stále nabízejí zajímavou astronomickou událost pro ty, kteří vědí, na co se dívat. Stejně jako všechna lunární zatmění jsou bezpečné sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2027-08-17"
+            },
+            
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2027-09-28"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Částečné lunární zatmění",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Částečné lunární zatmění nastává, když pouze část Měsíce vstoupí do zemského stínu, zatímco zbytek Měsíce je osvětlován slunečním světlem. Během této události se po povrchu Měsíce pomalu pohybuje tmavý, zakřivený stín, čímž vytváří výrazný kontrast mezi stinnými a osvětlenými oblastmi. Viditelnost zatmění závisí na tom, kolik Měsíce vstoupí do stínu; někdy je pokryta jen malá část, zatímco jindy je zastíněna téměř celá Měsíc. Částečné lunární zatmění jsou běžnější než úplné zatmění a lze je pozorovat z jakéhokoli místa, kde je během události viditelný Měsíc. Stejně jako všechna lunární zatmění jsou bezpečné sledovat volným okem.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2028-01-12"
+            },
+
+            {
+                "type": "Lunární zatmění",
+                "name": "Úplné lunární zatmění",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Úplné lunární zatmění nastává, když zemský stín (centrální, nejtemnější část stínu) zcela pokryje Měsíc. Během této události Měsíc často získá načervenalý nebo měděný odstín, známý jako 'krvavý Měsíc.' K tomu dochází, protože sluneční světlo prochází zemskou atmosférou, kde se kratší vlnové délky (jako modrá) rozptylují a delší vlnové délky (jako červená) se ohýbají směrem k Měsíci. Úplná lunární zatmění jsou nejvýraznější a nejdramatičtější typ, protože celý Měsíc je ponořen do stínu. Mohou trvat více než hodinu, v závislosti na zarovnání Slunce, Země a Měsíce. Tato zatmění jsou viditelná odkudkoli na Zemi, kde je Měsíc nad obzorem během události a je bezpečné je sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Severní Amerika",
+                "date": "2028-12-31"
+            },
+            
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2028-11-14"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Polostínové lunární zatmění",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Polostínové lunární zatmění je nejjemnější typ lunárního zatmění, ke kterému dochází, když Měsíc prochází zemským polostínem (vnější, světlejší částí stínu). Na rozdíl od úplných nebo částečných zatmění Měsíc nevstupuje do temného stínu, takže nedochází k dramatickému stínu nebo červenému zabarvení. Místo toho se Měsíc jeví mírně tlumenější, s jemným zastíněním na jedné straně, které může být těžké zaznamenat bez pečlivého pozorování. Polostínové zatmění jsou často zaměňována s běžným úplňkem a jejich viditelnost závisí na poloze Měsíce v polostínu. Jsou nejméně dramatickým z tří typů, ale stále nabízejí zajímavou astronomickou událost pro ty, kteří vědí, na co se dívat. Stejně jako všechna lunární zatmění jsou bezpečné sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2029-06-26"
+            },
+            
+            {
+                "type": "Lunární zatmění",
+                "name": "Úplné lunární zatmění",
+                "picture": "./assets/images/events/totalLunarEclipse.jpg",
+                "description": "Úplné lunární zatmění nastává, když zemský stín (centrální, nejtemnější část stínu) zcela pokryje Měsíc. Během této události Měsíc často získá načervenalý nebo měděný odstín, známý jako 'krvavý Měsíc.' K tomu dochází, protože sluneční světlo prochází zemskou atmosférou, kde se kratší vlnové délky (jako modrá) rozptylují a delší vlnové délky (jako červená) se ohýbají směrem k Měsíci. Úplná lunární zatmění jsou nejvýraznější a nejdramatičtější typ, protože celý Měsíc je ponořen do stínu. Mohou trvat více než hodinu, v závislosti na zarovnání Slunce, Země a Měsíce. Tato zatmění jsou viditelná odkudkoli na Zemi, kde je Měsíc nad obzorem během události a je bezpečné je sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2029-12-20"
+            },
+            
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2029-10-03"
+            },
+
+            {
+                "type": "Lunární zatmění",
+                "name": "Částečné lunární zatmění",
+                "picture": "./assets/images/events/partialLunarEclipse.jpg",
+                "description": "Částečné lunární zatmění nastává, když pouze část Měsíce vstoupí do zemského stínu, zatímco zbytek Měsíce je osvětlován slunečním světlem. Během této události se po povrchu Měsíce pomalu pohybuje tmavý, zakřivený stín, čímž vytváří výrazný kontrast mezi stinnými a osvětlenými oblastmi. Viditelnost zatmění závisí na tom, kolik Měsíce vstoupí do stínu; někdy je pokryta jen malá část, zatímco jindy je zastíněna téměř celá Měsíc. Částečné lunární zatmění jsou běžnější než úplné zatmění a lze je pozorovat z jakéhokoli místa, kde je během události viditelný Měsíc. Stejně jako všechna lunární zatmění jsou bezpečné sledovat volným okem.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2030-06-15"
+            },
+
+            {
+                "type": "Lunární zatmění",
+                "name": "Polostínové lunární zatmění",
+                "picture": "./assets/images/events/penumbralLunarEclipse.png",
+                "description": "Polostínové lunární zatmění je nejjemnější typ lunárního zatmění, ke kterému dochází, když Měsíc prochází zemským polostínem (vnější, světlejší částí stínu). Na rozdíl od úplných nebo částečných zatmění Měsíc nevstupuje do temného stínu, takže nedochází k dramatickému stínu nebo červenému zabarvení. Místo toho se Měsíc jeví mírně tlumenější, s jemným zastíněním na jedné straně, které může být těžké zaznamenat bez pečlivého pozorování. Polostínové zatmění jsou často zaměňována s běžným úplňkem a jejich viditelnost závisí na poloze Měsíce v polostínu. Jsou nejméně dramatickým z tří typů, ale stále nabízejí zajímavou astronomickou událost pro ty, kteří vědí, na co se dívat. Stejně jako všechna lunární zatmění jsou bezpečné sledovat bez speciálního vybavení.",
+                "location": "Evropa, Asie, Austrálie, Afrika, Amerika",
+                "date": "2030-12-09"
+            },
+
+            {
+                "type": "Superměsíc",
+                "name": "Superměsíc",
+                "picture": "./assets/images/events/superMoon.jpg",
+                "description": "Superměsíc je fascinující astronomická událost, ke které dochází, když se úplněk nebo nov měsíce shoduje s nejbližším přiblížením Měsíce k Zemi na jeho eliptické oběžné dráze, známém jako perigeum. Během této doby se Měsíc zdá větší a jasnější na obloze ve srovnání s průměrným úplňkem. K tomu dochází, protože vzdálenost Měsíce od Země se pohybuje mezi přibližně 357 000 kilometrů (222 000 mil) při perigeu a 406 000 kilometrů (252 000 mil) při jeho nejvzdálenějším bodě, tedy v apogeu. Když je Měsíc blízko perigea, může se zdát až o 14 % větší a o 30 % jasnější než když je v apogeu.",
+                "location": "Celosvětově",
+                "date": "2030-11-25"
+            }
+                        
+        ],
+
+        "retrogradMercuryDates": {
+            "name": "Retrográdní Merkur",
         },
 
         "lunar": {
