@@ -55,7 +55,7 @@ body {
   padding: 0.2rem;
   list-style-type: none;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 1rem;
   border: 1px solid transparent;
@@ -69,8 +69,15 @@ body {
 .content {
   width: 95%;
 }
+.settings-container {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .settings {
-  width: 3rem;
+  width: 100%;
   transition: 0.3s;
 }
 .settings:hover {

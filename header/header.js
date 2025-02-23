@@ -1,6 +1,6 @@
 import localization from "../localization/localizationData.js";
 import getLanguage from "../localization/localizationUtils.js";
-import languageButtonChange from "../languageModule/languageButtonChange.js";
+import languageLogo from "../languageModule/languageLogo.js";
 
 const headerCreate = () => {
     
@@ -10,7 +10,9 @@ const headerCreate = () => {
         <header class="header">
 
             <div class="header__item lang">
-                <img src="${languageButtonChange()}" class="settings" alt="language picture"/>
+
+                <div class="settings-container">${languageLogo()}</div>
+                
                 <div class="slide-menu slide-menu_deactive">
 
                     <nav class="slide-menu-container">
@@ -44,7 +46,7 @@ const headerCreate = () => {
                 <div class="logo-container">
 
                     <img src="./assets/images/lunarOracleLoge.png" alt="logo picture" class="logo-container__image">
-                    <h1 class="logo-container__title">Luora</h1>
+                    <h1 class="logo-container__title">Luory</h1>
 
                 </div>
 
