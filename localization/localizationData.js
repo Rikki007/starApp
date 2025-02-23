@@ -229,7 +229,7 @@ const localization = {
             }
         ],
 
-        lunarZodiac: [
+        "lunarZodiac": [
 
             {
               "name": "Aries",
@@ -537,7 +537,7 @@ const localization = {
 
         ],
 
-        lunarZodiac: [
+        "lunarZodiac": [
 
             {
                 "name": "Овен",
@@ -845,7 +845,7 @@ const localization = {
 
         ],
 
-        lunarZodiac: [
+        "lunarZodiac": [
 
             {
                 "name": "Beran",

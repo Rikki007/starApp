@@ -1,6 +1,9 @@
-import lunarZodiac from "./lunarZodiac.js";
+import localization from "../localization/localizationData.js";
+import getLanguage from "../localization/localizationUtils.js";
 
 const lunarZodiacCreate = () => {
+  const lang = getLanguage();
+  const lunarZodiac = localization[lang].lunarZodiac;
   return lunarZodiac.map(item => {
     return `
       <div class="zodiac-block__wrapper">

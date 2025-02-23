@@ -1,4 +1,3 @@
-import preloader from "../preloader/preloader.js";
 import updateLunarPhase from "./lunar.js";
 
 const lunarAction = () => {

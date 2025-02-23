@@ -1,24 +1,28 @@
 import prewiev from "./preview.js";
-import lunarInfo from "./lunarInfo.js";
 import calculateLunarDay from "./lunarDay.js";
-import lunarZodiac from "./lunarZodiac.js";
 import lunarZodiacCreate from "./lunarZodiacCreator.js";
+import localization from "../localization/localizationData.js";
+import getLanguage from "../localization/localizationUtils.js";
 
 
 function updateLunarPhase() {
+
   const date = new Date();
   const lunarDay = calculateLunarDay(date);
   const main = document.querySelector('.main');
+  const lang = getLanguage();
+  const lunarSection = localization[lang].lunar;
+  const lunarInfo = localization[lang].lunarInfo;
 
   main.innerHTML = `
     <section class="lunar-section">
 
-      <h2 class="lunar-section__title">Lunar phases</h2>
+      <h2 class="lunar-section__title">${lunarSection.lunarSectionTitle}</h2>
 
       <div class="cycle-block">
 
-        <p class="cycle-block__offer">If you want to see all lunar cycle, press the button.</p>
-        <button class="cycle-block__preview navbar__item">lunar cycle</button>
+        <p class="cycle-block__offer">${lunarSection.cycleBlockOffer}.</p>
+        <button class="cycle-block__preview navbar__item">${lunarSection.cycleBlockPreview}</button>
 
       </div>
       

@@ -1,9 +1,10 @@
-import lunarInfo from "./lunarInfo.js";
+import localization from "../localization/localizationData.js";
 
 const prewiev = () => {
   const prewievButton = document.querySelector(".cycle-block__preview");
   const moonImage = document.querySelector(".moon");
   const preloader = document.querySelector(".loader-container");
+  const lunarInfo = localization.en.lunarInfo;
 
   prewievButton.addEventListener('click', () => {
 
