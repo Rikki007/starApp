@@ -45,7 +45,7 @@ const headerCreate = () => {
             <div class="header__item content">
                 <div class="logo-container">
 
-                    <img src="./assets/images/lunarOracleLoge.png" alt="logo picture" class="logo-container__image">
+                    <img src="./assets/images/lunarOracleLogo.png" alt="logo picture" class="logo-container__image">
                     <h1 class="logo-container__title">Luory</h1>
 
                 </div>

@@ -11,8 +11,11 @@ const futureEvents = () => {
 
     if (lunarEvent && solarEvent && mercuryEvents) {
         return main.innerHTML = `
+
             <section class="event-section">
+
                 <h2>Future Events</h2>
+
                 <article class="event-item">
 
                     <div class="image-container">
@@ -50,12 +53,15 @@ const futureEvents = () => {
                 <article class="event-item">
 
                     <div class="image-container">
+
                         <img src="${mercuryEvents.picture}" alt="${mercuryEvents.name}" class="event-image">
+
                     </div>
 
                     <div class="event-container">
 
                         <h2 class="container__title">${mercuryEvents.name}.</h2>
+
                         <p class="container__description">
                             Retrograde Mercury is an astronomical event that occurs when Mercury, the closest planet to the Sun, appears to move backward in its orbit from Earth's perspective. This phenomenon happens three to four times a year and lasts about three weeks each time. It is an optical illusion caused by the differing orbital speeds of Earth and Mercury as they travel around the Sun. During this period, Mercury doesn't actually reverse direction but appears to do so due to the relative motion between the two planets.
 
@@ -63,6 +69,7 @@ const futureEvents = () => {
 
                             However, Mercury retrograde is not all negative. Astrologically, it is seen as a time for reflection, revisiting past projects, and reconnecting with old friends or unresolved issues. It encourages slowing down, reviewing plans, and paying attention to details. While it can be a frustrating period, it also offers an opportunity to reassess and realign with one's goals. Many people use this time to reorganize, reflect, and prepare for a fresh start once Mercury goes direct again. Despite its reputation, Mercury retrograde is a natural cycle that can be navigated with mindfulness and patience.
                         </p>
+                        
                         <h3 class="container__date">Starts from ${mercuryEvents.date} to ${mercuryEvents.end}.</h3>
 
                     </div>
@@ -72,6 +79,7 @@ const futureEvents = () => {
             </section>
         `;
     } else {
+
         main.innerHTML = `
             <section class="event-section">
                 <article class="event-item">
@@ -79,6 +87,7 @@ const futureEvents = () => {
                 </article>
             </section>
         `;
+
     }
 }
 

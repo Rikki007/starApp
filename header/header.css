@@ -85,11 +85,12 @@ body {
 }
 .logo-container {
   display: flex;
-  gap: 1rem;
+  align-items: center;
+  gap: 0.2rem;
 }
 .logo-container__image {
-  width: 4rem;
-  height: 4rem;
+  width: 5.5rem;
+  height: 5.5rem;
 }
 .navbar__list {
   display: flex;
