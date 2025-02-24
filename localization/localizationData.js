@@ -20,6 +20,7 @@ const localization = {
             "eventSectionTitle": "Events",
             "containerLocation": "Location: ",
             "containerDate": "Date: ",
+            "name": "Retrograd Mercury",
             "containerDescription": "Retrograde Mercury is an astronomical event that occurs when Mercury, the closest planet to the Sun, appears to move backward in its orbit from Earth's perspective. This phenomenon happens three to four times a year and lasts about three weeks each time. It is an optical illusion caused by the differing orbital speeds of Earth and Mercury as they travel around the Sun. During this period, Mercury doesn't actually reverse direction but appears to do so due to the relative motion between the two planets. From an astrological perspective, Mercury retrograde is often associated with communication breakdowns, technological glitches, and misunderstandings. Astrologers believe that since Mercury rules communication, travel, and technology, its retrograde motion can disrupt these areas of life. People may experience delays, miscommunications, or challenges in making decisions. It is often advised to avoid signing contracts, starting new projects, or making major purchases during this time, as plans may not unfold as expected. However, Mercury retrograde is not all negative. Astrologically, it is seen as a time for reflection, revisiting past projects, and reconnecting with old friends or unresolved issues. It encourages slowing down, reviewing plans, and paying attention to details. While it can be a frustrating period, it also offers an opportunity to reassess and realign with one's goals. Many people use this time to reorganize, reflect, and prepare for a fresh start once Mercury goes direct again. Despite its reputation, Mercury retrograde is a natural cycle that can be navigated with mindfulness and patience.",
             "containerDateStart": "Starts from ",
             "containerDateEnd": " to ",
@@ -432,6 +433,197 @@ const localization = {
             }
         ],
 
+        "solarEclipses": [
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "date": "2025-03-29"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2025-09-21"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Total Solar Eclipse",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "A total solar eclipse is one of nature's most awe-inspiring events. It happens when the Moon completely blocks the Sun, casting a shadow on Earth and plunging the area within the path of totality into temporary darkness. During this brief period, the Sun's corona—its outer atmosphere—becomes visible, creating a halo of light around the Moon. Total solar eclipses are rare and fleeting, often lasting only a few minutes, but they leave a lasting impression on those who experience them.",
+                "location": "Africa, Europe, Asia",
+                "date": "2026-08-12"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2027-02-06"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2027-08-02"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Total Solar Eclipse",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "A total solar eclipse is one of nature's most awe-inspiring events. It happens when the Moon completely blocks the Sun, casting a shadow on Earth and plunging the area within the path of totality into temporary darkness. During this brief period, the Sun's corona—its outer atmosphere—becomes visible, creating a halo of light around the Moon. Total solar eclipses are rare and fleeting, often lasting only a few minutes, but they leave a lasting impression on those who experience them.",
+                "location": "Australia, New Zealand",
+                "date": "2028-07-22"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2029-01-14"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2029-07-11"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2030-06-01"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Total Solar Eclipse",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "A total solar eclipse is one of nature's most awe-inspiring events. It happens when the Moon completely blocks the Sun, casting a shadow on Earth and plunging the area within the path of totality into temporary darkness. During this brief period, the Sun's corona—its outer atmosphere—becomes visible, creating a halo of light around the Moon. Total solar eclipses are rare and fleeting, often lasting only a few minutes, but they leave a lasting impression on those who experience them.",
+                "location": "Africa, Asia, Australia",
+                "date": "2030-11-25"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2031-05-21"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2031-11-14"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2032-05-09"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Total Solar Eclipse",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "A total solar eclipse is one of nature's most awe-inspiring events. It happens when the Moon completely blocks the Sun, casting a shadow on Earth and plunging the area within the path of totality into temporary darkness. During this brief period, the Sun's corona—its outer atmosphere—becomes visible, creating a halo of light around the Moon. Total solar eclipses are rare and fleeting, often lasting only a few minutes, but they leave a lasting impression on those who experience them.",
+                "location": "Africa, Asia, Australia",
+                "date": "2032-11-03"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2033-03-30"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2033-09-23"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Total Solar Eclipse",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "A total solar eclipse is one of nature's most awe-inspiring events. It happens when the Moon completely blocks the Sun, casting a shadow on Earth and plunging the area within the path of totality into temporary darkness. During this brief period, the Sun's corona—its outer atmosphere—becomes visible, creating a halo of light around the Moon. Total solar eclipses are rare and fleeting, often lasting only a few minutes, but they leave a lasting impression on those who experience them.",
+                "location": "Africa, Europe, Asia",
+                "date": "2034-03-20"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2034-09-12"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Annular Solar Eclipse",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "An annular solar eclipse occurs when the Moon passes between the Earth and the Sun but is too far away in its orbit to completely cover the Sun. This creates a stunning 'ring of fire' effect, where the Sun's outer edges remain visible around the silhouette of the Moon. The name 'annular' comes from the Latin word annulus, meaning 'ring.' This type of eclipse happens because the Moon's apparent diameter is smaller than the Sun's, and it's a breathtaking sight for those lucky enough to witness it.",
+                "location": "South America, Africa",
+                "date": "2035-03-09"
+            },
+
+            {
+                "type": "Solar Eclipse",
+                "name": "Partial Solar Eclipse",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "A partial solar eclipse occurs when only a portion of the Sun is obscured by the Moon, creating a crescent-shaped shadow. Unlike total or annular eclipses, the Sun is never fully covered during a partial eclipse. This type of eclipse is visible over a broader geographic area, though the effect is less dramatic. Observers must use proper eye protection to safely view the event, as even a partially eclipsed Sun can be bright enough to cause eye damage.",
+                "location": "North America, Europe, Asia",
+                "location": "North America, Europe, Asia",
+                "date": "2035-09-02"
+            }
+
+        ],
+
         "lunar": {
 
             "lunarSectionTitle": "Lunar phases",
@@ -744,6 +936,7 @@ const localization = {
             "eventSectionTitle": "События",
             "containerLocation": "Местоположение: ",
             "containerDate": "Дата: ",
+            "name": "Ретроградный Меркурий", 
             "containerDescription": "Ретроградный Меркурий - это астрономическое явление, которое происходит, когда Меркурий, ближайшая к Солнцу планета, кажется движется назад в своей орбите с точки зрения Земли. Это явление происходит три-четыре раза в год и длится около трех недель каждый раз. Это оптическая иллюзия, вызванная различной орбитальной скоростью Земли и Меркурия, когда они движутся вокруг Солнца. В этот период Меркурий на самом деле не меняет направления, но кажется, что делает это из-за относительного движения между двумя планетами. С астрологической точки зрения ретроградный Меркурий часто ассоциируется с нарушениями в общении, технологическими сбоями и недоразумениями. Астрологи считают, что поскольку Меркурий управляет общением, путешествиями и технологиями, его ретроградное движение может нарушить эти области жизни. Люди могут сталкиваться с задержками, недоразумениями или трудностями при принятии решений. Часто советуют избегать подписания контрактов, начала новых проектов или крупных покупок в это время, так как планы могут не складываться так, как ожидалось. Однако ретроградный Меркурий не всегда несет только негативные последствия. С астрологической точки зрения это время для размышлений, возвращения к прошлым проектам и восстановления связей со старыми друзьями или неразрешенными проблемами. Это способствует замедлению темпа, пересмотру планов и вниманию к деталям. Несмотря на то, что этот период может быть напряженным, он также предоставляет возможность пересмотреть и согласовать свои цели. Многие люди используют это время для реорганизации, размышлений и подготовки к новому началу, когда Меркурий снова станет директным. Несмотря на свою репутацию, ретроградный Меркурий - это естественный цикл, который можно преодолеть с осознанностью и терпением.",
             "containerDateStart": "Начинается с ",
             "containerDateEnd": " до "
@@ -914,9 +1107,171 @@ const localization = {
             
         ],
 
-        "retrogradMercuryDates": {  
-            "name": "Ретроградный Меркурий", 
-        },
+        "solarEclipses": [
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2025-03-29"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2025-09-21"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Полное солнечное затмение",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Полное солнечное затмение — одно из самых впечатляющих явлений природы. Оно происходит, когда Луна полностью закрывает Солнце, отбрасывая тень на Землю и погружая область в зону полной темноты. В этот короткий период корона Солнца — его внешняя атмосфера — становится видимой, создавая ореол света вокруг Луны. Полные солнечные затмения редки и кратковременны, часто длятся всего несколько минут, но оставляют неизгладимое впечатление на тех, кто их наблюдает.",
+                "location": "Африка, Европа, Азия",
+                "date": "2026-08-12"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2027-02-06"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2027-08-02"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Полное солнечное затмение",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Полное солнечное затмение — одно из самых впечатляющих явлений природы. Оно происходит, когда Луна полностью закрывает Солнце, отбрасывая тень на Землю и погружая область в зону полной темноты. В этот короткий период корона Солнца — его внешняя атмосфера — становится видимой, создавая ореол света вокруг Луны. Полные солнечные затмения редки и кратковременны, часто длятся всего несколько минут, но оставляют неизгладимое впечатление на тех, кто их наблюдает.",
+                "location": "Австралия, Новая Зеландия",
+                "date": "2028-07-22"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2029-01-14"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2029-07-11"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2030-06-01"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Полное солнечное затмение",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Полное солнечное затмение — одно из самых впечатляющих явлений природы. Оно происходит, когда Луна полностью закрывает Солнце, отбрасывая тень на Землю и погружая область в зону полной темноты. В этот короткий период корона Солнца — его внешняя атмосфера — становится видимой, создавая ореол света вокруг Луны. Полные солнечные затмения редки и кратковременны, часто длятся всего несколько минут, но оставляют неизгладимое впечатление на тех, кто их наблюдает.",
+                "location": "Африка, Азия, Австралия",
+                "date": "2030-11-25"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2031-05-21"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2031-11-14"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2032-05-09"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Полное солнечное затмение",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Полное солнечное затмение — одно из самых впечатляющих явлений природы. Оно происходит, когда Луна полностью закрывает Солнце, отбрасывая тень на Землю и погружая область в зону полной темноты. В этот короткий период корона Солнца — его внешняя атмосфера — становится видимой, создавая ореол света вокруг Луны. Полные солнечные затмения редки и кратковременны, часто длятся всего несколько минут, но оставляют неизгладимое впечатление на тех, кто их наблюдает.",
+                "location": "Африка, Азия, Австралия",
+                "date": "2032-11-03"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2033-03-30"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2033-09-23"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Полное солнечное затмение",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Полное солнечное затмение — одно из самых впечатляющих явлений природы. Оно происходит, когда Луна полностью закрывает Солнце, отбрасывая тень на Землю и погружая область в зону полной темноты. В этот короткий период корона Солнца — его внешняя атмосфера — становится видимой, создавая ореол света вокруг Луны. Полные солнечные затмения редки и кратковременны, часто длятся всего несколько минут, но оставляют неизгладимое впечатление на тех, кто их наблюдает.",
+                "location": "Африка, Европа, Азия",
+                "date": "2034-03-20"
+            },
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2034-09-12"
+            },
+
+            {
+                "type": "Солнечное затмение",
+                "name": "Кольцеобразное солнечное затмение",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Кольцеобразное солнечное затмение происходит, когда Луна проходит между Землей и Солнцем, но находится слишком далеко на своей орбите, чтобы полностью закрыть Солнце. Это создает эффект «огненного кольца», когда внешние края Солнца остаются видимыми вокруг силуэта Луны. Название «кольцеобразное» происходит от латинского слова annulus, что означает «кольцо». Этот тип затмения происходит из-за того, что видимый диаметр Луны меньше диаметра Солнца, и это захватывающее зрелище для тех, кому посчастливилось его увидеть.",
+                "location": "Южная Америка, Африка",
+                "date": "2035-03-09"
+            },
+
+            {
+                "type": "Солнечное затмение",
+                "name": "Частное солнечное затмение",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Частное солнечное затмение происходит, когда только часть Солнца закрыта Луной, создавая тень в форме полумесяца. В отличие от полных или кольцеобразных затмений, Солнце никогда не полностью закрыто во время частного затмения. Этот тип затмения виден на более широкой географической территории, хотя эффект менее драматичен. Наблюдатели должны использовать специальные средства защиты для глаз, чтобы безопасно наблюдать за событием, так как даже частично затменное Солнце может быть достаточно ярким, чтобы повредить глаза.",
+                "location": "Северная Америка, Европа, Азия",
+                "date": "2035-09-02"
+            }
+
+        ],  
 
         "lunar": {
 
@@ -1230,6 +1585,7 @@ const localization = {
             "eventSectionTitle": "Události",
             "containerLocation": "Místo: ",
             "containerDate": "Datum: ",
+            "name": "Retrográdní Merkur",
             "containerDescription": "Retrográdní Merkur je astronomická událost, která nastává, když se Merkur, nejbližší planeta ke Slunci, zdá, že se z pohledu Země pohybuje zpět ve své oběžné dráze. Tento jev se vyskytuje třikrát až čtyřikrát ročně a trvá přibližně tři týdny pokaždé. Jedná se o optickou iluzi způsobenou rozdílnými oběžnými rychlostmi Země a Merkuru, když cestují kolem Slunce. Během tohoto období Merkur ve skutečnosti nemění směr, ale zdá se, že tak činí kvůli relativnímu pohybu mezi dvěma planetami. Z astrologického hlediska je retrográdní Merkur často spojován s komunikačními problémy, technologickými poruchami a nedorozuměními. Astrologové věří, že protože Merkur vládne komunikaci, cestování a technologiím, jeho retrográdní pohyb může narušit tyto oblasti života. Lidé mohou zažívat zpoždění, nedorozumění nebo obtíže při rozhodování. Často se doporučuje vyhýbat se podepisování smluv, začínání nových projektů nebo dělání velkých nákupů v tomto období, protože plány nemusí probíhat podle očekávání. Nicméně retrográdní Merkur není pouze negativní. Astrologicky je vnímán jako čas pro reflexi, návrat k minulým projektům a obnovování spojení se starými přáteli nebo nevyřešenými problémy. Povzbuzuje zpomalení, revizi plánů a věnování pozornosti detailům. Přestože může být tento období frustrující, nabízí také příležitost k přehodnocení a sladění s vlastními cíli. Mnoho lidí využívá tento čas k reorganizaci, reflexi a přípravě na nový začátek, jakmile Merkur opět jde přímým směrem. Navzdory své pověsti je retrográdní Merkur přirozený cyklus, který lze překonat s uvědomělostí a trpělivostí.",
             "containerDateStart": "Začíná od ",
             "containerDateEnd": " do "
@@ -1400,9 +1756,188 @@ const localization = {
                         
         ],
 
-        "retrogradMercuryDates": {
-            "name": "Retrográdní Merkur",
-        },
+        "solarEclipses": [
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2025-03-29"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Prstencové sluneční zatmění",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové sluneční zatmění nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby Slunce zcela zakryl. To vytváří úchvatný efekt „ohnivého prstence“, kdy vnější okraje Slunce zůstávají viditelné kolem siluety Měsíce. Název „prstencové“ pochází z latinského slova annulus, což znamená „prstenec“. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají štěstí, že ji mohou vidět.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2025-09-21"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Úplné sluneční zatmění",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Úplné sluneční zatmění je jedním z nejúchvatnějších přírodních jevů. Nastává, když Měsíc zcela zakryje Slunce, vrhá stín na Zemi a ponoří oblast v dráze totality do dočasné tmy. Během této krátké doby se stává viditelná sluneční koróna – vnější atmosféra Slunce – a vytváří svatozář světla kolem Měsíce. Úplná sluneční zatmění jsou vzácná a krátkodobá, často trvají jen několik minut, ale zanechávají trvalý dojem na těch, kteří je zažijí.",
+                "location": "Afrika, Evropa, Asie",
+                "date": "2026-08-12"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2027-02-06"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Prstencové sluneční zatmění",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové sluneční zatmění nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby Slunce zcela zakryl. To vytváří úchvatný efekt „ohnivého prstence“, kdy vnější okraje Slunce zůstávají viditelné kolem siluety Měsíce. Název „prstencové“ pochází z latinského slova annulus, což znamená „prstenec“. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají štěstí, že ji mohou vidět.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2027-08-02"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Úplné sluneční zatmění",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Úplné sluneční zatmění je jedním z nejúchvatnějších přírodních jevů. Nastává, když Měsíc zcela zakryje Slunce, vrhá stín na Zemi a ponoří oblast v dráze totality do dočasné tmy. Během této krátké doby se stává viditelná sluneční koróna – vnější atmosféra Slunce – a vytváří svatozář světla kolem Měsíce. Úplná sluneční zatmění jsou vzácná a krátkodobá, často trvají jen několik minut, ale zanechávají trvalý dojem na těch, kteří je zažijí.",
+                "location": "Austrálie, Nový Zéland",
+                "date": "2028-07-22"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2029-01-14"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Prstencové sluneční zatmění",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové sluneční zatmění nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby Slunce zcela zakryl. To vytváří úchvatný efekt „ohnivého prstence“, kdy vnější okraje Slunce zůstávají viditelné kolem siluety Měsíce. Název „prstencové“ pochází z latinského slova annulus, což znamená „prstenec“. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají štěstí, že ji mohou vidět.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2029-07-11"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2030-06-01"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Úplné sluneční zatmění",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Úplné sluneční zatmění je jedním z nejúchvatnějších přírodních jevů. Nastává, když Měsíc zcela zakryje Slunce, vrhá stín na Zemi a ponoří oblast v dráze totality do dočasné tmy. Během této krátké doby se stává viditelná sluneční koróna – vnější atmosféra Slunce – a vytváří svatozář světla kolem Měsíce. Úplná sluneční zatmění jsou vzácná a krátkodobá, často trvají jen několik minut, ale zanechávají trvalý dojem na těch, kteří je zažijí.",
+                "location": "Afrika, Asie, Austrálie",
+                "date": "2030-11-25"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2031-05-21"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Prstencové sluneční zatmění",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové sluneční zatmění nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby Slunce zcela zakryl. To vytváří úchvatný efekt „ohnivého prstence“, kdy vnější okraje Slunce zůstávají viditelné kolem siluety Měsíce. Název „prstencové“ pochází z latinského slova annulus, což znamená „prstenec“. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají štěstí, že ji mohou vidět.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2031-11-14"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2032-05-09"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Úplné sluneční zatmění",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Úplné sluneční zatmění je jedním z nejúchvatnějších přírodních jevů. Nastává, když Měsíc zcela zakryje Slunce, vrhá stín na Zemi a ponoří oblast v dráze totality do dočasné tmy. Během této krátké doby se stává viditelná sluneční koróna – vnější atmosféra Slunce – a vytváří svatozář světla kolem Měsíce. Úplná sluneční zatmění jsou vzácná a krátkodobá, často trvají jen několik minut, ale zanechávají trvalý dojem na těch, kteří je zažijí.",
+                "location": "Afrika, Asie, Austrálie",
+                "date": "2032-11-03"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Částečné sluneční zatmění",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné sluneční zatmění nastává, když Měsíc zakryje pouze část Slunce, čímž vytvoří stín ve tvaru půlměsíce. Na rozdíl od úplného nebo prstencového zatmění Slunce není nikdy zcela zakryto během částečného zatmění. Tento typ zatmění je viditelný na větší geografické oblasti, i když efekt je méně dramatický. Pozorovatelé musí používat vhodnou ochranu očí, aby mohli událost bezpečně sledovat, protože i částečně zakryté Slunce může být dostatečně jasné, aby poškodilo zrak.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2033-03-30"
+            },
+
+            {
+                "type": "Sluneční zatmění",
+                "name": "Prstencové sluneční zatmění",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové sluneční zatmění nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby Slunce zcela zakryl. To vytváří úchvatný efekt „ohnivého prstence“, kdy vnější okraje Slunce zůstávají viditelné kolem siluety Měsíce. Název „prstencové“ pochází z latinského slova annulus, což znamená „prstenec“. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají štěstí, že ji mohou vidět.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2033-09-23"
+            },
+
+            {
+                "type": "Solární zatmění",
+                "name": "Úplné zatmění Slunce",
+                "picture": "./assets/images/events/totalSolarEclipse.png",
+                "description": "Úplné zatmění Slunce je jednou z nejúžasnějších událostí v přírodě. Nastává, když Měsíc úplně zakryje Slunce, vrhá stín na Zemi a ponořuje oblast v cestě totality do dočasné tmy. Během tohoto krátkého období se stává viditelnou koróna Slunce – jeho vnější atmosféra, vytvářející halo světla kolem Měsíce. Úplná zatmění Slunce jsou vzácná a krátká, často trvají jen několik minut, ale zanechávají trvalý dojem na ty, kteří je zažijí.",
+                "location": "Afrika, Evropa, Asie",
+                "date": "2034-03-20"
+            },
+
+            {
+                "type": "Solární zatmění",
+                "name": "Částečné zatmění Slunce",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné zatmění Slunce nastává, když Měsíc zakryje pouze část Slunce, což vytváří stín ve tvaru srpku. Na rozdíl od úplného nebo prstencového zatmění není Slunce během částečného zatmění nikdy zcela zakryto. Tento typ zatmění je viditelný na širším území, přestože je jeho efekt méně dramatický. Pozorovatelé musí používat správnou oční ochranu, aby bezpečně sledovali událost, protože i částečně zakryté Slunce může být dostatečně jasné, aby způsobilo poškození zraku.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2034-09-12"
+            },
+
+            {
+                "type": "Solární zatmění",
+                "name": "Prstencové zatmění Slunce",
+                "picture": "./assets/images/events/annularSolarEclips.png",
+                "description": "Prstencové zatmění Slunce nastává, když Měsíc prochází mezi Zemí a Sluncem, ale je příliš daleko na své oběžné dráze, aby úplně zakryl Slunce. Vytváří tak úžasný efekt 'ohnivého kruhu', kdy zůstávají viditelné vnější okraje Slunce kolem siluety Měsíce. Název 'prstencové' pochází z latinského slova annulus, což znamená 'prsten'. Tento typ zatmění nastává, protože zdánlivý průměr Měsíce je menší než průměr Slunce, a je to dechberoucí podívaná pro ty, kteří mají to štěstí být svědky.",
+                "location": "Jižní Amerika, Afrika",
+                "date": "2035-03-09"
+            },
+
+            {
+                "type": "Solární zatmění",
+                "name": "Částečné zatmění Slunce",
+                "picture": "./assets/images/events/partialSolarEclipse.jpg",
+                "description": "Částečné zatmění Slunce nastává, když Měsíc zakryje pouze část Slunce, což vytváří stín ve tvaru srpku. Na rozdíl od úplného nebo prstencového zatmění není Slunce během částečného zatmění nikdy zcela zakryto. Tento typ zatmění je viditelný na širším území, přestože je jeho efekt méně dramatický. Pozorovatelé musí používat správnou oční ochranu, aby bezpečně sledovali událost, protože i částečně zakryté Slunce může být dostatečně jasné, aby způsobilo poškození zraku.",
+                "location": "Severní Amerika, Evropa, Asie",
+                "date": "2035-09-02"
+            }
+            
+        ],
 
         "lunar": {
 

@@ -1,9 +1,19 @@
-import lunarEclipses from "./LunarEclipses.js";
-import solarEclipses from "./solarEclipses.js";
+import localization from "../localization/localizationData.js";
+import getLanguage from "../localization/localizationUtils.js";
+
+// import lunarEclipses from "./LunarEclipses.js";
+// import solarEclipses from "./solarEclipses.js";
 import dateFilter from "./dateFilter.js";
-import retrogradMercuryDates from "./retrogradMercury.js";
+// import retrogradMercuryDates from "./retrogradMercury.js";
 
 const futureEvents = () => {
+
+    const lang = getLanguage();
+    const lunarEclipses = localization[lang].lunarEclipses;
+    const solarEclipses =  localization[lang].solarEclipses;
+    const retrogradMercuryDates = localization.en.retrogradMercuryDates;
+    const eventTitles = localization[lang].futureEvents;
+
     const lunarEvent = dateFilter(lunarEclipses);
     const solarEvent = dateFilter(solarEclipses);
     const mercuryEvents = dateFilter(retrogradMercuryDates);
@@ -14,7 +24,7 @@ const futureEvents = () => {
 
             <section class="event-section">
 
-                <h2 class="event-section__title">Events</h2>
+                <h2 class="event-section__title">${eventTitles.eventSectionTitle}</h2>
 
                 <article class="event-item">
 
@@ -26,8 +36,8 @@ const futureEvents = () => {
 
                         <h2 class="container__title">${lunarEvent.name}.</h2>
                         <p class="container__description">${lunarEvent.description}.</p>
-                        <h3 class="container__location">Location: ${lunarEvent.location}.</h3>
-                        <h3 class="container__date">Date: ${lunarEvent.date}.</h3>
+                        <h3 class="container__location">${eventTitles.containerLocation} ${lunarEvent.location}.</h3>
+                        <h3 class="container__date">${eventTitles.containerDate} ${lunarEvent.date}.</h3>
 
                     </div>
                     
@@ -43,8 +53,8 @@ const futureEvents = () => {
 
                         <h2 class="container__title">${solarEvent.name}.</h2>
                         <p class="container__description">${solarEvent.description}.</p>
-                        <h3 class="container__location">Location: ${solarEvent.location}.</h3>
-                        <h3 class="container__date">Date: ${solarEvent.date}.</h3>
+                        <h3 class="container__location">${eventTitles.containerLocation} ${solarEvent.location}.</h3>
+                        <h3 class="container__date">${eventTitles.containerDate} ${solarEvent.date}.</h3>
 
                     </div>
                     
@@ -60,13 +70,11 @@ const futureEvents = () => {
 
                     <div class="event-container">
 
-                        <h2 class="container__title">${mercuryEvents.name}.</h2>
+                        <h2 class="container__title">${eventTitles.name}.</h2>
 
-                        <p class="container__description">
-                            
-                        </p>
+                        <p class="container__description">${eventTitles.containerDescription}</p>
 
-                        <h3 class="container__date">Starts from ${mercuryEvents.date} to ${mercuryEvents.end}.</h3>
+                        <h3 class="container__date">${eventTitles.containerDateStart} ${mercuryEvents.date} ${eventTitles.containerDateEnd} ${mercuryEvents.end}.</h3>
 
                     </div>
                     
