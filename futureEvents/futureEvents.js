@@ -1,10 +1,7 @@
 import localization from "../localization/localizationData.js";
 import getLanguage from "../localization/localizationUtils.js";
-
-// import lunarEclipses from "./LunarEclipses.js";
-// import solarEclipses from "./solarEclipses.js";
 import dateFilter from "./dateFilter.js";
-// import retrogradMercuryDates from "./retrogradMercury.js";
+
 
 const futureEvents = () => {
 
