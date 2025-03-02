@@ -30,7 +30,7 @@ function updateLunarPhase() {
 
         <div class="phase-block__image">
 
-          <img src="./assets/images/moon/${lunarInfo[lunarDay].photo}" alt="picture of moon" class="moon">
+          <img src="./assets/images/moon/${lunarInfo[lunarDay].photo}" alt="picture of moon" class="moon" data-day=${lunarInfo[lunarDay].day}>
 
         </div>
 

@@ -14,7 +14,7 @@ const prewiev = () => {
         behavior: 'smooth',
         block: 'start',
       });
-    const startDay = +(moonImage.src.slice(-6, -4));
+    const startDay = parseInt(moonImage.dataset.day, 10);
     let currentIndex = startDay;
 
     const loadImages = () => {
