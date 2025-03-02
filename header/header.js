@@ -8,6 +8,36 @@ const headerCreate = () => {
 
     return `
         <header class="header">
+            
+            <div class="header__item content">
+                <div class="logo-container">
+
+                    <img src="./assets/images/lunarOracleLogo.png" alt="logo picture" class="logo-container__image">
+                    <h1 class="logo-container__title">Luory</h1>
+
+                </div>
+
+                <nav class="navbar">
+
+                    <ul class="navbar__list">
+
+                        <li class="navbar__item moon-position">
+                            ${localization[lang].header.buttons.position}
+                        </li>
+                        <li class="navbar__item future-events">
+                            ${localization[lang].header.buttons.events}
+                        </li>
+                        <li class="navbar__item zodiac-description">
+                            ${localization[lang].header.buttons.zodiac}
+                        </li>
+                        <li class="navbar__item horoscope">
+                            ${localization[lang].header.buttons.horoscope}
+                        </li>
+                        
+                    </ul>
+
+                </nav>
+            </div>
 
             <div class="header__item lang">
 
@@ -40,36 +70,6 @@ const headerCreate = () => {
 
                 </div>
 
-            </div>
-            
-            <div class="header__item content">
-                <div class="logo-container">
-
-                    <img src="./assets/images/lunarOracleLogo.png" alt="logo picture" class="logo-container__image">
-                    <h1 class="logo-container__title">Luory</h1>
-
-                </div>
-
-                <nav class="navbar">
-
-                    <ul class="navbar__list">
-
-                        <li class="navbar__item moon-position">
-                            ${localization[lang].header.buttons.position}
-                        </li>
-                        <li class="navbar__item future-events">
-                            ${localization[lang].header.buttons.events}
-                        </li>
-                        <li class="navbar__item zodiac-description">
-                            ${localization[lang].header.buttons.zodiac}
-                        </li>
-                        <li class="navbar__item horoscope">
-                            ${localization[lang].header.buttons.horoscope}
-                        </li>
-                        
-                    </ul>
-
-                </nav>
             </div>
             
 
