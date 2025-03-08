@@ -38,6 +38,7 @@ const prewiev = () => {
 
       const interval = setInterval(() => {
         currentIndex = (currentIndex + 1) % lunarInfo.length;
+        
         const currentLunar = lunarInfo[currentIndex];
         moonImage.src = `./assets/images/moon/${currentLunar.photo}`;
 
