@@ -1,4 +1,4 @@
-import { zodiacDescription } from "../zodiacDescription/zodiacDescription.js";
+import zodiacDescription from "../zodiacDescription/zodiacDescription.js";
 
 const horoscope = () => {
     const main = document.querySelector(".main");

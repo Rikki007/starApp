@@ -12,9 +12,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <button class="sign-elements__item" name="aries">Aries</button>
-                    <button class="sign-elements__item" name="leo">Leo</button>
-                    <button class="sign-elements__item" name="sagittarius">Sagittarius</button>
+                    <button class="sign-elements__item" data-sign="aries">Aries</button>
+                    <button class="sign-elements__item" data-sign="leo">Leo</button>
+                    <button class="sign-elements__item" data-sign="sagittarius">Sagittarius</button>
                 </div>
             </div>
 
@@ -28,9 +28,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <button class="sign-elements__item" name="cancer">Cancer</button>
-                    <button class="sign-elements__item" name="scorpio">Scorpio</button>
-                    <button class="sign-elements__item" name="pisces">Pisces</button>
+                    <button class="sign-elements__item" data-sign="cancer">Cancer</button>
+                    <button class="sign-elements__item" data-sign="scorpio">Scorpio</button>
+                    <button class="sign-elements__item" data-sign="pisces">Pisces</button>
                 </div>
             </div>
         
@@ -44,9 +44,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <button class="sign-elements__item" name="taurus">Taurus</button>
-                    <button class="sign-elements__item" name="virgo">Virgo</button>
-                    <button class="sign-elements__item" name="capricorn">Capricorn</button>
+                    <button class="sign-elements__item" data-sign="taurus">Taurus</button>
+                    <button class="sign-elements__item" data-sign="virgo">Virgo</button>
+                    <button class="sign-elements__item" data-sign="capricorn">Capricorn</button>
                 </div>
             </div>
 
@@ -60,9 +60,9 @@ const zodiacListCreate = () => {
                 </div>
                 
                 <div class="sign-elements-list">
-                    <button class="sign-elements__item" name="gemini">Gemini</button>
-                    <button class="sign-elements__item" name="libra">Libra</button>
-                    <button class="sign-elements__item" name="aquarius">Aquarius</button>
+                    <button class="sign-elements__item" data-sign="gemini">Gemini</button>
+                    <button class="sign-elements__item" data-sign="libra">Libra</button>
+                    <button class="sign-elements__item" data-sign="aquarius">Aquarius</button>
                 </div>
             </div>
         </div>
