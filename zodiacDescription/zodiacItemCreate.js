@@ -1,3 +1,5 @@
+import perksDevide from "./perksDevide.js";
+
 const zodiacItemCreate = (signUnit) => {
 
     return `
@@ -27,17 +29,52 @@ const zodiacItemCreate = (signUnit) => {
           <p class="common-description__data">${signUnit.description.mythology.main}</p>
 
           <div class="myth-wrapper">
-            <h4 class="sign__title">${signUnit.description.mythology.branch1.title}</h4>
+            <h3 class="sign__title">${signUnit.description.mythology.branch1.title}</h3>
             <p class="common-description__data">${signUnit.description.mythology.branch1.description}</p>
             <img src="${signUnit.description.mythology.branch1.pic}" class="common-description__pic" alt="picture"/>
           </div>
 
           <div class="myth-wrapper">
-            <h4 class="sign__title">${signUnit.description.mythology.branch2.title}</h4>
+            <h3 class="sign__title">${signUnit.description.mythology.branch2.title}</h3>
             <img src="${signUnit.description.mythology.branch2.pic}" class="common-description__pic" alt="picture"/>
             <p class="common-description__data">${signUnit.description.mythology.branch2.description}</p>
           </div>
 
+          <div class="perks">${perksDevide(signUnit.description.facts)}</div>
+
+        </div>
+
+        <div class="common-description-wrapper">
+          <h3 class="sign__title">Детство</h3>
+          <p class="common-description__data">${signUnit.childhood.description}</p>
+          <div class="perks">${perksDevide(signUnit.childhood.perks)}</div>
+        </div>
+
+        <div class="common-description-wrapper">
+          <h3 class="sign__title">Школьные годы</h3>
+          <p class="common-description__data">${signUnit.schoolboy.description}</p>
+          <div class="perks">${perksDevide(signUnit.schoolboy.inclinations)}</div>
+          <div class="perks">${perksDevide(signUnit.schoolboy.perks)}</div>
+        </div>
+
+        <div class="common-description-wrapper">
+          <h3 class="sign__title"></h3>
+          <p class="common-description__data"></p>
+          <div class="perks"></div>
+        </div>
+
+        <div class="common-description-wrapper">
+          <h3 class="sign__title"></h3>
+          <p class="common-description__data"></p>
+          <div class="perks"></div>
+        </div>
+
+        <div class="common-description-wrapper">
+          <h3 class="sign__title"></h3>
+          <p class="common-description__data"></p>
+          <div class="perks"></div>
+          <div class="perks"></div>
+          <div class="perks"></div>
         </div>
       
       <div/>
