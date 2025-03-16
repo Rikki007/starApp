@@ -62,115 +62,58 @@
     color: black;
     border: white;
     box-shadow: 5px 3px 3px black;
-  }
-  .sign-description {
-    width: 100%;
-    margin-bottom: 2.5rem;
 }
 .description-container {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-
-.section-title {
-    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1rem;
-}
-.section-main {
-    width: 100%;
-    display: flex;
-    gap: 1rem;
-}
-.section-main__pic {
-    width: 40%;
-    height: 40%;
-    min-width: 25rem;
-    border-radius: 2rem;
-}
-.section-main-info {
-    width: 60%;
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-
-.info-gems {
-    width: 100%;
-    display: flex;
     gap: 2rem;
 }
-.info-gem {
-    width: 100%;
+.title-wrapper {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
     align-items: center;
-}
-.info-gem__image {
-    width: 80%;
-    height: 80%;
-    min-width: 10rem;
-    border-radius: 2rem;
-}
-.info-qualities {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
     gap: 1rem;
 }
-.qualities-wrapper {
+.common-description-wrapper {
+    width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
     align-items: center;
-}
-.section-planets-relationships {
-    width: 100%;
-    display: flex;
-    gap: 1.5rem;
-}
-.planets-info {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-.planets-info-unit {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
-}
-.section-planets__image {
-    width: 40%;
-    height: 40%;
-    min-width: 25rem;
-    border-radius: 2rem;
-}
-.section-relations {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}
-.section-relations-item {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
-}
-.section-professions-selebrities {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-.persons-list {
-    width: 100%;
-    display: flex;
     gap: 2rem;
 }
-.persons-list-item {
+.pic-disc {
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+}
+.common-description__pic {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 4rem;
+}
+.common-info-container {
     display: flex;
     flex-direction: column;
+    gap: 1rem;
+}
+.perks {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.perk-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+.myth-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+.start-wrapper {
+    align-items: flex-start;
 }
