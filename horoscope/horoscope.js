@@ -1,4 +1,5 @@
 import zodiacDescription from "../zodiacDescription/zodiacDescription.js";
+import predictionRequest from "./predictionRequest.js";
 
 const horoscope = () => {
     const main = document.querySelector(".main");
@@ -11,13 +12,14 @@ const horoscope = () => {
                         <div class="sign-block">
                             <h2 class="sign-block__title">${item.name}</h2>
                             <img src="${item.sign}" class="sign-block__image"/>
-                            <button class="sign-block__button navbar__item" name="${item.name}">request horoscope</button>
+                            <button class="sign-block__button navbar__item" data-sign="${item.className}">request horoscope</button>
                         </div>
                     `
                 }).join('')
             }   
         </section>
     ` 
+    predictionRequest();
 }
 
 export default horoscope;
