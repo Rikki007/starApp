@@ -12,7 +12,7 @@ const horoscope = () => {
                         <div class="sign-block">
                             <h2 class="sign-block__title">${item.name}</h2>
                             <img src="${item.sign}" class="sign-block__image"/>
-                            <button class="sign-block__button navbar__item" data-sign="${item.className}">request horoscope</button>
+                            <button class="sign-block__button navbar__item" data-sign="${item.className}" type="button">request horoscope</button>
                         </div>
                     `
                 }).join('')
