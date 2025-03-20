@@ -13,8 +13,9 @@
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 2rem;
+    box-shadow: 3px 3px 3px 4px black;
 }
 .sign-block__image {
     width: 70%;
@@ -57,7 +58,7 @@
     border: none;
     cursor: pointer;
     border-radius: 0.4rem;
-    box-shadow: 2px 2px 4px black;
+    box-shadow: 3px 3px 3px 4px black;
     transition: 0.2s;
 }
 .back-button:hover {

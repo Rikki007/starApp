@@ -1,3 +1,5 @@
+import windowCloser from "./windowCloser.js";
+
 const predictionWindow = (sign, data) => {
     const depricationSection = document.querySelector(".deprication-section");
     depricationSection.innerHTML = `
@@ -12,6 +14,7 @@ const predictionWindow = (sign, data) => {
             </div>
         </div>
     `
+    windowCloser(depricationSection);
 }
 
 export default predictionWindow;
