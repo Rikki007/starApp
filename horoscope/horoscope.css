@@ -23,3 +23,58 @@
 .sign-block__button {
     color: white;
 }
+.back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.822);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.window {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1rem;
+    max-width: 60vw;
+    background: linear-gradient(to right, #371a44, #1b4f72);
+    padding: 4.5rem;
+    border-radius: 2rem;
+}
+.back-button {
+    position: absolute;
+    padding: 0;
+    top: 1.5rem;
+    right: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.4rem;
+    box-shadow: 2px 2px 4px black;
+    transition: 0.2s;
+}
+.back-button:hover {
+    transform: scale(1.1);
+}
+.line {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 2.5rem;
+    height: 2px;
+    transform-origin: center;
+    background-color: white;
+}
+.line1 {
+    transform: translate(-50%, -50%) rotate(-45deg);
+}
+.line2 {
+    transform: translate(-50%, -50%) rotate(45deg);
+}

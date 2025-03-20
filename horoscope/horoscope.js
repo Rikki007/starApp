@@ -4,6 +4,7 @@ import predictionRequest from "./predictionRequest.js";
 const horoscope = () => {
     const main = document.querySelector(".main");
     main.innerHTML = `
+        <section class="deprication-section"></section>
         <section class="horoscope-section">
             ${
                 zodiacDescription.map((item) => {

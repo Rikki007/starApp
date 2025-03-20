@@ -1,4 +1,5 @@
 body {
+  position: relative;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
   background: linear-gradient(to right, #371a44, #1b4f72);
@@ -9,7 +10,7 @@ body {
   width: 94vw;
   max-width: 90rem;
   margin: 0 auto;
-  margin-top: 1.5rem;
+  padding-top: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: flex-start;
