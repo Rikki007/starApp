@@ -9,10 +9,12 @@ import "./lunarModule/sliderLogic.js";
 import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
 import preloader from "./preloader/preloader.js";
 import languageAction from "./languageModule/languageAction.js";
+import burgerShow from "./header/burgerShow.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', preloader());
     appBody.insertAdjacentHTML('afterbegin', headerCreate());
+    burgerShow();
     appBody.insertAdjacentHTML('beforeend', mainCreate());
     appBody.insertAdjacentHTML('beforeend', footerCreate());
     futureEventsAction();

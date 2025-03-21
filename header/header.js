@@ -17,7 +17,18 @@ const headerCreate = () => {
 
                 </div>
 
-                <nav class="navbar">
+                <button class="burger-button">
+                    <span class="burger-line line-first"></span>
+                    <span class="burger-line line-second"></span>
+                    <span class="burger-line line-third"></span>
+                </button>
+
+                <nav class="navbar navbar-close">
+
+                    <button class="back-button navbtn">
+                        <span class="line line1"></span>
+                        <span class="line line2"></span>
+                    </button>
 
                     <ul class="navbar__list">
 

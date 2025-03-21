@@ -7,6 +7,7 @@ body {
   margin: 0 auto;
 }
 .header {
+  position: relative;
   width: 94vw;
   max-width: 90rem;
   margin: 0 auto;
@@ -72,14 +73,14 @@ body {
   width: 95%;
 }
 .settings-container {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 3rem;
+  height: 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .settings {
-  width: 100%;
+  width: 3rem;
   transition: 0.3s;
 }
 .settings:hover {
@@ -113,4 +114,60 @@ body {
   color: black;
   border: white;
   box-shadow: 5px 3px 3px black;
+}
+.navbtn {
+  display: none;
+}
+
+@media screen and (max-width: 950px) {
+  .burger-button {
+    position: relative;
+    width: 3rem;
+    height: 3rem;
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+  }
+  .burger-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: white;
+  }
+  .line-first {
+    transform: translateY(0.7rem);
+  }
+  .line-second {
+    transform: translateY(1.4rem);
+  }
+  .line-third {
+    transform: translateY(2.1rem);
+  }
+  .navbar {
+    position: absolute;
+    top: 2rem;
+    right: 4rem;
+    transition: 0.3s;
+  }
+  .navbtn {
+    display: block;
+  }
+  .navbar-close {
+    transform: translateY(-110%);
+  }
+  .navbar__list {
+    margin: 0;
+    padding: 6rem 2rem 2rem 2rem;
+    flex-direction: column;
+    background: linear-gradient(to right, #371a44, #1b4f72);
+    border-radius: 2rem;
+    box-shadow: 8px 5px 5px black, -1px -1px black;
+  }
+  .navbar__item {
+    padding: 1rem 1.5rem;
+    font-size: 1.5rem;
+  }
+
 }

@@ -61,9 +61,6 @@
     box-shadow: 3px 3px 3px 4px black;
     transition: 0.2s;
 }
-.back-button:hover {
-    transform: scale(1.1);
-}
 .line {
     position: absolute;
     top: 50%;
@@ -72,10 +69,21 @@
     height: 2px;
     transform-origin: center;
     background-color: white;
+    transition: 0.2s;
 }
 .line1 {
     transform: translate(-50%, -50%) rotate(-45deg);
 }
 .line2 {
     transform: translate(-50%, -50%) rotate(45deg);
+}
+.back-button:hover {
+    transform: scale(1.1);
+    background-color: white;
+}
+.back-button:hover .line1 {
+    background-color: black;
+}
+.back-button:hover .line2 {
+    background-color: black;
 }

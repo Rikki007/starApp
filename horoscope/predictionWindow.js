@@ -5,7 +5,7 @@ const predictionWindow = (sign, data) => {
     depricationSection.innerHTML = `
         <div class="back">
             <div class="window">
-                <button class="back-button">
+                <button class="back-button predWin">
                     <span class="line line1"></span>
                     <span class="line line2"></span>
                 </button>
