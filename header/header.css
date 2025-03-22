@@ -24,7 +24,7 @@ body {
 }
 .lang {
   position: relative;
-  width: 5%;
+  width: 3rem;
   display: flex;
   justify-content: center;
   cursor: pointer;
@@ -95,6 +95,9 @@ body {
   width: 5.5rem;
   height: 5.5rem;
 }
+.burger-button {
+  display: none;
+}
 .navbar__list {
   display: flex;
   gap: 2rem;
@@ -115,12 +118,13 @@ body {
   border: white;
   box-shadow: 5px 3px 3px black;
 }
-.navbtn {
-  display: none;
-}
 
 @media screen and (max-width: 950px) {
+  .header {
+    padding-top: 0;
+  }
   .burger-button {
+    display: block;
     position: relative;
     width: 3rem;
     height: 3rem;
@@ -147,19 +151,16 @@ body {
   }
   .navbar {
     position: absolute;
-    top: 2rem;
-    right: 4rem;
+    top: 6.7rem;
+    right: 0;
     transition: 0.3s;
   }
-  .navbtn {
-    display: block;
-  }
   .navbar-close {
-    transform: translateY(-110%);
+    transform: translateY(-130%);
   }
   .navbar__list {
     margin: 0;
-    padding: 6rem 2rem 2rem 2rem;
+    padding: 2rem;
     flex-direction: column;
     background: linear-gradient(to right, #371a44, #1b4f72);
     border-radius: 2rem;
@@ -167,7 +168,39 @@ body {
   }
   .navbar__item {
     padding: 1rem 1.5rem;
-    font-size: 1.5rem;
+    box-shadow: none;
   }
+}
 
+@media screen and (max-width: 400px) {
+  .logo-container__image {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  .burger-button {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .line-first {
+    transform: translateY(0.6rem);
+  }
+  .line-second {
+    transform: translateY(1.2rem);
+  }
+  .line-third {
+    transform: translateY(1.8rem);
+  }
+  .settings-container {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .settings {
+    width: 2.5rem;
+  }
+}
+
+@media (hover:hover) {
+  .element {
+    pointer-events: none;
+  }
 }

@@ -25,11 +25,6 @@ const headerCreate = () => {
 
                 <nav class="navbar navbar-close">
 
-                    <button class="back-button navbtn">
-                        <span class="line line1"></span>
-                        <span class="line line2"></span>
-                    </button>
-
                     <ul class="navbar__list">
 
                         <li class="navbar__item moon-position">
