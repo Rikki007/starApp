@@ -4,13 +4,9 @@ const languageMenuCreate = () => {
         const languageButton = document.querySelector('.lang');
         const slideMenu = document.querySelector('.slide-menu');
       
-        const toggleMenu = () => {
-          slideMenu.classList.toggle('slide-menu_deactive');
-        };
-      
         languageButton.addEventListener('click', (event) => {
           event.stopPropagation();
-          toggleMenu();
+          slideMenu.classList.toggle('slide-menu_deactive');
         });
       
         document.addEventListener('click', (event) => {
