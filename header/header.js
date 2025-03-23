@@ -27,16 +27,16 @@ const headerCreate = () => {
 
                     <ul class="navbar__list">
 
-                        <li class="navbar__item moon-position">
+                        <li class="navbar__item head-list moon-position">
                             ${localization[lang].header.buttons.position}
                         </li>
-                        <li class="navbar__item future-events">
+                        <li class="navbar__item head-list future-events">
                             ${localization[lang].header.buttons.events}
                         </li>
-                        <li class="navbar__item zodiac-description">
+                        <li class="navbar__item head-list zodiac-description">
                             ${localization[lang].header.buttons.zodiac}
                         </li>
-                        <li class="navbar__item horoscope">
+                        <li class="navbar__item head-list horoscope">
                             ${localization[lang].header.buttons.horoscope}
                         </li>
                         

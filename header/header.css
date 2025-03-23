@@ -66,7 +66,7 @@ body {
   transition: 0.3s;
   cursor: pointer;
 }
-.container-list-item:hover {
+.container-list-item:hover, .container-list-item:focus {
   border: 1px solid white;
 }
 .content {
@@ -83,7 +83,7 @@ body {
   width: 3rem;
   transition: 0.3s;
 }
-.settings:hover {
+.settings:hover, .settings:focus {
   scale: 1.05;
 }
 .logo-container {
@@ -112,10 +112,9 @@ body {
   cursor: pointer;
   transition: 0.3s;
 }
-.navbar__item:hover {
+.navbar__item:hover, .navbar__item:focus {
   background: white;
   color: black;
-  border: white;
   box-shadow: 5px 3px 3px black;
 }
 
@@ -166,7 +165,7 @@ body {
     border-radius: 2rem;
     box-shadow: 8px 5px 5px black, -1px -1px black;
   }
-  .navbar__item {
+  .head-list {
     padding: 1rem 1.5rem;
     box-shadow: none;
   }
@@ -199,8 +198,16 @@ body {
   }
 }
 
-@media (hover:hover) {
-  .element {
-    pointer-events: none;
+@media (hover: none) and (pointer: coarse) {
+  .container-list-item:hover {
+    border: 1px solid transparent;
+  }
+  .settings:hover {
+    scale: 1;
+  }
+  .navbar__item:hover {
+    background: transparent;
+    color: white;
+    box-shadow: 8px 5px 5px black, -1px -1px black;
   }
 }
