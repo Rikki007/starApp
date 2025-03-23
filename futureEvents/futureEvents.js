@@ -33,7 +33,6 @@ const futureEvents = () => {
 
                         <h2 class="container__title">${lunarEvent.name}.</h2>
                         <p class="container__description">${lunarEvent.description}.</p>
-                        <h3 class="container__location">${eventTitles.containerLocation} ${lunarEvent.location}.</h3>
                         <h3 class="container__date">${eventTitles.containerDate} ${lunarEvent.date}.</h3>
 
                     </div>
