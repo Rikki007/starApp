@@ -1,4 +1,4 @@
-import appBody from "./logReg/body.js";
+import appBody from "./body.js";
 import headerCreate from "./header/header.js";
 import mainCreate from "./main/main.js";
 import footerCreate from "./footer/footer.js";
