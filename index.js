@@ -5,7 +5,6 @@ import footerCreate from "./footer/footer.js";
 import futureEventsAction from "./futureEvents/futureEventsAction.js";
 import lunarAction from "./lunarModule/lunarAction.js";
 import horoscopeAction from "./horoscope/horoscopeAction.js";
-import "./lunarModule/sliderLogic.js";
 import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
 import preloader from "./preloader/preloader.js";
 import languageAction from "./languageModule/languageAction.js";

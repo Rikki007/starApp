@@ -1,6 +1,5 @@
 import prewiev from "./preview.js";
 import calculateLunarDay from "./lunarDay.js";
-import lunarZodiacCreate from "./lunarZodiacCreator.js";
 import localization from "../localization/localizationData.js";
 import getLanguage from "../localization/localizationUtils.js";
 
@@ -21,7 +20,7 @@ function updateLunarPhase() {
 
       <div class="cycle-block">
 
-        <p class="cycle-block__offer">${lunarSection.cycleBlockOffer}.</p>
+        <p class="cycle-block__offer">${lunarSection.cycleBlockOffer}</p>
         <button class="cycle-block__preview navbar__item">${lunarSection.cycleBlockPreview}</button>
 
       </div>
@@ -35,31 +34,9 @@ function updateLunarPhase() {
         </div>
 
         <p class="phase-block__status">${lunarInfo[lunarDay].phase}</p>
-        <p class="phase-block__description">
-          ${lunarInfo[lunarDay].description}
-        </p>
 
       </div>
 
-      <div class="zodiac-block">
-        <div class="slider">${lunarZodiacCreate()}</div>
-      </div>
-
-      <div class="slider-buttons">
-
-        <div class="slider-buttons__item button__left">
-
-          <img src="./assets/animation/arrow.png" alt="arrow" class="arrow arrow__left">
-
-        </div>
-
-        <div class="slider-buttons__item button__right">
-
-          <img src="./assets/animation/arrow.png" alt="arrow" class="arrow arrow__right">
-
-        </div>
-
-      </div>
     </section>
   `
   prewiev();

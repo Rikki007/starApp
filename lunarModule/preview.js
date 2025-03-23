@@ -9,11 +9,6 @@ const prewiev = () => {
   prewievButton.addEventListener('click', () => {
 
     preloader.classList.toggle("loader-container_disable");
-    const viewArea = document.querySelector(".phase-block__image");
-      viewArea.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
-      });
     const startDay = parseInt(moonImage.dataset.day, 10);
     let currentIndex = startDay;
 
