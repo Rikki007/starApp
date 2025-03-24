@@ -3,9 +3,11 @@ const windowCloser = (section) => {
     const back = document.querySelector(".back");
     closeButton.addEventListener("click", () => {
         section.innerHTML = '';
+        document.body.classList.remove("scroll_lock");
     });
     back.addEventListener("click", () => {
         section.innerHTML = '';
+        document.body.classList.remove("scroll_lock"); 
     });
 }
 
