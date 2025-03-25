@@ -1,0 +1,234 @@
+.sign-section {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10rem;
+}
+.sign-section-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.rose {
+    position: relative;
+    max-width: 30rem;
+    max-height: 30rem;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rose-pic {
+    width: 138%;
+}
+.rose-sign {
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s;
+}
+.rose-sign:hover {
+    box-shadow: 3px 3px 2px white;
+}
+.aries-sign {
+    transform: translateY(-18rem);
+}
+.taurus-sign {
+    transform: translateY(-15rem) translateX(9.8rem);
+}
+.gemini-sign {
+    transform: translateY(-9.5rem) translateX(15.5rem);
+}
+.cancer-sign {
+    transform: translateX(18rem);
+}
+.leo-sign {
+    transform: translateY(9.5rem) translateX(15.5rem);
+}
+.virgo-sign {
+    transform: translateY(15rem) translateX(9.8rem);
+}
+.libra-sign {
+    transform: translateY(18rem);
+}
+.scorpio-sign {
+    transform: translateY(15rem) translateX(-9.8rem);
+}
+.sagittarius-sign {
+    transform: translateY(9.5rem) translateX(-15.5rem);
+}
+.capricorn-sign {
+    transform: translateX(-18rem);
+}
+.aquarius-sign {
+    transform: translateY(-9.5rem) translateX(-15.5rem); 
+}
+.pisces-sign {
+    transform: translateY(-15rem) translateX(-9.8rem);
+}
+.rose-sign-pic {
+    width: 60%;
+    height: 60%;
+    transition: 0.2s;
+}
+.rose-sign:hover .rose-sign-pic {
+    width: 63%;
+    height: 63%;
+}
+
+@media screen and (max-width: 675px) {
+
+    .sign-section {
+        margin-top: 7rem;
+    }
+    .rose {
+        max-width: 20rem;
+        max-height: 20rem;
+    }
+    .rose-sign {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+    .aries-sign {
+        transform: translateY(-13rem);
+    }
+    .taurus-sign {
+        transform: translateY(-11rem) translateX(6.8rem);
+    }
+    .gemini-sign {
+        transform: translateY(-6.5rem) translateX(11rem);
+    }
+    .cancer-sign {
+        transform: translateX(13rem);
+    }
+    .leo-sign {
+        transform: translateY(6.5rem) translateX(11rem);
+    }
+    .virgo-sign {
+        transform: translateY(11rem) translateX(6.8rem);
+    }
+    .libra-sign {
+        transform: translateY(13rem);
+    }
+    .scorpio-sign {
+        transform: translateY(11rem) translateX(-6.8rem);
+    }
+    .sagittarius-sign {
+        transform: translateY(6.5rem) translateX(-11rem);
+    }
+    .capricorn-sign {
+        transform: translateX(-13rem);
+    }
+    .aquarius-sign {
+        transform: translateY(-6.5rem) translateX(-11rem);
+    }
+    .pisces-sign {
+        transform: translateY(-11rem) translateX(-6.8rem);
+    }
+}
+
+@media screen and (max-width: 510px) {
+
+    .sign-section {
+        margin-top: 5rem;
+    }
+    .rose {
+        max-width: 15rem;
+        max-height: 15rem;
+    }
+    .rose-sign {
+        width: 3rem;
+        height: 3rem;
+    }
+    .aries-sign {
+        transform: translateY(-9.6rem);
+    }
+    .taurus-sign {
+        transform: translateY(-8.5rem) translateX(5rem);
+    }
+    .gemini-sign {
+        transform: translateY(-5rem) translateX(8.2rem);
+    }
+    .cancer-sign {
+        transform: translateX(9.6rem);
+    }
+    .leo-sign {
+        transform: translateY(5rem) translateX(8.2rem);
+    }
+    .virgo-sign {
+        transform: translateY(8.5rem) translateX(5rem);
+    }
+    .libra-sign {
+        transform: translateY(9.6rem);
+    }
+    .scorpio-sign {
+        transform: translateY(8.5rem) translateX(-5rem);
+    }
+    .sagittarius-sign {
+        transform: translateY(5rem) translateX(-8.2rem);
+    }
+    .capricorn-sign {
+        transform: translateX(-9.6rem);
+    }
+    .aquarius-sign {
+        transform: translateY(-5rem) translateX(-8.2rem);
+    }
+    .pisces-sign {
+        transform: translateY(-8.5rem) translateX(-5rem);
+    }
+}
+
+@media screen and (max-width: 390px) {
+
+    .rose {
+        max-width: 12rem;
+        max-height: 12rem;
+    }
+    .rose-sign {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+    .aries-sign {
+        transform: translateY(-7.8rem);
+    }
+    .taurus-sign {
+        transform: translateY(-6.8rem) translateX(4rem);
+    }
+    .gemini-sign {
+        transform: translateY(-4rem) translateX(6.8rem);
+    }
+    .cancer-sign {
+        transform: translateX(7.8rem);
+    }
+    .leo-sign {
+        transform: translateY(4rem) translateX(6.8rem);
+    }
+    .virgo-sign {
+        transform: translateY(6.8rem) translateX(4rem);
+    }
+    .libra-sign {
+        transform: translateY(7.8rem);
+    }
+    .scorpio-sign {
+        transform: translateY(6.8rem) translateX(-4rem);
+    }
+    .sagittarius-sign {
+        transform: translateY(4rem) translateX(-6.8rem);
+    }
+    .capricorn-sign {
+        transform: translateX(-7.8rem);
+    }
+    .aquarius-sign {
+        transform: translateY(-4rem) translateX(-6.8rem);
+    }
+    .pisces-sign {
+        transform: translateY(-6.8rem) translateX(-4rem);
+    }
+}
