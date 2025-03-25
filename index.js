@@ -6,6 +6,7 @@ import futureEventsAction from "./futureEvents/futureEventsAction.js";
 import lunarAction from "./lunarModule/lunarAction.js";
 import horoscopeAction from "./horoscope/horoscopeAction.js";
 import zodiacListAction from "./zodiacDescription/zodiacListAction.js";
+import interactionAction from "./interaction/interactionAction.js";
 import preloader from "./preloader/preloader.js";
 import languageAction from "./languageModule/languageAction.js";
 import burgerShow from "./header/burgerShow.js";
@@ -20,5 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
     lunarAction();
     zodiacListAction();
     horoscopeAction();
+    interactionAction();
     languageAction();
 });

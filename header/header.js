@@ -36,6 +36,9 @@ const headerCreate = () => {
                         <li class="navbar__item head-list zodiac-description">
                             ${localization[lang].header.buttons.zodiac}
                         </li>
+                        <li class="navbar__item head-list sign-interaction">
+                            Взаимодействие знаков.
+                        </li>
                         <li class="navbar__item head-list horoscope">
                             ${localization[lang].header.buttons.horoscope}
                         </li>
