@@ -1,3 +1,5 @@
+import chooseSign from "./chooseSign.js";
+
 const interaction = () => {
     const main = document.querySelector('.main');
 
@@ -96,7 +98,7 @@ const interaction = () => {
                         <li>
                             <p>Кардинальный ↔ Кардинальный (борьба за лидерство).</p>
                         </li>
-                        <li
+                        <li>
                             <p>Фиксированный ↔ Мутабельный (стабильность vs перемены).</p>
                         </li>
                     </ul>
@@ -126,46 +128,92 @@ const interaction = () => {
                 <div class="rose">
                     <img src="./assets/icons/rose.svg" alt="pic" class="rose-pic">
                 </div>
-                <div class="rose-sign aries-sign">
+                <div class="rose-sign aries-sign" data-sign="aries">
                     <img src="./assets/icons/zodiacSighns/aries.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign taurus-sign">
+                <div class="rose-sign taurus-sign" data-sign="taurus">
                     <img src="./assets/icons/zodiacSighns/taurus.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign gemini-sign">
+                <div class="rose-sign gemini-sign" data-sign="gemini">
                     <img src="./assets/icons/zodiacSighns/gemini.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign cancer-sign">
+                <div class="rose-sign cancer-sign" data-sign="cancer">
                     <img src="./assets/icons/zodiacSighns/cancer.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign leo-sign">
+                <div class="rose-sign leo-sign" data-sign="leo">
                     <img src="./assets/icons/zodiacSighns/leo.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign virgo-sign">
+                <div class="rose-sign virgo-sign" data-sign="virgo">
                     <img src="./assets/icons/zodiacSighns/virgo.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign libra-sign">
+                <div class="rose-sign libra-sign" data-sign="libra">
                     <img src="./assets/icons/zodiacSighns/libra.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign scorpio-sign">
+                <div class="rose-sign scorpio-sign" data-sign="scorpio">
                     <img src="./assets/icons/zodiacSighns/scorpio.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign sagittarius-sign">
+                <div class="rose-sign sagittarius-sign" data-sign="sagittarius">
                     <img src="./assets/icons/zodiacSighns/sagittarius.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign capricorn-sign">
+                <div class="rose-sign capricorn-sign" data-sign="capricorn">
                     <img src="./assets/icons/zodiacSighns/capricorn.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign aquarius-sign">
+                <div class="rose-sign aquarius-sign" data-sign="aquarius">
                     <img src="./assets/icons/zodiacSighns/aquarius.svg" alt="pic" class="rose-sign-pic">
                 </div>
-                <div class="rose-sign pisces-sign">
+                <div class="rose-sign pisces-sign" data-sign="pisces">
                     <img src="./assets/icons/zodiacSighns/pisces.svg" alt="pic" class="rose-sign-pic">
                 </div>
+            </div>
+            <div class="sign-section-container">
+
+                <div class="sign-field">
+                    <select class="sign-field__first" id="dropdown" name="options">
+                    <option value="default" selected>Выберете знак</option>
+                        <option value="aries">Овен</option>
+                        <option value="taurus">Телец</option>
+                        <option value="gemini">Близнецы</option>
+                        <option value="cancer">Рак</option>
+                        <option value="leo">Лев</option>
+                        <option value="virgo">Дева</option>
+                        <option value="libra">Весы</option>
+                        <option value="scorpio">Скорпион</option>
+                        <option value="sagittarius">Стрелец</option>
+                        <option value="capricorn">Козерог</option>
+                        <option value="aquarius">Водолей</option>
+                        <option value="pisces">Рыбы</option>
+                    </select>
+                </div>
+
+                <div class="image-container">
+                    <img src="./assets/icons/cycleArrow.svg" class="cycle-arrow" alt="pic"/>
+                </div>
+
+                <div class="sign-field">
+                    <select class="sign-field__second" id="dropdown" name="options">
+                        <option value="default" selected>Выберете знак</option>
+                        <option value="aries">Овен</option>
+                        <option value="taurus">Телец</option>
+                        <option value="gemini">Близнецы</option>
+                        <option value="cancer">Рак</option>
+                        <option value="leo">Лев</option>
+                        <option value="virgo">Дева</option>
+                        <option value="libra">Весы</option>
+                        <option value="scorpio">Скорпион</option>
+                        <option value="sagittarius">Стрелец</option>
+                        <option value="capricorn">Козерог</option>
+                        <option value="aquarius">Водолей</option>
+                        <option value="pisces">Рыбы</option>
+                    </select>
+                </div>
+
+                <button class="navbar__item interaction-button">Получить</button>
+
             </div>
         </section>
         <section class="description-section"></section>
     `
+    chooseSign();
 
 }
 

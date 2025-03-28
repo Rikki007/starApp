@@ -2,6 +2,11 @@
     width: 100%;
     margin: 0 auto;
     margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6rem;
 }
 .sign-section-container {
     width: 100%;
@@ -9,6 +14,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 1.5rem;
 }
 .rose {
     position: relative;
@@ -33,6 +39,10 @@
     align-items: center;
     justify-content: center;
     transition: 0.2s;
+}
+.rose-sign__able {
+    scale: 1.1;
+    background-color: rgb(53, 53, 53);
 }
 .rose-sign:hover {
     box-shadow: 3px 3px 2px white;
@@ -81,6 +91,35 @@
 .rose-sign:hover .rose-sign-pic {
     width: 63%;
     height: 63%;
+}
+.sign-field {
+    padding: 0.5rem 0.7rem;
+    border: 1px solid white;
+    border-radius: 0.5rem;
+}
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cycle-arrow {
+    width: 3rem;
+}
+.rotate {
+    animation: rotate 1.5s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.interaction-button {
+    color: white;
 }
 
 @media screen and (max-width: 675px) {
@@ -231,4 +270,19 @@
     .pisces-sign {
         transform: translateY(-6.8rem) translateX(-4rem);
     }
+}
+
+@media (hover:none) and (pointer: coarse) {
+    .rose-sign:hover {
+        box-shadow: none;
+    }
+    .rose-sign:hover .rose-sign-pic {
+        width: 60%;
+        height: 60%;
+    }
+    .navbar__item:hover {
+        background: transparent;
+        color: white;
+        box-shadow: 8px 5px 5px black, -1px -1px black;
+      }
 }
