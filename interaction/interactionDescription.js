@@ -1,6 +1,6 @@
 const interactionDescription = {
-    "Aries": {
-        "Aries": {
+    "aries": {
+        "aries": {
             "Elements": "Огонь + Огонь",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -12,7 +12,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Учитесь делегировать задачи и уступать в спорах».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Огонь + Земля",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -24,7 +24,7 @@ const interactionDescription = {
             "WorkScore": 1,
             "Advice": "«Найдите компромисс между действием и терпением».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Огонь + Воздух",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -36,7 +36,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте поверхностности в серьезных вопросах».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Огонь + Вода",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -48,7 +48,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте личные границы и чувства».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Огонь + Огонь",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -60,7 +60,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Фокусируйтесь на общих целях, а не на амбициях».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Огонь + Земля",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -72,7 +72,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените внимание к деталям».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Огонь + Воздух",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -84,7 +84,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не игнорируйте диалог и компромиссы».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Огонь + Вода",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -96,7 +96,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте скрытых манипуляций».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Огонь + Огонь",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -108,7 +108,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не упускайте из виду детали».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Огонь + Земля",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -120,7 +120,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь планировать на перспективу».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Огонь + Воздух",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -132,7 +132,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не нарушайте личные границы».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Огонь + Вода",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -145,8 +145,8 @@ const interactionDescription = {
             "Advice": "«Поддерживайте Рыб в их идеях».",
         },
     },
-    "Taurus": {
-        "Aries": {
+    "taurus": {
+        "aries": {
             "Elements": "Земля + Огонь",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -158,7 +158,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Найдите баланс между действием и терпением».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Земля + Земля",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -170,7 +170,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте спонтанности, чтобы избежать застоя».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Земля + Воздух",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -182,7 +182,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Учитесь принимать различия в стиле жизни».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Земля + Вода",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -194,7 +194,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не игнорируйте эмоциональные потребности Рака».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Земля + Огонь",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -206,7 +206,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите баланс между скромностью и яркостью».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Земля + Земля",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -218,7 +218,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о романтике в повседневности».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Земля + Воздух",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -230,7 +230,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Избегайте излишней критики».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Земля + Вода",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -242,7 +242,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не допускайте ревности и скрытности».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Земля + Огонь",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -254,7 +254,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Научитесь ценить свободу друг друга».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Земля + Земля",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -266,7 +266,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте эмоций в практичные отношения».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Земля + Воздух",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -278,7 +278,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Учитесь находить общий язык».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Земля + Вода",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -291,8 +291,8 @@ const interactionDescription = {
             "Advice": "«Поддерживайте мечты Рыб, но оставайтесь реалистом».",
         },
     },
-    "Gemini": {
-        "Aries": {
+    "gemini": {
+        "aries": {
             "Elements": "Воздух + Огонь",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -304,7 +304,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте конкуренции за лидерство».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Воздух + Земля",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -316,7 +316,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность друг друга в предсказуемости и спонтанности».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Воздух + Воздух",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -328,7 +328,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Ставьте четкие цели, чтобы избежать хаоса».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Воздух + Вода",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -340,7 +340,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Не обесценивайте эмоции Рака».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Воздух + Огонь",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -352,7 +352,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте конкуренции за внимание».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Воздух + Земля",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -364,7 +364,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь ценить внимание к деталям».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Воздух + Воздух",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужкая + Мужская",
@@ -376,7 +376,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте бесконечных дискуссий без действий».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Воздух + Вода",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -388,7 +388,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Работайте над открытостью и доверием».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Воздух + Огонь",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -400,7 +400,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не увлекайтесь поверхностными задачами».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Воздух + Земля",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -412,7 +412,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Научитесь сочетать креативность и дисциплину».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Воздух + Воздух",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -424,7 +424,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о эмоциональной стороне».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Воздух + Вода",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -437,8 +437,8 @@ const interactionDescription = {
             "Advice": "«Учитесь сочетать логику и интуицию».",
         },
     },
-    "Cancer": {
-        "Aries": {
+    "cancer": {
+        "aries": {
             "Elements": "Вода + Огонь",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -450,7 +450,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте конфликтов из-за непонимания».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Вода + Земля",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -462,7 +462,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Цените практичность и заботу друг друга».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Вода + Воздух",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -474,7 +474,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Учитесь сочетать общение и эмоции».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Вода + Вода",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -486,7 +486,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь разделять личное и профессиональное».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Вода + Огонь",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -498,7 +498,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте конфликтов из-за невнимательности к чувствам».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Вода + Земля",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -510,7 +510,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не критикуйте друг друга за мелочи».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Вода + Воздух",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -522,7 +522,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь сочетать рациональность и чувства».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Вода + Вода",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -534,7 +534,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте манипуляций и скрытности».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Вода + Огонь",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женкая + Мужская",
@@ -546,7 +546,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность друг друга в свободе и заботе».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Вода + Земля",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -558,7 +558,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о романтике в повседневности».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Вода + Воздух",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -570,7 +570,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите баланс между логикой и чувствами».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Вода + Вода",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -583,8 +583,8 @@ const interactionDescription = {
             "Advice": "«Не теряйте связь с реальностью».",
         },
     },
-    "Leo": {
-        "Aries": {
+    "leo": {
+        "aries": {
             "Elements": "Огонь + Огонь",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -596,7 +596,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Фокусируйтесь на общих целях, а не на амбициях».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Огонь + Земля",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -608,7 +608,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите баланс между амбициями и стабильностью».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Огонь + Воздух",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -620,7 +620,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не забывайте о глубине отношений».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Огонь + Вода",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -632,7 +632,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте эмоциональные границы друг друга».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Огонь + Огонь",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -644,7 +644,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь делиться славой и ответственностью».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Огонь + Земля",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -656,7 +656,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Цените практичность друг друга».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Огонь + Воздух",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -668,7 +668,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте излишней демонстративности».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Огонь + Вода",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -680,7 +680,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не играйте в игры с властью».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Огонь + Огонь",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -692,7 +692,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не упускайте детали в погоне за глобальным».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Огонь + Земля",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -704,7 +704,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь ценить скромность и трудолюбие».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Огонь + Воздух",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -716,7 +716,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не соревнуйтесь за оригинальность».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Огонь + Вода",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -729,8 +729,8 @@ const interactionDescription = {
             "Advice": "«Поддерживайте мечты Рыб, но оставайтесь реалистом».",
         },
     },
-    "Virgo": {
-        "Aries": {
+    "virgo": {
+        "aries": {
             "Elements": "Земля + Огонь",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -742,7 +742,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь уважать разные подходы к задачам».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Земля + Земля",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -754,7 +754,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте романтики в рутину».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Земля + Воздух",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -766,7 +766,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не критикуйте друг друга за непрактичность».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Земля + Вода",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -778,7 +778,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не игнорируйте чувства Рака».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Земля + Огонь",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -790,7 +790,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Цените амбиции друг друга».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Земля + Земля",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -802,7 +802,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте спонтанности в отношения».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Земля + Воздух",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -814,7 +814,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь сочетать красоту и функциональность».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Земля + Вода",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -826,7 +826,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте скрытности и критики».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Земля + Огонь",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -838,7 +838,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Ищите компромисс между риском и планами».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Земля + Земля",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -850,7 +850,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте романтики в практичные отношения».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Земля + Воздух",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -862,7 +862,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь ценить нестандартный подход».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Земля + Вода",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -875,8 +875,8 @@ const interactionDescription = {
             "Advice": "«Не обесценивайте фантазии друг друга».",
         },
     },
-    "Libra": {
-        "Aries": {
+    "libra": {
+        "aries": {
             "Elements": "Воздух + Огонь",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -888,7 +888,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Избегайте споров, ищите компромиссы».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Воздух + Земля",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -900,7 +900,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Уважайте потребность Тельца в стабильности».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Воздух + Воздух",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -912,7 +912,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не увлекайтесь поверхностными решениями».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Воздух + Вода",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -924,7 +924,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь сочетать логику и чувства».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Воздух + Огонь",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -936,7 +936,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не соревнуйтесь за внимание».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Воздух + Земля",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -948,7 +948,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Цените практичность друг друга».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Воздух + Воздух",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -960,7 +960,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь принимать сложные решения».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Воздух + Вода",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -972,7 +972,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Избегайте манипуляций».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Воздух + Огонь",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -984,7 +984,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не избегайте серьезных тем».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Воздух + Земля",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -996,7 +996,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь ценить трудолюбие друг друга».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Воздух + Воздух",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -1008,7 +1008,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о эмоциональной стороне отношений».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Воздух + Вода",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -1021,8 +1021,8 @@ const interactionDescription = {
             "Advice": "«Находите баланс между фантазией и реальностью».",
         },
     },
-    "Scorpio": {
-        "Aries": {
+    "scorpio": {
+        "aries": {
             "Elements": "Вода + Огонь",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1034,7 +1034,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте борьбы за власть».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Вода + Земля",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1046,7 +1046,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь уступать в спорах».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Вода + Воздух",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1058,7 +1058,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Избегайте скрытности и неискренности».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Вода + Вода",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1070,7 +1070,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не замыкайтесь в себе».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Вода + Огонь",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1082,7 +1082,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не манипулируйте друг другом».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Вода + Земля",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1094,7 +1094,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не критикуйте друг друга за мелочи».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Вода + Воздух",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1106,7 +1106,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Избегайте скрытых конфликтов».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Вода + Вода",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1118,7 +1118,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь доверять и делегировать».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Вода + Огонь",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1130,7 +1130,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность в свободе».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Вода + Земля",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1142,7 +1142,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о романтике».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Вода + Воздух",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1154,7 +1154,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите точки соприкосновения в идеях».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Вода + Вода",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1167,8 +1167,8 @@ const interactionDescription = {
             "Advice": "«Не теряйте связь с реальностью».",
         },
     },
-    "Sagittarius": {
-        "Aries": {
+    "sagittarius": {
+        "aries": {
             "Elements": "Огонь + Огонь",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -1180,7 +1180,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Фокусируйтесь на общих целях, а не на лидерстве».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Огонь + Земля",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -1192,7 +1192,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите компромисс между риском и безопасностью».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Огонь + Воздух",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -1204,7 +1204,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не увлекайтесь поверхностными решениями».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Огонь + Вода",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -1216,7 +1216,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность Рака в安全感».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Огонь + Огонь",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -1228,7 +1228,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не соревнуйтесь за внимание».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Огонь + Земля",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -1240,7 +1240,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените внимание Девы к деталям».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Огонь + Воздух",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -1252,7 +1252,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не избегайте глубоких тем».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Огонь + Вода",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -1264,7 +1264,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте манипуляций».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Огонь + Огонь",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -1276,7 +1276,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь фокусироваться на одном проекте».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Огонь + Земля",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -1288,7 +1288,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените трудолюбие Козерога».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Огонь + Воздух",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -1300,7 +1300,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о эмоциональной стороне».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Огонь + Вода",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -1313,8 +1313,8 @@ const interactionDescription = {
             "Advice": "«Находите баланс между действием и мечтами».",
         },
     },
-    "Capricorn": {
-        "Aries": {
+    "capricorn": {
+        "aries": {
             "Elements": "Земля + Огонь",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1326,7 +1326,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь уважать разные подходы».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Земля + Земля",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1338,7 +1338,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте романтики в рутину».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Земля + Воздух",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1350,7 +1350,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не критикуйте легкомыслие Близнецов».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Земля + Вода",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1362,7 +1362,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь выражать эмоции».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Земля + Огонь",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1374,7 +1374,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените амбиции друг друга».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Земля + Земля",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1386,7 +1386,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте спонтанности в отношения».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Земля + Воздух",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1398,7 +1398,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Учитесь совмещать красоту и практичность».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Земля + Вода",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1410,7 +1410,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о эмоциональной близости».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Земля + Огонь",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1422,7 +1422,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите компромисс между риском и планами».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Земля + Земля",
             "Modes": "Кардинальный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1434,7 +1434,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Добавьте эмоций в отношения».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Земля + Воздух",
             "Modes": "Кардинальный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1446,7 +1446,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь ценить нестандартный подход».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Земля + Вода",
             "Modes": "Кардинальный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1459,8 +1459,8 @@ const interactionDescription = {
             "Advice": "«Не игнорируйте фантазии друг друга».",
         },
     },
-    "Aquarius": {
-        "Aries": {
+    "aquarius": {
+        "aries": {
             "Elements": "Воздух + Огонь",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -1472,7 +1472,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Избегайте конкуренции за лидерство».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Воздух + Земля",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -1484,7 +1484,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Ищите компромисс между традициями и инновациями».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Воздух + Воздух",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -1496,7 +1496,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не увлекайтесь поверхностными проектами».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Воздух + Вода",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -1508,7 +1508,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь ценить чувства друг друга».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Воздух + Огонь",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -1520,7 +1520,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не соревнуйтесь за оригинальность».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Воздух + Земля",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -1532,7 +1532,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените внимание Девы к мелочам».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Воздух + Воздух",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Мужская",
@@ -1544,7 +1544,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не избегайте глубоких эмоциональных тем».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Воздух + Вода",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Женская",
@@ -1556,7 +1556,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Избегайте манипуляций и скрытности».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Воздух + Огонь",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Мужская",
@@ -1568,7 +1568,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Не забывайте о дисциплине».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Воздух + Земля",
             "Modes": "Фиксированный + Кардинальный",
             "Polarities": "Мужская + Женская",
@@ -1580,7 +1580,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь сочетать инновации и традиции».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Воздух + Воздух",
             "Modes": "Фиксированный + Фиксированный",
             "Polarities": "Мужская + Мужская",
@@ -1592,7 +1592,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не забывайте о реализации планов».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Воздух + Вода",
             "Modes": "Фиксированный + Мутабельный",
             "Polarities": "Мужская + Женская",
@@ -1605,8 +1605,8 @@ const interactionDescription = {
             "Advice": "«Находите баланс между логикой и интуицией».",
         },
     },
-    "Pisces": {
-        "Aries": {
+    "pisces": {
+        "aries": {
             "Elements": "Вода + Огонь",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1618,7 +1618,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность друг друга в скорости и созерцании».",
         },
-        "Taurus": {
+        "taurus": {
             "Elements": "Вода + Земля",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1630,7 +1630,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не игнорируйте практические детали».",
         },
-        "Gemini": {
+        "gemini": {
             "Elements": "Вода + Воздух",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1642,7 +1642,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь фокусироваться на задачах».",
         },
-        "Cancer": {
+        "cancer": {
             "Elements": "Вода + Вода",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1654,7 +1654,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не теряйте связь с реальностью».",
         },
-        "Leo": {
+        "leo": {
             "Elements": "Вода + Огонь",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1666,7 +1666,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Цените творческий вклад друг друга».",
         },
-        "Virgo": {
+        "virgo": {
             "Elements": "Вода + Земля",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1678,7 +1678,7 @@ const interactionDescription = {
             "WorkScore": 4,
             "Advice": "«Не критикуйте друг друга за идеализм/прагматизм».",
         },
-        "Libra": {
+        "libra": {
             "Elements": "Вода + Воздух",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Мужская",
@@ -1690,7 +1690,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Учитесь сочетать рациональность и чувства».",
         },
-        "Scorpio": {
+        "scorpio": {
             "Elements": "Вода + Вода",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Женская",
@@ -1702,7 +1702,7 @@ const interactionDescription = {
             "WorkScore": 5,
             "Advice": "«Избегайте чрезмерной эмоциональной зависимости».",
         },
-        "Sagittarius": {
+        "sagittarius": {
             "Elements": "Вода + Огонь",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Мужская",
@@ -1714,7 +1714,7 @@ const interactionDescription = {
             "WorkScore": 2,
             "Advice": "«Уважайте потребность в свободе и заботе».",
         },
-        "Capricorn": {
+        "capricorn": {
             "Elements": "Вода + Земля",
             "Modes": "Мутабельный + Кардинальный",
             "Polarities": "Женская + Женская",
@@ -1726,7 +1726,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Не игнорируйте практические аспекты».",
         },
-        "Aquarius": {
+        "aquarius": {
             "Elements": "Вода + Воздух",
             "Modes": "Мутабельный + Фиксированный",
             "Polarities": "Женская + Мужская",
@@ -1738,7 +1738,7 @@ const interactionDescription = {
             "WorkScore": 3,
             "Advice": "«Находите баланс между логикой и интуицией».",
         },
-        "Pisces": {
+        "pisces": {
             "Elements": "Вода + Вода",
             "Modes": "Мутабельный + Мутабельный",
             "Polarities": "Женская + Женская",
@@ -1752,3 +1752,5 @@ const interactionDescription = {
         },
     },
 }
+
+export default interactionDescription;

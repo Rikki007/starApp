@@ -168,8 +168,8 @@ const interaction = () => {
             <div class="sign-section-container">
 
                 <div class="sign-field">
-                    <select class="sign-field__first" id="dropdown" name="options">
-                    <option value="default" selected>Выберете знак</option>
+                    <select class="sign-field__first"  name="options">
+                        <option value="default" selected>Выберете знак</option>
                         <option value="aries">Овен</option>
                         <option value="taurus">Телец</option>
                         <option value="gemini">Близнецы</option>
@@ -190,7 +190,7 @@ const interaction = () => {
                 </div>
 
                 <div class="sign-field">
-                    <select class="sign-field__second" id="dropdown" name="options">
+                    <select class="sign-field__second" name="options">
                         <option value="default" selected>Выберете знак</option>
                         <option value="aries">Овен</option>
                         <option value="taurus">Телец</option>
