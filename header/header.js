@@ -37,10 +37,13 @@ const headerCreate = () => {
                             ${localization[lang].header.buttons.zodiac}
                         </li>
                         <li class="navbar__item head-list sign-interaction">
-                            Взаимодействие знаков.
+                            Взаимодействие знаков
                         </li>
                         <li class="navbar__item head-list horoscope">
                             ${localization[lang].header.buttons.horoscope}
+                        </li>
+                        <li class="navbar__item head-list about">
+                            О нас
                         </li>
                         
                     </ul>
