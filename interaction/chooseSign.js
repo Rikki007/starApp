@@ -46,6 +46,11 @@ const chooseSign = () => {
             preloader.classList.toggle('loader-container_disable');
             setTimeout(() => {
                 preloader.classList.toggle('loader-container_disable');
+                const discriptionSection = document.querySelector('.description-section');
+                discriptionSection.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
             }, 1000);
             if (arrow.classList.contains('rotate')) {
                 arrow.classList.remove('rotate');

@@ -13,7 +13,7 @@ const descriptionContent = (mainSign, secondarySign) => {
             <p class="common-wrapper__description">${data.Modes}.</p>
             <h3 class="common-wrapper__title">Полярности:</h3>
             <p class="common-wrapper__description">${data.Polarities}.</p>
-            <p class="common-wrapper__description">${data.Description}.</p>
+            <p class="common-wrapper__description">${data.Description}</p>
         </div>
         <div class="common-wrapper">
             <h3 class="common-wrapper__title">Отношения:</h3>
