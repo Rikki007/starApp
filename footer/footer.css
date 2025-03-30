@@ -24,9 +24,16 @@
 @media screen and (max-width: 600px) {
     .footer {
         gap: 1rem;
+        font-size: 0.7rem;
     }
     .contacts {
         display: none;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .footer__item {
+        font-size: 0.7rem;
     }
 }
 

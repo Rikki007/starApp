@@ -13,12 +13,8 @@ const footerCreate = () => {
                     <img src="./assets/icons/contacts/mail.svg" alt="picture" class="footer-logo">
                 </a>
 
-                <a href="https://www.instagram.com/kirillo_93/" target="_blank">
+                <a href="https://www.instagram.com/_Luory/" target="_blank">
                     <img src="./assets/icons/contacts/instagram.svg" alt="picture" class="footer-logo">
-                </a>
-
-                <a href="https://github.com/Rikki007" target="_blank">
-                    <img src="./assets/icons/contacts/github-mark-white.svg" alt="picture" class="footer-logo">
                 </a>
 
             </div>
