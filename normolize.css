@@ -38,16 +38,24 @@ main {
  */
 
 h1 {
+  font-family: 'Roboto';
+  font-weight: 700;
   font-size: 2em;
   margin: 0.67em 0;
 }
 
 h2 {
+  font-family: 'Roboto';
+  font-weight: 700;
   font-size: 1.3em;
+  line-height: 1.6rem;
 }
 
 h3 {
+  font-family: 'Roboto';
+  font-weight: 700;
   font-size: 1.1em;
+  line-height: 1.6rem;
 }
 
 h3, h2, h4 {

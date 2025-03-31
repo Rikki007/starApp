@@ -35,6 +35,12 @@ const about = () => {
                             <img src="./assets/icons/contacts/instagram.svg" alt="picture" class="footer-logo">
                         </a>
                     </p>
+                    <p class="network-link">
+                        Подписывайтесь на нас: 
+                        <a href="https://t.me/luoryChanel" target="_blank">
+                            <img src="./assets/icons/contacts/telegram-svgrepo-com.svg" alt="picture" class="footer-logo">
+                        </a>
+                    </p>
                 </div>
             </div>
         </section>

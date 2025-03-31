@@ -179,9 +179,6 @@
         width: 75vw;
         height: 75vw;
     }
-    p {
-        font-size: 1rem;
-    }
 }
 
 @media screen and (max-width: 350px) {

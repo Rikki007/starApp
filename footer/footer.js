@@ -3,7 +3,6 @@ const footerCreate = () => {
         <footer class="footer">
 
             <p class="footer__item">&copy; 2025. All rights reserved.</p>
-            <p class="footer__item dev">Developed by Oreshkevich Kirill</p>
 
             <div class="footer-contacts">
 

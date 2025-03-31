@@ -1,4 +1,4 @@
-import appBody from "./body.js";
+import appBody from "./body/body.js";
 import headerCreate from "./header/header.js";
 import mainCreate from "./main/main.js";
 import footerCreate from "./footer/footer.js";
@@ -11,6 +11,7 @@ import aboutAction from "./about/aboutAction.js";
 import preloader from "./preloader/preloader.js";
 import languageAction from "./languageModule/languageAction.js";
 import burgerShow from "./header/burgerShow.js";
+import mainPageAction from "./mainPage/mainPageAction.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', preloader());
@@ -18,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     burgerShow();
     appBody.insertAdjacentHTML('beforeend', mainCreate());
     appBody.insertAdjacentHTML('beforeend', footerCreate());
+    mainPageAction();
     futureEventsAction();
     lunarAction();
     zodiacListAction();
