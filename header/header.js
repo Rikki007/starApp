@@ -27,6 +27,9 @@ const headerCreate = () => {
 
                     <ul class="navbar__list">
 
+                        <li class="navbar__item head-list main-page">
+                            Главная
+                        </li>
                         <li class="navbar__item head-list moon-position">
                             ${localization[lang].header.buttons.position}
                         </li>

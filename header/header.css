@@ -23,6 +23,7 @@
 }
 .slide-menu {
   position: absolute;
+  z-index: 10;
   padding: 0.5rem;
   top: 4rem;
   right: 0;
@@ -110,7 +111,7 @@
   box-shadow: 5px 3px 3px black;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1300px) {
   .header {
     padding-top: 0;
   }
