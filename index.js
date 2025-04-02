@@ -12,6 +12,7 @@ import preloader from "./preloader/preloader.js";
 import languageAction from "./languageModule/languageAction.js";
 import burgerShow from "./header/burgerShow.js";
 import mainPageAction from "./mainPage/mainPageAction.js";
+import mainPage from "./mainPage/mainPage.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', preloader());
@@ -19,6 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     burgerShow();
     appBody.insertAdjacentHTML('beforeend', mainCreate());
     appBody.insertAdjacentHTML('beforeend', footerCreate());
+    mainPage();
     mainPageAction();
     futureEventsAction();
     lunarAction();
