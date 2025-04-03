@@ -1,3 +1,6 @@
+import initializeTimeUpdater from "./initializeTimeUpdater.js";
+import getGeolocation from "./getGeolocation.js";
+
 const mainPage = () => {
     const main = document.querySelector(".main");
     const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
@@ -18,43 +21,24 @@ const mainPage = () => {
                 <p class="block__description cloudiness">Облачность:</p>
                 <p class="block__description precipitation"></p>
             </div>
+            <div class="main-wrapper-block weather-preview">
+                <img src="./assets/icons/weather/weatherAlert.svg" alt="weather picture" class="weather-preview__icon"/>
+                <img src="./assets/icons/weather/cloud.svg" alt="weather picture" class="weather-preview__icon clouds"/>
+                <img src="./assets/icons/weather/cloud.svg" alt="weather picture" class="weather-preview__icon clouds"/>
+            </div>
             <div class="main-wrapper-block"></div>
         </section>
 
     `;
 
-    // Получаем ссылки на элементы для обновления
-    const dateElement = document.getElementById("current-date");
-    const timeElement = document.getElementById("current-time");
-
-    // Обновляем только время и дату, не трогая остальной DOM
-    setInterval(() => {
-        const currentDate = new Date();
-        dateElement.textContent = `Текущая дата: ${currentDate.toLocaleDateString()}`;
-        timeElement.textContent = `Текущее время: ${currentDate.toLocaleTimeString()}`;
-    }, 1000);
+    initializeTimeUpdater();
 
     
     // определение координат
     let latitude;
     let longitude;
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(
-          position => {
-            latitude = position.coords.latitude;
-            longitude = position.coords.longitude;
-      
-            console.log(`Широта: ${latitude}, Долгота: ${longitude}`);
-      
-            // Вы можете использовать эти координаты для вашего API-запроса
-          },
-          error => {
-            console.error("Ошибка получения геолокации:", error);
-          }
-        );
-      } else {
-        console.error("Геолокация не поддерживается вашим браузером.");
-    }
+    getGeolocation();
+    console.log(latitude)
       // фетч запрос погоды с Open-Meteo API
       const weatherButton = document.querySelector(".weather-button");
       weatherButton.addEventListener('click', () => {
@@ -65,19 +49,75 @@ const mainPage = () => {
               .then(data => {
                   console.log(data);
                   const currentTime = new Date();
-                  const hours = currentTime.getHours();
-                  console.log(hours);
-      
+                  const sunRise = data.daily.sunrise[0].split("T")[1];
+                  const sunSet = data.daily.sunset[0].split("T")[1];
+                  const weatherTime = timeElement.textContent.slice(0,5);
+                  const weatherIcon = document.querySelector(".weather-preview__icon");
+                  const clouds = document.querySelectorAll(".clouds");
+
+                  const hours = currentTime.getHours();      
                   const temperature = document.querySelector(".temperature");
                   const humidity = document.querySelector(".humidity");
                   const feelsLike = document.querySelector(".feelsLike");
                   const cloudiness = document.querySelector(".cloudiness");
-                  const precipitation = document.querySelector(".precipitation"); // Исправлено с .temperature
+                  const precipitation = document.querySelector(".precipitation");
       
                   temperature.textContent = `Температура: ${Math.floor(data.hourly.temperature_2m[hours])}${data.hourly_units.temperature_2m}`;
                   humidity.textContent = `Влажность воздуха: ${data.hourly.relative_humidity_2m[hours]}${data.hourly_units.relative_humidity_2m}`;
                   feelsLike.textContent = `Ощущается как: ${Math.floor(data.hourly.apparent_temperature[hours])}${data.hourly_units.apparent_temperature}`;
                   cloudiness.textContent = `Облачность: ${data.hourly.cloud_cover[hours]}${data.hourly_units.cloud_cover}`;
+
+                  if (data.hourly.cloud_cover[hours] < 25) {
+                    if (weatherTime > sunRise && weatherTime < sunSet) {
+                        weatherIcon.src = "./assets/icons/weather/dayClear.svg";
+                      } else {
+                        weatherIcon.src = "./assets/icons/weather/nightClear.svg";
+                      }
+                  }
+
+                  if (data.hourly.cloud_cover[hours] > 25 && data.hourly.cloud_cover[hours] < 70) {
+                    if (weatherTime > sunRise && weatherTime < sunSet) {
+                        weatherIcon.src = "./assets/icons/weather/dayClear.svg";
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.add('cloud1');
+                            } else if (index === 1) {
+                                element.classList.add('cloud2');
+                            }
+                        });
+                      } else {
+                        weatherIcon.src = "./assets/icons/weather/nightClear.svg";
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.add('cloud1');
+                            } else if (index === 1) {
+                                element.classList.add('cloud2');
+                            }
+                        });
+                      }
+                  }
+
+                  if (data.hourly.cloud_cover[hours] > 70) {
+                    if (weatherTime > sunRise && weatherTime < sunSet) {
+                        weatherIcon.src = "../assets/icons/weather/dayCloudy.svg";
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                      } else {
+                        weatherIcon.src = "../assets/icons/weather/nightCloudy.svg";
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                      }
+                  }
       
                   // Проверка выхода за границы массива
                   const maxIndex = data.hourly.rain.length - 1;
@@ -91,6 +131,25 @@ const mainPage = () => {
       
                   if (currentRain > 0) {
                       rainStatus = 'Дождь';
+                      if (weatherTime > sunRise && weatherTime < sunSet) {
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                        weatherIcon.src = "./assets/icons/weather/dayRain.svg";
+                      } else {
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                        weatherIcon.src = "./assets/icons/weather/nightRain.svg";
+                      }
                   } else {
                       if (currentRain === 0 && nextHourRain === 0 && nextTwoHoursRain === 0) {
                           rainStatus = '';
@@ -109,6 +168,25 @@ const mainPage = () => {
       
                   if (currentSnow > 0) {
                       snowStatus = 'Снег';
+                      if (weatherTime > sunRise && weatherTime < sunSet) {
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                        weatherIcon.src = "./assets/icons/weather/daySnow.svg";
+                      } else {
+                        clouds.forEach((element, index) => {
+                            if (index === 0) {
+                                element.classList.remove('cloud1');
+                            } else if (index === 1) {
+                                element.classList.remove('cloud2');
+                            }
+                        });
+                        weatherIcon.src = "./assets/icons/weather/nightSnow.svg";
+                      }
                   } else {
                       if (currentSnow === 0 && nextHourSnow === 0 && nextTwoHoursSnow === 0) {
                           snowStatus = '';
