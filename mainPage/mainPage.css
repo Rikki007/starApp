@@ -21,3 +21,17 @@
     left: 4rem;
     width: 2rem;
 }
+.solar-preview__pic {
+    display: block;
+    width: 19rem;
+}
+.solar-preview__pic_deactive {
+    display: none;
+}
+.solar-preview__animation {
+    display: block;
+    width: 19rem;
+}
+.solar-preview__animation_deactive {
+    display: none;
+}
