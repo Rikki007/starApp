@@ -39,7 +39,7 @@ const about = () => {
                         <p class="network-link">
                             Читайте нас: 
                             <a href="https://www.threads.net/@_luory/" target="_blank">
-                                <img src="../assets/icons/contacts/threads.svg" alt="picture" class="footer-logo">
+                                <img src="./assets/icons/contacts/threads.svg" alt="picture" class="footer-logo">
                             </a>
                         </p>
                         <p class="network-link">

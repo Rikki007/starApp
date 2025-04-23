@@ -1,11 +1,15 @@
 import quoteAction from "./dayQuoteModule/quoteAction.js";
-import spaceWeatherData from "./sunFlaresModule/flaresStorm.js";
+import coronalMassEjection from "./coronalMassEjectionModule/coronalMassEjection.js";
 import getUtcOffset from "./moonCalender/utcOffset.js";
-import solarLogic from "./sunFlaresModule/solarLogic.js";
+import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
+import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
+import geomagneticPrediction from "./geomagneticPredyction/geomagneticPrediction.js";
+import ultravioletActivity from "./ultravioletActivity/ultravioletActivity.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
     const date = new Date();
+    const formattedDate = date.toISOString().split('T')[0];
 
     main.innerHTML = `
         <section class="main-wrapper">
@@ -55,9 +59,10 @@ const mainPage = () => {
     `;
 
     quoteAction();
-    spaceWeatherData().then((data) => {
-        console.log("Общие данные о космической погоде:", data);
-    });
+    coronalMassEjection();
+    geomagneticActivity();
+    geomagneticPrediction();
+    ultravioletActivity();
     getUtcOffset();
     solarLogic();
     
