@@ -5,11 +5,11 @@ import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
 import geomagneticPrediction from "./geomagneticPredyction/geomagneticPrediction.js";
 import ultravioletActivity from "./ultravioletActivity/ultravioletActivity.js";
+import kpIndexEstimatedPreview from "./geomagneticActivity/kpIndexEstimatedPreview.js";
+import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
-    const date = new Date();
-    const formattedDate = date.toISOString().split('T')[0];
 
     main.innerHTML = `
         <section class="main-wrapper">
@@ -45,8 +45,12 @@ const mainPage = () => {
             <div/>
 
             <div class="main-wrapper-block earth-preview">
-                <h3 class="earth-preview__title">Геомагнитные бури.</h3>
-                <p class="earth-preview__description"></p>
+                <h3 class="earth-preview__title">Геомагнитная активность в реальном времени.</h3>
+                <div class="kp-index-wrapper">
+                    <div class="kp-index__signal"></div>
+                    <p class="kp-index__now"></p>
+                </div>
+                <p class="kp-index__estimated"></p>
             <div/>
 
             <div class="main-wrapper-block quote-wrapper">
@@ -60,9 +64,11 @@ const mainPage = () => {
 
     quoteAction();
     coronalMassEjection();
-    geomagneticActivity();
-    geomagneticPrediction();
-    ultravioletActivity();
+    // geomagneticActivity();
+    // geomagneticPrediction();
+    // ultravioletActivity();
+    kpIndexNowPreview();
+    kpIndexEstimatedPreview();
     getUtcOffset();
     solarLogic();
     

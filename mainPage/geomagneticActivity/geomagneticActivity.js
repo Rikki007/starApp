@@ -7,10 +7,10 @@ const geomagneticActivity = async () => {
             throw new Error(`Ошибка HTTP: ${response.status}`);
         }
         const data = await response.json();
-        console.log(`геомагнитная активность сейчас ${JSON.stringify(data, null, 2)}`)
         return data;
     } catch (error) {
         console.error("Ошибка при запросе геомагнитной активности:", error);
+        throw error;
     }
 }
 

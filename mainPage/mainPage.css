@@ -35,3 +35,48 @@
 .solar-preview__animation_deactive {
     display: none;
 }
+.kp-index-wrapper {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.kp-index__signal {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 1rem black;
+    animation: blink 1s infinite;
+}
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+.kp-index__signal_blue {
+    background-color: blue;
+    box-shadow: 0rem 0rem 1rem blue;
+}
+.kp-index__signal_light-blue {
+    background-color: rgb(0, 187, 255);
+    box-shadow: 0rem 0rem 1rem rgb(0, 187, 255);
+}
+.kp-index__signal_green {
+    background-color: rgb(0, 255, 0);
+    box-shadow: 0rem 0rem 1rem rgb(0, 255, 0);
+}
+.kp-index__signal_yellow {
+    background-color: yellow;
+    box-shadow: 0rem 0rem 1rem yellow;
+}
+.kp-index__signal_orange {
+    background-color: rgb(255, 200, 0);
+    box-shadow: 0rem 0rem 1rem rgb(255, 200, 0);
+}
+.kp-index__signal_red {
+    background-color: red;
+    box-shadow: 0rem 0rem 1rem red;
+}
