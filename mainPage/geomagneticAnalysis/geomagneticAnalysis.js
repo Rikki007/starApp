@@ -1,4 +1,4 @@
-const geomagneticPrediction = async () => {
+const geomagneticAnalysis = async () => {
     const url = `https://services.swpc.noaa.gov/json/predicted_fredericksburg_a_index.json`;
     
     try {
@@ -7,11 +7,11 @@ const geomagneticPrediction = async () => {
             throw new Error(`Ошибка HTTP: ${response.status}`);
         }
         const data = await response.json();
-        console.log(`анализ геомагнитной активности за прошедшие сутки ${JSON.stringify(data, null, 2)}`)
         return data;
     } catch (error) {
         console.error("Ошибка при запросе геомагнитной активности:", error);
+        throw error;
     }
 }
 
-export default geomagneticPrediction;
+export default geomagneticAnalysis;

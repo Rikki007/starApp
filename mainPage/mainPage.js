@@ -1,12 +1,11 @@
 import quoteAction from "./dayQuoteModule/quoteAction.js";
-import coronalMassEjection from "./coronalMassEjectionModule/coronalMassEjection.js";
 import getUtcOffset from "./moonCalender/utcOffset.js";
 import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
-import geomagneticPrediction from "./geomagneticPredyction/geomagneticPrediction.js";
-import ultravioletActivity from "./ultravioletActivity/ultravioletActivity.js";
 import kpIndexEstimatedPreview from "./geomagneticActivity/kpIndexEstimatedPreview.js";
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
+import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
+import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -45,12 +44,23 @@ const mainPage = () => {
             <div/>
 
             <div class="main-wrapper-block earth-preview">
-                <h3 class="earth-preview__title">Геомагнитная активность в реальном времени.</h3>
-                <div class="kp-index-wrapper">
-                    <div class="kp-index__signal"></div>
-                    <p class="kp-index__now"></p>
+                <div class="main-wrapper-block">
+                    <h3 class="earth-preview__title">Геомагнитная активность сейчас.</h3>
+                    <div class="kp-index-wrapper">
+                        <div class="signal-light kp-index__signal"></div>
+                        <p class="kp-index__now"></p>
+                    </div>
+                    <p class="kp-index__estimated"></p>
                 </div>
-                <p class="kp-index__estimated"></p>
+
+                <div class="main-wrapper-block">
+                    <h3 class="earth-preview__title">Прогноз геомагнитной активности на завтра.</h3>
+                    <div class="kp-index-wrapper">
+                        <div class="signal-light a-index__signal"></div>
+                        <p class="a-index__prediction"></p>
+                    </div>
+                </div>
+                
             <div/>
 
             <div class="main-wrapper-block quote-wrapper">
@@ -63,16 +73,14 @@ const mainPage = () => {
     `;
 
     quoteAction();
-    coronalMassEjection();
-    // geomagneticActivity();
-    // geomagneticPrediction();
-    // ultravioletActivity();
+    coronalMassFormingData();
+    geomagneticActivity();
+    geomagneticAnalysisPreview();
     kpIndexNowPreview();
     kpIndexEstimatedPreview();
     getUtcOffset();
     solarLogic();
     
-
 };
 
 export default mainPage;
