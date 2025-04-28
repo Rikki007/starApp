@@ -6,6 +6,7 @@ import kpIndexEstimatedPreview from "./geomagneticActivity/kpIndexEstimatedPrevi
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
+import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -40,7 +41,7 @@ const mainPage = () => {
                     <img src="./assets/images/mainPage/sun.png" class="solar-preview__pic" alt="solar-static"/>
                     <img src="./assets/images/mainPage/sunAnimated.gif" class=" solar-preview__animation solar-preview__animation_deactive" alt="solar-animated"/>
                 </div>
-                <p class="solar-preview__description"></p>
+                <div class="main-wrapper-block solar__description"></div>
             <div/>
 
             <div class="main-wrapper-block earth-preview">
@@ -80,6 +81,7 @@ const mainPage = () => {
     kpIndexEstimatedPreview();
     getUtcOffset();
     solarLogic();
+    dataCMEOutput();
     
 };
 
