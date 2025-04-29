@@ -3,12 +3,12 @@ import apiKey from "./key.js";
 const coronalMassEjection = async () => {
 
     const date = new Date();
-    const threeDaysAgo = new Date(date);
-    threeDaysAgo.setDate(date.getDate() - 3);
+    const twoDaysAgo = new Date(date);
+    twoDaysAgo.setDate(date.getDate() - 2);
     const todayDate = date.toISOString().split('T')[0];
-    const threeDaysAgoDate = threeDaysAgo.toISOString().split('T')[0];
+    const twoDaysAgoDate = twoDaysAgo.toISOString().split('T')[0];
 
-    const url = `https://api.nasa.gov/DONKI/CME?startDate=${threeDaysAgoDate}&endDate=${todayDate}&api_key=${apiKey}`;
+    const url = `https://api.nasa.gov/DONKI/CME?startDate=${twoDaysAgoDate}&endDate=${todayDate}&api_key=${apiKey}`;
     
     try {
         const response = await fetch(url);
