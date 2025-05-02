@@ -2,11 +2,11 @@ import quoteAction from "./dayQuoteModule/quoteAction.js";
 import getUtcOffset from "./moonCalender/utcOffset.js";
 import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
-import kpIndexEstimatedPreview from "./geomagneticActivity/kpIndexEstimatedPreview.js";
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
+import getMoonData from "./moonCalender/getMoonData.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -51,15 +51,11 @@ const mainPage = () => {
                         <div class="signal-light kp-index__signal"></div>
                         <p class="kp-index__now"></p>
                     </div>
-                    <p class="kp-index__estimated"></p>
                 </div>
 
                 <div class="main-wrapper-block">
                     <h3 class="earth-preview__title">Прогноз геомагнитной активности на завтра.</h3>
-                    <div class="kp-index-wrapper">
-                        <div class="signal-light a-index__signal"></div>
-                        <p class="a-index__prediction"></p>
-                    </div>
+                    <p class="a-index__prediction"></p>
                 </div>
                 
             <div/>
@@ -78,10 +74,10 @@ const mainPage = () => {
     geomagneticActivity();
     geomagneticAnalysisPreview();
     kpIndexNowPreview();
-    kpIndexEstimatedPreview();
     getUtcOffset();
     solarLogic();
     dataCMEOutput();
+    getMoonData();
     
 };
 

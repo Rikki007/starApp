@@ -24,7 +24,7 @@ const kpIndexNowPreview = async () => {
             signal.classList.add('signal_green');
         } else if (data.kp_index >= 5 && data.kp_index < 7) {
 
-            kpIndex.textContent = 'Геомагнитная буря.';
+            kpIndex.textContent = 'Слабая геомагнитная буря.';
             signal.classList.add('signal_yellow');
 
         } else if (data.kp_index >= 7 && data.kp_index < 9) {

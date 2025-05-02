@@ -14,8 +14,6 @@ const dataCMEOutput = async () => {
         <p class="block__description">За последние три дня произошло выбросов коронарных масс: ${numOfEjections(data)}.</p>
         <p class="block__description">Средняя скорость выбросов: ${averageSpeed(data)}км/с.</p>
         <p class="block__description">Количество выбросов направленных в сторону земли: ${arrivalDateCME(data)}.</p>
-        <p class="block__description">Количество выбросов, которые заденут землю по касательной: ${glancingBlow(data)}.</p>
-        <p class="block__description">Количество выбросов, которые идут по прямой траектории к землю: ${straightBlow(data)}.</p>
         <p class="block__description">Заключение: ${conclusionCME(data)}.</p>
     `
 
