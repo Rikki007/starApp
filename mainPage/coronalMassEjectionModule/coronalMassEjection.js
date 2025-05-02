@@ -5,7 +5,6 @@ const coronalMassEjection = async () => {
     const date = new Date();
     const twoDaysAgo = new Date(date);
     twoDaysAgo.setDate(date.getDate() - 2);
-    console.log(twoDaysAgo)
     const todayDate = date.toISOString().split('T')[0];
     const twoDaysAgoDate = twoDaysAgo.toISOString().split('T')[0];
 
@@ -17,7 +16,6 @@ const coronalMassEjection = async () => {
             throw new Error(`Ошибка HTTP: ${response.status}`);
         }
         const data = await response.json();
-        console.log(data)
         return data;
     } catch (error) {
         console.error("Ошибка при запросе солнечных вспышек:", error);

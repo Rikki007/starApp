@@ -1,12 +1,10 @@
 import quoteAction from "./dayQuoteModule/quoteAction.js";
-import getUtcOffset from "./moonCalender/utcOffset.js";
 import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
-import getMoonData from "./moonCalender/getMoonData.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -74,10 +72,8 @@ const mainPage = () => {
     geomagneticActivity();
     geomagneticAnalysisPreview();
     kpIndexNowPreview();
-    getUtcOffset();
     solarLogic();
     dataCMEOutput();
-    getMoonData();
     
 };
 
