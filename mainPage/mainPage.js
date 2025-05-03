@@ -5,6 +5,7 @@ import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
+import weatherRequest from "./weatherModule/weatherRequest.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -74,6 +75,7 @@ const mainPage = () => {
     kpIndexNowPreview();
     solarLogic();
     dataCMEOutput();
+    weatherRequest();
     
 };
 
