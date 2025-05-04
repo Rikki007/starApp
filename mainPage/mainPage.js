@@ -5,33 +5,22 @@ import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
-import weatherRequest from "./weatherModule/weatherRequest.js";
+import weatherAction from "./weatherModule/weatherAction.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
 
     main.innerHTML = `
         <section class="main-wrapper">
-
-            <div class="main-wrapper-block today">
-                <p class="block__description today-date">Сегодня:</p>
-            </div>
             
             <div class="main-wrapper-block weather">
+                <h3 class="solar-preview__title">Погода.</h3>
                 <label class="block__city">
                     Введите город:
-                    <input class"city__input"/>
+                    <input class="city__input"/>
                 </label>
                 <button class="weather-button">запрос погоды</button>
-                <p class="block__description temperature"></p>
-                <p class="block__description humidity"></p>
-                <p class="block__description feelsLike"></p>
-            </div>
-
-            <div class="main-wrapper-block weather-preview">
-                <img src="./assets/icons/weather/weatherAlert.svg" alt="weather picture" class="weather-preview__icon"/>
-                <img src="./assets/icons/weather/cloud.svg" alt="weather picture" class="weather-preview__icon clouds"/>
-                <img src="./assets/icons/weather/cloud.svg" alt="weather picture" class="weather-preview__icon clouds"/>
+                <div class="main-wrapper-block weather_preview"></div>
             </div>
 
             <div class="main-wrapper-block solar-preview">
@@ -75,7 +64,7 @@ const mainPage = () => {
     kpIndexNowPreview();
     solarLogic();
     dataCMEOutput();
-    weatherRequest();
+    weatherAction();
     
 };
 
