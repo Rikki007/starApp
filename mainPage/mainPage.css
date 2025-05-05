@@ -23,17 +23,30 @@
 }
 .solar-preview__pic {
     display: block;
-    width: 19rem;
+    width: 17rem;
+    animation: rotate 15s linear infinite, grow 1s linear infinite;
 }
-.solar-preview__pic_deactive {
-    display: none;
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
 }
-.solar-preview__animation {
-    display: block;
-    width: 22rem;
-}
-.solar-preview__animation_deactive {
-    display: none;
+@keyframes grow {
+    0% {
+        scale: 1;
+    }
+    50% {
+        scale: 1.06;
+    }
+    100% {
+        scale: 1;
+    }
 }
 .kp-index-wrapper {
     display: flex;

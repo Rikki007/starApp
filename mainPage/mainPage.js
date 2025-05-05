@@ -1,11 +1,11 @@
 import quoteAction from "./dayQuoteModule/quoteAction.js";
-import solarLogic from "./coronalMassEjectionModule/solarLogic.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
 import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
 import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
 import weatherAction from "./weatherModule/weatherAction.js";
+import weatherLastResp from "./weatherModule/weatherLastResp.js";
 
 const mainPage = () => {
     const main = document.querySelector(".main");
@@ -27,7 +27,6 @@ const mainPage = () => {
                 <h3 class="solar-preview__title">Солнечная активность.</h3>
                 <div class="solar-preview-box">
                     <img src="./assets/images/mainPage/sun.png" class="solar-preview__pic" alt="solar-static"/>
-                    <img src="./assets/images/mainPage/sunAnimated.gif" class=" solar-preview__animation solar-preview__animation_deactive" alt="solar-animated"/>
                 </div>
                 <div class="main-wrapper-block solar__description"></div>
             <div/>
@@ -62,9 +61,9 @@ const mainPage = () => {
     geomagneticActivity();
     geomagneticAnalysisPreview();
     kpIndexNowPreview();
-    solarLogic();
     dataCMEOutput();
     weatherAction();
+    weatherLastResp();
     
 };
 
