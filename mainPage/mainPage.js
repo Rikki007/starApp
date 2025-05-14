@@ -26,7 +26,7 @@ const mainPage = () => {
             <div class="main-wrapper-block solar-preview">
                 <h3 class="solar-preview__title">Солнечная активность.</h3>
                 <div class="solar-preview-box">
-                    <img src="./assets/images/mainPage/sun.png" class="solar-preview__pic" alt="solar-static"/>
+                    <img src="./assets/images/mainPage/sun.gif" class="solar-preview__pic" alt="solar-static"/>
                 </div>
                 <div class="main-wrapper-block solar__description"></div>
             <div/>

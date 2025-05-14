@@ -24,29 +24,6 @@
 .solar-preview__pic {
     display: block;
     width: 17rem;
-    animation: rotate 15s linear infinite, grow 1s linear infinite;
-}
-@keyframes rotate {
-    0% {
-        transform: rotate(0deg);
-    }
-    50% {
-        transform: rotate(360deg);
-    }
-    100% {
-        transform: rotate(0deg);
-    }
-}
-@keyframes grow {
-    0% {
-        scale: 1;
-    }
-    50% {
-        scale: 1.06;
-    }
-    100% {
-        scale: 1;
-    }
 }
 .kp-index-wrapper {
     display: flex;

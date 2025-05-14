@@ -1,45 +1,51 @@
-import prewiev from "./preview.js";
+import preview from "./preview.js";
 import calculateLunarDay from "./lunarDay.js";
 import localization from "../localization/localizationData.js";
 import getLanguage from "../localization/localizationUtils.js";
+import pastePic from "./pastePic.js";
+import addAstroData from "./addAstroData.js";
 
 
 function updateLunarPhase() {
+    const date = new Date();
+    const lunarDay = calculateLunarDay(date);
+    const main = document.querySelector('.main');
+    const lang = getLanguage();
+    const lunarSection = localization[lang].lunar;
+    const lunarInfo = localization[lang].lunarInfo;
 
-  const date = new Date();
-  const lunarDay = calculateLunarDay(date);
-  const main = document.querySelector('.main');
-  const lang = getLanguage();
-  const lunarSection = localization[lang].lunar;
-  const lunarInfo = localization[lang].lunarInfo;
-
-  main.innerHTML = `
-    <section class="lunar-section">
-
-      <h2 class="lunar-section__title">${lunarSection.lunarSectionTitle}</h2>
-
-      <div class="cycle-block">
-
-        <p class="cycle-block__offer">${lunarSection.cycleBlockOffer}</p>
-        <button class="cycle-block__preview navbar__item">${lunarSection.cycleBlockPreview}</button>
-
-      </div>
-      
-      <div class="phase-block">
-
-        <div class="phase-block__image">
-
-          <img src="./assets/images/moon/${lunarInfo[lunarDay].photo}" alt="picture of moon" class="moon" data-day=${lunarInfo[lunarDay].id}>
-
-        </div>
-
-        <p class="phase-block__status">${lunarInfo[lunarDay].phase}</p>
-
-      </div>
-
-    </section>
-  `
-  prewiev();
+    main.innerHTML = `
+        <section class="lunar-section">
+            <div class="lunar-section-phase">
+            <h2 class="phase__title">Фаза луны.</h2>
+            <img src="./assets/images/moon.gif" class="phase__pic" alt="moon picture"/>
+            <p class="cycle-block__offer phase__name">moon status</p>
+            </div>
+            <p class="cycle-block__offer constellation">Луна в созвездии </p>
+            <p class="cycle-block__offer phase__description">
+                Лунный цикл — это регулярное изменение видимого освещения Луны, вызванное её орбитальным движением вокруг Земли и сменой углов освещения Солнцем. Луна всегда повернута к Земле одной стороной из-за приливного захвата: её вращение синхронизировано с орбитой вокруг Земли, поэтому период её вращения вокруг своей оси совпадает с периодом её обращения вокруг планеты. Это результат гравитационного взаимодействия, которое постепенно замедлило её вращение. Лунные затмения происходят, когда Земля находится между Луной и Солнцем, и её тень полностью или частично закрывает Луну. А затенение в фазах Луны происходит из-за угла освещения: часть Луны оказывается в тени, пока Солнце освещает другую часть её поверхности.
+                Луна играет ключевую роль в формировании приливов и отливов на Земле благодаря своей гравитации. Приливные силы возникают из-за разницы в гравитационном притяжении Луны к разным частям Земли. Это приводит к тому, что океаны растягиваются, образуя приливные бугры — один на стороне, ближайшей к Луне, и другой на противоположной стороне. Из-за вращения Земли приливы происходят дважды в сутки. При полной и новой Луне приливы становятся особенно высокими (сизигийные приливы) из-за совокупного влияния Солнца и Луны. А в первой и последней четверти возникают квадратурные приливы, которые слабее, потому что гравитация Солнца частично компенсирует влияние Луны.
+                Луна в полнолуние часто связывается с усилением эмоций, интуиции и даже беспокойства, тогда как новолуние считается временем обновления, размышлений и закладывания новых начинаний. В Древней Греции Луну ассоциировали с богинями Артемидой и Селеной, считая их покровительницами ночи и циклов жизни. В китайской культуре Луна символизировала гармонию и семейные узы, особенно во время Праздника середины осени. У славян Луна воспринималась как магическая сила, влияющая на урожай, судьбу и мистические обряды.
+                Когда Луна растёт, её энергия становится сильнее, достигая кульминации в полнолуние. Это период эмоциональной напряжённости, всплесков энергии и завершения циклов. Огненные знаки (Овен, Лев, Стрелец) – чувствуют прилив страсти и мотивации, но могут стать импульсивнее. Земные знаки (Телец, Дева, Козерог) – концентрируются на результатах и подводят итоги, но могут ощущать внутреннее беспокойство. Воздушные знаки (Близнецы, Весы, Водолей) – усиливается поток идей и общения, но эмоции могут выйти из-под контроля. Водные знаки (Рак, Скорпион, Рыбы) – становятся особенно чувствительными, интуиция обостряется, но возможны перепады настроения. В период убывающей Луны энергия снижается, наступает время завершения, отдыха и подготовки к новому циклу. Это момент для размышлений и новых начинаний. Огненные знаки – интуитивно ощущают необходимость планировать новые проекты и набираются сил. Земные знаки – стремятся к стабилизации, анализируют прошлые ошибки и строят долгосрочные планы. Воздушные знаки – снижают активность в общении, сосредотачиваясь на внутренних процессах. Водные знаки – погружаются в эмоции и поиск смысла, могут чувствовать потребность в уединении.
+            </p>
+            </div>
+            <div class="cycle-block">
+                <p class="cycle-block__offer">${lunarSection.cycleBlockOffer}</p>
+                <button class="cycle-block__preview navbar__item">${lunarSection.cycleBlockPreview}</button>
+                </div>
+                <div class="phase-block">
+                <div class="phase-block__image">
+                    <img src="./assets/images/moon/${lunarInfo[lunarDay].photo}" 
+                    alt="${lunarInfo[lunarDay].phase}" 
+                    class="moon" 
+                    data-day=${lunarInfo[lunarDay].id}>
+                </div>
+            </div>
+        </section>
+    `;
+    addAstroData();
+    pastePic();
+    preview();
 }
 
 export default updateLunarPhase;
