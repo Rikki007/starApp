@@ -2,7 +2,7 @@ import requestOfPic from "./lunarPicRequest.js";
 
 const pastePic = async () => {
     const picPath = await requestOfPic();
-    const moonImagePhasePicture = document.querySelector(".phase__pic");
+    const moonImagePhasePicture = document.querySelector(".phase-info__pic");
 
     moonImagePhasePicture.src = picPath;
 }

@@ -1,56 +1,37 @@
 .lunar-section {
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.lunar-section-phase-info {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 1rem;
+  position: relative;
 }
-.cycle-block {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
+.phase-info__pic {
+  width: 20rem;
 }
-.cycle-block__offer {
-  text-align: center;
+.phase__name {
+  position: absolute;
+  bottom: 6rem;
 }
-.cycle-block__preview {
-  width: 12rem;
-  color: white;
-  transition: 0.3s;
+.constellation {
+  position: absolute;
+  bottom: 4rem;
 }
-.cycle-block__preview_disable {
-  background: white;
-  color: black;
-  border: white;
-  box-shadow: 5px 3px 3px black;
-}
-.phase-block {
-  width: 100%;
+.lunar-section-wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 1rem;
 }
-.phase-block__image {
-  width: 25rem;
-  height: 25rem;
+.lunar-info {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.moon {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-.phase-block__status {
-  font-size: 2rem;
-  text-align: center;
-}
-
-@media screen and (max-width: 400px) {
-  .phase-block__image {
-    width: 20rem;
-    height: 20rem;
-  }
+  gap: 1rem;
 }
