@@ -1,53 +1,62 @@
-import localization from "../localization/localizationData.js";
+const preview = () => {
+  const previewButton = document.querySelector(".preview__button");
+  const moonImage = document.querySelector(".preview__picture");
+  let currentIndex = 0;
+  let animationInterval = null;
 
-const prewiev = () => {
-  const prewievButton = document.querySelector(".cycle-block__preview");
-  const moonImage = document.querySelector(".moon");
-  const preloader = document.querySelector(".loader-container");
-  const lunarInfo = localization.en.lunarInfo;
+  const loadImages = () => {
+    const promises = [];
+    for (let i = 0; i < 29; i += 1) {
+      const img = new Image();
+      img.src = `./assets/images/moon/lunarCycle${i}.png`;
+      promises.push(
+        new Promise((resolve) => {
+          img.onload = () => resolve(img.src);
+        })
+      );
+    }
+    return Promise.all(promises);
+  };
 
-  prewievButton.addEventListener('click', () => {
+  let cachedPaths = null;
+  loadImages().then(paths => {
+    cachedPaths = paths.map(item => 
+      `./${item.split("/").splice(3, item.length).join("/")}`
+    );
+  });
 
-    preloader.classList.toggle("loader-container_disable");
-    const startDay = parseInt(moonImage.dataset.day, 10);
-    let currentIndex = startDay;
+  previewButton.addEventListener('click', () => {
 
-    const loadImages = () => {
-      const promises = [];
-      for (let i = 0; i < lunarInfo.length; i += 1) {
-        const img = new Image();
-        img.src = `./assets/images/moon/lunarCycle${i}.png`;
-        promises.push(
-          new Promise((resolve) => {
-            img.onload = resolve;
-          })
-        );
-      }
-      console.log(promises)
-      return Promise.all(promises);
-    };
+    if (animationInterval) clearInterval(animationInterval);
+    previewButton.disabled = true;
+    previewButton.classList.add("cycle-block__preview_disable");
 
-    loadImages().then(() => {
-      preloader.classList.toggle("loader-container_disable");
-      prewievButton.disabled = true;
-      prewievButton.classList.toggle("cycle-block__preview_disable");
+    const lunarAnimation = async () => {
 
-      const interval = setInterval(() => {
-        currentIndex = (currentIndex + 1) % lunarInfo.length;
+      const neededPath = cachedPaths || await loadImages().then(paths => 
+        paths.map(item => 
+          `./${item.split("/").splice(3, item.length).join("/")}`
+        )
+      );
+
+      currentIndex = 0;
+      animationInterval = setInterval(() => {
         
-        const currentLunar = lunarInfo[currentIndex];
-        moonImage.src = `./assets/images/moon/${currentLunar.photo}`;
+        
+        currentIndex = (currentIndex + 1) % neededPath.length;
+        moonImage.src = neededPath[currentIndex];
 
-        if (currentIndex === startDay) {
-          prewievButton.disabled = false;
-          prewievButton.classList.toggle("cycle-block__preview_disable");
-          clearInterval(interval);
-          return;
+        if (currentIndex === 0) {
+          clearInterval(animationInterval);
+          previewButton.disabled = false;
+          previewButton.classList.remove("cycle-block__preview_disable");
         }
       }, 60);
-    });
+    };
+
+    lunarAnimation();
   });
-}
+};
 
 
-export default prewiev;
+export default preview;

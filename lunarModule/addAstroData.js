@@ -5,7 +5,7 @@ const addAstroData = async () => {
     const constellation = document.querySelector(".constellation");
     const moonStatus = document.querySelector(".phase__name");
     moonStatus.textContent = data.moonSt;
-    constellation.textContent = `Луна находится в созвездии ${data.constel}.`
+    constellation.textContent = `Находится в созвездии ${data.constel}.`
 }
 
 export default addAstroData;

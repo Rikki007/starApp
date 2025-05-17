@@ -14,7 +14,7 @@ const chooseNeededAstroData = async () => {
         Virgo: "Девы",
         Libra: "Весов",
         Scorpius: "Скорпиона",
-        Sagittarius: "Стрелеца",
+        Sagittarius: "Стрельца",
         Capricornus: "Козерога",
         Aquarius: "Водолея",
         Pisces: "Рыбы",
