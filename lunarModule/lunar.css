@@ -57,3 +57,23 @@
 .prewiev__image {
   width: 24rem;
 }
+@media screen and (max-width: 500px) {
+  .narration__description {
+    font-size: 1.15rem;
+    line-height: 1.35rem;
+  }
+}
+@media screen and (max-width: 950px) {
+  .phase-info__pic {
+    width: 19rem;
+  }
+  .lunar-info {
+    flex-direction: column;
+  }
+  .preview__picture {
+    width: 19rem;
+  }
+  .prewiev__image {
+    width: 19rem;
+  }
+}

@@ -40,6 +40,10 @@ function updateLunarPhase() {
                 <h2 class="phase-info__title">Луна в мифах и астрологии.</h2>
 
                 <div class="lunar-info">
+                    <div class="prewiev">
+                        <img src="../assets/images/moon/lunarMyth.png" alt="moon picture" class="prewiev__image"/>
+                    </div>
+                    
                     <div class="narration">
 
                         <p class="narration__description">
@@ -52,9 +56,6 @@ function updateLunarPhase() {
                             В период убывающей Луны энергия снижается, наступает время завершения, отдыха и подготовки к новому циклу. Это момент для размышлений и новых начинаний. Огненные знаки – интуитивно ощущают необходимость ставить новые цели и набираются сил. Земные знаки – стремятся к стабилизации, анализируют прошлые ошибки и строят долгосрочные планы. Воздушные знаки – снижают активность в общении, сосредотачиваясь на внутренних процессах. Водные знаки – погружаются в эмоции и поиск смысла, могут чувствовать потребность в уединении.
                         </p>
 
-                    </div>
-                    <div class="prewiev">
-                        <img src="../assets/images/moon/lunarMyth.png" alt="moon picture" class="prewiev__image"/>
                     </div>
                     
                 </div>
