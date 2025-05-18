@@ -7,29 +7,29 @@ const conclusionCME = (data) => {
     let conclusion;
   
     if (numberCME > 15 && averageCMESpeed > 1000) {
-        conclusion = "Очень большое количество выбросов с очень высокой средней скоростью. Экстремальная активность";
+        conclusion = "Экстремальная активность";
     } else if (numberCME >= 12 && numberCME <= 15 && averageCMESpeed > 1000) {
-        conclusion = "Большое количество выбросов с очень высокой средней скоростью. Высокая активность";
+        conclusion = "Высокая активность";
     } else if (numberCME > 15 && averageCMESpeed >= 800 && averageCMESpeed <= 1000) {
-        conclusion = "Очень большое количество выбросов с высокой средней скоростью. Высокая активность";
+        conclusion = "Высокая активность";
     } else if (numberCME >= 12 && numberCME <= 15 && averageCMESpeed >= 800 && averageCMESpeed <= 1000) {
-        conclusion = "Большое количество выбросов с высокой средней скоростью. Высокая активность";
+        conclusion = "Высокая активность";
     } else if (numberCME >= 6 && numberCME < 12 && averageCMESpeed >= 800 && averageCMESpeed <= 1000) {
-        conclusion = "Умеренное количество выбросов с высокой средней скоростью. Высокая активность";
+        conclusion = "Высокая активность";
     } else if (numberCME >= 12 && numberCME <= 15 && averageCMESpeed >= 500 && averageCMESpeed < 800) {
-        conclusion = "Большое количество выбросов с умеренной средней скоростью. Умеренная активность";
+        conclusion = "Умеренная активность";
     } else if (numberCME >= 6 && numberCME < 12 && averageCMESpeed >= 500 && averageCMESpeed < 800) {
-      conclusion = "Умеренное количество выбросов с умеренной средней скоростью. Умеренная активность";
+      conclusion = "Умеренная активность";
     } else if (numberCME < 6 && averageCMESpeed > 1000) {
-        conclusion = "Малое количество выбросов с очень высокой средней скоростью. Высокая активность";
+        conclusion = "Высокая активность";
     } else if (numberCME < 6 && averageCMESpeed >= 800 && averageCMESpeed <= 1000) {
-        conclusion = "Малое количество выбросов с высокой средней скоростью. Умеренная активность";
+        conclusion = "Умеренная активность";
     } else if (numberCME < 6 && averageCMESpeed >= 500 && averageCMESpeed < 800) {
-        conclusion = "Малое количество выбросов с умеренной средней скоростью. Умеренная активность";
+        conclusion = "Умеренная активность";
     } else if (numberCME >= 6 && numberCME < 12 && averageCMESpeed < 500) {
-        conclusion = "Умеренное количество выбросов с низкой средней скоростью. Низкая активность";
+        conclusion = "Низкая активность";
     } else {
-        conclusion = "Малое количество выбросов с низкой средней скоростью. Низкая активность";
+        conclusion = "Низкая активность";
     }
 
     return conclusion;

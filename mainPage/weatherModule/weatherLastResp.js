@@ -10,7 +10,7 @@ const weatherLastResp = async () => {
 
         const lastResp = document.querySelector(".last-resp");
         if (lastResp) {
-            lastResp.textContent = `В последний раз вы смотрели погоду для города: ${lastCity}.`;
+            lastResp.textContent = `Последний запрос для города: ${lastCity}.`;
         }
     } catch (error) {
         console.error("Ошибка в weatherLastResp:", error);
