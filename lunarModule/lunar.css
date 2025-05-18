@@ -9,6 +9,8 @@
   align-items: center;
   justify-content: center;
   gap: 1rem;
+}
+.info-container {
   position: relative;
 }
 .phase-info__pic {
@@ -18,12 +20,28 @@
   font-size: 1.3rem;
   line-height: 1.6rem;
 }
+.lunar-preloader {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 50;
+  top: 0;
+  background: linear-gradient(to right, #371a44, #1b4f72);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.preloader-hide {
+  display: none;
+}
 .phase__name {
   position: absolute;
+  left: 4rem;
   bottom: 6rem;
 }
 .constellation {
   position: absolute;
+  left: 2.7rem;
   bottom: 4rem;
 }
 .lunar-section-wrapper {

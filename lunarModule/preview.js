@@ -23,7 +23,6 @@ const preview = () => {
     cachedPaths = paths.map(item => 
       `./${item.split("/").splice(4, item.length).join("/")}`
     );
-    console.log(cachedPaths)
   });
 
   previewButton.addEventListener('click', () => {

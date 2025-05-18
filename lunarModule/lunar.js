@@ -1,6 +1,7 @@
 import preview from "./preview.js";
 import pastePic from "./pastePic.js";
 import addAstroData from "./addAstroData.js";
+import preloader from "./preloader.js";
 
 
 function updateLunarPhase() {
@@ -10,9 +11,14 @@ function updateLunarPhase() {
         <section class="lunar-section">
             <div class="lunar-section-phase-info">
                 <h2 class="phase-info__title">Фаза луны.</h2>
-                <img src="./assets/images/moon.gif" class="phase-info__pic" alt="moon picture"/>
-                <p class="phase-info__description phase__name"></p>
-                <p class="phase-info__description constellation"></p>
+                <div class="info-container">
+                    <img src="#" class="phase-info__pic" alt="moon picture"/>
+                    <p class="phase-info__description phase__name"></p>
+                    <p class="phase-info__description constellation"></p>
+                    <div class="lunar-preloader preloader-hide">
+                        <img src="./assets/images/moon.gif" class="preloader-animation" alt="moon picture"/>
+                    </div>
+                </div>
             </div>
             
             <div class="lunar-section-wrapper">
@@ -63,6 +69,7 @@ function updateLunarPhase() {
             
         </section>
     `;
+    preloader();
     addAstroData();
     pastePic();
     preview();
