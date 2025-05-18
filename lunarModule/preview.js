@@ -1,10 +1,12 @@
 const preview = () => {
   const previewButton = document.querySelector(".preview__button");
   const moonImage = document.querySelector(".preview__picture");
+  const preloader = document.querySelector(".loader-container");
   let currentIndex = 0;
   let animationInterval = null;
 
   const loadImages = () => {
+    preloader.classList.toggle("loader-container_disable");
     const promises = [];
     for (let i = 0; i < 29; i += 1) {
       const img = new Image();
@@ -15,6 +17,7 @@ const preview = () => {
         })
       );
     }
+    preloader.classList.toggle("loader-container_disable");
     return Promise.all(promises);
   };
 
