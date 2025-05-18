@@ -41,7 +41,7 @@ function updateLunarPhase() {
 
                 <div class="lunar-info">
                     <div class="prewiev">
-                        <img src="../assets/images/moon/lunarMyth.png" alt="moon picture" class="prewiev__image"/>
+                        <img src="./assets/images/moon/lunarMyth.png" alt="moon picture" class="prewiev__image"/>
                     </div>
                     
                     <div class="narration">
