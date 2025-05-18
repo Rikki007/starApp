@@ -21,8 +21,9 @@ const preview = () => {
   let cachedPaths = null;
   loadImages().then(paths => {
     cachedPaths = paths.map(item => 
-      `./${item.split("/").splice(3, item.length).join("/")}`
+      `./${item.split("/").splice(4, item.length).join("/")}`
     );
+    console.log(cachedPaths)
   });
 
   previewButton.addEventListener('click', () => {
@@ -35,7 +36,7 @@ const preview = () => {
 
       const neededPath = cachedPaths || await loadImages().then(paths => 
         paths.map(item => 
-          `./${item.split("/").splice(3, item.length).join("/")}`
+          `./${item.split("/").splice(4, item.length).join("/")}`
         )
       );
 
