@@ -6,6 +6,51 @@
     justify-content: center;
     gap: 1rem;
 }
+.back-image {
+    width: 100%;
+    height: 20rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-image: url(../assets/images/back/two.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 5px 20px black;
+}
+.comet {
+    width: 0.2rem;
+    height: 0.2rem;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.819);
+    position: absolute;
+    top: 6rem;
+    left: 10rem;
+    box-shadow: 3px -3px 10px 2px rgba(255, 255, 255, 0.621);
+    transition: 0.3s;
+}
+.comet:hover {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px -3px 10px 3px rgb(255, 255, 255);
+}
+.banner-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.2rem;
+}
+.banner__desc {
+    font-family: 'alegreya-ital';
+    font-size: 1.8rem;
+    line-height: 1.9rem;
+    font-weight: 400;
+    letter-spacing: 0.1rem
+}
+.last-quote {
+    align-self: flex-end;
+}
 .main-wrapper-block {
     width: 100%;
     display: flex;
@@ -64,12 +109,14 @@
 .earth-activity {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
+    gap: 1rem;
 }
 .kp-index-wrapper {
     display: flex;
     gap: 1rem;
     align-items: center;
+    justify-content: flex-start;
 }
 .signal-light {
     width: 1.5rem;
@@ -111,6 +158,10 @@
     background-color: red;
     box-shadow: 0rem 0rem 1rem red;
 }
+.signal-predict{
+    width: 1.5rem;
+    height: 1.5rem;
+}
 @media screen and (max-width: 950px) {
     .weather-description {
         width: 100%;
@@ -125,12 +176,12 @@
         align-items: center;
     }
     .weather-data-wrapper {
-        width: 60%;
+        width: 23rem;
         margin: 0 auto;
         align-items: flex-start;
     }
     .solar-main-data {
-        width: 60%;
+        width: 25rem;
         flex-direction: column;
         margin: 0 auto;
         align-items: center;

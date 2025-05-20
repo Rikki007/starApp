@@ -22,6 +22,36 @@
     font-weight: 700;
     src: url('../fonts/roboto-v47-cyrillic_latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+/* Great vibes regular - cyrillic_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'GreatVibes';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/GreatVibes-Regular.ttf') format('truetype');
+}
+/* Caveat regular - cyrillic_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Caveat-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'alegreya-ital';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Alegreya-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'alegreya';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Alegreya-Regular.ttf') format('truetype');
+}
 
 body {
     position: relative;

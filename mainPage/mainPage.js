@@ -12,6 +12,19 @@ const mainPage = () => {
 
     main.innerHTML = `
         <section class="main-wrapper">
+        
+            <div class="back-image">
+                <div class="comet"></div>
+            </div>
+
+            <div class="banner-wrapper">
+                <div class="banner">
+                    <p class="banner__desc first-quote">Luory — ваш персональный астролог.</p>
+                    <p class="banner__desc">Мы приглашаем вас раскрыть тайны истории и космоса.</p>
+                    <p class="banner__desc">Познайте себя через яркую палитру взаимодействия небесных светил.</p>
+                </div>
+                <p class="banner__desc last-quote">Сделайте шаг к звездам вместе с Luory!</p>
+            </div>
             
             <div class="main-wrapper-block weather">
                 <h3 class="solar-preview__title">Погода.</h3>
@@ -48,6 +61,7 @@ const mainPage = () => {
                     </div>
 
                     <div class="kp-index-wrapper">
+                        <div class="signal-predict"></div>
                         <p class="earth-preview__title">Прогноз на завтра:</p>
                         <p class="a-index__prediction"></p>
                     </div>

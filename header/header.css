@@ -99,7 +99,7 @@
 .navbar__item {
   padding: 0.7rem;
   list-style-type: none;
-  background: transparent;
+  background: rgba(0, 0, 0, 0.796);
   border: white;
   border-radius: 1rem;
   box-shadow: 8px 5px 5px black, -1px -1px black;
@@ -159,6 +159,9 @@
     background: linear-gradient(to right, #371a44, #1b4f72);
     border-radius: 2rem;
     box-shadow: 8px 5px 5px black, -1px -1px black;
+  }
+  .navbar__item {
+    background: transparent;
   }
   .head-list {
     padding: 1rem 1.5rem;
