@@ -105,6 +105,7 @@
   box-shadow: 8px 5px 5px black, -1px -1px black;
   cursor: pointer;
   transition: 0.3s;
+  color: white;
 }
 .navbar__item:hover {
   background: white;

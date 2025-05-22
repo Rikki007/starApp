@@ -17,15 +17,19 @@ const mainPage = () => {
                 <div class="comet"></div>
             </div>
 
+            <div class="back-image-center"></div>
+
+            <div class="back-image-bottom"></div>
+
             <div class="banner-wrapper">
                 <div class="banner">
                     <p class="banner__desc first-quote">Luory — ваш персональный астролог.</p>
-                    <p class="banner__desc">Мы приглашаем вас раскрыть тайны истории и космоса.</p>
-                    <p class="banner__desc">Познайте себя через яркую палитру взаимодействия небесных светил.</p>
+                    <p class="banner__desc">Мы приглашаем вас раскрыть тайны космоса.</p>
+                    <p class="banner__desc">Познайте себя через взаимодействие небесных светил.</p>
                 </div>
                 <p class="banner__desc last-quote">Сделайте шаг к звездам вместе с Luory!</p>
             </div>
-            
+            <div class="hide">
             <div class="main-wrapper-block weather">
                 <h3 class="solar-preview__title">Погода.</h3>
                 <div class="weather-description">
@@ -68,12 +72,50 @@ const mainPage = () => {
 
                 </div>
 
-            <div/>
+            </div>
 
             <div class="main-wrapper-block quote-wrapper">
                 <h3 class="quote__title">Идея для размышлений:</h3>
                 <p class="qoute__description"></p>
             </div>
+            </div>
+
+            <section class="section-item">
+                <h2 class="item__title banner__desc">Танец звезд и луны: что ждет впереди?</h2>
+                <div class="section-item-wrapper">
+                    <div class="simple-wrapper"></div>
+                    <div class="simple-wrapper"></div>
+                </div>
+            </section>
+
+            <section class="section-item signs-and-interaction">
+                <h2 class="item__title banner__desc">Созвездия судьбы: магия знаков и их взаимодействие.</h2>
+                <p class="item__description">
+                    Откройте завесу тайны влияния созвездий! Узнайте, как знаки зодиака формируют вашу судьбу и какие астрологические взаимодействия определяют гармонию и баланс. Выберите путь понимания — загляните в описание знаков или исследуйте их взаимосвязь. Звезды говорят — осталось лишь услышать их. Исследуйте влияние знаков и их магию!
+                </p>
+                <div class="section-item-wrapper">
+
+                    <div class="simple-wrapper">
+                        <p class="simple-wrapper-description">Здесь вы откроете описание знаков зодиака и связанную с ними мифологию.</p>
+                        <button class="navbar__item">Исследовать знаки</button>
+                    </div>
+                    
+                    <div class="simple-wrapper">
+                        <p class="simple-wrapper-description">Здесь можно узнать о том, как взаимодействуют знаки между собой.</p>
+                        <button class="navbar__item">Открыть взаимосвязи</button>
+                    </div>
+
+                </div>
+            </section>
+
+            <section class="section-item">
+                <h2 class="item__title banner__desc">Судьба написана звёздами, остается пройти этот путь.</h2>
+                <div class="section-item-wrapper">
+                    <div class="simple-wrapper"></div>
+                    <div class="simple-wrapper"></div>
+                </div>
+            </section>
+
         </section>
     `;
 
