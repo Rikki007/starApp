@@ -17,8 +17,6 @@ const mainPage = () => {
                 <div class="comet"></div>
             </div>
 
-            <div class="back-image-center"></div>
-
             <div class="back-image-bottom"></div>
 
             <div class="banner-wrapper">
@@ -82,10 +80,25 @@ const mainPage = () => {
 
             <section class="section-item">
                 <h2 class="item__title banner__desc">Танец звезд и луны: что ждет впереди?</h2>
+                <p class="item__description">
+                    Космос движется в вечном ритме. Вселенная рождается, расширяется, угасает и возрождается вновь. Всё уже было, всё исчезнет и вернётся снова — в бесконечном пространстве и времени.
+                </p>
                 <div class="section-item-wrapper">
-                    <div class="simple-wrapper"></div>
-                    <div class="simple-wrapper"></div>
+
+                    <div class="simple-wrapper">
+                        <p class="simple-wrapper-description">Лунный свет ведёт сквозь поток времени! Узнайте, как фазы Луны влияют на нас и как знаки зодиака подчиняются небесному ритму. Откройте тайны грядущего — исследуйте положение Луны и его значение.</p>
+                        <button class="navbar__item">Положение луны</button>
+                    </div>
+                    
+                    <div class="simple-wrapper">
+                        <p class="simple-wrapper-description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится здесь.</p>
+                        <button class="navbar__item">События</button>
+                    </div>
+
                 </div>
+                <p class="item__description">
+                    Бесконечный круговорот бытия — Вселенная вспыхивает и угасает, забывая прошлое, чтобы начать сначала.
+                </p>
             </section>
 
             <section class="section-item signs-and-interaction">
@@ -110,9 +123,11 @@ const mainPage = () => {
 
             <section class="section-item">
                 <h2 class="item__title banner__desc">Судьба написана звёздами, остается пройти этот путь.</h2>
-                <div class="section-item-wrapper">
-                    <div class="simple-wrapper"></div>
-                    <div class="simple-wrapper"></div>
+                <div class="simple-wrapper">
+                    <p class="simple-wrapper-description">
+                        Звёзды указали направление, как пройти этот путь — выбор за тобой. Загляни в гороскоп на месяц и узнай, какие события ждут впереди.
+                    </p>
+                    <button class="navbar__item">Гороскоп</button>
                 </div>
             </section>
 
