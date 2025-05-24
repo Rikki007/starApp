@@ -81,24 +81,27 @@ const mainPage = () => {
             <section class="section-item">
                 <h2 class="item__title banner__desc">Танец звезд и луны: что ждет впереди?</h2>
                 <p class="item__description">
-                    Космос движется в вечном ритме. Вселенная рождается, расширяется, угасает и возрождается вновь. Всё уже было, всё исчезнет и вернётся снова — в бесконечном пространстве и времени.
+                    Космос движется в вечном ритме. Вселенная рождается, расширяется, угасает и возрождается вновь. Всё уже было, всё исчезнет и вернётся снова в бесконечном цикле.
                 </p>
                 <div class="section-item-wrapper">
 
-                    <div class="simple-wrapper">
-                        <p class="simple-wrapper-description">Лунный свет ведёт сквозь поток времени! Узнайте, как фазы Луны влияют на нас и как знаки зодиака подчиняются небесному ритму. Откройте тайны грядущего — исследуйте положение Луны и его значение.</p>
-                        <button class="navbar__item">Положение луны</button>
-                    </div>
-                    
-                    <div class="simple-wrapper">
-                        <p class="simple-wrapper-description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится здесь.</p>
-                        <button class="navbar__item">События</button>
+                    <div class="section-item-wrapper-discription">
+
+                        <div class="simple-wrapper">
+                            <p class="item__description">Откройте тайны грядущего — исследуйте положение Луны и ее значение.</p>
+                            <button class="navbar__item">Положение луны</button>
+                        </div>
+                        
+                        <div class="simple-wrapper">
+                            <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится здесь.</p>
+                            <button class="navbar__item">События</button>
+                        </div>
+
                     </div>
 
+                    <img src="./assets/images/mainPage/galaxy.png" class="section-item-wrapper__image" alt="galaxy"
+
                 </div>
-                <p class="item__description">
-                    Бесконечный круговорот бытия — Вселенная вспыхивает и угасает, забывая прошлое, чтобы начать сначала.
-                </p>
             </section>
 
             <section class="section-item signs-and-interaction">
@@ -109,12 +112,12 @@ const mainPage = () => {
                 <div class="section-item-wrapper">
 
                     <div class="simple-wrapper">
-                        <p class="simple-wrapper-description">Здесь вы откроете описание знаков зодиака и связанную с ними мифологию.</p>
+                        <p class="item__description">Здесь вы откроете описание знаков зодиака и связанную с ними мифологию.</p>
                         <button class="navbar__item">Исследовать знаки</button>
                     </div>
                     
                     <div class="simple-wrapper">
-                        <p class="simple-wrapper-description">Здесь можно узнать о том, как взаимодействуют знаки между собой.</p>
+                        <p class="item__description">Здесь можно узнать о том, как взаимодействуют знаки между собой.</p>
                         <button class="navbar__item">Открыть взаимосвязи</button>
                     </div>
 
@@ -124,7 +127,7 @@ const mainPage = () => {
             <section class="section-item">
                 <h2 class="item__title banner__desc">Судьба написана звёздами, остается пройти этот путь.</h2>
                 <div class="simple-wrapper">
-                    <p class="simple-wrapper-description">
+                    <p class="item__description">
                         Звёзды указали направление, как пройти этот путь — выбор за тобой. Загляни в гороскоп на месяц и узнай, какие события ждут впереди.
                     </p>
                     <button class="navbar__item">Гороскоп</button>
