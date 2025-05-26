@@ -23,7 +23,7 @@ const mainPage = () => {
                 <div class="banner">
                     <p class="banner__desc first-quote">Luory — ваш персональный астролог.</p>
                     <p class="banner__desc">Мы приглашаем вас раскрыть тайны космоса.</p>
-                    <p class="banner__desc">Познайте себя через взаимодействие небесных светил.</p>
+                    <p class="banner__desc">Познайте себя через взаимодействие небесных тел.</p>
                 </div>
                 <p class="banner__desc last-quote">Сделайте шаг к звездам вместе с Luory!</p>
             </div>
@@ -93,7 +93,7 @@ const mainPage = () => {
                         </div>
                         
                         <div class="simple-wrapper">
-                            <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится здесь.</p>
+                            <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится.</p>
                             <button class="navbar__item">События</button>
                         </div>
 
@@ -111,15 +111,33 @@ const mainPage = () => {
                 </p>
                 <div class="section-item-wrapper">
 
-                    <div class="simple-wrapper">
-                        <p class="item__description">Здесь вы откроете описание знаков зодиака и связанную с ними мифологию.</p>
-                        <button class="navbar__item">Исследовать знаки</button>
-                    </div>
+                    <div class="section-item-wrapper-discription">
+
+                        <div class="simple-wrapper">
+                            <p class="item__description">Откройте для себя тайны знаков зодиака.</p>
+                            <button class="navbar__item">Исследовать знаки</button>
+                        </div>
+                        
+                        <div class="simple-wrapper">
+                            <p class="item__description">Узнайте, как взаимодействуют знаки между собой.</p>
+                            <button class="navbar__item">Открыть взаимосвязи</button>
+                        </div>
                     
-                    <div class="simple-wrapper">
-                        <p class="item__description">Здесь можно узнать о том, как взаимодействуют знаки между собой.</p>
-                        <button class="navbar__item">Открыть взаимосвязи</button>
                     </div>
+
+                    <div class="picture-container">
+
+                        <img src="./assets/images/mainPage/stars4.png" class="picture-container__image sky-img" alt="observer"/>
+
+                        <img src="./assets/images/mainPage/moon1.png" class="picture-container__image moon-img" alt="observer"/>
+
+                        <img src="./assets/images/mainPage/cloud2.png" class="picture-container__image cloud-img" alt="observer"/>
+
+                        <img src="./assets/images/mainPage/girlOnField.png" class="picture-container__image observer-img" alt="observer"/>
+
+                    </div>
+
+                    
 
                 </div>
             </section>

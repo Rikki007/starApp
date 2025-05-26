@@ -188,9 +188,6 @@
     gap: 1rem;
     align-items: flex-start;
 }
-/* .item__description {
-    text-indent: 1.5rem;
-} */
 .section-item-wrapper {
     width: 100%;
     display: flex;
@@ -198,7 +195,7 @@
     justify-content: space-between;
 }
 .section-item-wrapper-discription {
-    width: 65%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -211,7 +208,33 @@
     align-items: flex-start;
 }
 .section-item-wrapper__image {
+    width: 40%;
+}
+.picture-container{
+    width: 40%;
+    position: relative;
+    order: -1;
+}
+.picture-container__image {
+    width: 80%;
+    border-radius: 3rem;
+}
+.moon-img {
     width: 30%;
+    position: absolute;
+    bottom: 60%;
+    left: 50%; 
+}
+.cloud-img {
+    width: 80%;
+    position: absolute;
+    bottom: 55%;
+    left: 0;
+}
+.observer-img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 @media screen and (max-width: 950px) {
     .weather-description {
