@@ -29,7 +29,7 @@
     z-index: -1;
     background-image: url(../assets/images/back/two.jpg);
     background-repeat: no-repeat;
-    background-position: center 54%;
+    background-position: center 0;
     background-size: inherit;
     box-shadow: 10px -5px 20px black;
 }
@@ -220,10 +220,10 @@
     border-radius: 3rem;
 }
 .moon-img {
-    width: 30%;
+    width: 35%;
     position: absolute;
-    bottom: 60%;
-    left: 50%; 
+    bottom: 55%;
+    left: 45%; 
 }
 .cloud-img {
     width: 80%;

@@ -122,16 +122,23 @@ const mainPage = () => {
                             <p class="item__description">Узнайте, как взаимодействуют знаки между собой.</p>
                             <button class="navbar__item">Открыть взаимосвязи</button>
                         </div>
+
+                        <div class="simple-wrapper">
+                            <p class="item__description">
+                                Звёзды указали направление, выбор, как пройти этот путь, за тобой.
+                            </p>
+                            <button class="navbar__item">Гороскоп</button>
+                        </div>
                     
                     </div>
 
                     <div class="picture-container">
 
-                        <img src="./assets/images/mainPage/stars4.png" class="picture-container__image sky-img" alt="observer"/>
+                        <img src="./assets/images/mainPage/stars4.png" class="picture-container__image sky-img" alt="stars"/>
 
-                        <img src="./assets/images/mainPage/moon1.png" class="picture-container__image moon-img" alt="observer"/>
+                        <img src="./assets/images/mainPage/moon1.png" class="picture-container__image moon-img" alt="moon"/>
 
-                        <img src="./assets/images/mainPage/cloud2.png" class="picture-container__image cloud-img" alt="observer"/>
+                        <img src="./assets/images/mainPage/cloud2.png" class="picture-container__image cloud-img" alt="cloud"/>
 
                         <img src="./assets/images/mainPage/girlOnField.png" class="picture-container__image observer-img" alt="observer"/>
 
@@ -144,12 +151,7 @@ const mainPage = () => {
 
             <section class="section-item">
                 <h2 class="item__title banner__desc">Судьба написана звёздами, остается пройти этот путь.</h2>
-                <div class="simple-wrapper">
-                    <p class="item__description">
-                        Звёзды указали направление, как пройти этот путь — выбор за тобой. Загляни в гороскоп на месяц и узнай, какие события ждут впереди.
-                    </p>
-                    <button class="navbar__item">Гороскоп</button>
-                </div>
+                
             </section>
 
         </section>
