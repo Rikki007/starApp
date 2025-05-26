@@ -13,9 +13,7 @@ const mainPage = () => {
     main.innerHTML = `
         <section class="main-wrapper">
         
-            <div class="back-image">
-                <div class="comet"></div>
-            </div>
+            <div class="back-image"></div>
 
             <div class="back-image-bottom"></div>
 
@@ -150,8 +148,33 @@ const mainPage = () => {
             </section>
 
             <section class="section-item">
-                <h2 class="item__title banner__desc">Судьба написана звёздами, остается пройти этот путь.</h2>
-                
+                <h2 class="item__title banner__desc">Наши контакты.</h2>
+                <div class="contact main-page-contact">
+                        <p class="network-link">
+                            Электронная почта: 
+                            <a href="mailto:oreshaodnoglazy@gmail.com">
+                                <img src="./assets/icons/contacts/mail.svg" alt="picture" class="footer-logo">
+                            </a>
+                        </p>
+                        <p class="network-link">
+                            Следите за нами: 
+                            <a href="https://www.instagram.com/_Luory/" target="_blank">
+                                <img src="./assets/icons/contacts/instagram.svg" alt="picture" class="footer-logo">
+                            </a>
+                        </p>
+                        <p class="network-link">
+                            Читайте нас: 
+                            <a href="https://www.threads.net/@_luory/" target="_blank">
+                                <img src="./assets/icons/contacts/threads.svg" alt="picture" class="footer-logo">
+                            </a>
+                        </p>
+                        <p class="network-link">
+                            Подписывайтесь на нас: 
+                            <a href="https://t.me/luoryChanel" target="_blank">
+                                <img src="./assets/icons/contacts/telegram-svgrepo-com.svg" alt="picture" class="footer-logo">
+                            </a>
+                        </p>
+                    </div>
             </section>
 
         </section>
