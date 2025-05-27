@@ -61,3 +61,5 @@ const lunarPositionSignDescription = {
     }            
             
 }
+
+export default lunarPositionSignDescription;

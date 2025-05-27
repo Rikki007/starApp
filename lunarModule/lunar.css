@@ -16,6 +16,15 @@
 .phase-info__pic {
   width: 21rem;
 }
+.phase-info-moon-data {
+  position: absolute;
+  bottom: 15%;
+  left: 19%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .phase-info__description {
   font-size: 1.3rem;
   line-height: 1.6rem;
@@ -34,16 +43,6 @@
 }
 .preloader-hide {
   display: none;
-}
-.phase__name {
-  position: absolute;
-  left: 4rem;
-  bottom: 6rem;
-}
-.constellation {
-  position: absolute;
-  left: 2.7rem;
-  bottom: 4rem;
 }
 .lunar-section-wrapper {
   display: flex;

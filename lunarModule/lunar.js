@@ -13,12 +13,16 @@ function updateLunarPhase() {
                 <h2 class="phase-info__title">Фаза луны.</h2>
                 <div class="info-container">
                     <img src="#" class="phase-info__pic" alt="moon picture"/>
-                    <p class="phase-info__description phase__name"></p>
-                    <p class="phase-info__description constellation"></p>
+                    <div class="phase-info-moon-data">
+                        <p class="phase-info__description fullmoon-newmoon"></p>
+                        <p class="phase-info__description phase__name"></p>
+                        <p class="phase-info__description constellation"></p>
+                    </div>
                     <div class="lunar-preloader preloader-hide">
                         <img src="./assets/images/moon.gif" class="preloader-animation" alt="moon picture"/>
                     </div>
                 </div>
+                <p class="info-container-moon-interaction narration__description"></p>
             </div>
             
             <div class="lunar-section-wrapper">
