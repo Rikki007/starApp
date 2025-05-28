@@ -1,4 +1,3 @@
-import quoteAction from "./dayQuoteModule/quoteAction.js";
 import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
 import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
 import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
@@ -43,9 +42,6 @@ const mainPage = () => {
             <div class="solar-preview">
                 <h3 class="solar-preview__title">Солнечная активность.</h3>
                 <div class="solar-main-data">
-                    <div class="solar-preview-box">
-                        <img src="./assets/images/mainPage/sun.gif" class="solar-preview__pic" alt="solar-static"/>
-                    </div>
                     <div class="solar__description"></div>
                 </div>
             </div>
@@ -70,10 +66,6 @@ const mainPage = () => {
 
             </div>
 
-            <div class="main-wrapper-block quote-wrapper">
-                <h3 class="quote__title">Идея для размышлений:</h3>
-                <p class="qoute__description"></p>
-            </div>
             </div>
 
             <section class="section-item">
@@ -180,7 +172,6 @@ const mainPage = () => {
         </section>
     `;
 
-    quoteAction();
     coronalMassFormingData();
     geomagneticActivity();
     geomagneticAnalysisPreview();

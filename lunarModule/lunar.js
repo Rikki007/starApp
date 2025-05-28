@@ -19,7 +19,7 @@ function updateLunarPhase() {
                         <p class="phase-info__description constellation"></p>
                     </div>
                     <div class="lunar-preloader preloader-hide">
-                        <img src="./assets/images/moon.gif" class="preloader-animation" alt="moon picture"/>
+                        <img src="./assets/images/preloader.gif" class="loader" alt="loader"/>
                     </div>
                 </div>
                 <p class="info-container-moon-interaction narration__description"></p>

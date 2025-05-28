@@ -9,7 +9,6 @@ const chooseNeededAstroData = async () => {
     const fraction = parseFloat(data.data.table.rows[0].cells[0].extraInfo.phase.fraction, 10);
     const fullmoonNewmoon = fullmoonOrNewmoon(fraction);
     const signDescription = data.data.table.rows[0].cells[0].position.constellation.name.toLowerCase();
-    console.log(signDescription)
 
     const translateConstellation = {
         Aries: "Овна",
@@ -37,8 +36,6 @@ const chooseNeededAstroData = async () => {
         "Waning Gibbous": "Убывающая луна",
         "Waning Crescent": "Убывающий серп",
     }
-
-    console.log(lunarPositionSignDescription)
 
     const moonInfoObject = {
         constel: translateConstellation[constellation] || "Упс, ошибка в созвездии",
