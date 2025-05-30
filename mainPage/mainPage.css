@@ -52,9 +52,6 @@
 .last-quote {
     align-self: flex-end;
 }
-.hide {
-    display: none;
-}
 .main-wrapper-block {
     width: 100%;
     display: flex;
@@ -224,6 +221,11 @@
 .main-page-contact {
     align-self: flex-end;
 }
+@media screen and (max-width: 1300px) {
+    .simple-wrapper__button {
+        background-color: black;
+    }
+}
 @media screen and (max-width: 1100px) {
 
     .section-item {
@@ -317,5 +319,19 @@
     .item__description {
         text-indent: 1rem;
         font-size: 1rem;
+    }
+    .section-item-wrapper__image {
+        width: 80%;
+    }
+    .picture-container {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 472px) {
+    .main-wrapper {
+        margin-bottom: 1rem;
+    }
+    .back-image {
+        height: 16rem;
     }
 }

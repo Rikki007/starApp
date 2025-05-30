@@ -1,11 +1,3 @@
-import geomagneticActivity from "./geomagneticActivity/geomagneticActivity.js";
-import kpIndexNowPreview from "./geomagneticActivity/kpIndexNowPreview.js";
-import geomagneticAnalysisPreview from "./geomagneticAnalysis/geomagneticAnalysisPreview.js";
-import coronalMassFormingData from "./coronalMassEjectionModule/coronalMassFormingData.js";
-import dataCMEOutput from "./coronalMassEjectionModule/dataCMEOutput.js";
-import weatherAction from "./weatherModule/weatherAction.js";
-import weatherLastResp from "./weatherModule/weatherLastResp.js";
-
 const mainPage = () => {
     const main = document.querySelector(".main");
 
@@ -24,49 +16,6 @@ const mainPage = () => {
                 </div>
                 <p class="banner__desc last-quote">Сделайте шаг к звездам вместе с Luory!</p>
             </div>
-            <div class="hide">
-            <div class="main-wrapper-block weather">
-                <h3 class="solar-preview__title">Погода.</h3>
-                <div class="weather-description">
-                    <div class="city-wrapper">
-                        <label class="block__city">
-                            Введите город:&nbsp
-                            <input class="city__input"/>
-                        </label>
-                        <button class="navbar__item weather-button">запрос погоды</button>
-                    </div>
-                    <div class="weather-data-wrapper weather_preview"></div>
-                </div>
-            </div>
-
-            <div class="solar-preview">
-                <h3 class="solar-preview__title">Солнечная активность.</h3>
-                <div class="solar-main-data">
-                    <div class="solar__description"></div>
-                </div>
-            </div>
-
-            <div class="main-wrapper-block earth-preview">
-
-                <h3 class="earth-preview__title">Геомагнитная активность.</h3>
-                <div class="earth-activity">
-                    
-                    <div class="kp-index-wrapper">
-                        <div class="signal-light kp-index__signal"></div>
-                        <p class="kp-index__now"></p>
-                    </div>
-
-                    <div class="kp-index-wrapper">
-                        <div class="signal-predict"></div>
-                        <p class="earth-preview__title">Прогноз на завтра:</p>
-                        <p class="a-index__prediction"></p>
-                    </div>
-
-                </div>
-
-            </div>
-
-            </div>
 
             <section class="section-item">
                 <h2 class="item__title banner__desc">Танец звезд и луны: что ждет впереди?</h2>
@@ -79,12 +28,12 @@ const mainPage = () => {
 
                         <div class="simple-wrapper">
                             <p class="item__description">Откройте тайны грядущего — исследуйте положение Луны и ее значение.</p>
-                            <button class="navbar__item">Положение луны</button>
+                            <button class="navbar__item simple-wrapper__button">Положение луны</button>
                         </div>
                         
                         <div class="simple-wrapper">
                             <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится.</p>
-                            <button class="navbar__item">События</button>
+                            <button class="navbar__item simple-wrapper__button">События</button>
                         </div>
 
                     </div>
@@ -105,19 +54,19 @@ const mainPage = () => {
 
                         <div class="simple-wrapper">
                             <p class="item__description">Откройте для себя тайны знаков зодиака.</p>
-                            <button class="navbar__item">Исследовать знаки</button>
+                            <button class="navbar__item simple-wrapper__button">Исследовать знаки</button>
                         </div>
                         
                         <div class="simple-wrapper">
                             <p class="item__description">Узнайте, как взаимодействуют знаки между собой.</p>
-                            <button class="navbar__item">Открыть взаимосвязи</button>
+                            <button class="navbar__item simple-wrapper__button">Открыть взаимосвязи</button>
                         </div>
 
                         <div class="simple-wrapper">
                             <p class="item__description">
                                 Звёзды указали направление, выбор, как пройти этот путь, за тобой.
                             </p>
-                            <button class="navbar__item">Гороскоп</button>
+                            <button class="navbar__item simple-wrapper__button">Гороскоп</button>
                         </div>
                     
                     </div>
@@ -172,13 +121,13 @@ const mainPage = () => {
         </section>
     `;
 
-    coronalMassFormingData();
-    geomagneticActivity();
-    geomagneticAnalysisPreview();
-    kpIndexNowPreview();
-    dataCMEOutput();
-    weatherAction();
-    weatherLastResp();
+    // coronalMassFormingData();
+    // geomagneticActivity();
+    // geomagneticAnalysisPreview();
+    // kpIndexNowPreview();
+    // dataCMEOutput();
+    // weatherAction();
+    // weatherLastResp();
     
 };
 
