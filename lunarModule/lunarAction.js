@@ -9,7 +9,6 @@ const lunarAction = () => {
         setTimeout(() => {
             spinner.classList.toggle('loader-container_disable');
         }, 1200);
-
     });
 }
 

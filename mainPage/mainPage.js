@@ -1,3 +1,5 @@
+import navigation from "./navigation.js";
+
 const mainPage = () => {
     const main = document.querySelector(".main");
 
@@ -28,12 +30,12 @@ const mainPage = () => {
 
                         <div class="simple-wrapper">
                             <p class="item__description">Откройте тайны грядущего — исследуйте положение Луны и ее значение.</p>
-                            <button class="navbar__item simple-wrapper__button">Положение луны</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="phase">Положение луны</button>
                         </div>
                         
                         <div class="simple-wrapper">
                             <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится.</p>
-                            <button class="navbar__item simple-wrapper__button">События</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="events">События</button>
                         </div>
 
                     </div>
@@ -54,19 +56,19 @@ const mainPage = () => {
 
                         <div class="simple-wrapper">
                             <p class="item__description">Откройте для себя тайны знаков зодиака.</p>
-                            <button class="navbar__item simple-wrapper__button">Исследовать знаки</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="signs">Исследовать знаки</button>
                         </div>
                         
                         <div class="simple-wrapper">
                             <p class="item__description">Узнайте, как взаимодействуют знаки между собой.</p>
-                            <button class="navbar__item simple-wrapper__button">Открыть взаимосвязи</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="interactions">Открыть взаимосвязи</button>
                         </div>
 
                         <div class="simple-wrapper">
                             <p class="item__description">
                                 Звёзды указали направление, выбор, как пройти этот путь, за тобой.
                             </p>
-                            <button class="navbar__item simple-wrapper__button">Гороскоп</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="horoscope">Гороскоп</button>
                         </div>
                     
                     </div>
@@ -121,13 +123,7 @@ const mainPage = () => {
         </section>
     `;
 
-    // coronalMassFormingData();
-    // geomagneticActivity();
-    // geomagneticAnalysisPreview();
-    // kpIndexNowPreview();
-    // dataCMEOutput();
-    // weatherAction();
-    // weatherLastResp();
+    navigation();
     
 };
 

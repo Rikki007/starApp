@@ -1,3 +1,5 @@
+import zodiacButtons from "./zodiacButtons.js";
+
 const zodiacListCreate = () => {
     const main = document.querySelector('.main')
     main.innerHTML = `
@@ -68,6 +70,8 @@ const zodiacListCreate = () => {
         </div>
         <div class="sign-description"></div>
     `
+    zodiacButtons();
+
 }
 
 export default zodiacListCreate;
