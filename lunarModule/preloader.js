@@ -3,7 +3,7 @@ const preloader = () => {
     lunarInfoBlock.classList.toggle("preloader-hide")
     setTimeout(() => {
         lunarInfoBlock.classList.toggle("preloader-hide");
-    }, 2500)
+    }, 6000)
 }
 
 export default preloader;

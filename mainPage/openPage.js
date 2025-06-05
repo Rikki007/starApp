@@ -4,7 +4,7 @@ const openPage = (callBack) => {
     spinner.classList.toggle('loader-container_disable');
     setTimeout(() => {
         spinner.classList.toggle('loader-container_disable');
-    }, 1200);
+    }, 3000);
 }
 
 export default openPage;
