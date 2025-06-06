@@ -1,9 +1,14 @@
+import randomizer from "./randomizer.js";
+
 const preloader = () => {
+    console.log(randomizer());
     return `
         <div class="loader-container loader-container_disable">
             <img src="./assets/images/preloader.gif" class="loader" alt="loader"/>
-            <p class="quote">"Молния — это не просто гнев, но указующий перст судьбы."</p>
-            <h2 class="author">Zeus</h2>
+            <div class="quote-container">
+                <p class="quote">""</p>
+                <p class="author"></p>
+            </div>
         </div>
     `
 }
