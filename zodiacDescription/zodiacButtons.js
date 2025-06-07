@@ -19,7 +19,7 @@ const zodiacButtons = () => {
                     behavior: 'smooth',
                     block: 'start'
                 });
-            }, 1200);                
+            }, 3000);                
         });
     });
 }

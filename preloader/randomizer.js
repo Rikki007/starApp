@@ -1,5 +1,5 @@
 const randomizer = () => {
-  return Math.floor(Math.random() * 50);
+  return Math.floor(Math.random() * 55);
 }
 
 export default randomizer;

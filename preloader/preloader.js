@@ -1,7 +1,4 @@
-import randomizer from "./randomizer.js";
-
 const preloader = () => {
-    console.log(randomizer());
     return `
         <div class="loader-container loader-container_disable">
             <img src="./assets/images/preloader.gif" class="loader" alt="loader"/>
