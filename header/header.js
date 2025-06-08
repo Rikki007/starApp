@@ -1,4 +1,4 @@
-import localization from "../localization/localizationData.js";
+import localization from "./headerLanguageData.js";
 import getLanguage from "../localization/localizationUtils.js";
 import languageLogo from "../languageModule/languageLogo.js";
 
@@ -28,25 +28,25 @@ const headerCreate = () => {
                     <ul class="navbar__list">
 
                         <li class="navbar__item head-list main-page">
-                            Главная
+                            ${localization[lang].main}
                         </li>
                         <li class="navbar__item head-list moon-position">
-                            ${localization[lang].header.buttons.position}
+                            ${localization[lang].position}
                         </li>
                         <li class="navbar__item head-list future-events">
-                            ${localization[lang].header.buttons.events}
+                            ${localization[lang].events}
                         </li>
                         <li class="navbar__item head-list zodiac-description">
-                            ${localization[lang].header.buttons.zodiac}
+                            ${localization[lang].zodiac}
                         </li>
                         <li class="navbar__item head-list sign-interaction">
-                            Взаимодействие знаков
+                            ${localization[lang].compatibility}
                         </li>
                         <li class="navbar__item head-list horoscope">
-                            ${localization[lang].header.buttons.horoscope}
+                            ${localization[lang].horoscope}
                         </li>
                         <li class="navbar__item head-list about">
-                            О нас
+                            ${localization[lang].about}
                         </li>
                         
                     </ul>

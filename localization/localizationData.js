@@ -2,19 +2,6 @@ const localization = {
 
     "en": {
 
-        "header": {
-
-            "buttons": {
-
-                "position": "Moon Position",
-                "events": "Events",
-                "zodiac": "Zodiac Description",
-                "horoscope": "Horoscope"
-
-            }
-
-        },
-
         "futureEvents": {
 
             "eventSectionTitle": "Events",
@@ -889,19 +876,6 @@ const localization = {
 
     "ru": {
 
-        "header": {
-
-            "buttons": {
-
-                "position": "Положение Луны",
-                "events": "События",
-                "zodiac": "Описание Знаков",
-                "horoscope": "Гороскоп"
-
-            }
-
-        },
-
         "futureEvents": {
 
             "eventSectionTitle": "События",
@@ -1538,19 +1512,6 @@ const localization = {
     },
 
     "cz": {
-
-        "header": {
-
-            "buttons": {
-
-                "position": "Pozice Měsíce",
-                "events": "Události",
-                "zodiac": "Popis Znamení",
-                "horoscope": "Horoskop"
-
-            }
-
-        },
 
         "futureEvents": {
             "eventSectionTitle": "Události",
