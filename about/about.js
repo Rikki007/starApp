@@ -4,7 +4,6 @@ import localization from "./aboutLanguageData.js";
 const about = () => {
     const lang = getLanguage();
     const main = document.querySelector(".main");
-    console.log(localization[lang])
     main.innerHTML = `
         <section class="about">
             <div class="about-container">
