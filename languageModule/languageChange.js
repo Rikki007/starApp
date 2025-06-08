@@ -10,16 +10,16 @@ const languageChange = () => {
 
             if (item.classList.contains("en")) {
                 localStorage.setItem('language', 'en');
-                settingsContainer.innerHTML = languageLogo();
             }
             if (item.classList.contains("ru")) {
                 localStorage.setItem('language', 'ru');
-                settingsContainer.innerHTML = languageLogo();
             }
             if (item.classList.contains("cz")) {
-                localStorage.setItem('language', 'cz');
-                settingsContainer.innerHTML = languageLogo();
+                localStorage.setItem('language', 'cz'); 
             }
+
+            settingsContainer.innerHTML = languageLogo();
+            location.reload();
 
         });
         
