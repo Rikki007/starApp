@@ -1,6 +1,10 @@
+import localization from "./mainPageLanguageData.js";
+import getLanguage from "../localization/localizationUtils.js";
 import navigation from "./navigation.js";
 
 const mainPage = () => {
+
+    const lang = getLanguage();
     const main = document.querySelector(".main");
 
     main.innerHTML = `
@@ -12,30 +16,48 @@ const mainPage = () => {
 
             <div class="banner-wrapper">
                 <div class="banner">
-                    <p class="banner__desc first-quote">Luory — ваш персональный астролог.</p>
-                    <p class="banner__desc">Мы приглашаем вас раскрыть тайны космоса.</p>
-                    <p class="banner__desc">Познайте себя через взаимодействие небесных тел.</p>
+                    <p class="banner__desc first-quote">
+                        ${localization[lang].bannerFirst}
+                    </p>
+                    <p class="banner__desc">
+                        ${localization[lang].bannerSecond}
+                    </p>
+                    <p class="banner__desc">
+                        ${localization[lang].bannerThird}
+                    </p>
                 </div>
-                <p class="banner__desc last-quote">Сделайте шаг к звездам вместе с Luory!</p>
+                <p class="banner__desc last-quote">
+                    ${localization[lang].bannerLast}
+                </p>
             </div>
 
             <section class="section-item">
-                <h2 class="item__title banner__desc">Танец звезд и луны: что ждет впереди?</h2>
+                <h2 class="item__title banner__desc">
+                    ${localization[lang].starDanceTitle}
+                </h2>
                 <p class="item__description">
-                    Космос движется в вечном ритме. Вселенная рождается, расширяется, угасает и возрождается вновь. Всё уже было, всё исчезнет и вернётся снова в бесконечном цикле.
+                    ${localization[lang].starDanceDescription}
                 </p>
                 <div class="section-item-wrapper">
 
                     <div class="section-item-wrapper-discription">
 
                         <div class="simple-wrapper">
-                            <p class="item__description">Откройте тайны грядущего — исследуйте положение Луны и ее значение.</p>
-                            <button class="navbar__item simple-wrapper__button" data-btn="phase">Положение луны</button>
+                            <p class="item__description">
+                                ${localization[lang].moonLinkDescription}
+                            </p>
+                            <button class="navbar__item simple-wrapper__button" data-btn="phase">
+                                ${localization[lang].moonLinkBtn}
+                            </button>
                         </div>
                         
                         <div class="simple-wrapper">
-                            <p class="item__description">Грядущие события оказывают на нас влияние. Узнайте о том, что скоро случится.</p>
-                            <button class="navbar__item simple-wrapper__button" data-btn="events">События</button>
+                            <p class="item__description">
+                                ${localization[lang].eventsLinkDescription}
+                            </p>
+                            <button class="navbar__item simple-wrapper__button" data-btn="events">
+                                ${localization[lang].eventsLinkBtn}
+                            </button>
                         </div>
 
                     </div>
@@ -46,29 +68,41 @@ const mainPage = () => {
             </section>
 
             <section class="section-item signs-and-interaction">
-                <h2 class="item__title banner__desc">Созвездия судьбы: магия знаков и их взаимодействие.</h2>
+                <h2 class="item__title banner__desc">
+                    ${localization[lang].constellationTitle}
+                </h2>
                 <p class="item__description">
-                    Откройте завесу тайны влияния созвездий! Узнайте, как знаки зодиака формируют вашу судьбу и какие астрологические взаимодействия определяют гармонию и баланс. Выберите путь понимания — загляните в описание знаков или исследуйте их взаимосвязь. Звезды говорят — осталось лишь услышать их. Исследуйте влияние знаков и их магию!
+                    ${localization[lang].constellationDescription}
                 </p>
                 <div class="section-item-wrapper">
 
                     <div class="section-item-wrapper-discription">
 
                         <div class="simple-wrapper">
-                            <p class="item__description">Откройте для себя тайны знаков зодиака.</p>
-                            <button class="navbar__item simple-wrapper__button" data-btn="signs">Исследовать знаки</button>
+                            <p class="item__description">
+                                ${localization[lang].signsLinkDescription}
+                            </p>
+                            <button class="navbar__item simple-wrapper__button" data-btn="signs">
+                                ${localization[lang].signsLinkBtn}
+                            </button>
                         </div>
                         
                         <div class="simple-wrapper">
-                            <p class="item__description">Узнайте, как взаимодействуют знаки между собой.</p>
-                            <button class="navbar__item simple-wrapper__button" data-btn="interactions">Открыть взаимосвязи</button>
+                            <p class="item__description">
+                                ${localization[lang].interactionLinkDescription}
+                            </p>
+                            <button class="navbar__item simple-wrapper__button" data-btn="interactions">
+                                ${localization[lang].interactionLinkBtn}
+                            </button>
                         </div>
 
                         <div class="simple-wrapper">
                             <p class="item__description">
-                                Звёзды указали направление, выбор, как пройти этот путь, за тобой.
+                                ${localization[lang].horoscopeLinkDescription}
                             </p>
-                            <button class="navbar__item simple-wrapper__button" data-btn="horoscope">Гороскоп</button>
+                            <button class="navbar__item simple-wrapper__button" data-btn="horoscope">
+                                ${localization[lang].horoscopeLinkBtn}
+                            </button>
                         </div>
                     
                     </div>
@@ -91,28 +125,30 @@ const mainPage = () => {
             </section>
 
             <section class="section-item">
-                <h2 class="item__title banner__desc">Наши контакты.</h2>
+                <h2 class="item__title banner__desc">
+                    ${localization[lang].contactsTitle}
+                </h2>
                 <div class="contact main-page-contact">
                         <p class="network-link">
-                            Электронная почта: 
+                            ${localization[lang].mail} 
                             <a href="mailto:oreshaodnoglazy@gmail.com">
                                 <img src="./assets/icons/contacts/mail.svg" alt="picture" class="footer-logo">
                             </a>
                         </p>
                         <p class="network-link">
-                            Следите за нами: 
+                            ${localization[lang].instagram}  
                             <a href="https://www.instagram.com/_Luory/" target="_blank">
                                 <img src="./assets/icons/contacts/instagram.svg" alt="picture" class="footer-logo">
                             </a>
                         </p>
                         <p class="network-link">
-                            Читайте нас: 
+                            ${localization[lang].threads}  
                             <a href="https://www.threads.net/@_luory/" target="_blank">
                                 <img src="./assets/icons/contacts/threads.svg" alt="picture" class="footer-logo">
                             </a>
                         </p>
                         <p class="network-link">
-                            Подписывайтесь на нас: 
+                            ${localization[lang].telegram}  
                             <a href="https://t.me/luoryChanel" target="_blank">
                                 <img src="./assets/icons/contacts/telegram-svgrepo-com.svg" alt="picture" class="footer-logo">
                             </a>
