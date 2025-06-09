@@ -6,8 +6,9 @@ const chooseNeededAstroData = async () => {
     const data = await getAstroData();
     const constellation = data.data.table.rows[0].cells[0].position.constellation.name;
     const moonStatus = data.data.table.rows[0].cells[0].extraInfo.phase.string; 
-    const fraction = parseFloat(data.data.table.rows[0].cells[0].extraInfo.phase.fraction, 10);
-    const fullmoonNewmoon = fullmoonOrNewmoon(fraction);
+    const angel = parseFloat(data.data.table.rows[0].cells[0].extraInfo.phase.angel, 10);
+    console.log(angel)
+    const fullmoonNewmoon = fullmoonOrNewmoon(angel);
     const signDescription = data.data.table.rows[0].cells[0].position.constellation.name.toLowerCase();
 
     const translateConstellation = {

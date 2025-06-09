@@ -1,8 +1,8 @@
-const fullmoonOrNewmoon = (fraction) => {
+const fullmoonOrNewmoon = (angel) => {
     let fullmoonNewmoon;
-    if (fraction < 0.004) {
+    if (angel > 354 || angel < 6) {
         fullmoonNewmoon = 'Новолуние.';
-    } else if (fraction > 0.096) {
+    } else if (angel > 174 && angel < 186) {
         fullmoonNewmoon = 'Полнолуние.';
     } else {
         fullmoonNewmoon = ' ';
