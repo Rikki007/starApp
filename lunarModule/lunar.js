@@ -73,6 +73,7 @@ function updateLunarPhase() {
             
         </section>
     `;
+
     preloader();
     addAstroData();
     pastePic();

@@ -14,6 +14,7 @@ import burgerShow from "./header/burgerShow.js";
 import mainPageAction from "./mainPage/mainPageAction.js";
 import mainPage from "./mainPage/mainPage.js";
 import openPage from "./mainPage/openPage.js";
+import testEvents from "./testEvents/testEvents.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     appBody.insertAdjacentHTML('afterbegin', preloader());
@@ -30,4 +31,5 @@ document.addEventListener('DOMContentLoaded', () => {
     aboutAction();
     interactionAction();
     languageAction();
+    testEvents();
 });
