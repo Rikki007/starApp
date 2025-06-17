@@ -2,15 +2,19 @@ import preview from "./preview.js";
 import pastePic from "./pastePic.js";
 import addAstroData from "./addAstroData.js";
 import preloader from "./preloader.js";
+import localization from "./lunarLanguageData.js";
+import getLanguage from "../localization/localizationUtils.js";
 
 
 function updateLunarPhase() {
+
+    const lang = getLanguage();
     const main = document.querySelector('.main');
 
     main.innerHTML = `
         <section class="lunar-section">
             <div class="lunar-section-phase-info">
-                <h2 class="phase-info__title">Фаза луны.</h2>
+                <h2 class="phase-info__title">${localization[lang].phaseTitle}</h2>
                 <div class="info-container">
                     <img src="#" class="phase-info__pic" alt="moon picture"/>
                     <div class="phase-info-moon-data">
@@ -26,28 +30,34 @@ function updateLunarPhase() {
             </div>
             
             <div class="lunar-section-wrapper">
-                <h2 class="phase-info__title">Общая информация.</h2>
+                <h2 class="phase-info__title">
+                    ${localization[lang].commonInfoTitle}
+                </h2>
                 <div class="lunar-info">
                     <div class="narration">
                         <p class="narration__description">
-                            Лунный цикл — это регулярное изменение видимого освещения Луны, вызванное её орбитальным движением вокруг Земли и сменой углов освещения Солнцем. Луна всегда повернута к Земле одной стороной из-за приливного захвата: её вращение синхронизировано с орбитой вокруг Земли, поэтому период её вращения вокруг своей оси совпадает с периодом её обращения вокруг планеты. Это результат гравитационного взаимодействия, которое постепенно замедлило её вращение.
+                            ${localization[lang].commonInfoDescFirst}
                         </p>
                         <p class="narration__description">
-                            Лунные затмения происходят, когда Земля находится между Луной и Солнцем, и её тень полностью или частично закрывает Луну. А затенение в фазах Луны происходит из-за угла освещения: часть Луны оказывается в тени, пока Солнце освещает другую часть её поверхности.
+                            ${localization[lang].commonInfoDescSecond}
                         </p>
                         <p class="narration__description">
-                            Луна играет ключевую роль в формировании приливов и отливов на Земле благодаря своей гравитации. Приливные силы возникают из-за разницы в гравитационном притяжении Луны к разным частям Земли. Это приводит к тому, что океаны растягиваются, образуя приливные бугры — один на стороне, ближайшей к Луне, и другой на противоположной стороне. Из-за вращения Земли приливы происходят дважды в сутки. При полной и новой Луне приливы становятся особенно высокими (сизигийные приливы) из-за совокупного влияния Солнца и Луны. А в первой и последней четверти возникают квадратурные приливы, которые слабее, потому что гравитация Солнца частично компенсирует влияние Луны.
+                            ${localization[lang].commonInfoDescLast}
                         </p>
                     </div>
                     <div class="prewiev">
                 
                         <img src="./assets/images/moon/lunarCycle0.png" alt="moon picture" class="preview__picture"/>
-                        <button class="preview__button navbar__item">Лунный цикл</button>
+                        <button class="preview__button navbar__item">
+                            ${localization[lang].cycleButton}
+                        </button>
 
                     </div>
                 </div>
 
-                <h2 class="phase-info__title">Луна в мифах и астрологии.</h2>
+                <h2 class="phase-info__title">
+                    ${localization[lang].moonHistoryTitle}
+                </h2>
 
                 <div class="lunar-info">
                     <div class="prewiev">
@@ -57,13 +67,13 @@ function updateLunarPhase() {
                     <div class="narration">
 
                         <p class="narration__description">
-                            Луна в полнолуние часто связывается с усилением эмоций, интуиции и даже беспокойства, тогда как новолуние считается временем обновления, размышлений и закладывания новых начинаний. В Древней Греции Луну ассоциировали с богинями Артемидой и Селеной, считая их покровительницами ночи и циклов жизни. В китайской культуре Луна символизировала гармонию и семейные узы, особенно во время Праздника середины осени. У славян Луна воспринималась как магическая сила, влияющая на урожай, судьбу и мистические обряды.
+                            ${localization[lang].moonHistoryDescFirst}
                         </p>
                         <p class="narration__description">
-                            Когда Луна растёт, её энергия становится сильнее, достигая кульминации в полнолуние. Это период эмоциональной напряжённости, всплесков энергии и завершения циклов. Огненные знаки (Овен, Лев, Стрелец) – чувствуют прилив страсти и мотивации, но могут стать импульсивнее. Земные знаки (Телец, Дева, Козерог) – концентрируются на результатах и подводят итоги, но могут ощущать внутреннее беспокойство. Воздушные знаки (Близнецы, Весы, Водолей) – усиливается поток идей и общения, но эмоции могут выйти из-под контроля. Водные знаки (Рак, Скорпион, Рыбы) – становятся особенно чувствительными, интуиция обостряется, но возможны перепады настроения.
+                            ${localization[lang].moonHistoryDescSecond}
                         </p>
                         <p class="narration__description">
-                            В период убывающей Луны энергия снижается, наступает время завершения, отдыха и подготовки к новому циклу. Это момент для размышлений и новых начинаний. Огненные знаки – интуитивно ощущают необходимость ставить новые цели и набираются сил. Земные знаки – стремятся к стабилизации, анализируют прошлые ошибки и строят долгосрочные планы. Воздушные знаки – снижают активность в общении, сосредотачиваясь на внутренних процессах. Водные знаки – погружаются в эмоции и поиск смысла, могут чувствовать потребность в уединении.
+                            ${localization[lang].moonHistoryDescLast}
                         </p>
 
                     </div>

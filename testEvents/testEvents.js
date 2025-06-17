@@ -54,11 +54,28 @@ const testEvents = () => {
     });
 
     // ретроградное движение планет
-    const planet = "Mars";
-    const now = new Date();
-    const isRetro = Astronomy.Elongation(planet, now).retrograde;
-    console.log(isRetro)
+    function isRetrograde(planet, date, daysToCheck = 5) {
+        const date1 = new Date(date);
+        const date2 = new Date(date.getTime() + daysToCheck * 86400000);
 
+        // Получаем эклиптические координаты планеты
+        const ecliptic1 = Astronomy.Ecliptic(Astronomy.GeoVector(planet, date1, true));
+        const ecliptic2 = Astronomy.Ecliptic(Astronomy.GeoVector(planet, date2, true));
+
+        // Вычисляем изменение долготы (учёт перехода через 360°)
+        const deltaLon = ((ecliptic2.elon - ecliptic1.elon + 180) % 360) - 180;
+        return deltaLon < 0; // Если долгота уменьшается, движение ретроградное
+    }
+
+    // Пример использования
+    const now = new Date();
+    bodies.forEach(item => {
+        if (isRetrograde(item, now)) {
+            console.log(`${item} сейчас ретрограден!`);
+        } else {
+            console.log(`${item} движется прямо.`);
+        }
+    });
 
 };
 

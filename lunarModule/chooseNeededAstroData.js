@@ -43,7 +43,6 @@ const chooseNeededAstroData = async () => {
         fullmoon: fullmoonNewmoon || "Упс, ошибка при определении полнолуния-новолуния",
         signInteraction: lunarPositionSignDescription[signDescription].description || "Упс, ошибка при получении данных о влиянии луны на знак зодиака",
     }
-
     return moonInfoObject;
 }
 
