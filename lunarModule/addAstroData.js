@@ -7,9 +7,9 @@ const addAstroData = async () => {
     const fullmoonNewmoon = document.querySelector(".fullmoon-newmoon");
     const moonSignInteraction = document.querySelector(".info-container-moon-interaction");
     fullmoonNewmoon.textContent = `${data.fullmoon}`;
-    moonStatus.textContent = `${data.moonSt}.`;
-    constellation.textContent = `В созвездии ${data.constel}.`;
-    moonSignInteraction.textContent = `${data.signInteraction}.`;
+    moonStatus.textContent = `${data.moonSt}`;
+    constellation.textContent = `${data.constel}`;
+    moonSignInteraction.textContent = `${data.signInteraction}`;
 
 }
 
