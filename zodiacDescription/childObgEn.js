@@ -1607,139 +1607,137 @@ const zodiacDescription = [
 
         "description": {
 
-           "common": "Рыбы — это знаки, которые, словно мосты, соединяют разные миры и реальности. Они воплощают в себе тайну, эмпатию и бескрайность души, притягивая к себе своей загадочностью и внутренней глубиной. Их сущность можно представить как два потока в одном русле: одни Рыбы плывут к берегам мистических откровений, где они ищут ответы на вечные вопросы и стремятся к духовным озарениям; другие — к островам всеобъемлющей любви, где они находят гармонию и покой в человеческих взаимоотношениях. Они тонко воспринимают окружающий мир и могут уловить самые нежные и едва заметные оттенки эмоций и событий. Их дар — это превращать боль в поэзию и искусство, находя в самых трудных переживаниях источник вдохновения и силы. Они способны видеть в случайных намёках пророчества и предчувствовать будущее, что делает их настоящими интуитами и мудрецами. Однако у Рыб есть и слабости. Одна из главных — это их склонность к растворению в других. Они настолько эмпатичны и отзывчивы, что могут легко затеряться в чужих проблемах, забыв о своих собственных желаниях и потребностях. Эта черта может приводить к тому, что Рыбы теряют свою индивидуальность и границы, не всегда понимая, где заканчивается «я» и начинается «мы». Кроме того, Рыбы могут быть слишком чувствительными и уязвимыми. Их эмоциональная глубина и способность к сопереживанию могут приводить к тому, что они легко ранятся и испытывают сильные переживания. Они могут уходить в мир фантазий и иллюзий, чтобы сбежать от реальности, что иногда приводит к проблемам в личной жизни и работе. Рыбы также могут быть склонны к пассивности и недостатку решительности. Они предпочитают плыть по течению, избегая конфронтаций и сложных решений. Их стремление к гармонии и миру иногда мешает им настоять на своём и отстаивать свои интересы. Однако, несмотря на эти слабости, Рыбы обладают уникальными талантами и способностями. Их способность чувствовать и понимать других людей на глубоком уровне делает их прекрасными друзьями, партнёрами и наставниками. Они умеют вдохновлять и поддерживать окружающих, даря им тепло и заботу.",  
+           "common": "Pisces are the bridges between worlds — vessels of mystery, empathy, and soul-bound infinity. Their essence flows in two currents: some swim toward mystical revelations, seeking transcendence and cosmic insight; others drift toward islands of universal love, longing for harmony through human connection. Highly attuned to the subtlest emotional wavelengths, Pisces sense what’s hidden between the lines of reality. Their gift is alchemical: turning sorrow into poetry and pain into beauty. Even fleeting symbols can feel prophetic in their eyes, granting them an uncanny intuition and timeless wisdom. But such porous sensitivity comes with vulnerabilities. Pisces can dissolve into others' problems, losing sight of their own needs and identity. Their empathic immersion may blur the boundary between 'me' and 'we.' Emotionally delicate, they may flee into dreams and illusions when reality feels too raw, risking detachment and passivity. Their quest for peace might steer them away from confrontation or clarity. Still, beneath their softness lies a deep power — the ability to hold space, reflect others’ truths, and inspire healing without demanding recognition. In a world obsessed with certainty, Pisces remind us of the magic in not knowing, in feeling, and in believing anyway.", 
 
-            "archetype": {  
-                "extra": "Экстравертные Рыбы выражают свои чувства и мысли через творчество: танцы, музыку или молитвы. Они умеют создавать атмосферу, в которой люди чувствуют себя лучше, например, обнимают друга, чтобы успокоить, или рассказывают вдохновляющие истории у костра, помогая забыть тревоги.",  
-                "intro": "Интровертные Рыбы живут в своём внутреннем мире. Они записывают свои сны, пытаются найти скрытые значения в окружающих явлениях, занимаются творчеством, например, рисуют или пишут стихи. Им нравится уединение и тишина, так они могут лучше понять себя и мир вокруг."  
-            },   
+            "archetype": {
+                "extra": "Extroverted Pisces express their feelings through creativity — dance, music, or prayer. They craft emotional atmospheres that soothe and inspire: hugging friends to calm their hearts, or weaving fireside stories that lift fear like mist off the sea.",
+                "intro": "Introverted Pisces dwell in inner landscapes where dreams are recorded, symbols are deciphered, and expression flows through art or poetry. They seek solitude and stillness — not to escape the world, but to reflect its truths more clearly through the depths of their soul."
+            },
 
-            "planet": "Знаком Рыб управляют Нептун и Юпитер — два могущественных символа, представляющих океан и маяк, гармонию глубин и высот. Эти планеты придают Рыбам уникальные черты и способности, которые делают их одними из самых загадочных и чувствительных знаков зодиака. Нептун — это глубина, где сны переплетаются с реальностью, а границы между «я» и миром растворяются. Он символизирует мистическую силу, интуицию и способность к эмпатии. Нептун дарит Рыбам дар предчувствий, умение слышать неслышимое и превращать боль в музыку или искусство. Рыбы, управляемые Нептуном, могут чувствовать самые тонкие вибрации мира, и их восприятие реальности часто выходит за пределы обычного понимания. Они могут видеть сны и образы, которые другим недоступны, и использовать эти видения для создания произведений искусства или для духовного роста. Юпитер, в свою очередь, расширяет эти воды до бескрайности. Он символизирует мудрость, веру и стремление к познанию. Юпитер ищет смысл в звёздных картах и учит верить, даже когда разум шепчет «невозможно». Он расширяет горизонты Рыб, побуждая их искать истину и мудрость во всем, что они делают. Юпитер помогает Рыбам находить вдохновение и уверенность в своих действиях, делая их способными на великие свершения. Вместе Нептун и Юпитер создают вечное движение, которое определяет сущность Рыб. Нептун зовёт их нырнуть в бездну, исследовать скрытые глубины души и мира, а Юпитер обещает, что там, в темноте, найдётся остров света. Это вечное стремление к духовным открытиям и поиску истины делает Рыб уникальными и вдохновляющими.",
+            "planet": "Pisces is guided by a celestial duet: Neptune, the oceanic dreamweaver, and Jupiter, the cosmic uplifter. Neptune dissolves the walls between self and world, infusing Pisces with mysticism, empathy, and visionary perception. It brings whispers from the unseen — dreams that spark art, intuition that stirs healing, and a sense of meaning found in silence. Jupiter, once the classical ruler, lends expansion: it urges Pisces to stretch across the sea of being, to believe, learn, and seek spiritual magnitude. With Neptune’s velvet fog and Jupiter’s hopeful light, Pisces swim not to escape but to merge — with truth, with spirit, with the sublime. Where Neptune plunges into mystery, Jupiter builds bridges of meaning. One immerses, the other uplifts. Together, they sculpt Pisces into a paradox of vulnerability and divine purpose — a sign forever flowing toward something bigger than itself.",
 
             "mythology": {  
 
                 "pic": "./assets/images/myth/piscesMyth/tifon.jpg",
-                "main": "Символ Рыб связан с мифом о богине Афродите и её сыне Эроте, бегущих от чудовища Тифона. Миф о рыбах Афродиты и Эроса начинается с эпической битвы богов против чудовища Тифона. Тифон был чудовищем, рожденным Геей и Тартаром, чтобы мстить богам Олимпа. Во время нападения Тифона на Олимп боги были вынуждены спасаться бегством. Афродита, богиня красоты, и её сын Эрос, бог любви, превратились в рыб и бросились в воды реки Евфрат. Чтобы не потерять друг друга в бурлящей реке, они связали свои хвосты лентой. Их единство и взаимосвязь помогли им преодолеть опасность и выжить. Таким образом, миф о рыбах Афродиты и Эроса подчёркивает важность любви, взаимопонимания и поддержки в трудные времена. Это история о том, как вместе можно преодолеть любые трудности и опасности, и о том, как любовь и единство могут спасти даже в самых страшных ситуациях.",  
+                "main": "The Pisces symbol is rooted in the myth of Aphrodite and her son Eros fleeing from the monstrous Typhon. Born of Gaia and Tartarus as vengeance against the gods, Typhon unleashed chaos upon Olympus, forcing the deities to scatter. Aphrodite, goddess of beauty, and Eros, god of love, transformed into fish and leapt into the Euphrates River to escape. To avoid separation in the wild currents, they tied their tails together with a ribbon. This act of bond and mutual trust helped them survive the peril. The myth underscores Pisces’ core: *unity, protection through love, and transcendence in the face of chaos*. Their tale teaches that emotional connection isn’t weakness — it’s survival. Bound by empathy, Pisces swims not alone but with soul tied to soul, navigating stormy depths through devotion and faith.",  
 
                 "branch1": {
-                    "title": "Легенда о Инахе и Дефне.",
+                    "title": "The Legend of Inachus and Dephne",
                     "pic": "./assets/images/myth/piscesMyth/appolo.jpg",
-                    "description": "Инах был древнегреческим богом реки, почитаемым в Аргосе. Он считался сыном Океана и Тефиды, и был одним из старейших речных богов. Его дочь, Дефна, была невероятно красива, и её красота привлекала внимание многих богов, включая Аполлона, бога света и искусства. Аполлон влюбился в Дефну и начал преследовать её, желая сделать своей возлюбленной. Но Дефна не отвечала ему взаимностью и стремилась сохранить свою свободу и независимость. Боясь, что Аполлон настигнет её, Дефна обратилась за помощью к своему отцу. Инах, желая защитить свою дочь, превратил её в рыбу. Дефна приняла эту форму и уплыла в море. Рыбы часто ищут своё место в мире, где они могут чувствовать себя в безопасности и гармонии, избегая конфликтов и преследований. Миф о Инахе и Дефне отражает тему трансформации и изменения формы, что является важным аспектом символики знака Рыб. Рыбы способны адаптироваться к различным условиям и изменять"
-                },  
+                    "description": "Inachus, one of the oldest river gods of Argos and son of Oceanus and Tethys, had a daughter named Dephne, famed for her ethereal beauty. Her radiance caught the eye of Apollo, god of light and art, who pursued her with passionate intensity. But Dephne, desiring freedom over possession, did not return his affection. Fearing Apollo’s approach, she pleaded for her father’s protection. Inachus, to preserve her autonomy, transformed Dephne into a fish. Slipping into the sea, she escaped into the safety of the unknown. This myth speaks to Pisces’ gift of metamorphosis — the ability to evade harm not through confrontation, but through intuitive shift. It reflects Pisces’ deep longing for emotional sanctuary and their tendency to adapt, transform, or even disappear when their soul senses danger. Dephne didn’t surrender — she evolved, and that is the essence of Pisces' power."
+                },
 
                 "branch2": {
-                    "title": "Легенда о Лорелее.",
+                    "title": "The Legend of Lorelei",
                     "pic": "./assets/images/myth/piscesMyth/mermaid.jpg",
-                    "description": "Легенда о Лорелее — русалке Рейна, чьи песни заставляли мореплавателей терять разум. Но мало кто знает: её голос был не соблазном, а криком о помощи. Превращённая в чудовище за отвергнутую любовь, она искала того, кто услышит боль за мелодией. Лишь старый слепой лодочник, лишённый зрения, распознал в её пении молитву. Он стал её голосом на земле, а она — его глазами в подводном царстве. Так Рыбы учат: граница между проклятием и благословением — это готовность погрузиться в чужую бездну, не требуя воздуха."
+                    "description": "The legend of Lorelei tells of the Rhine River siren whose haunting songs led sailors to madness — but few know the truth: her voice was not seduction, but a cry for help. Cursed into monstrosity after love unreturned, she sang not to lure, but to reach. Only an old blind boatman, unburdened by sight, could hear the sorrow behind her melody. He became her voice on land; she, his eyes beneath the waves. In Pisces’ mirror, this tale teaches that the line between curse and blessing is drawn by those willing to dive into another’s depths — without needing air. Empathy, for Pisces, isn’t just feeling — it’s becoming."
                 },
 
             },  
 
             "facts": [
-                ["Эмоциональное видение:", "Рыбы обладают даром видеть мир через чувства и эмоции. Они находят гармонию даже в самых сложных ситуациях и умеют превращать боль в творчество."],
-                ["Исследователи глубин:", "Любовь к глубине делает Рыб исследователями миров. Они размывают границы реальности, создавая новые способы восприятия и понимания."],
-                ["Мышление подкоркой:", "Рыбы — это люди с сильной интуицией. Их предчувствия часто опережают логические выводы, и они могут чувствовать приближающиеся события, даже не понимая их полностью."],
-                ["Рефлексия:", "Многие Рыбы имеют склонность к внутренним поискам. Они погружаются в свои мысли и эмоции, изучая себя, но не всегда находят ясные ответы и пути обратно."],
-            ]
+                ["Emotional Vision:", "Pisces perceive the world through the lens of feeling. They can find harmony even in chaos — transforming sorrow into symphonies, and fragility into art."],
+                ["Depth Explorers:", "Drawn to the profound, Pisces dissolve the walls of reality and invent new ways of seeing — blending the sensory with the symbolic."],
+                ["Gut Wisdom:", "They operate on intuition wired beneath language. Their hunches often arrive long before facts catch up."],
+                ["Reflection Loop:", "Pisces dive inward in search of self — but their spirals of introspection don’t always lead back to the surface with clear answers."]
+            ],
         },
 
        "childhood": {
-            "description": "Ребёнок-Рыбы — это маленький мечтатель с тонкой душевной организацией. Его богатое воображение позволяет ему видеть магию в самых обыденных вещах. В играх он создаёт целые миры и истории, которые захватывают его воображение и делают его игры особыми и уникальными. Ребёнок-Рыбы избегает шумных и активных игр, предпочитая тихие уголки, где можно рисовать, слушать музыку или сочинять сказки. В дружбе ребёнок-Рыбы ищет родственные души — тех, кто понимает язык намёков и тишины, кто готов разделить с ним его мечты и фантазии. Он ценит глубокие и искренние отношения, где можно говорить о самых сокровенных вещах и делиться своими мыслями и чувствами. Ребёнок-Рыбы умеет слушать и поддерживать друзей, и его эмпатия и чуткость делают его замечательным другом. Однако у ребёнка-Рыб есть и свои слабости. Одна из них — его склонность к избеганию реальности. Он может уходить в свои мечты и фантазии, избегая столкновений с проблемами и трудностями. Эта склонность может приводить к тому, что он не всегда готов справляться с реальными вызовами и сложными ситуациями. Кроме того, ребёнок-Рыбы может быть слишком чувствительным и уязвимым. Его тонкая душевная организация делает его восприимчивым к критике и отрицательным эмоциям. Он может легко расстраиваться и замыкаться в себе, если сталкивается с грубостью или несправедливостью. Его эмоциональная глубина и склонность к сопереживанию могут приводить к тому, что он берет на себя чужие проблемы и переживания, забывая о своих собственных нуждах. Ещё одной слабостью ребёнка-Рыб может быть его непостоянство и трудность сосредоточиться на одном деле. Его богатое воображение и стремление к новизне могут приводить к тому, что он часто переключается с одного занятия на другое, не доводя начатое до конца.",
+            "description": "The Pisces child is a gentle dreamer, whose inner world teems with wonder. Ordinary objects become portals — a puddle becomes an ocean kingdom, and a lamp’s shadow hides a story waiting to unfold. They weave entire mythologies during play, often alone or with a soul-twin friend who can speak the language of silence and symbols. They gravitate toward quiet corners where creativity flows: painting underwater cities on the walls, composing lullabies for imaginary creatures, or whispering poems to the stars outside the window. Their sensitivity is their superpower, but also their soft spot — they can soak up sadness like a sponge and retreat into solitude when the world feels too loud. Pisces children thrive when gently guided, not pushed, and when their emotional insights are honored rather than dismissed. With patience, they grow into artists of empathy, weaving warmth into even the coldest spaces.",
 
             "perks": [
-                ["Чуткость:", "Плачет над книгой, где умирает вымышленный герой, и неделю носит в кармане камень «для его защиты»."],
-                ["Творчество:", "Рисует на обоях подводные миры или пишет письма феям, пряча их под подушку."],
-                ["Побег от реальности:", "Если в реальности все проблемы, прячется в мире фантазий и мечтаний, избегая сложностей"],
-                ["Эмпатия:", "Угадывает грусть мамы и оставляет на столе цветок, сорванный по дороге из школы."],
-                ["Замыкание:", "Если его обидеть, замыкается в себе на долгое время, переживая свои чувства в одиночестве."]
+                ["Sensitivity:", "Weeps over a storybook tragedy and carries a 'protection pebble' for the fallen character."],
+                ["Creativity:", "Turns wallpaper into coral reefs and writes letters to fairies hidden beneath pillow fortresses."],
+                ["Escapism:", "Retreats into daydreams and fantasy realms when reality becomes too heavy or harsh."],
+                ["Empathy:", "Notices Mom’s unspoken sadness and leaves a wildflower on the kitchen table."],
+                ["Withdrawal:", "After being hurt, curls inward — processing emotions in solitude before re-emerging."]
             ]
-
         },
 
         "schoolboy": {
-            "description": "Рыбы в школе — чувствительный и мечтательный ученик. Он часто погружён в свои мысли, предпочитая творческие задания строгим правилам. На уроках литературы пишет стихи, а на географии представляет дальние страны как волшебные миры. Ему трудно сосредоточиться на точных науках, но в искусстве и гуманитарных предметах он раскрывается полностью. Конфликты или критика могут заставить его замкнуться в себе. Тем не менее, его удивительная интуиция и способность к эмпатии помогают ему находить друзей и быть полезным в школьной жизни. Иногда его мечтательность превращается в отстранённость, и он может забыть про школьные обязанности, предпочитая мир своих фантазий реальности.",
-
+            "description": "The Pisces schoolchild is a tender soul adrift in daydreams. While others memorize formulas, they may be sketching ocean kingdoms or composing poems in the margins of their workbook. School is not a system to conquer, but a theatre of emotions and symbols — where literature feels like prophecy and geography maps the landscape of the heart. They excel in the arts, where their sensitivity and creativity can flow freely, but struggle with rigid rules and high-pressure expectations. If scolded or criticized too sharply, they may retreat into their inner sea. Yet in moments of empathy and connection, they become lighthouses to others — quietly guiding with warmth, understanding, and quiet acts of kindness.",
+            
             "inclinations": [
-                ["Творческие занятия:", "Участвует в театральных постановках, рисует плакаты для школьных мероприятий."],
-                ["Помощь другим:", "Поддерживает одноклассников в сложных ситуациях, умеет слушать и утешать."],
-                ["Исследование эмоций:", "Ведёт дневник, где описывает свои чувства и наблюдения за окружающими."],
-                ["Музыкальные способности:", "Может играть на музыкальных инструментах или участвовать в хоре."],
-                ["Мечтательность:", "Иногда предпочитает фантазировать вместо выполнения домашних заданий, увлекаясь своими мечтами."]
+                ["Creative Expression:", "Joins drama clubs, paints backdrops, or writes lyrics for school performances."],
+                ["Helping Hand:", "Always ready with gentle support — a comforting word or a shared silence in hard times."],
+                ["Emotional Explorer:", "Keeps journals filled with feeling-maps and poetic musings on friendship, love, and the stars."],
+                ["Musical Talent:", "Drawn to melody and mood, they may sing in the choir or compose pieces for classmates' birthdays."],
+                ["Dream Wandering:", "Homework sometimes takes a back seat to imaginary adventures involving moonwhales and rainbow subways."]
             ],
 
             "perks": [
-                ["Развитая фантазия:", "Придумывает истории на основе обычных событий, например, превращает контрольную в приключенческий квест."],
-                ["Эмпатия:", "Замечает, когда друг грустит, и старается подбодрить его."],
-                ["Любовь к природе:", "Собирает гербарии или фотографирует облака, находя красоту в мелочах."],
-                ["Отстранённость:", "Иногда предпочитает мечты и фантазии реальности, забывая о школьных обязанностях."],
-                ["Чувствительность:", "Резкая критика или конфликты могут заставить его замкнуться в себе и переживать длительное время."]
+                ["Imaginative Brilliance:", "Turns a spelling test into a spy mission where each word unlocks a hidden vault."],
+                ["Empathy:", "Senses when a classmate feels lost and offers quiet reassurance like a soft tide."],
+                ["Nature Lover:", "Finds magic in beetles, raindrops, and the way morning light hits old windows."],
+                ["Emotional Retreat:", "When overwhelmed, disappears into a storybook world until the storm passes."],
+                ["High Sensitivity:", "A single harsh word can echo for days — but kindness blossoms into lifelong loyalty."]
             ]
         },
 
         "adult": {
-            "description": "Взрослые Рыбы — это тонко чувствующие люди, часто выбирающие профессии, где можно помогать другим или выражать себя через творчество. Они работают психологами, художниками, музыкантами, социальными работниками. Их привлекает всё, что связано с эмоциями: от написания романов до поддержки людей в кризисных ситуациях. Рыбы обладают глубоким пониманием человеческих эмоций и часто играют роль миротворцев в социальном окружении. Иногда они избегают жёсткой конкуренции, предпочитая спокойную и душевную атмосферу. Тем не менее, их склонность к уединению и избеганию конфликтов может создавать трудности в профессиональной сфере, особенно в ситуациях, требующих решительных действий. Их иногда называют «мечтателями», так как они склонны погружаться в свои фантазии и мечты, что может отвлекать их от реальности.",
+            "description": "The adult Pisces is a soul-first human — drawn to paths where empathy and imagination can become a vocation. They are often found in roles that hold emotional resonance: therapists, painters, musicians, healers. Their radar for unspoken emotions helps them act as peacekeepers, intuitively knowing what needs soothing and what longs to be heard. They prefer gentle environments to corporate battlefields, and would rather weave beauty or restore hope than win. Yet this gentleness can create challenges in high-pressure settings — Pisces may sidestep hard choices or retreat into inner landscapes. Their default mode is 'dream,' and though it fuels great creativity, it can blur the boundary with daily obligations. Still, when given space, Pisces becomes a vessel of emotional intelligence that breathes color and comfort into the lives of others.",
 
             "perks": [
-                ["Интуиция:", "Чувствуют скрытые мотивы людей, что помогает в разрешении конфликтов."],
-                ["Гибкость:", "Адаптируются к изменениям, находя нестандартные решения проблем."],
-                ["Идеализм:", "Верят в лучшее, даже когда сталкиваются с несправедливостью."],
-                ["Избегание конфликтов:", "Склонны избегать столкновений и трудных разговоров, что иногда препятствует разрешению проблем."],
-                ["Чрезмерная мечтательность:", "Иногда увлекаются своими фантазиями и идеями, теряют связь с реальностью и ежедневными обязанностями."]
+                ["Intuition:", "They read the emotional undercurrents of others like a second language — resolving tension before it speaks."],
+                ["Adaptability:", "They shift like water, finding unconventional solutions when linear thinking falters."],
+                ["Idealism:", "They continue to believe in kindness, even when cynicism feels safer."],
+                ["Conflict Avoidance:", "They evade confrontation — which can preserve harmony or delay necessary clarity."],
+                ["Overdreaming:", "Their vivid inner world may distract from routine tasks and realism — a blessing and a blindfold."]
             ]
         },
 
         "oldman": {
-            "description": "Пожилые Рыбы — мудрые и душевные люди, ценящие гармонию и воспоминания. Они любят проводить время в кругу близких, делиться историями из прошлого или заниматься творчеством. Многие становятся наставниками для молодёжи, учат видеть красоту в простом или поддерживают тех, кто потерял веру в себя. Их дом — место, где царит уют: семейные фото, книги, рукоделие. Тем не менее, пожилые Рыбы могут быть склонны к излишней мечтательности, часто отказываясь принимать современные изменения и предпочитая жить в воспоминаниях. Их высокая чувствительность делает их уязвимыми к эмоциональным потрясениям, что может оказывать влияние на их повседневную жизнь и общение с окружающими.",
-
+            "description": "The elder Pisces is a soft-spoken sage — a curator of memories, emotions, and quiet wisdom. Their days are stitched from comfort: tea-scented evenings with family, shelves lined with story-worn books, and the hum of a needle threading meaning through cloth and recollection. They often become mentors, gently guiding younger souls to notice the beauty in bird songs and kindness in strangers. Yet, their heart remains porous. Unspoken grief or modern dissonance can ripple through their world like sudden tides. They drift, at times, into nostalgia — not to escape life, but to relive the moments where love felt louder and the world, a little slower.",
+            
             "perks": [
-                ["Наставничество:", "Учат внуков рисовать, играть на инструментах или просто быть добрыми."],
-                ["Умение слушать:", "К ним приходят за советом, потому что они не осуждают, а понимают."],
-                ["Ностальгия:", "Хранят письма, открытки и другие «сокровища», связывающие их с прошлым."],
-                ["Погружение в себя:", "Могут потеряться в воспоминаниях и мечтах, что мешает им жить в настоящем и принимать современные изменения."],
-                ["Ранимость:", "Остро реагируют на эмоциональные потрясения, что может приводить к длительным переживаниям и тревогам."]
+                ["Mentorship:", "They teach grandchildren how to draw, play instruments, or simply how to be soft in a hard world."],
+                ["Deep Listening:", "People seek their counsel not for solutions, but for the rare gift of being truly heard."],
+                ["Nostalgia Keeper:", "They preserve postcards, pressed flowers, and lullabies — living scrapbooks of love."],
+                ["Introspective Drift:", "They can lose themselves in reveries, finding it hard to navigate a world that's moved ahead."],
+                ["Emotional Fragility:", "Their empathy runs so deep that every loss echoes longer — and every goodbye cuts quietly."]
             ]
         },
 
         "work": {
-            "description": "Рыбы выбирают профессии, где важны чувства и творчество. Они становятся психологами, артистами, дизайнерами, писателями или работают в благотворительных организациях. Их сила — в умении понимать людей и создавать атмосферу доверия. Однако им сложно в условиях жёстких дедлайнов или бюрократии — они ценят свободу и вдохновение. Рыбы обладают уникальной способностью видеть мир через призму эмоций и интуиции, что позволяет им успешно взаимодействовать с окружающими и решать нестандартные задачи. Тем не менее, их склонность к избеганию стресса и недостаток практичности могут создавать трудности в рабочих условиях, где требуется оперативное и чёткое выполнение задач. Они часто предпочитают гибкий график и творческую свободу, что может привести к конфликтам с начальством или коллегами, требующими чёткого соблюдения инструкций и сроков.",
-            
+            "description": "In their professional life, Pisces seeks meaning over metrics. They gravitate toward vocations where empathy, creativity, and intuitive connection take precedence: roles like therapist, artist, writer, or humanitarian advocate. Their strength lies in creating spaces of emotional trust — tuning into unspoken pain and translating it into healing words, melodies, or design. Their perception of the world is steeped in nuance, helping them uncover gentle solutions where others see only conflict. However, they struggle with rigid timelines and procedural constraints; routine feels like a cage for their fluid spirit. Their avoidance of pressure and dreamy idealism can hinder their follow-through in high-demand settings. Pisces works best in flowing environments that value soulful output over speed — where work is an act of care, not a competition.",
+
             "perks": [
-                ["Глубинное понимание:", "Чувствуют скрытые эмоции клиентов или коллег, находя слова, которые исцеляют."],
-                ["Творческая алхимия:", "Превращают личные переживания в стихи, музыку или арт-проекты, затрагивающие душу."],
-                ["Тихая поддержка:", "Создают атмосферу доверия в команде, где каждый может быть собой без страха осуждения."],
-                ["Гибкость восприятия:", "Видят проблему с разных сторон, предлагая неочевидные, но мудрые решения."],
-                ["Жертвенность:", "Работают за идею, забывая о личных границах, чтобы помочь тем, кто в беде."]
+                ["Emotional Insight:", "They sense hidden feelings in clients or teammates and offer words that soothe like balm."],
+                ["Creative Alchemy:", "They channel inner storms into poetry, music, or art that touches the collective soul."],
+                ["Quiet Supporter:", "They build spaces of safety and softness where others feel seen without judgment."],
+                ["Perceptual Flexibility:", "They can view challenges through multiple emotional and symbolic lenses — seeing paths others miss."],
+                ["Altruistic Zeal:", "They sacrifice time and comfort to help those in need, often forgetting their own limits."]
             ],
-            
+
             "conditions": [
-                ["Душевная атмосфера:", "Возможность работать без жёсткого давления, в окружении понимающих людей."],
-                ["Смысл и служение:", "Проекты, которые помогают другим — от терапии искусством до поддержки бездомных."],
-                ["Свобода самовыражения:", "Отсутствие шаблонов, где можно следовать за потоком вдохновения."]
+                ["Gentle Environment:", "A pressure-free space surrounded by empathy, where emotions are welcome."],
+                ["Meaningful Impact:", "Projects that support healing, justice, or beauty — from art therapy to crisis relief."],
+                ["Expressive Freedom:", "No templates, just inspiration — a place where imagination guides the hands."]
             ],
-            
+
             "professions": [
-                ["Арт-терапевт:", "Помогает людям исцелять травмы через рисование, танец или музыку."],
-                ["Поэт/писатель:", "Пишет истории, где герои ищут свет в самых тёмных уголках души."],
-                ["Социальный работник:", "Поддерживает семьи в кризисных ситуациях, находя ресурсы там, где другие видят тупик."],
-                ["Дизайнер интерьеров:", "Создает пространства, где каждая деталь отражает внутренний мир заказчика."],
-                ["Музыкант:", "Сочиняет мелодии, которые становятся саундтреком к чужим воспоминаниям и мечтам."]
+                ["Art Therapist:", "Healing wounds through brushstrokes, dance, and sound — restoring hope without words."],
+                ["Poet/Writer:", "Crafting stories where light flickers in the darkest corners of the human heart."],
+                ["Social Worker:", "Navigating crises to deliver unseen lifelines — hope wrapped in practical care."],
+                ["Interior Designer:", "Designing sanctuaries that reflect not trends, but the soul of the dweller."],
+                ["Musician:", "Composing melodies that resonate like shared memories or long-forgotten dreams."]
             ]
         },
 
         "relationships": {
-
             "romantic": {
-                "description": "Рыбы в любви — это романтики с бесконечной глубиной чувств. Они ищут партнёра, способного разделить их мечты и погрузиться в мир фантазий. Для Рыб свидание — это не просто встреча, а возможность создать атмосферу волшебства. Они могут устроить ужин при свечах в окружении аквариумных рыбок, превратив комнату в подводное царство, или спонтанно повести партнёра на ночную прогулку вдоль реки, где отражение луны в воде станет фоном для признаний. Их подарки часто наполнены символикой: стихи, написанные от руки, картины, нарисованные специально для любимого, или старинная книга с тайными посланиями на полях. Рыбы ценят эмоциональную близость и интуитивную связь, поэтому их партнёр должен быть чутким и готовым к глубоким разговорам «о вечном». Однако слабость Рыб — склонность идеализировать партнёра. Когда иллюзии рушатся, они могут погрузиться в меланхолию или замкнуться в себе. Им важно научиться видеть реальность, не теряя веры в любовь. Ключ к сердцу Рыб — искренность, романтика и умение слушать. Они мечтают о партнёре, который станет их «спасательным кругом» в моменты душевных бурь и разделит их любовь к искусству, музыке и поэзии."
+                "description": "Pisces in love are tender romantics with oceans of feeling. They don’t just seek a partner — they long for a co-dreamer to wade with them into realms of fantasy. A date isn’t just a rendezvous; it’s a spell woven with candlelight, aquarium shimmer, or riverside moonlight where declarations float on reflected stars. Gifts are sacred rituals: hand-drawn illustrations, verses penned in the margins of antique books, or a melody whispered into a seashell. Emotional closeness and intuitive resonance are paramount — their ideal lover listens not just with ears, but with spirit. But Pisces may romanticize to the point of illusion. When the mirage fades, disillusionment can lead them to melancholy or retreat. What unlocks their heart? Sincerity, soulful gestures, and the willingness to get lost together in art, music, and meaning."
             },
 
             "friend": {
-                "description": "Друг-Рыбы — это тот, кто всегда чувствует ваше настроение, даже если вы сами его не понимаете. Он может предложить провести вечер за просмотром старых фильмов с горячим какао и пледами, устроить сеанс спонтанной арт-терапии с красками и холстами или просто молча поддержать, когда вам грустно. Его дружба — это безопасная гавань, где можно быть собой без масок. Рыбы умеют превращать обычные дни в маленькие праздники: например, принести на работу домашний пирог с цитатой из «Властелина Колец», написанной глазурью, или организовать «ночь воспоминаний» с фотографиями и смешными историями из прошлого. Слабость Рыб — их погружённость в собственный мир. Они могут забыть о договорённостях, опоздать на встречу или потерять нить разговора, задумавшись о чём-то абстрактном. Но если друг в беде, Рыбы мгновенно мобилизуются: придут ночью с пирожными, чтобы выслушать, или создадут коллаж из ваших общих фото, чтобы напомнить о важности вашей связи."
+                "description": "A Piscean friend is an emotional barometer — they feel your moods before you do. They’ll sense your ache and respond with cozy films and cocoa, invite you to a surprise night of painting without rules, or just sit quietly beside you in shared silence. Their companionship is a haven where masks dissolve. Pisces turn the mundane into moments of quiet magic: a cake adorned with Tolkien quotes, or a flashback night of photos and laughter. Their weakness? That same dreamy immersion can lead to forgetfulness or momentary drift. But when you’re hurting, they’ll show up at midnight with pastries and a handmade mixtape that says what words can't."
             },
 
             "foe": {
-                "description": "Враг-Рыбы — это мастер пассивно-агрессивных ходов и тонких манипуляций. Вместо открытой конфронтации он использует намёки, сарказм или «случайные» записи в соцсетях, которые бьют точно в цель. Его оружие — игра на чувствах: он может изобразить жертву, чтобы вызвать у окружающих жалость, или искусно исказить факты, поставив вас в неловкое положение. Рыбы умеют создавать атмосферу вины, словно окутывая противника туманом сомнений. Например, они могут подарить вам книгу о морали с подчёркнутым абзацем, который намекает на ваш «проступок», или спеть на публике песню с двусмысленным текстом, заставляя вас краснеть. Уязвимость Рыб — их страх конфликтов и неопределённость. Если вы разоблачите их манипуляции прямым вопросом («Что ты имел в виду?»), они могут растеряться или начать отрицать очевидное. Кроме того, Рыбы ненавидят, когда их называют «нерешительными» или «оторванными от реальности» — это задевает их самолюбие, заставляя либо атаковать с новой силой, либо прятаться в раковину молчания."
+                "description": "As an adversary, Pisces is subtle — weaving passive-aggressive cues and emotional sleight-of-hand. Rather than argue, they might post a cryptic song lyric or underline a quote in a book you 'accidentally' receive. Their tactic is emotional theater: casting themselves as the misunderstood, evoking guilt through silence and implication. They don’t wound with weapons but with waves — of suggestion, sentiment, and shame. Their Achilles’ heel? Directness. Ask plainly what they mean, and the spell may flicker. And don’t ever call them ‘out of touch’ — that punctures the illusion and may spark either poetic wrath or a quiet vanishing act."
             }
-        }
+        },
     },
     
 ]
