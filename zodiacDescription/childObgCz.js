@@ -311,1296 +311,1295 @@
                 "mythology": {
 
                     "pic": "./assets/images/myth/geminiMyth/brothers.jpg",
-                    "main": "Символ Близнецов связан с мифом о Касторе и Поллуксе, близнецах из древнегреческой мифологии. Кастор и Поллукс были сыновьями Зевса и Леды, и они представляли собой идеальный союз разума и силы. Кастор, будучи смертным, был известен своей мудростью и навыками в спорте, а Поллукс, бессмертный, славился своей силой и воинскими умениями. После смерти Кастора, Поллукс попросил Зевса позволить ему разделить свою бессмертную жизнь с братом, что сделало их символом вечной дружбы и преданности. Этот миф подчеркивает дуальность Близнецов, их способность сочетать интеллектуальные и физические качества. Близнецы известны своей любознательностью и стремлением к новому опыту, как ветер, который приносит свежие идеи и новые возможности. Их воздушная энергия направлена на обмен знаниями, коммуникацию и непрерывное исследование мира.",
+                    "main": "Symbol Blíženců je spojen s mýtem o Kastorovi a Polydeukovi – dvojčatech z řecké mytologie. Kastor a Polydeukés byli syny Dia a Lédy a představovali dokonalé spojení rozumu a síly. Kastor, smrtelný, vynikal moudrostí a sportovními dovednostmi, zatímco nesmrtelný Polydeukés byl znám svou silou a bojovým uměním. Po Kastorově smrti požádal Polydeukés Dia, aby mohl svou nesmrtelnost sdílet s bratrem – a tak se stali symbolem věčného bratrství a oddanosti. Tento mýtus zdůrazňuje dvojjedinost Blíženců – jejich schopnost spojovat intelekt a fyzickou energii. Blíženci jsou známí svou zvídavostí a touhou po nových zkušenostech, jako vítr, který přináší čerstvé nápady a nové příležitosti. Jejich vzdušná energie směřuje k výměně poznání, komunikaci a neustálému objevování světa.",
 
                     "branch1": {
-                        "title": "Легенда о спасении Елены.",
+                        "title": "Legenda o záchraně Heleny",
                         "pic": "./assets/images/myth/geminiMyth/afins.jpg",
-                        "description": "Легенда о похищении Елены и битве с Афинами является одной из ключевых историй древнегреческой мифологии, связанных с Троянской войной. Елена была дочерью Зевса и Леды, сестрой Кастора, Поллукса и Клитемнестры. Она считалась самой красивой женщиной в мире и имела множество поклонников. Ее похитил Тесей, царь Афин, который был знаменит своими подвигами и приключениями. Тесей намеревался сделать Елену своей женой и увез ее в Афины. Кастор и Поллукс собрали армию и отправились в Афины, чтобы вернуть Елену домой. В ходе битвы с афинянами Кастор и Поллукс проявили свою храбрость и мастерство в бою. Они сражались с афинской армией и в итоге освободили Елену. Тесей был вынужден отступить, и братья вернули Елену в Спарту."
+                        "description": "Příběh o únosu Heleny a bitvě s Athénami je jedním z klíčových mýtů spojených s Trójskou válkou. Helena, dcera Dia a Lédy, sestra Kastora, Polydeuka a Klytaimnéstry, byla považována za nejkrásnější ženu světa a měla řadu nápadníků. Téseus, král Athén, ji unesl a přivedl do svého města s úmyslem učinit z ní svou manželku. Kastor a Polydeukés shromáždili armádu a vyrazili do Athén, aby sestru osvobodili. V bitvě projevili mimořádnou statečnost a bojové dovednosti. Po tvrdém střetu se jim podařilo Helenu zachránit a přivést zpět do Sparty."
                     },
 
                     "branch2": {
-                        "title": "Легенда о жертве Пиллукса.",
+                        "title": "Legenda o oběti Polydeuka",
                         "pic": "./assets/images/myth/geminiMyth/prey.jpg",
-                        "description": "Жертва Поллукса подчеркивает силу братской любви и преданности. Кастор был смертным, а Поллукс — бессмертным, благодаря божественному происхождению. Братья вступили в конфликт с Идасом и Линкеем. Поводом для конфликта стало похищение невест Идаса и Линкея. В ходе ожесточенной битвы Кастор был смертельно ранен Идасом. Поллукс убил Линкея, а затем сразился с Идасом. В этот момент Зевс вмешался, пронзив Идаса молнией. Поллукс был опустошен смертью своего брата и не мог смириться с его потерей. Он обратился к своему отцу, Зевсу, с просьбой позволить ему разделить свою бессмертную жизнь с Кастором, чтобы они могли быть вместе даже после смерти. Зевс согласился на его просьбу. Он позволил Поллуксу чередовать дни: одну половину времени проводить на Олимпе среди богов, а другую половину — в подземном царстве вместе с Кастором. В знак их вечного единства и преданности, Зевс поместил братьев на небеса в виде созвездия Близнецов."
-                    }
+                        "description": "Oběť Polydeuka zdůrazňuje sílu bratrské lásky a oddanosti. Kastor byl smrtelný, zatímco Polydeukés díky božskému původu nesmrtelný. Bratři se dostali do sporu s Idasem a Lynkeem – důvodem byl únos jejich nevěst. V následné bitvě byl Kastor smrtelně zraněn Idasem. Polydeukés zabil Lynkea a pustil se do boje s Idasem, kdy nakonec zasáhl Zeus a Idase usmrtil bleskem. Zdrcený ztrátou bratra, Polydeukés požádal Dia, aby mu dovolil podělit se o svou nesmrtelnost s Kastorem. Zeus mu vyhověl – a bratři od té doby střídavě pobývali jeden den na Olympu mezi bohy a druhý den v podsvětí. Na znamení jejich věčné jednoty je Zeus umístil na oblohu jako souhvězdí Blíženců."
+                    },
 
                 },
 
                 "facts": [
-                    ["Тяга к знаниям:", "Близнецы известны своей любознательностью и способностью к быстрому обучению. Они обладают выдающимися коммуникативными навыками и любят обмениваться знаниями."],
-                    ["Профессия репортер:", "Знак Близнецов часто связывают с журналистикой и литературой. Многие известные писатели и журналисты родились под этим знаком."],
-                    ["Авантюрист:", "Меркурий, планета Близнецов, управляет не только коммуникацией и интеллектом, но и путешествиями, что делает Близнецов страстными исследователями и любителями приключений."],
-                    ["Адаптация:", "Близнецы известны своей адаптивностью и способностью быстро приспосабливаться к новым ситуациям и изменениям, что помогает им успешно справляться с различными жизненными вызовами."]
-                ]
+                    ["Hlad po poznání:", "Blíženci jsou známí svou zvědavostí a schopností rychle se učit. Mají výjimečné komunikační dovednosti a rádi sdílejí informace s ostatními."],
+                    ["Profese reportéra:", "Znamení Blíženců bývá často spojováno s žurnalistikou a literaturou – mnoho slavných novinářů a spisovatelů se narodilo právě v tomto znamení."],
+                    ["Dobrodruh:", "Merkur, planeta Blíženců, ovládá nejen komunikaci a intelekt, ale i cestování – což z Blíženců dělá vášnivé průzkumníky a milovníky dobrodružství."],
+                    ["Přizpůsobivost:", "Blíženci vynikají schopností rychle reagovat na změny a přizpůsobit se novému prostředí – to jim pomáhá zvládat životní výzvy s lehkostí."]
+                ],
 
 
             },
 
             "childhood": {
-                "description": "Близнецы в детстве обычно проявляют любознательность и активность. Они легко увлекаются новыми идеями, быстро учатся и стремятся к общению. Близнецы часто отличаются развитым воображением и умением адаптироваться к разным ситуациям. Однако их интерес может быть непостоянным — они склонны быстро переключаться с одного занятия на другое. Несмотря на некоторую поверхностность, они ценят разнообразие и легко заводят друзей.",
-        
+                "description": "Blíženci v dětství obvykle projevují zvídavost a živý temperament. Snadno se nadchnou pro nové nápady, rychle se učí a vyhledávají kontakt s ostatními. Mívají bohatou představivost a výborně se přizpůsobují různým situacím. Jejich zájmy se ale mohou rychle měnit – rádi zkouší nové věci, ale ne vždy je dotáhnou do konce. Navzdory určité povrchnosti si cení rozmanitosti a snadno navazují přátelství.",
+
                 "perks": [
-                    ["Любознательность:", "Постоянно исследуют мир, задают вопросы и ищут новые знания."],
-                    ["Общительность:", "Легко находят общий язык со сверстниками и любят делиться идеями."],
-                    ["Адаптивность:", "Быстро приспосабливаются к изменениям и новым обстоятельствам."],
-                    ["Интеллектуальная жажда:", "Увлекаются обучением, чтением или творческими заданиями."],
-                    ["Непостоянство:", "Могут терять интерес к начатому делу, если оно становится рутинным."],
-                    ["Поверхностность:", "Иногда избегают глубокого погружения в тему, предпочитая разнообразие."]
+                    ["Zvídavost:", "Neustále zkoumají svět kolem sebe, pokládají otázky a hledají nové informace."],
+                    ["Společenskost:", "Snadno navazují kontakt s vrstevníky a rádi sdílejí své myšlenky."],
+                    ["Přizpůsobivost:", "Rychle reagují na změny a zvládají nové situace s lehkostí."],
+                    ["Intelektuální hlad:", "Rádi se učí, čtou nebo řeší kreativní úkoly."],
+                    ["Nestálost:", "Rychle ztrácejí zájem o činnost, která se stane monotónní."],
+                    ["Povrchnost:", "Někdy se vyhýbají hlubšímu zamyšlení, dávají přednost pestrosti."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школьные годы Близнецы проявляют живость ума и любознательность. Они легко усваивают новую информацию, но могут быстро терять интерес к рутинным заданиям. Близнецы часто преуспевают в предметах, требующих коммуникации, творчества и быстрого мышления — таких как языки, литература или информатика. Они обожают групповые проекты и дискуссии, становясь душой компании. Однако их склонность к многозадачности иногда приводит к поверхностному усвоению материала, а непостоянство мешает доводить долгосрочные задачи до конца. Близнецы могут отвлекаться на уроках, зато блистают в импровизациях и нестандартных подходах.",
+                "description": "Blíženci ve školních letech vynikají bystrým rozumem a zvídavostí. Rychle si osvojují nové informace, ale snadno ztrácejí zájem, pokud úkoly postrádají pestrost. Daří se jim v předmětech, kde je důležitá komunikace, kreativita a rychlé myšlení – jako jsou jazyky, literatura nebo informatika. Baví je skupinové projekty a diskuse, často se stávají motorem třídy. Jejich sklon k multitaskingu ale někdy vede k povrchnějšímu uchopení látky a nepřesnosti v dlouhodobých úlohách. Mohou se na hodinách rozptylovat, ale zároveň září v improvizacích a nekonvenčních přístupech.",
 
                 "inclinations": [
-                    ["Языки и литература:", "Дебаты, написание эссе — сферы, где можно блеснуть красноречием и богатым воображением."],
-                    ["Творческие дисциплины:", "Театр, журналистика — возможность экспериментировать и выражать идеи."],
-                    ["Технологии:", "Программирование, работа с гаджетами — области, сочетающие инновации и быструю обучаемость."]
+                    ["Jazyky a literatura:", "Debaty, psaní esejí – příležitost ukázat výřečnost a bohatou představivost."],
+                    ["Tvůrčí obory:", "Divadlo, žurnalistika – prostor pro experimenty a sebevyjádření."],
+                    ["Technologie:", "Programování, práce s technologiemi – kombinace inovace a rychlého učení."]
                 ],
 
                 "perks": [
-                    ["Коммуникабельность:", "Легко вовлекаются в обсуждения, умеют аргументировать и убеждать."],
-                    ["Быстрая обучаемость:", "Схватывают новые концепции на лету, особенно если те поданы нестандартно."],
-                    ["Многозадачность:", "Могут параллельно работать над несколькими проектами, но не всегда глубоко."],
-                    ["Рассеянность:", "Теряют фокус при монотонной работе, часто переключаются между задачами."],
-                    ["Импульсивность:", "Спонтанно берутся за идеи, не всегда продумывая последствия."],
-                    ["Беглость:", "Избегают углублённого анализа, предпочитая разнообразие глубине."]
+                    ["Komunikační dovednosti:", "Snadno se zapojují do diskusí, umí přesvědčivě argumentovat."],
+                    ["Rychlé učení:", "Chápou nové koncepty velmi pohotově, zvláště pokud jsou prezentovány kreativně."],
+                    ["Multitasking:", "Zvládají více projektů najednou, ale někdy bez větší hloubky."],
+                    ["Roztržitost:", "Ztrácí soustředění při rutinních činnostech, často přeskakují mezi úkoly."],
+                    ["Impulzivnost:", "Spontánně se pouští do nápadů, ne vždy s promyšleným plánem."],
+                    ["Povrchnost:", "Dávají přednost pestrosti před hlubokou analýzou."]
                 ]
             },
 
 
             "adult": {
-                "description": "Взрослые Близнецы остаются вечными исследователями, совмещая интеллект и харизму. Они преуспевают в профессиях, требующих коммуникации, творчества и быстрой адаптации — от журналистики до IT. Их умение находить нестандартные решения и генерировать идеи делает их незаменимыми в динамичных проектах. Однако рутина и монотонность вызывают у них скуку, что может приводить к частой смене интересов или работы. В отношениях Близнецы ценят свободу, интеллектуальную близость и разнообразие, но иногда избегают глубокой эмоциональной привязанности, опасаясь потерять независимость. Их двойственная натура часто балансирует между жаждой новизны и желанием стабильности, создавая внутренние противоречия.",
+                "description": "Dospělí Blíženci zůstávají věčnými průzkumníky – kombinují intelekt s přirozenou charismou. Vynikají v profesích, kde se uplatní komunikace, kreativita a rychlá adaptace – od žurnalistiky po IT. Díky schopnosti hledat originální řešení a generovat nové nápady bývají nenahraditelní v dynamických projektech. Rutina je však může nudit, což často vede k časté změně zájmů či zaměstnání. Ve vztazích oceňují svobodu, intelektuální soulad a pestrost, ale někdy se vyhýbají hlubší citové vazbě ze strachu ze ztráty nezávislosti. Jejich dvojí povaha často balancuje mezi touhou po novotách a potřebou jistoty, což vytváří vnitřní napětí.",
 
                 "perks": [
-                    ["Контактность:", "Легко устанавливают контакты, умело поддерживают любые темы и переговоры."],
-                    ["Креативность:", "Преображают рутинные задачи через неожиданные идеи и инновации."],
-                    ["Адаптивность:", "Быстро перестраиваются в меняющихся условиях, принимая изменения как вызов."],
-                    ["Изменчивость:", "Могут резко менять планы или увлечения, следуя сиюминутному интересу."],
-                    ["Неосновательность:", "Избегают глубокого погружения в проблемы, предпочитая «скользить» по верхам."],
-                    ["Двойственность:", "Совмещают противоречивые желания, что иногда приводит к внутренним конфликтам."]
+                    ["Společenskost:", "Snadno navazují kontakty a dovedou vést rozhovor na jakékoli téma."],
+                    ["Kreativita:", "Přetvářejí stereotypní úkoly v nápaditá a inovativní řešení."],
+                    ["Přizpůsobivost:", "Rychle reagují na změny a berou je jako výzvu."],
+                    ["Nestálost:", "Někdy prudce mění plány či zájmy v závislosti na aktuálním impulzu."],
+                    ["Povrchnost:", "Často se vyhýbají hlubší analýze a raději zůstávají na povrchu témat."],
+                    ["Dvojitost:", "Spojují protikladná přání, což může vést k vnitřním konfliktům."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилые Близнецы сохраняют живость ума и интерес к миру, даже в преклонном возрасте. Они остаются общительными, любят делиться историями и участвовать в интеллектуальных беседах. Близнецы часто увлекаются новыми технологиями, чтением или путешествиями, стремясь к разнообразию впечатлений. Однако их тяга к переменам может конфликтовать с возрастной потребностью в стабильности. Они стараются балансировать между привычным комфортом и жаждой новизны, иногда испытывая внутренние противоречия. В отношениях с близкими ценят свободу, но всё чаще нуждаются в эмоциональной поддержке.",
+                "description": "Blíženci i ve stáří zůstávají mentálně svěží a zvědaví k okolnímu světu. Zůstávají společenští, rádi vyprávějí příběhy a zapojují se do intelektuálních debat. Často se zajímají o nové technologie, čtou nebo podnikají cesty – stále vyhledávají pestré zážitky. Jejich touha po změnách však může být v rozporu s věkem danou potřebou klidu a rutiny. Snaží se najít rovnováhu mezi pohodlím a žízní po novotách, což může vést k vnitřním rozporům. Ve vztazích s blízkými si cení svobody, ale zároveň stále častěji vyhledávají emoční oporu.",
 
                 "perks": [
-                    ["Интеллектуальная активность:", "Поддерживают ум в тонусе через чтение, обучение или обсуждение новостей."],
-                    ["Адаптивность:", "Легко принимают изменения в быту, если те не нарушают их свободу."],
-                    ["Общительность:", "Создают вокруг себя круг единомышленников, избегая одиночества."],
-                    ["Текучесть:", "Могут резко менять планы, следуя внезапному порыву или идее."],
-                    ["Тревожность:", "Переживают из-за упущенных возможностей или нереализованных идей."],
-                    ["Амбивалентность:", "Мечутся между желанием покоя и тягой к приключениям, создавая внутренний дисбаланс."]
+                    ["Mentální aktivita:", "Udržují si bystrou mysl četbou, učením nebo sledováním novinek."],
+                    ["Přizpůsobivost:", "Snadno přijímají změny v každodenním životě, pokud neohrožují jejich nezávislost."],
+                    ["Společenskost:", "Budují kolem sebe komunitu podobně smýšlejících lidí a vyhýbají se samotě."],
+                    ["Nestálost:", "Mění plány pod vlivem okamžitého impulsu či nápadu."],
+                    ["Úzkostlivost:", "Trápí se nevyužitými příležitostmi nebo nenaplněnými sny."],
+                    ["Ambivalence:", "Kolísají mezi touhou po klidu a potřebou dobrodružství, což vytváří vnitřní napětí."]
                 ]
             },
 
             "work": {
-                "description": "В работе Близнецы проявляют себя как коммуникабельные и многозадачные сотрудники, стремящиеся к разнообразию задач. Они преуспевают в сферах, требующих быстрого мышления, общения и адаптации к изменениям. Близнецы ценят динамичную рабочую среду, где можно постоянно учиться новому и избегать рутины. Однако их склонность к рассеянности и непостоянству может мешать долгосрочным проектам. Идеальная работа для Близнецов сочетает свободу творчества с возможностями для интеллектуального роста.",
+                "description": "Blíženci jsou v práci komunikativní a zvládají více úkolů najednou – vyhledávají pestrou škálu úkolů a prostředí, kde není místo pro nudu. Daří se jim v oblastech, kde se cení rychlé myšlení, schopnost komunikace a pružnost v proměnlivých podmínkách. Ideální je pro ně dynamické pracovní prostředí s možností neustále se učit a tvořit. Jejich tendence k rozptýlení a nestálosti ale může komplikovat dlouhodobé projekty. Nejlépe se cítí tam, kde se kreativní svoboda propojuje s intelektuálním růstem.",
 
                 "perks": [
-                    ["Общительность:", "Легко находят общий язык с коллегами и клиентами, умеют убеждать и вести переговоры."],
-                    ["Приспосабливаемость:", "Быстро осваивают новые инструменты и подходы, гибко реагируют на изменения."],
-                    ["Креативность:", "Генерируют нестандартные идеи и решения, оживляя рабочий процесс."],
-                    ["Рассредоточенность:", "Могут терять интерес к проектам, переключаясь на новые задачи до завершения старых."],
-                    ["Поверхностность:", "Иногда уделяют недостаточно внимания деталям, предпочитая скорость углублённому анализу."],
-                    ["Рассеянность:", "Склонны отвлекаться на внешние стимулы, что снижает концентрацию."]
+                    ["Společenskost:", "Snadno navazují kontakt s kolegy i klienty, umí přesvědčivě argumentovat a vyjednávat."],
+                    ["Přizpůsobivost:", "Rychle se učí nové nástroje a metody, bez problémů reagují na změny."],
+                    ["Kreativita:", "Přinášejí neotřelé nápady a oživují pracovní procesy."],
+                    ["Roztěkanost:", "Snadno ztrácejí zájem o jeden projekt, pokud je zaujme něco nového."],
+                    ["Povrchnost:", "Někdy se nezaměřují na detaily – dávají přednost rychlosti před hloubkou."],
+                    ["Roztržitost:", "Často je rozptylují vnější podněty, což oslabuje soustředění."]
                 ],
 
                 "conditions": [
-                    ["Динамичная среда:", "Возможность работать над разными проектами и избегать монотонности."],
-                    ["Свобода творчества:", "Пространство для экспериментов и реализации идей без жёстких рамок."],
-                    ["Обучение и развитие:", "Доступ к курсам, тренингам и новым технологиям для поддержания интереса."]
+                    ["Dynamické prostředí:", "Různorodé projekty, minimum rutiny – právě zde jsou jako ryby ve vodě."],
+                    ["Tvůrčí svoboda:", "Volný prostor pro experimenty a vlastní přístup bez přísné kontroly."],
+                    ["Vzdělávání a růst:", "Kurzy, technologie a tréninky – vše, co podněcuje jejich mentální апетит."]
                 ],
 
                 "professions": [
-                    ["Журналистика и медиа:", "Написание статей, ведение блогов, создание контента — где важны скорость и коммуникация."],
-                    ["Маркетинг и PR:", "Разработка креативных кампаний, управление репутацией и взаимодействие с аудиторией."],
-                    ["IT и технологии:", "Программирование, UX/UI дизайн — сферы, требующие быстрого обучения и инноваций."],
-                    ["Образование:", "Проведение тренингов, коучинг или преподавание, где можно делиться знаниями и общаться."]
+                    ["Žurnalistika a média:", "Psaní článků, blogování, tvorba obsahu – všude, kde je klíčová rychlost a komunikace."],
+                    ["Marketing a PR:", "Kreativní kampaně, budování pověsti, komunikace s publikem."],
+                    ["IT a technologie:", "Programování, UX/UI design – obory, kde je nutná rychlá orientace a inovativnost."],
+                    ["Vzdělávání:", "Tréninky, koučing nebo výuka – ideální pro sdílení poznatků a práci s lidmi."]
                 ]
             },
 
             "relationships": {
 
                 "romantic": {
-                    "description": "Близнецы в романтических отношениях — это искренние и непредсказуемые партнёры, ценящие интеллектуальную связь и свободу. Они очаровывают лёгкостью общения, остроумием и умением поддерживать любые темы. Для них важны совместные приключения, новые впечатления и возможность делиться идеями. Однако их двойственная натура может проявляться в противоречиях: сегодня они страстно увлечены, а завтра ищут пространство для самостоятельности. Близнецы избегают скуки и рутины, предпочитая отношения, где есть место спонтанности и росту. Им важно научиться балансировать между жаждой новизны и глубиной эмоциональной близости, чтобы не создавать недопонимания. Идеальный партнёр для Близнецов — тот, кто разделяет их любопытство к миру, но при этом мягко направляет их энергию в конструктивное русло."
+                    "description": "Blíženci v romantice jsou upřímní a nepředvídatelní partneři, kteří si cení intelektuálního spojení a svobody. Okouzlují svou lehkostí v komunikaci, důvtipem a schopností hovořit na jakékoli téma. Hledají vztahy plné zážitků, novinek a prostoru pro sdílení myšlenek. Jejich dvojí povaha se však někdy projevuje rozporuplně – dnes vášniví, zítra potřebují prostor. Vyhýbají se stereotypu a preferují svazky, kde je místo pro spontánnost i osobní růst. Klíčem ke štěstí je naučit se vyvažovat touhu po novotách s hloubkou citového pouta. Ideální partner pro Blížence je ten, kdo sdílí jejich zvídavost a zároveň jemně směruje jejich energii konstruktivním směrem."
                 },
 
                 "friend": {
-                    "description": "Близнецы в дружбе — это энергичные и общительные компаньоны, приносящие в отношения азарт и разнообразие. Они легко заводят новые знакомства, становясь связующим звеном между разными компаниями. Их остроумие, любознательность и умение поддержать любой разговор делают их душой компании. Близнецы обожают спонтанные встречи, интеллектуальные дискуссии и совместные приключения — от квестов до путешествий. Однако их непостоянство может проявляться в резкой смене планов или поверхностном участии в делах друзей. Им важно учиться балансировать между жаждой новизны и глубиной доверительных отношений. Идеальный друг для Близнецов — тот, кто принимает их изменчивость, но мягко напоминает о важности стабильности в близких связях."
+                    "description": "V přátelství jsou Blíženci energickými a hovornými společníky, kteří přinášejí do vztahů šmrnc a pestrost. Snadno navazují nová přátelství a spojují různé skupiny. Jejich důvtip, zvídavost a schopnost vést zajímavé konverzace z nich dělají duši společnosti. Zbožňují spontánní setkání, intelektuální debaty a společná dobrodružství – od výprav po hry. Jejich nestálost se ale může projevovat náhlými změnami plánů nebo méně hlubokým zapojením do problémů přátel. Pro rozvoj důvěrných vztahů je důležité najít rovnováhu mezi touhou po novotách a stabilním poutem. Nejlepší přítel pro Blížence je ten, kdo chápe jejich proměnlivost, ale zároveň připomíná hodnotu věrnosti."
                 },
 
                 "foe": {
-                    "description": "Близнецы в роли соперников — это хитрые и изобретательные оппоненты, использующие интеллект и красноречие как оружие. Они мастерски манипулируют информацией, запутывают противника в сетях словесных уловок и быстро меняют тактику, сохраняя преимущество. Их двойственность позволяет играть на противоречиях, сталкивая чужие интересы, оставаясь в тени. Однако их непостоянство иногда оборачивается недооценкой долгосрочных последствий, а поверхностность мешает глубоко анализировать мотивы оппонентов. Близнецы редко зацикливаются на вражде, предпочитая ментальную дуэль открытому конфликту, но их язвительность и склонность к сарказму могут оставлять болезненные «уколы». Главная слабость Близнецов-врагов — нехватка эмоциональной вовлечённости: они легко теряют интерес, переключаясь на новые «игры»."
-                },
+                    "description": "Jako protivníci jsou Blíženci lstiví a vynalézaví – využívají rozum a rétoriku jako zbraně. Umějí manipulovat s informacemi, svádět soupeře slovními manévry a rychle měnit taktiku. Jejich dvojí povaha jim umožňuje využívat rozpory a sledovat hru zpoza opony. Nestálost však může vést k podcenění následků a povrchnost jim brání v hlubším porozumění motivům oponenta. Spíše než otevřenou konfrontaci volí mentální duel, ale jejich jízlivost a sarkasmus zanechávají stopu. Největší slabinou Blíženců v roli nepřítele je nedostatek hlubšího citového zapojení – rychle ztrácejí zájem a přecházejí k další „hře“."
+                }
+
             },
         },
 
         {
             "className": "cancer",
-            "name": "Рак",
-            "date": "Июнь 21 - Июль 22",
+            "name": "Rak",
+            "date": "21. června – 22. července",
             "sign": "./assets/images/signsMain/cancer.jpg",
-            "planet": "Луна",
+            "planet": "Měsíc",
             "planetPic": "./assets/images/planets/moon.jpg",
 
             "description": {
 
-                "common": "Рак — это эмоциональный защитник, символизирующий чувствительность и глубокую связь с семьёй. Этот водный знак ассоциируется с Луной в мифологии, олицетворяющей материнство, интуицию и циклы жизни. Как приливы и отливы, Раки переживают волны эмоций, проявляя заботу и преданность близким. Их сущность отражает двойственность: одни Раки — нежные хранители домашнего очага, создающие уют и безопасность, другие — интуитивные проводники, чутко улавливающие настроения окружающих. Их сила — в умении превращать эмоции в действия, но иногда они могут «прятаться в панцирь», защищаясь от внешнего мира.",
+                "common": "Raci jsou citliví ochránci, symbolizující hluboké emocionální pouto a pevné rodinné vazby. Tento vodní znak je spojován s Lunou – v mytologii ztělesňující mateřství, intuici a životní cykly. Stejně jako příliv a odliv Raci prožívají emoce v rytmu vnitřních vln, prokazují oddanost a péči svým blízkým. Jejich povaha je mnohotvárná: někteří jsou něžní strážci domova a bezpečí, jiní intuicí vedení průvodci, vnímaví k náladám druhých. Jejich síla spočívá ve schopnosti přeměnit emoce v činy – a přesto se někdy uzavírají do „krunýře“, aby se ochránili před vnějším světem.",
 
                 "archetype": {
-                    "extra": "Экстраверты будут проявлять заботу через активные действия: организовывать семейные праздники, поддерживать друзей в трудные моменты или участвовать в благотворительности.",
-                    "intro": "Интроверты направят эмоции в творчество, ведение дневника или глубокие разговоры с близкими, сохраняя энергию для узкого круга доверенных людей."
+                    "extra": "Extroverti vyjadřují péči skrze činy: organizují rodinné oslavy, podporují přátele v těžkých chvílích, zapojují se do charitativních aktivit.",
+                    "intro": "Introverti zaměřují své emoce do tvořivosti, psaní deníku nebo hlubokých rozhovorů v úzkém kruhu důvěryhodných lidí."
                 },
 
-                "planet": "Планетой, управляющей знаком Рака, является Луна. В мифологии Луна связана с богинями-покровительницами домашнего очага и материнства, такими как Селена и Артемида. Она символизирует подсознание, эмоциональные ритмы и связь с прошлым. Для Раков это выражается в гиперчувствительности, интуиции и потребности создавать «безопасные гавани» для себя и других. Луна наделяет их способностью видеть скрытые мотивы людей, но также делает уязвимыми к перепадам настроения. Как приливы подчиняются лунным фазам, Раки живут в гармонии с внутренними эмоциональными циклами, находя силу в заботе и эмпатии.",
+                "planet": "Vládnoucí planetou Raka je Luna. V mytologiích bývá spojována s bohyněmi ochránkyněmi rodinného krbu a mateřství – jako jsou Seléné nebo Artemis. Představuje podvědomí, emoční rytmy a napojení na minulost. U Raků se to projevuje vysokou citlivostí, intuicí a potřebou tvořit bezpečné přístavy pro sebe i své blízké. Luna jim dává schopnost vnímat skryté záměry druhých, ale zároveň zvyšuje zranitelnost vůči náladovým výkyvům. Stejně jako mořské přílivy a odlivy podléhají lunárnímu cyklu, Raci čerpají sílu z empatie a pečujícího soucitu.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/cancerMyth/gerakl.jpg",
-                    "main": "Символ Рака связан с мифом о втором подвиге Геракла — сражении с Лернейской гидрой. Посланный богиней Герой, гигантский рак вцепился в ногу героя, пытаясь помочь чудовищу. Несмотря на то, что Геракл раздавил его, Гера в благодарность за преданность поместила Рака на небо как созвездие. Этот миф отражает ключевые черты знака: упорство в защите своих ценностей, жертвенность и связь с материнскими архетипами (Гера как покровительница семьи). Как вода обтекает преграды, Раки сочетают мягкость с невероятной внутренней силой, направленной на сохранение домашнего очага.",
+                    "main": "Symbol Raka je spojen s druhým Herkulovým úkolem – bojem s lernskou hydrou. Na pomoc příšeře vyslala bohyně Héra obrovského raka, který se zakousl Herkulovi do nohy. Hrdina ho sice rozdrtil, ale Héra, vděčná za jeho oddanost, umístila raka na oblohu jako souhvězdí. Tento mýtus vystihuje hlavní rysy znamení Raka: vytrvalost při obraně vlastních hodnot, obětavost a propojení s mateřskými archetypy (Héra jako ochránkyně rodiny). Stejně jako voda, která se přizpůsobuje tvaru překážek, Raci kombinují měkkost s obrovskou vnitřní silou, zaměřenou na ochranu domova a blízkých.",
 
                     "branch1": {
-                        "title": "Связь Геры и Рака.",
+                        "title": "Spojení Héry a Raka",
                         "pic": "./assets/images/myth/cancerMyth/cancer.jpg",
-                        "description":  "Роль Геры в судьбе Рака подчёркивает его связь с материнством и эмоциональной защитой. Гера, ревнивая супруга Зевса, послала Рака остановить Геракла, видя в нём угрозу своему влиянию. Даже проиграв, Рак стал символом верности долгу — качество, которое Гера, как богиня брака, ценила выше всего. Это отражает двойственность Раков: снаружи — «панцирь» рациональности, внутри — глубокая преданность тем, кого они считают семьёй."
+                        "description": "Role Héry v osudu Raka podtrhuje jeho spojení s mateřstvím a emocionální ochranou. Héra, žárlivá manželka Dia, vyslala Raka, aby zastavil Herkula, když jej vnímala jako hrozbu svému vlivu. Přestože Rak podlehl, Héra ocenila jeho věrnost a umístila ho na oblohu jako souhvězdí. Tento příběh odráží dvojí povahu Raka: navenek nosí „krunýř“ racionality, zatímco uvnitř skrývá hlubokou oddanost těm, které považuje za svou rodinu."
                     },
 
                     "branch2": {
-                        "title": "Миф о лунной колыбели.",
+                        "title": "Mýtus o lunární kolébce",
                         "pic": "./assets/images/myth/cancerMyth/selens.jpg",
-                        "description": "Миф о Лунной колыбели раскрывает астрологическую связь Рака с Луной. Когда Зевс разделил мир между богами, Артемида, богиня Луны и хранительница тайн ночи, получила власть над серебристыми тропами, по которым души умерших приходили на Землю для нового воплощения. Она создала Лунные врата — мерцающий портал из перламутра и лунного камня на краю Океана. Чтобы души не сбились с пути, Артемида назначила проводником юного полубога Селеноса. Селенос водил души через врата, пока однажды не услышал пение Каллирои, дочери рыбака с острова Делос. Селенос влюбился в нее и каждую ночь приходил к ней в облике смертного, забывая о своих обязанностях. Души, оставшись без проводника, блуждали в тенях между мирами,  превратились в туман, окутавшие берега Эллады. Артемида, узнав о предательстве, ослепила Селеноса, а Каллирою превратила в тень и лишила голоса. С тех пор Селенос бродит по берегу моря, пытаясь найти Каллирою, а Каллироя находится рядом, но не может позвать Селеноса. Чтобы исправить хаос, Артемида назначила рака Каркиноса новым проводником душ. Рак тесно связан с Луной, что символизирует эмоциональность и интуицию. Это подчеркивает их способность к глубоким чувствам и переменам настроения, как фазы Луны."
-                    }
+                        "description": "Mýtus o lunární kolébce odhaluje astrologické pouto mezi Rakem a Lunou. Když Zeus rozděloval svět, dala Artemis – bohyně Měsíce a paní nočních tajemství – vzniknout třpytivým branám z perleti a měsíčního kamene, kudy duše vstupovaly zpět na Zemi. Jako průvodce jmenovala mladého poloboha Selenose, ale ten se zamiloval do dívky jménem Kallirhoe a zanedbal své povinnosti. Duše zbloudily v šeru a proměnily se v mlhu obestírající břehy Řecka. Artemis, rozzlobená zradou, potrestala Selenose slepotou a Kallirhoe umlčela ve stínu. Aby obnovila rovnováhu, pověřila rakovce Karkinose novým úkolem vést duše. Tato legenda zdůrazňuje měsíční povahu Raka – jeho empatii, citovou hloubku a proměnlivost naladěnou na rytmy Luny."
+                    },
 
                 },
 
                 "facts": [
-                    ["Эмпития:", "Раки обладают исключительной эмоциональной глубиной и интуицией. Они способны «считывать» настроения окружающих, даже если те пытаются их скрыть."],
-                    ["Забота о ближних:", "Знак Рака часто ассоциируют с материнством и заботой. Многие известные психологи и воспитатели родились под этим знаком."],
-                    ["Лунный ритм:", "Луна, управляющая Раком, влияет не только на эмоции, но и на циклы жизни. Это объясняет, почему Раки так чутко реагируют на лунные фазы."],
-                    ["Вкус ностальгии:", "Многие Раки обладают «пищевой ностальгией» — связывают воспоминания с конкретными запахами и вкусами, сохраняя семейные рецепты как эмоциональное наследие."]
+                    ["Empatie:", "Raci vynikají mimořádnou emocionální hloubkou a intuicí. Dokážou vnímat nálady druhých i tehdy, když je ti druzí skrývají."],
+                    ["Péče o blízké:", "Znamení Raka je často spojováno s mateřstvím a ochranitelskými rysy. Mnoho známých psychologů a vychovatelů se narodilo právě v tomto znamení."],
+                    ["Lunární rytmus:", "Měsíc, vládce Raka, ovlivňuje nejen emoce, ale i životní cykly – což vysvětluje jejich citlivost na fáze Měsíce."],
+                    ["Chuť nostalgie:", "Mnozí Raci cítí silnou „chuťovou paměť“ – spojují vzpomínky s vůněmi a chutěmi, uchovávají rodinné recepty jako citové dědictví."]
                 ],
 
 
             },
 
             "childhood": {
-                "description": "Раки в детстве — это чувствительные и мечтательные натуры, глубоко привязанные к семье и домашнему очагу. Они рано проявляют эмпатию, тонко чувствуя настроение родителей и друзей. Любят тихие игры, где можно дать волю воображению: строить «убежища» из подушек, рисовать сказочные миры или ухаживать за питомцами. Новые люди и ситуации могут вызывать у них стеснение — им нужно время, чтобы раскрыться. Их эмоциональность похожа на приливы: сегодня они беззаботно смеются, а завтра прячутся в «панцире» грусти, словно луна, скрытая облаками.",
+                "description": "Raci v dětství jsou citlivé a snivé duše hluboce připoutané k rodinnému prostředí. Brzy projevují empatii a vnímají nálady rodičů i přátel s velkou přesností. Milují tiché hry, které podporují jejich představivost – budují si skrýše z polštářů, kreslí pohádkové světy nebo se s láskou starají o zvířátka. Nové situace je mohou zpočátku zneklidnit – potřebují čas, aby se otevřeli. Jejich emocionální naladění připomíná příliv: někdy bezstarostně září, jindy se stáhnou do svého krunýře, jako měsíc za mraky.",
 
                 "perks": [
-                    ["Эмпатия:", "Чувствуют эмоции других, как свои собственные, и стараются поддержать близких."],
-                    ["Творчество:", "Превращают обычные вещи в волшебные через рисунки, истории или игру."],
-                    ["Преданность:", "Бесконечно верны семье и друзьям, которых считают «своими»."],
-                    ["Стеснительность:", "Могут долго адаптироваться к новым людям, предпочитая проверенный круг общения."],
-                    ["Ранимость:", "Обидчивы к критике, часто принимают замечания близко к сердцу."],
-                    ["Ностальгичность:", "Хранят детские игрушки и воспоминания, как священные реликвии."]
+                    ["Empatie:", "Vnímají pocity druhých jako své vlastní a snaží se je podpořit."],
+                    ["Tvořivost:", "Z obyčejných věcí dovedou vytvořit kouzelné světy – ve hře, kresbě či vyprávění."],
+                    ["Oddanost:", "Silně lpí na své rodině a přátelích, které považují za své nejbližší."],
+                    ["Ostýchavost:", "Dlouho si zvykají na nové prostředí nebo lidi, dávají přednost známému kruhu."],
+                    ["Zranitelnost:", "Citlivě reagují na kritiku a berou si poznámky k srdci."],
+                    ["Nostalgie:", "Uchovávají hračky a vzpomínky z dětství jako posvátné poklady."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школе Раки выделяются тонкой интуицией и любовью к гуманитарным наукам. Они блистают в сочинениях, где можно выразить чувства, и в предметах, связанных с историей или искусством. На уроках часто погружены в свои мысли, но оживают, когда тема касается сердца: защищают слабых, пишут поэзию или создают уютные уголки в классе. Групповые проекты любят только с близкими друзьями — шум и конкуренция их утомляют. Их слабость — зависимость от настроения: вдохновение может смениться апатией, как море под луной.",
+                "description": "Raci ve škole vynikají jemnou intuicí a láskou k humanitním oborům. Září v psaní slohů, kde mohou vyjádřit své pocity, a v předmětech jako historie nebo výtvarná výchova. Často bývají zamyšlení a ponoření do vlastního světa, ale rozkvétají, když se téma dotýká srdce – chrání slabší, píší poezii nebo vytvářejí útulná zákoutí ve třídě. Skupinové projekty mají rádi pouze s blízkými přáteli – hluk a soutěživost je unavují. Jejich slabinou je proměnlivost nálad: inspirace je může zvednout k výšinám, ale také náhle odejít, jako moře ustupující pod světlem Měsíce.",
 
                 "inclinations": [
-                    ["Литература и искусство:", "Анализ персонажей, написание стихов — где эмоции важнее логики."],
-                    ["История и мифология:", "Изучение прошлого, связь поколений и традиций."],
-                    ["Психология:", "Наблюдение за людьми, попытки понять мотивы поступков."]
+                    ["Literatura a umění:", "Rozbor postav, psaní básní – všude tam, kde mají emoce přednost před logikou."],
+                    ["Historie a mytologie:", "Zkoumání minulosti, hledání propojení mezi generacemi a tradicemi."],
+                    ["Psychologie:", "Pozorování lidí, snaha pochopit motivy jejich chování."]
                 ],
 
                 "perks": [
-                    ["Чуткость:", "Замечают скрытые переживания учителей и одноклассников, становясь «тайными психологами»."],
-                    ["Образность мышления:", "Превращают скучные задания в творческие проекты с метафорами и символами."],
-                    ["Защитничество:", "Вступаются за тех, кого обижают, даже рискуя своей репутацией."],
-                    ["Мнительность:", "Переживают из-за оценок и замечаний, как будто это «конец света»."],
-                    ["Избегание конфликтов:", "Молчат в спорах, предпочитая уйти в себя, чем отстаивать позицию."],
-                    ["Цикличность энергии:", "Неделю учатся на «отлично», а потом еле справляются с базовыми заданиями."]
+                    ["Citlivost:", "Vnímají skryté pocity učitelů a spolužáků a chovají se jako ‚neoficiální školní psychologové‘."],
+                    ["Obrazotvornost:", "Proměňují i nudná zadání v tvůrčí projekty plné metafor a symbolů."],
+                    ["Ochráncovství:", "Zastanou se těch, kdo jsou šikanováni, klidně i na úkor vlastní popularity."],
+                    ["Přecitlivělost:", "Reagují silně na známky nebo poznámky – jako by šlo o konec světa."],
+                    ["Vyhýbání se konfliktům:", "Ve sporech raději mlčí nebo se stáhnou do sebe, než aby bojovali za svůj názor."],
+                    ["Cykličnost energie:", "Jednou se učí na jedničku, jindy těžko zvládají i základní úkoly."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослые Раки становятся эмоциональными опорами для своих близких, сочетая чуткость с внутренней силой. Они преуспевают в профессиях, связанных с заботой, творчеством и сохранением традиций — психология, кулинария, дизайн интерьеров. Их интуиция и умение создавать уют делают их незаменимыми в сферах, где важна эмпатия. Однако глубокая эмоциональная вовлечённость может приводить к выгоранию, а страх перемен — удерживать в зоне комфорта. В отношениях Раки ищут безопасность и преданность, ценя доверие выше страсти. Их противоречие — между желанием защитить себя «панцирем» и потребностью в эмоциональной близости.",
+                "description": "Dospělí Raci se stávají emocionálními oporami pro své okolí – spojují citlivost s vnitřní odolností. Vynikají v profesích, kde je důležitá péče, tvořivost a uchovávání tradic – jako je psychologie, gastronomie či interiérový design. Jejich intuice a schopnost vytvářet útulné prostředí je činí nenahraditelnými tam, kde je klíčová empatie. Silná emoční angažovanost však může vést k vyhoření a strach ze změn je často udržuje v komfortní zóně. Ve vztazích hledají bezpečí a věrnost, důvěru staví nad vášeň. Hlavní vnitřní rozpor: potřeba chránit se svým ‚krunýřem‘ a zároveň touha po hluboké blízkosti.",
 
                 "perks": [
-                    ["Эмпатия:", "Чувствуют нюансы настроений, становясь «жилеткой» для друзей и семьи."],
-                    ["Забота:", "Превращают дом в крепость тепла, а отношения — в нерушимый союз."],
-                    ["Интуиция:", "Предугадывают проблемы и потребности близких до слов."],
-                    ["Замкнутость:", "В стрессе прячутся в «раковину», отгораживаясь от мира."],
-                    ["Консерватизм:", "Сопротивляются изменениям, даже если они необходимы."],
-                    ["Перепады настроения:", "От безудержной нежности переходят к меланхолии под влиянием лунных циклов."]
+                    ["Empatie:", "Cítí jemné náladové odstíny druhých a stávají se oporou pro přátele i rodinu."],
+                    ["Péče:", "Z domova dělají pevnost plnou tepla a vztahy přetvářejí v trvalé spojení."],
+                    ["Intuice:", "Vycítí problémy a potřeby ostatních ještě dříve, než jsou vysloveny."],
+                    ["Uzavřenost:", "Ve stresu se stahují do sebe a uzavírají se okolnímu světu."],
+                    ["Konzervatismus:", "Odolávají změnám, i když jsou nezbytné."],
+                    ["Výkyvy nálad:", "Od vřelosti přecházejí k melancholii v rytmu lunárních fází."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилые Раки — хранители семейной памяти, превращающие воспоминания в саги. Они находят радость в передаче традиций: готовят бабушкины пироги, рассказывают внукам старые истории, создают альбомы с фотографиями. Их дом становится музеем любви, где каждая вещь дышит прошлым. С возрастом усиливается ностальгия, а страх одиночества компенсируется тотальной преданностью близким. Однако нежелание принимать современные реалии и гиперопека могут вызывать конфликты с молодым поколением. Как луна освещает темноту, Раки до конца остаются «светильниками» эмоциональной мудрости.",
+                "description": "Staří Raci se stávají strážci rodinné paměti – proměňují vzpomínky v živé příběhy. Radost jim přináší předávání tradic: pečou babiččiny koláče, vyprávějí vnoučatům dávné historky, tvoří rodinné fotoalba. Jejich domov připomíná muzeum lásky, kde každý předmět vypráví svůj příběh. S věkem sílí nostalgie a strach z osamění bývá vyvažován hlubokou oddaností blízkým. Nepřijetí moderních změn a sklony k přehnané ochranitelnosti však mohou vést ke střetům s mladšími generacemi. Stejně jako Měsíc prozařuje tmu, Raci zůstávají i v pozdním věku ‚světlem‘ citové moudrosti.",
 
                 "perks": [
-                    ["Мудрость:", "Дарят советы, пропитанные жизненным опытом и пониманием человеческой натуры."],
-                    ["Хранительство:", "Берегут письма, реликвии и рецепты как связующую нить между поколениями."],
-                    ["Преданность:", "Верны друзьям детства и семье, даже если те отдалились."],
-                    ["Ригидность:", "Отказываются менять привычки, считая «новое» угрозой стабильности."],
-                    ["Тревожность:", "Беспокоятся о будущем родных, часто преувеличивая риски."],
-                    ["Ностальгический перфекционизм:", "Сравнивают настоящее с идеализированным прошлым, испытывая разочарование."]
+                    ["Moudrost:", "Udílejí rady naplněné životními zkušenostmi a pochopením lidské povahy."],
+                    ["Strážci paměti:", "Pečují o dopisy, relikvie a recepty jako spojovací nit mezi generacemi."],
+                    ["Oddanost:", "Zůstávají věrní přátelům z dětství i rodině, i když se vzdálili."],
+                    ["Strnulost:", "Odmítají měnit návyky, nové věci vnímají jako ohrožení jistoty."],
+                    ["Úzkostlivost:", "Obávají se o blízké a často přeceňují hrozby budoucnosti."],
+                    ["Nostalgický perfekcionismus:", "Srovnávají přítomnost s idealizovanou minulostí, což vede k vnitřnímu zklamání."]
                 ]
             },
 
             "work": {
-                "description": "В работе Раки проявляют себя как чуткие и преданные сотрудники, стремящиеся создать гармоничную атмосферу. Они преуспевают в сферах, где важны эмпатия, забота и внимание к деталям. Раки ценят стабильность, предсказуемость и возможность вкладывать душу в свои проекты. Однако их глубокая эмоциональная вовлечённость может приводить к выгоранию, а сопротивление изменениям — ограничивать профессиональный рост. Идеальная работа для Рака сочетает творчество с чувством защищённости, позволяя им «строить гнёзда» даже в профессиональной среде.",
+                "description": "Raci v práci působí jako vnímaví a oddaní zaměstnanci, kteří usilují o vytvoření harmonického prostředí. Daří se jim v oblastech, kde je klíčová empatie, péče a smysl pro detail. Oceňují stabilitu, předvídatelnost a možnost vkládat do práce srdce. Silná emoční angažovanost ale může vést k vyčerpání a odpor ke změnám může brzdit profesní růst. Ideální práce pro Raka spojuje kreativitu s pocitem bezpečí – umožňuje jim budovat „hnízdo“ i v profesním světě.",
 
                 "perks": [
-                    ["Эмпатия:", "Чувствуют потребности коллег и клиентов, создавая доверительную атмосферу."],
-                    ["Усидчивость:", "Кропотливо работают над задачами, требующими терпения и внимания."],
-                    ["Творческий подход:", "Превращают рутину в искусство — от оформления документов до сервировки стола."],
-                    ["Консерватизм:", "С трудом принимают инновации, цепляясь за проверенные методы."],
-                    ["Гиперответственность:", "Берут на себя слишком много, испытывая вину за чужие ошибки."],
-                    ["Замкнутость:", "Избегают конфликтов, подавляя эмоции вместо открытого диалога."]
+                    ["Empatie:", "Vnímají potřeby kolegů i klientů a tvoří důvěryhodné prostředí."],
+                    ["Pečlivost:", "Trpělivě se věnují úkolům, které vyžadují pozornost k detailu."],
+                    ["Kreativní přístup:", "Proměňují rutinu v umění – od úpravy dokumentů po servírování obědů."],
+                    ["Konzervatismus:", "Neradi přijímají inovace, spoléhají se na osvědčené metody."],
+                    ["Přehnaná odpovědnost:", "Často si berou na sebe příliš a pociťují vinu i za chyby druhých."],
+                    ["Uzavřenost:", "Vyhýbají se konfliktům a potlačují emoce místo otevřené diskuse."]
                 ],
 
                 "conditions": [
-                    ["Стабильный график:", "Чёткие сроки и предсказуемость снижают тревожность."],
-                    ["Домашняя атмосфера:", "Уютное рабочее пространство с личными вещами и минимумом стресса."],
-                    ["Социальная значимость:", "Возможность помогать другим или сохранять традиции."]
+                    ["Stabilní rozvrh:", "Jasné termíny a předvídatelnost snižují vnitřní napětí."],
+                    ["Domácké prostředí:", "Pracovní prostor s osobními prvky a nízkým stresem."],
+                    ["Společenský přínos:", "Možnost pomáhat druhým nebo chránit tradice."]
                 ],
 
                 "professions": [
-                    ["Психология и социальная работа:", "Поддержка людей в кризисных ситуациях, семейное консультирование."],
-                    ["Кулинария и гостеприимство:", "Создание уютных кафе, выпечка с «душой», организация мероприятий."],
-                    ["Дизайн интерьеров:", "Превращение пространств в тёплые, эмоционально безопасные места."],
-                    ["Архивирование и реставрация:", "Сохранение исторических документов, ремонт антиквариата."],
-                    ["Педагогика (дошкольная):", "Забота о детях, создание «второго дома» в учебной группе."]
+                    ["Psychologie a sociální práce:", "Podpora lidí v krizových situacích, rodinné poradenství."],
+                    ["Gastronomie a pohostinství:", "Tvorba útulných kaváren, pečení „s duší“, organizace akcí."],
+                    ["Design interiérů:", "Přeměna prostor na bezpečné a teplé prostředí."],
+                    ["Archivnictví a restaurování:", "Uchovávání historických dokumentů, oprava starožitností."],
+                    ["Předškolní pedagogika:", "Péče o děti a vytvoření druhého domova ve školce."]
                 ]
             },
 
             "relationships": {
 
                 "romantic": {
-                    "description": "Раки в романтических отношениях — это преданные и эмоционально щедрые партнёры, для которых любовь неразрывно связана с чувством безопасности. Они создают отношения, напоминающие тихую гавань: с теплом, заботой и ритуалами (совместные ужины, семейные традиции). Их идеал — партнёр, который станет «семьёй» ещё до формальных обязательств. Однако их гиперчувствительность может превращаться в ревность или обидчивость по пустякам. Раки склонны «тестировать» любимых на преданность, пряча страхи за молчанием или пассивной агрессией. Идеальный партнёр для Рака — терпеливый и надёжный, готовый разгадывать их эмоциональные ребусы и ценить их жертвенность."
+                    "description": "Raci v romantických vztazích jsou oddaní a citově štědří partneři – lásku vnímají jako útočiště plné jistoty. Vztahy budují jako poklidný přístav: s péčí, teplem a rituály (společné večeře, rodinné tradice). Jejich ideálem je partner, který se stává ‚rodinou‘ dřív, než přijdou formální závazky. Přecitlivělost se ale může měnit v žárlivost nebo drobné výčitky. Raci mají tendenci ‚testovat‘ loajalitu skrze mlčení nebo pasivní výčitky. Ideální partner pro Raka je trpělivý a stabilní – ten, kdo chápe jejich citová tajemství a váží si jejich obětavosti."
                 },
 
                 "friend": {
-                    "description": "Раки в дружбе — это верные хранители секретов и мастера душевных разговоров за чашкой чая. Они предпочитают узкий круг «проверенных» друзей, с которыми можно делиться сокровенным без страха осуждения. Их дом всегда открыт для близких: они накормят, выслушают, дадут совет, пропитанный материнской мудростью. Однако дружба с Раком требует эмоциональной отдачи: они ревнуют к новым знакомствам и обижаются на невнимательность. Их слабость — склонность к созависимости, где грань между заботой и контролем стирается. Идеальный друг для Рака — тот, кто ценит их преданность, но мягко напоминает о личных границах."
+                    "description": "V přátelství jsou Raci loajálními strážci tajemství a mistry důvěrných rozhovorů nad šálkem čaje. Preferují úzký kruh prověřených přátel, kterým mohou svěřit to nejhlubší beze strachu z odsouzení. Jejich domov je otevřený jako bezpečný přístav: pohostí, vyslechnou, poradí s péčí vlastní moudré matce. Jejich náklonnost však vyžaduje emoční reciprocitu – žárlí na nové kontakty a mohou se zraňovat kvůli přehlížení. Jejich slabinou je sklon k emoční závislosti, kdy se hranice mezi péčí a kontrolou stírá. Nejlepší přítel pro Raka je ten, kdo oceňuje jejich oddanost a zároveň laskavě chrání své vlastní hranice."
                 },
 
                 "foe": {
-                    "description": "Раки в роли врагов — это тихие, но неутомимые противники, действующие через эмоциональный саботаж. Они редко вступают в открытую конфронтацию, предпочитая «раковую тактику»: пассивная агрессия, холодное молчание, тонкие намёки на ваши слабости. Их оружие — отличная память на обиды: они годами копят недовольство, чтобы однажды «взорваться» списком претензий. Однако их уязвимость — потребность в моральном превосходстве: Раки ненавидят чувствовать себя «плохими», поэтому легко отступают, если противник демонстрирует искреннюю раскаянность. Главная опасность — их способность манипулировать через чувство вины, превращая ваши ошибки в вечный долг."
+                    "description": "Jako protivníci jsou Raci tiší, ale neúnavní – používají emocionální taktiky místo otevřeného boje. Jejich strategie je ‚krabí‘: pasivní agrese, chladné ticho, jemné narážky na slabiny oponenta. Jejich zbraní je vynikající paměť na křivdy – hromadí je roky, než nečekaně vybuchnou v lavině výčitek. Jejich zranitelností je potřeba cítit se morálně v právu: nesnesou roli ‚padoucha‘, a tak často ustoupí, pokud soupeř projeví upřímné lítosti. Největším nebezpečím Raka ve sporu je schopnost manipulovat vinou – dokážou proměnit chybu protivníka v doživotní závazek."
                 }
-                
+
             },
         },
 
         {
             "className": "leo",
-            "name": "Лев",
-            "date": "Июль 23 - Август 23",
+            "name": "Lev",
+            "date": "23. července – 23. srpna",
             "sign": "./assets/images/signsMain/leo.png",
-            "planet": "Солнце",
+            "planet": "Slunce",
             "planetPic": "./assets/images/planets/sun.jpg",
 
             "description": {
 
-                "common": "Лев — огненный монарх зодиака, воплощающий щедрость, творчество и жажду признания. Этот знак ассоциируется с мифологическим Немейским львом и солнечными божествами, такими как Аполлон, олицетворяющими свет, силу и искусство. Как Солнце освещает мир, Львы стремятся быть центром внимания, даря тепло вдохновения и заряжая других энергией. Их сущность двойственна: одни — мудрые лидеры, ведущие за собой как «короли сердец», другие — страстные артисты, превращающие жизнь в грандиозное шоу. Их сила — в умении зажигать искру в окружающих, но тень — в страхе остаться неоценёнными за кулисами собственной славы.",
+                "common": "Lev je ohnivý monarcha zvěrokruhu, zosobňující štědrost, tvořivost a touhu po uznání. Toto znamení se spojuje s mytickým nemejským lvem a se slunečními božstvy jako Apollón – symboly světla, síly a umění. Stejně jako Slunce osvěcuje svět, Lvi chtějí být středem pozornosti, rozsévat inspiraci a zářit životní energií. Jejich povaha má dvojí stránku: někteří Lvi jsou moudří vůdci – králové srdcí, jiní vášniví umělci, kteří ze života dělají velkolepé představení. Jejich síla tkví ve schopnosti zapalovat jiskru v druhých, ale stín přichází ve chvíli, kdy se bojí zůstat bez potlesku za oponou své slávy.",
 
                 "archetype": {
-                    "extra": "Экстраверты будут блистать на сцене жизни: организовывать мероприятия, руководить командами или покорять публику творческими проектами, требуя восхищения как кислорода.",
-                    "intro": "Интроверты направят огненную энергию в созидание: писать, рисовать или развивать личные таланты, сохраняя величие для избранного круга зрителей."
+                    "extra": "Extroverti září jako hlavní postavy života: organizují akce, vedou týmy nebo si získávají publikum svou kreativitou – jejich palivem je obdiv.",
+                    "intro": "Introverti směřují svou ohnivou sílu do tvorby – píší, malují nebo rozvíjejí osobní talent – a své království sdílejí s vybraným okruhem obdivovatelů."
                 },
 
-                "planet": "Планетой, управляющей знаком Льва, является Солнце. В мифологии Солнце связано с Гелиосом, несущим свет миру, и Аполлоном — покровителем искусств. Оно символизирует жизненную силу, индивидуальность и творческий огонь. Для Львов это выражается в неутолимой жажде самовыражения, щедрости души и королевском достоинстве. Солнце наделяет их магнетизмом, но также обязывает «светить» даже в трудные времена. Как звёзды вращаются вокруг Солнца, так Львы подсознательно ждут, чтобы их окружение признавало их центром вселенной. Их слабость — зависимость от аплодисментов, ведь без них внутреннее светило может затмиться сомнениями.",
+                "planet": "Vládnoucí planetou Lva je Slunce. V mytologii souvisí s Héliem, nositelem světla, a Apollónem – patronem umění. Slunce symbolizuje životní sílu, individualitu a tvůrčí plamen. U Lvů se to projevuje neukojitelnou potřebou vyjádřit se, šlechetností a královskou důstojností. Slunce jim dává magnetismus, ale také zavazuje ‚zářit‘ i v temnějších časech. Stejně jako planety obíhají kolem Slunce, i Lvi nevědomky touží, aby okolí uznávalo jejich středovou roli. Jejich slabinou je závislost na potlesku – bez něj se vnitřní světlo může zakalit pochybnostmi.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/leoMyth/lion.jpg",
-                    "main": "Символ Льва связан с первым подвигом Геракла — победу над Немейским львом. Немейский Лев, ужасное чудовище с непробиваемой шкурой, был порождением полубогов. Он был сыном Тифона и Ехидны. Тифон был гигантским монстром с драконьими крыльями, а Ехидна — наполовину женщина, наполовину змея. Лев поселился в лесах недалеко от города Немея, и его присутствие быстро стало кошмаром для местных жителей. Лев нападал на людей и животных, и его не могла поразить ни стрела ни, меч из-за его непробиваемой шкуры. Геракл с помощью своей невероятной силы сумел задушить льва голыми руками, использовал когти льва, чтобы снять с него шкуру и сделать из неё неуязвимую накидку, которая впоследствии служила ему надежной защитой. Зевс превратил льва в созвездие, увековечив подвиг своего сына.",
+                    "main": "Symbol Lva je spojen s prvním Herkulovým úkolem – porážkou Nemejského lva. Tento děsivý tvor s neproniknutelnou kůží, potomek polobohů Tyfona a Echidny, terorizoval okolí města Nemea. Jeho kůže odolávala všem zbraním – šípům i mečům. Herkules, spoléhající na svou nadlidskou sílu, lva uškrtil holýma rukama. Poté použil lví drápy, aby stáhl jeho kůži a vytvořil z ní neprůstřelný plášť, který ho chránil během dalších dobrodružství. Zeus, aby uctil synův čin, umístil Nemejského lva na nebe jako souhvězdí. Tento mýtus symbolizuje sílu Lva, jeho odhodlání čelit непобедимым вызовам a стремление к вечной славе.",
 
-                    "branch1":{
-                        "title": "Легенда о Гелиосе.",
+                    "branch1": {
+                        "title": "Legenda o Héliovi",
                         "pic": "./assets/images/myth/leoMyth/gelios.jpg",
-                        "description":  "Легенда о солнечной колеснице Гелиоса раскрывает астрологическую связь Льва с огнём и властью. Гелиос был сыном титанов Гипериона и Тейи, и братом богини Луны, Селены, и богини Зари, Эос. Гелиос олицетворял Солнце и каждое утро, после того как Эос открывала небесные ворота, он отправлялся в своё ежедневное путешествие по небу. На своей золотой колеснице, запряженной огненными конями, Гелиос начинал своё путешествие с востока, проезжал по всему небу и завершал его на западе. Ночью он возвращался обратно на восток, проплывая через подземное царство, чтобы снова появиться на рассвете и начать новый день. У гелиоса был сын, Фаэтон. Фаэтон, сомневаясь в своём происхождении, пришёл к Гелиосу, чтобы узнать, действительно ли он его отец. Гелиос подтвердил это и в знак своей любви согласился выполнить любое желание Фаэтона. Фаэтон пожелал управлять колесницей Гелиоса на один день. Несмотря на предостережения отца, он всё же получил свою просьбу. Однако, не сумев справиться с огненными конями и управлять солнечной колесницей, Фаэтон вызвал хаос, когда солнце стало приближаться к Земле, сжигая её, и удаляться, вызывая замерзание. Зевс вынужден был вмешаться и поразил Фаэтона молнией, чтобы спасти мир от разрушения. Но даже падение Фаэтона не погасило свет — так Львы, ошибаясь, сохраняют внутреннее пламя, учась мудрости через жар страстей."
+                        "description": "Legenda o zlatém voze Hélia odhaluje astrologické spojení Lva s ohněm a mocí. Hélios byl synem titánů Hyperiona a Theiy a bratrem bohyní Měsíce Seléné a úsvitu Éós. Každé ráno, když Éós otevřela nebeské brány, Hélios vyrazil na svou každodenní pouť oblohou ve zlatém voze taženém ohnivými koňmi. Cestu začínal na východě, přejel oblohu a večer zapadl na západě. V noci se vracel podzemní říší zpět na východ, aby znovu zazářil při úsvitu. Hélios měl syna Faethonta. Ten si nebyl jist svým božským původem a přišel se otce zeptat. Hélios to potvrdil a ze lásky mu slíbil splnit jakékoli přání. Faethon si přál řídit sluneční vůz. Navzdory varováním otec souhlasil, ale Faethon nedokázal zkrotit ohnivé koně. Slunce se přiblížilo k Zemi – způsobovalo požáry, pak se vzdalovalo a přinášelo mráz. Zeus musel zasáhnout a srazil Faethonta bleskem, aby zachránil svět. Přesto Héliovo světlo nezhaslo – stejně jako Lvi, kteří i po pádu dokážou znovu zazářit a nalézt moudrost v popelu svých vášní."
                     },
 
                     "branch2": {
-                        "title": "Миф об Апполоне.",
+                        "title": "Mýtus o Apollónovi",
                         "pic": "./assets/images/myth/leoMyth/appolo.jpg",
-                        "description": "Миф об Аполлоне — покровителе муз и света — объясняет творческую природу Львов. Аполлон был сыном Зевса и Лето, братом-близнецом Артемиды. Он был богом света, солнца, музыки, поэзии, пророчеств и медицины. Аполлон был известен своей красотой и умением играть на кифаре, а также своим даром пророчества, который он получил от Зевса. Аполлон также был покровителем муз, девяти богинь, которые вдохновляли поэтов, художников и ученых. Аполлон основал Дельфийское святилище, где музы жили и вдохновляли поэтов, музыкантов и художников на создание великих произведений искусства и науки. Аполлон был светочем вдохновения и творческой энергии. Люди, рожденные под знаком Льва, часто ассоциируются с этой энергией Аполлона. Львы, подобно Аполлону, полны света, харизмы и творческого потенциала. Они обладают страстью к искусству и лидерским качествам, что делает их лидерами и вдохновителями."
+                        "description": "Mýtus o Apollónovi – patronovi múz a světla – vysvětluje tvůrčí povahu Lva. Apollón, syn Dia a Léty, byl dvojčetem Artemis. Byl bohem slunce, hudby, poezie, proroctví a léčení. Proslul svou krásou, hrou na kitharu a schopností věštit, kterou obdržel od svého otce. Byl ochráncem múz – devíti božských dcer inspirujících básníky, umělce i vědce. Založil delfské svatyně, kde múzy žily a inspirovaly tvorbu výjimečných děl. Apollón byl nositelem světla a tvůrčí energie – a právě s touto sluneční jiskrou jsou Lvi spojováni. Lvi sdílejí jeho charisma, zář a vůdcovské sklony – jsou stvořeni nejen k tomu, aby tvořili, ale i inspirovali druhé k velikosti."
                     },
 
                 },
 
                 "facts": [
-                    ["Человек искусства:", "Знак Льва часто ассоциируют с театром и шоу-бизнесом. Многие известные актёры, музыканты и политические лидеры родились под этим знаком."],
-                    ["При свете дня:", "Солнце, управляющее Львом, наделяет их неиссякаемой энергией и уверенностью. Пик их продуктивности часто совпадает с ясной погодой и дневным временем."],
-                    ["На первом плане:", "Львы обожают роскошь и внимание: их стиль — это всегда «главная роль», будь то яркие наряды, эффектные жесты или умение превратить будни в праздник."],
-                    ["Cиндромом сцены:", "Многие Львы страдают боятся провала, но ненавидят быть за кулисами. Их девиз: «Лучше гореть, чем тлеть!»"]
-                ]
+                    ["Umělec v srdci:", "Znamení Lva je často spojováno s divadlem, showbyznysem a vůdcovstvím. Mnoho známých herců, hudebníků i politických lídrů se narodilo právě pod tímto znamením."],
+                    ["Denní světlo:", "Slunce, vládce Lva, dodává tomuto znamení nevyčerpatelnou energii a sebevědomí. Vrchol jejich produktivity často přichází za jasného dne."],
+                    ["Hlavní role:", "Lvi milují luxus a pozornost – jejich styl je vždy okázalý: výrazné outfity, dramatická gesta a schopnost proměnit všední den v oslavu."],
+                    ["Syndrom pódia:", "Mnozí Lvi se bojí neúspěchu, ale nesnesou stát v zákulisí. Jejich motto zní: ‚Lepší shořet než tiše tlejt!‘"]
+                ],
 
 
             },
 
             "childhood": {
-                "description": "Львы в детстве — это маленькие короли и королевы, жаждущие внимания и восхищения. Они рано проявляют лидерские качества, организуя игры и становясь центром любой компании. Их энергия подобна солнечному свету — яркая, тёплая и неудержимая. Они обожают наряжаться, устраивать домашние спектакли и получать похвалы за свои «подвиги». Однако их уверенность может граничить с упрямством: они не любят проигрывать и часто настаивают на своём, даже если неправы. Их эмоции — как вспышки: от бурной радости до гордого молчания, если их таланты остаются незамеченными.",
+                "description": "Lví děti jsou malí králové a královny, kteří touží po obdivu a pozornosti. Rychle se u nich projevují vůdčí schopnosti – organizují hry a stávají se středem každé party. Jejich energie je jako sluneční světlo – zářivá, hřejivá a nespoutaná. Milují převleky, domácí představení a pochvaly za své 'činy'. Sebevědomí se však může měnit v tvrdohlavost: nemají rádi prohru a často trvají na svém, i když nemají pravdu. Jejich emoce připomínají výbuchy: od radostného jásotu po hrdé mlčení, když jejich talent zůstane bez uznání.",
 
                 "perks": [
-                    ["Лидерство:", "Собирают вокруг себя друзей, распределяя роли в играх и придумывая правила."],
-                    ["Творчество:", "Превращают будни в праздник с помощью рисунков, танцев или драматических сценок."],
-                    ["Щедрость:", "Дарят подарки и комплименты, ожидая в ответ восхищения своими поступками."],
-                    ["Упрямство:", "Не признают поражений, яростно отстаивая свою правоту даже в мелочах."],
-                    ["Тщеславие:", "Могут обижаться, если их достижения не хвалят или сравнивают с другими."],
-                    ["Смелость:", "Первыми пробуют новое, не боясь рисковать — от горок до школьных выступлений."]
+                    ["Vůdcovství:", "Shromažďují kamarády, přidělují role a vymýšlejí pravidla her."],
+                    ["Tvořivost:", "Proměňují všední dny na oslavu pomocí kresby, tance či divadelních scének."],
+                    ["Štědrost:", "Dávají dárky a komplimenty – a touží po obdivu za svou velkorysost."],
+                    ["Tvrdohlavost:", "Neuznávají porážku a hájí svou pravdu i v malichernostech."],
+                    ["Ješitnost:", "Dotýká se jich, když jejich úspěchy zůstávají bez pochvaly nebo jsou srovnávány s jinými."],
+                    ["Odvaha:", "Jsou první, kdo zkouší nové věci – od skluzavek po školní vystoupení."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школе Львы блистают на сцене и в лидерских ролях. Они — капитаны команд, звезды школьных спектаклей и заводилы в классе. Преуспевают в творческих предметах, ораторском искусстве и спорте, где можно завоевать аплодисменты. Их тетради часто украшены рисунками, а проекты поражают масштабом — даже если страдают детали. Однако рутина и монотонные задания вызывают у них скуку: Львы терпеть не могут быть «как все». Их слабость — страх провала: за королевской уверенностью иногда скрывается боязнь не оправдать ожиданий.",
+                "description": "Lvi ve škole září na jevišti i v rolích vůdců. Jsou kapitány týmů, hvězdami školních představení a třídními tahouny. Daří se jim v kreativních předmětech, rétorice i ve sportech, kde mohou sklízet potlesk. Jejich sešity bývají plné kreseb a projekty ohromují rozsahem – i když někdy pokulhávají v detailech. Rutina a monotónní úkoly je ale nudí – Lvi nesnesou být „jako všichni ostatní“. Jejich slabinou bývá strach ze selhání: pod královským sebevědomím se často skrývá obava, že nenaplní očekávání.",
 
                 "inclinations": [
-                    ["Театр и музыка:", "Сольные выступления, постановки — где можно поймать лучи прожекторов."],
-                    ["Спорт и танцы:", "Виды, требующие грации, силы и зрелищности — гимнастика, футбол, бальные танцы."],
-                    ["Общественная деятельность:", "Организация мероприятий, лидерство в школьном совете или волонтёрство с элементом шоу."]
+                    ["Divadlo a hudba:", "Sóla, inscenace – tam, kde lze zazářit pod reflektory."],
+                    ["Sport a tanec:", "Disciplíny vyžadující ladnost, sílu a show – gymnastika, fotbal, společenský tanec."],
+                    ["Veřejné aktivity:", "Organizování akcí, vůdcovství ve školním parlamentu nebo dobrovolnictví s efektem."]
                 ],
 
                 "perks": [
-                    ["Артистизм:", "Превращают любой ответ у доски в мини-спектакль, покоряя аудиторию жестами и голосом."],
-                    ["Инициативность:", "Первыми предлагают идеи, берутся за сложные задачи, если видят потенциал славы."],
-                    ["Великодушие:", "Защищают «своих», щедро делятся знаниями — но ждут признания за благородство."],
-                    ["Нетерпеливость:", "Бросают задачи, если результат не виден сразу, требуя мгновенного успеха."],
-                    ["Драматизм:", "Преувеличивают неудачи («Это конец!»), если их труд остаётся непризнанным."],
-                    ["Амбициозность:", "Соревнуются даже в мелочах, воспринимая второе место как личное оскорбление."]
+                    ["Herecký talent:", "Z každé odpovědi u tabule udělají minipředstavení, ovládají gesta i hlas."],
+                    ["Iniciativnost:", "Jako první navrhují nápady a pouští se do náročných výzev, pokud vidí slávu na obzoru."],
+                    ["Velkorysost:", "Chrání své blízké, štědře sdílejí znalosti – ale očekávají za to uznání."],
+                    ["Netrpělivost:", "Opouštějí úkoly, pokud výsledky nejsou okamžité – chtějí úspěch hned."],
+                    ["Dramatičnost:", "Zveličují neúspěch („To je konec!“), pokud jejich úsilí zůstane bez ohlasu."],
+                    ["Ambicióznost:", "Soutěží i v drobnostech, vnímají druhé místo jako urážku majestátu."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослые Львы — это прирождённые лидеры и творцы, чья жизнь напоминает грандиозное шоу. Они преуспевают в профессиях, где можно блистать: актёрское мастерство, управление компаниями, мода или общественная деятельность. Их уверенность и харизма притягивают последователей, а щедрость и оптимизм делают душой любой компании. Однако зависимость от аплодисментов может превратиться в навязчивую потребность контролировать мнение окружающих. В отношениях Львы ищут партнёров, которые восхищаются их сиянием, но готовы напоминать, что даже королям нужна поддержка. Их противоречие — между желанием быть непревзойдёнными и страхом, что за лучами славы их истинное «я» останется незамеченным.",
+                "description": "Dospělí Lvi jsou zrození vůdci a tvůrci, jejichž život připomíná velkolepé představení. Vynikají v profesích, kde mohou zazářit – herectví, řízení firem, móda či společenské aktivity. Jejich sebedůvěra a charisma přitahují následovníky, štědrost a optimismus z nich dělají srdce každé společnosti. Závislost na potlesku však může přerůst v potřebu ovlivňovat názory okolí. Ve vztazích hledají partnery, kteří obdivují jejich záři, ale zároveň jim připomínají, že i králové potřebují oporu. Jejich vnitřní rozpor leží mezi touhou být nepřekonatelní a strachem, že za leskem slávy zůstane jejich pravé já nepovšimnuto.",
 
                 "perks": [
-                    ["Харизма:", "Притягивают людей магнетизмом и умением вдохновлять словом и действием."],
-                    ["Творческий огонь:", "Превращают рутину в искусство, будь то презентация или семейный ужин."],
-                    ["Великодушие:", "Щедро делятся ресурсами, но ждут признания своих благородных поступков."],
-                    ["Гордыня:", "Не терпят критики, воспринимая её как личное оскорбление."],
-                    ["Гиперболизация:", "Преувеличивают проблемы, если чувствуют недостаток внимания."],
-                    ["Импульсивность:", "Спонтанно тратят силы и время на проекты, сулящие мгновенную славу."]
+                    ["Charisma:", "Přitahují lidi magnetismem a uměním motivovat slovy i činy."],
+                    ["Tvůrčí plamen:", "Mění všednost v umění – ať už jde o prezentaci nebo rodinnou večeři."],
+                    ["Štědrost:", "Velkoryse sdílí zdroje a očekávají uznání za své šlechetné činy."],
+                    ["Hrdost:", "Špatně snáší kritiku, kterou vnímají jako osobní útok."],
+                    ["Zveličování:", "Nadměrně dramatizují potíže, pokud postrádají pozornost."],
+                    ["Impulzivita:", "Spontánně investují čas a energii do projektů slibujících okamžité uznání."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилые Львы — мудрые короли на закате правления, чьи истории становятся легендами. Они украшают жизнь внуков яркими спектаклями, учат их смелости и уверенности. Их дом — музей побед: дипломы, фото с известными людьми, подарки «от благодарных подданных». С возрастом их гордость смягчается юмором, но потребность в признании остаётся: они обожают, когда их опыт цитируют или просят совета. Однако страх утратить авторитет может превратить их в строгих критиков, отвергающих всё новое. Как Солнце садится, чтобы взойти вновь, Львы до конца верят, что их лучший «спектакль» ещё впереди.",
+                "description": "Staří Lvi jsou moudří králové na sklonku vlády – jejich příběhy se stávají legendami. Obohacují život vnoučat živými představeními a učí je odvaze i sebedůvěře. Jejich domov připomíná muzeum vítězství – diplomy, fotky se známými osobnostmi, dárky od 'vděčných poddaných'. S věkem jejich hrdost ustupuje humoru, ale touha po uznání přetrvává – milují, když se jejich rady citují nebo je někdo požádá o názor. Strach ze ztráty autority je však může proměnit v přísné kritiky odmítající novoty. Stejně jako slunce zapadá, aby znovu vyšlo, i Lvi věří, že jejich nejlepší 'představení' teprve přijde.",
 
                 "perks": [
-                    ["Мудрость лидера:", "Делится историями успеха, вдохновляя молодёжь на подвиги."],
-                    ["Щедрость души:", "Спонсирует таланты, видя в них продолжение своего наследия."],
-                    ["Театральность:", "Превращает даже поход в магазин в выход «на публику» с идеальным образом."],
-                    ["Нетерпимость:", "Критикует «современные глупости», отстаивая классические ценности."],
-                    ["Ностальгия по славе:", "Часто вспоминает былые достижения, сравнивая их с нынешними."],
-                    ["Оптимизм:", "Верит, что «второй акт» жизни принесёт новые овации."]
+                    ["Moudrost vůdce:", "Sdílí příběhy úspěchu, které inspirují mladé k činům."],
+                    ["Štědrost duše:", "Podporuje talenty jako pokračování vlastního odkazu."],
+                    ["Divadelnost:", "I běžnou cestu do obchodu promění v veřejné vystoupení s dokonalou stylizací."],
+                    ["Nesnášenlivost:", "Kritizuje ‚moderní výstřelky‘ a hájí klasické hodnoty."],
+                    ["Nostalgie po slávě:", "Často vzpomíná na úspěchy minulosti a porovnává je s přítomností."],
+                    ["Optimismus:", "Věří, že ‚druhý akt‘ života přinese nové ovace."]
                 ]
             },
 
             "work": {
-                "description": "В работе Львы проявляют себя как прирождённые лидеры и творцы, для которых карьера — это сцена, а каждый проект — шанс блистать. Они преуспевают в сферах, требующих харизмы, креатива и умения вдохновлять. Львы ценят возможность быть на виду, превращая рутинные задачи в грандиозные перформансы. Однако их жажда признания может приводить к переоценке собственных сил, а нежелание работать «в тени» — к конфликтам в команде. Идеальная работа для Льва сочетает свободу самовыражения с щедрой порцией аплодисментов.",
+                "description": "Lvi se v práci projevují jako přirození lídři a tvůrci – jejich kariéra je jevištěm, každý projekt příležitostí zazářit. Daří se jim v oblastech, kde je klíčová charisma, kreativita a schopnost inspirovat druhé. Oceňují možnost být vidět a mění rutinní úkoly v okázalé performance. Jejich touha po uznání však někdy vede k přetížení nebo konfliktům v týmu, pokud nejsou v centru dění. Ideální práce pro Lva nabízí prostor pro sebevyjádření a pravidelnou porci uznání a potlesku.",
 
                 "perks": [
-                    ["Лидерство:", "Ведут за собой команду, заряжая энтузиазмом и уверенностью."],
-                    ["Креативность:", "Превращают обычные проекты в яркие шоу с нестандартными решениями."],
-                    ["Решительность:", "Быстро принимают решения, беря ответственность за результат."],
-                    ["Тщеславие:", "Могут игнорировать чужие идеи, если те затмевают их собственные."],
-                    ["Нетерпеливость:", "Теряют интерес к задачам, где нельзя мгновенно получить признание."],
+                    ["Vůdcovství:", "Vedou tým s nadšením a jistotou, přirozeně přebírají odpovědnost."],
+                    ["Kreativita:", "Proměňují běžné projekty v oslnivá díla s originálním přístupem."],
+                    ["Rozhodnost:", "Rychle se rozhodují a nesou odpovědnost za výsledek."],
+                    ["Domýšlivost:", "Mohou přehlížet názory druhých, pokud ohrožují jejich vlastní lesk."],
+                    ["Netrpělivost:", "Ztrácejí zájem o úkoly bez okamžitého uznání nebo pozornosti."]
                 ],
 
                 "conditions": [
-                    ["Публичность:", "Возможность выступать на конференциях, участвовать в презентациях или медийных проектах."],
-                    ["Творческая свобода:", "Пространство для экспериментов без жёстких рамок и микроменеджмента."],
-                    ["Система поощрений:", "Регулярное признание заслуг — от премий до устных похвал при коллегах."]
+                    ["Veřejné uznání:", "Příležitosti vystupovat na konferencích, prezentacích a mediálních akcích."],
+                    ["Tvořivá svoboda:", "Prostor pro inovace bez přehnaného dohledu a byrokracie."],
+                    ["Systém ocenění:", "Pravidelná zpětná vazba, pochvaly, bonusy – vše, co potvrzuje jejich význam."]
                 ],
 
                 "professions": [
-                    ["Шоу-бизнес и театр:", "Актёры, певцы, ведущие — где каждый выход становится триумфом."],
-                    ["Управление и предпринимательство:", "Основатели стартапов, топ-менеджеры, требующие видения и смелости."],
-                    ["Мода и дизайн:", "Создание коллекций, стилистика — всё, где можно шокировать и восхищать."],
-                    ["Политика и общественная деятельность:", "Публичные выступления, адвокация идей, лидерство в движениях."],
-                    ["Спорт и хореография:", "Виды, где важны зрелищность и личные достижения: фигурное катание, теннис, танцы."]
+                    ["Showbyznys a divadlo:", "Herci, moderátoři, zpěváci – role, kde každý výstup je triumfem."],
+                    ["Management a podnikání:", "Zakladatelé startupů, ředitelé – tam, kde je potřeba odvaha a vize."],
+                    ["Móda a design:", "Tvorba kolekcí, styling – vše, co šokuje i okouzluje."],
+                    ["Politika a veřejné aktivity:", "Veřejné projevy, obhajoba idejí, vůdcovství v hnutí."],
+                    ["Sport a choreografie:", "Disciplíny, kde je důležitá osobní prezentace a show: krasobruslení, tanec, tenis."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Львы в романтических отношениях — это страстные и великодушные партнёры, для которых любовь немыслима без восхищения и ярких жестов. Они создают отношения как королевский роман: с роскошными свиданиями, публичными признаниями и щедрыми подарками. Их идеал — партнёр, который видит в них «звезду» и готов играть роль преданного фаната. Однако их гордость может перерасти в ревнивое желание контролировать, а страх остаться незамеченными — в театральные сцены. Львы обожают быть героями любовной истории, но требуют, чтобы их подвиги (даже вынос мусора) отмечались овациями. Идеальный партнёр для Льва — уверенный в себе, но умеющий мягко напоминать, что любовь — дуэт, а не соло."
+                    "description": "Lvi v lásce jsou vášniví a velkorysí partneři, pro něž je romantika nemyslitelná bez obdivu a okázalých gest. Vztah staví jako královskou romanci – s luxusními schůzkami, veřejnými vyznáními a štědrými dary. Jejich ideálem je partner, který je vnímá jako hvězdu a je ochoten sehrát roli věrného obdivovatele. Hrdost však může přerůst v žárlivost a potřebu kontroly, zatímco strach z přehlédnutí vede k dramatickým scénám. Lvi touží být hrdiny milostného příběhu a vyžadují, aby jejich skutky (i vynesení odpadků) byly provázeny potleskem. Ideální partner je sebejistý člověk, který ví, jak připomínat, že láska je duet, nikoli sólo."
                 },
 
                 "friend": {
-                    "description": "Львы в дружбе — это щедрые заводилы и защитники «своей стаи». Они собирают вокруг себя верных «подданных», организуя вечеринки, походы и приключения, где сами играют главную роль. Их дом — место праздников, а совет — это «королевский указ», поданный с юмором. Однако дружба с Львом требует лояльности: они ревниво относятся к конкуренции за внимание и обижаются, если их идеи не встречают восторга. Их слабость — склонность доминировать, превращая диалог в монолог. Идеальный друг для Льва — тот, кто ценит их тепло, но не боится перехватить инициативу, напоминая, что даже королям нужны равные."
+                    "description": "Ve vztazích přátelských jsou Lvi štědří iniciátoři a ochránci své 'smečky'. Vytvářejí okruh věrných 'poddaných', organizují večírky, výlety a dobrodružství, v nichž hrají hlavní roli. Jejich domov je centrem oslav a jejich rady zní jako královské výnosy – ovšem s nadhledem a humorem. Přátelství s Lvem však vyžaduje loajalitu: nesnášejí soupeření o pozornost a zraňuje je, když jejich nápady nenachází obdiv. Jejich slabinou je sklon k dominanci – konverzaci mohou proměnit ve vlastní monolog. Ideální přítel ocení jejich teplo, ale nebojí se převzít iniciativu a jemně připomenout, že i král potřebuje rovnocenné spojence."
                 },
 
                 "foe": {
-                    "description": "Львы в роли врагов — это гордые соперники, атакующие открыто и эффектно. Они не прячутся в тени: их оружие — сарказм, публичные выпады и демонстрация превосходства. Львы будут оспаривать ваши достижения, превращая спор в шоу, где зрители — их естественные союзники. Их уязвимость — страх потерять лицо: если вы разоблачите их слабость на людях, ярость сменится бегством. Однако Львы редко копят обиды — они предпочитают «сжечь мосты» громким скандалом, чем вести тихую войну. Главная опасность — их умение превратить любую вашу ошибку в публичный триумф, ведь для них победа — не результат, а зрелище."
+                    "description": "Jako protivníci jsou Lvi hrdí a otevření soupeři – jejich útoky bývají efektní a veřejné. Neskrývají se ve stínech: jejich zbraní je sarkasmus, okázalé výpady a demonstrace převahy. Spor proměňují ve show, v níž diváci přirozeně stojí na jejich straně. Jejich slabinou je strach ze ztráty tváře – odhalíte-li jejich slabost před ostatními, hněv ustoupí ústupu. Lvi si však křivdy neschovávají – raději s pompou přeruší vztah než vedou tichou válku. Jejich síla spočívá ve schopnosti proměnit cizí chybu v osobní triumf – protože pro ně vítězství znamená především podívanou."
                 }
-            }
+            },
         },
 
         {
             "className": "virgo",
-            "name": "Дева",
-            "date": "Август 23 - Сентябрь 22",
+            "name": "Panna",
+            "date": "23. srpna – 22. září",
             "sign": "./assets/images/signsMain/virgo.jpg",
-            "planet": "Меркурий",
+            "planet": "Merkur",
             "planetPic": "./assets/images/planets/mercury.jpg",
 
             "description": {
 
-                "common": "Дева — земной архитектор зодиака, воплощающий аналитический ум, служение и стремление к безупречности. Этот знак ассоциируется с мифом о богине Деметре, покровительнице урожая, и Астрее — символе справедливости, покинувшей Землю из-за человеческого несовершенства. Как фермер отделяет зерно от плевел, Девы стремятся очистить мир от хаоса через труд и рациональность. Их сущность двойственна: одни — скромные перфекционисты, улучшающие системы изнутри, другие — критичные реформаторы, борющиеся с любым дисбалансом. Их сила — в умении превращать идеи в работающие механизмы, но тень — в тревоге из-за мельчайших изъянов.",
+                "common": "Panna je zemský architekt zvěrokruhu – zosobňuje analytickou mysl, službu a touhu po dokonalosti. Toto znamení je spojeno s bohyní Demétér, ochránkyní úrody, a s Astraeou – symbolem spravedlnosti, která opustila Zemi kvůli lidské nedokonalosti. Stejně jako farmář odděluje zrno od plev, Panny usilují o vyčištění světa od chaosu skrze práci a racionalitu. Jejich povaha je dvojí: jedny jsou skromné perfekcionistky zdokonalující systémy zevnitř, druhé jsou kritické reformátorky, bojující proti jakékoli nerovnováze. Jejich silou je schopnost přetavit myšlenky ve funkční mechanismy, ale jejich stínem je úzkost z nejmenších nedostatků.",
 
-            "archetype": {
-                "extra": "Экстраверты реализуют идеалы через активное служение: организовывают волонтёрские проекты, совершенствуют рабочие процессы или учат других эффективности.",
-                "intro": "Интроверты направляют энергию в анализ: исследуют детали, разрабатывают алгоритмы или творят «идеальные миры» в узких профессиональных нишах."
-            },
+                "archetype": {
+                    "extra": "Extroverti realizují ideály prostřednictvím aktivní služby – organizují dobrovolnické projekty, vylepšují pracovní procesy nebo učí ostatní efektivitě.",
+                    "intro": "Introverti směřují energii do analýzy – zkoumají detaily, vyvíjejí algoritmy nebo tvoří ‚ideální světy‘ ve vybraných odborných oblastech."
+                },
 
-            "planet": "Планетой, управляющей знаком Девы, является Меркурий. В отличие от воздушных Близнецов, земной Меркурий Девы фокусируется на практическом применении знаний. Он связан с Гермесом-покровителем ремёсел, превращающим сырьё в полезные артефакты. Для Дев это выражается в системном мышлении, любви к порядку и критическом взгляде на реальность. Меркурий наделяет их даром диагностики — будь то ошибка в коде или дисбаланс в организме. Однако их слабость — склонность к гиперкритике, где поиск совершенства затмевает человеческое несовершенство.",
+                "planet": "Vládcem znamení Panny je Merkur. Na rozdíl od vzdušných Blíženců se zemský Merkur Panny zaměřuje na praktické využití poznání. Je spojován s Hermem – patronem řemesel, který proměňuje suroviny v užitečné artefakty. U Panen se to projevuje systémovým myšlením, smyslem pro řád a kritickým pohledem na realitu. Merkur jim dává dar diagnostiky – ať už jde o chybu v kódu nebo nerovnováhu v těle. Jejich slabinou je však sklon k hyperkritice, kdy hledání dokonalosti přehluší lidskou křehkost.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/virgoMyth/astrey.jpg",
-                    "main": "Символ Девы связан с мифом об Астрее — дочери Фемиды и Зевса, богине справедливости, последней из бессмертных, покинувшей Землю из-за человеческой испорченности. Её вознесение в созвездие Девы стало символом утраченного идеала, к которому знак стремится через служение и анализ. Как Астрея отделяла правду ото лжи, Девы очищают мир от хаоса, систематизируя его до мельчайших деталей. Этот миф отражает суть знака: стремление к совершенству в несовершенном мире через труд и критический ум.",
+                    "main": "Symbol Panny je spojen s mýtem o Astraei – dceři Themis a Dia, bohyni spravedlnosti, která jako poslední z nesmrtelných opustila Zemi kvůli lidské zkaženosti. Její vzestup na oblohu jako souhvězdí Panny se stal symbolem ztraceného ideálu, k němuž toto znamení směřuje prostřednictvím služby a analýzy. Stejně jako Astraea oddělovala pravdu od lži, Panny se snaží očistit svět od chaosu tím, že ho systematizují do nejmenších detailů. Tento mýtus vystihuje podstatu znamení: snahu o dokonalost v nedokonalém světě skrze práci a kritické myšlení.",
 
                     "branch1": {
-                        "title": "Легенда о похищении Персефоны.",
+                        "title": "Legenda o únosu Persefony",
                         "pic": "./assets/images/myth/virgoMyth/aid.jpg",
-                        "description": "Легенда о Деметре и Персефоне раскрывает связь Девы с циклами природы и заботой о порядке. Деметра — богиня плодородия, земледелия и урожая. Она заботилась о земле, обеспечивая рост растений и благополучие людей. Персефона — дочь Деметры и Зевса, она была прекрасной и невинной девушкой, любимой матерью. Однажды, когда Персефона собирала цветы в поле, Аид, бог подземного царства, увидел ее и влюбился. Он выехал на своей золотой колеснице из недр земли и похитил Персефону, увезя ее в свое царство. Деметра, узнав о похищении дочери, погрузилась в глубочайшее горе. Она прекратила заботиться о земле, и на земле наступила засуха, все растения перестали расти, и наступил голод. Деметра отправилась на поиски Персефоны, странствуя по земле в образе старухи. Она не знала покоя, пока не встретила Гелиоса, бога Солнца, который рассказал ей, что Персефона была похищена Аидом. Зевс, видя страдания Деметры и бедственное положение людей, вмешался и потребовал от Аида вернуть Персефону. Аид согласился, но с условием: если Персефона не съела ничего в подземном царстве, она сможет вернуться к матери. Однако Персефона съела несколько зерен граната, символизирующего брак и связь с подземным царством. Это означало, что она должна была проводить часть года с Аидом, а оставшуюся часть — с матерью. Деметра и Аид договорились, что Персефона будет проводить весну и лето на земле с матерью, а осень и зиму — в подземном царстве с Аидом. Это объясняет, почему весной и летом земля цветет и плодоносит, а осенью и зимой — замирает и засыпает. Как Деметра искала Персефону, Девы ищут гармонию в хаосе, превращая тревогу в продуктивность."
+                        "description": "Legenda o Demétér a Persefoně odhaluje spojení Panny s přírodními cykly a péčí o řád. Demétér – bohyně úrody, zemědělství a plodnosti – zajišťovala růst všeho živého. Její dcera Persefona, dcera Dia a Demétér, byla krásná a nevinná, hluboce milovaná matkou. Jednoho dne, při sbírání květin, ji spatřil Hádes, bůh podsvětí, a unesl ji na zlatém voze do svého království. Demétér se ponořila do hlubokého smutku a zanedbala zemi – přišla neúroda, sucho a hlad. Putovala světem v přestrojení za stařenu a hledala dceru, dokud se od Hélia, boha Slunce, nedozvěděla pravdu. Zeus zasáhl a přikázal Hádu Persefonu vrátit, ale pod podmínkou, že nic nesnědla. Persefona však snědla několik zrnek granátového jablka – symbol manželství – a musela část roku trávit v podsvětí. Dohodli se, že s matkou bude na Zemi na jaře a v létě, na podzim a v zimě s Hádem. Proto v teplejších měsících příroda kvete a v chladných odpočívá. Stejně jako Demétér hledala dceru, Panny hledají řád v chaosu a svou úzkost proměňují v užitečnou činnost."
                     },
 
                     "branch2": {
-                        "title": "Мифы о Гермесе.",
+                        "title": "Mýty o Hermovi",
                         "pic": "./assets/images/myth/virgoMyth/germes.jpg",
-                        "description": "Миф о Гермесе — покровителе ремёсел и логистики — объясняет связь Девы с Меркурием. Гермес родился в пещере на горе Киллена. В тот же день, когда он родился, он совершил свой первый подвиг. Ему удалось украсть стадо скота у Аполлона, запутывая следы, чтобы его не могли обнаружить. Это показало его хитрость и умение быстро находить выход из сложных ситуаций. Гермес был богом торговли и ремесел. Он помогал ремесленникам и торговцам в их делах, даровал удачу и успех в коммерческих предприятиях. Гермес также изобрел меры и весы, что способствовало развитию торговли и обмена. Гермес защищал путников в их путешествиях, обеспечивая их безопасность и помогая найти путь. Также он был покровителем воров из-за своей хитрости и умения находить нестандартные решения. Гермес умел обманывать и обходить преграды, что делало его идеальным покровителем тех, кто искал хитроумные пути достижения своих целей. Одной из ролей Гермеса было сопровождение душ умерших в подземное царство. Он проводил души через границы жизни и смерти, обеспечивая им безопасный переход. В отличие от Близнецов (воздушный Меркурий), земной Меркурий Девы — это бог, превращающий сырьё в полезные инструменты. Он научил людей измерять, взвешивать и организовывать, что отражает девичью потребность в структуре. Однако его хитрость напоминает: перфекционизм Девы может стать ловушкой, где «идеальный план» важнее гибкости."
+                        "description": "Mýtus o Hermovi – patronovi řemesel a logistiky – vysvětluje spojení Panny s Merkurem. Hermés se narodil v jeskyni na hoře Kylléné a už první den svého života proslul tím, že ukradl stádo Apollónových krav, chytře maskoval stopy a ukázal svůj důvtip. Byl bohem obchodu a řemesel – chránil obchodníky i řemeslníky, přinášel jim štěstí a prosperitu. Vynalezl váhy, míry a systém směny, čímž podpořil organizaci světa. Byl také patronem cestujících, chránil je na cestách a pomáhal najít správný směr. Díky své vynalézavosti byl rovněž ochráncem zlodějů – jako mistr obcházení překážek a nalezení kreativních řešení. Jednou z Hermových rolí bylo provázet duše zemřelých do podsvětí a zajistit jim klidný přechod. Na rozdíl od Blíženců (Merkur ve vzdušném aspektu) zemský Merkur Panny ztělesňuje tvůrce, jenž mění suroviny v nástroje a chaos v strukturu. Učí měřit, vážit a organizovat – přesně jak to Panna potřebuje. Hermova vynalézavost ale připomíná i stín: perfekcionismus Panny může uváznout v pasti, kde ‚ideální plán‘ převládne nad pružností."
                     },
 
                 },
 
                 "facts": [
-                    ["Сила науки:", "Знак Девы часто ассоциируют с медициной и наукой. Многие врачи, исследователи и IT-специалисты родились под этим знаком."],
-                    ["Савант:", "Меркурий, управляющий Девой, наделяет их феноменальной памятью на детали. Пик их продуктивности часто совпадает с тишиной и упорядоченным рабочим пространством."],
-                    ["Педантичность:", "Девы обожают системы и минимализм: их стиль — это функциональность, будь то идеальный ежедневник, алгоритмизированный график или безупречная чистота в доме."],
-                    ["Синдромом самозванца.", "Многие Девы боятся, что их труд недостаточно идеален, даже если окружающие видят блестящий результат:"],
-                ]
+                    ["Síla vědy:", "Znamení Panny je často spojováno s medicínou a vědou. Mnoho lékařů, výzkumníků a IT specialistů se narodilo právě v tomto znamení."],
+                    ["Savantské schopnosti:", "Merkur, vládnoucí planeta Panny, jim dává výjimečnou paměť na detaily. Nejproduktivnější bývají v tichu a v uspořádaném prostředí."],
+                    ["Pedantství:", "Panny milují systémy a minimalismus – jejich styl je funkční: od dokonalého diáře po algoritmizovaný rozvrh a čistotu v domácnosti."],
+                    ["Syndrom podvodníka:", "Mnohé Panny si kladou otázku, zda jejich práce je dost dokonalá – i když okolí vidí brilantní výsledek, ony сомневаются."]
+                ],
 
             },
 
             "childhood": {
-                "description": "Девы в детстве — это маленькие аналитики и перфекционисты, стремящиеся к порядку во всём. Они рано проявляют любовь к системам: сортируют игрушки по цветам, составляют расписания для кукол, а в играх предпочитают «полезные» роли — учителя, врача или учёного. Их энергия направлена на улучшение мира вокруг: они вытирают пыль, помогают родителям с готовкой, или «лечат» сломанные карандаши. Однако их стремление к идеалу может граничить с тревожностью: они расстраиваются из-за пятен на тетрадях или криво наклеенных наклеек. Их эмоции — как чёткие алгоритмы: от спокойной сосредоточенности до беспокойства, если что-то нарушает их внутренние правила.",
+                "description": "Děti ve znamení Panny jsou malí analytici a perfekcionisté, kteří hledají řád ve všem. Brzy si oblíbí systémy – třídí hračky podle barev, vytvářejí rozvrhy pro panenky a v hrách volí ‚užitečné‘ role – učitele, lékaře nebo vědce. Jejich energie směřuje k vylepšování okolí: utírají prach, pomáhají s vařením nebo ‚léčí‘ zlomené pastelky. Jejich touha po dokonalosti však může vést k úzkosti – rozčilují je skvrny v sešitech nebo křivě nalepené samolepky. Jejich emoce připomínají algoritmy: klidné soustředění se může rychle změnit v neklid, když něco poruší jejich vnitřní pravidla.",
 
                 "perks": [
-                    ["Аналитичность:", "Замечают детали, невидимые другим: скол на чашке, опечатку в книжке или неправильно завязанный шнурок."],
-                    ["Трудолюбие:", "С удовольствием помогают по дому, превращая уборку в игру с чёткими правилами."],
-                    ["Любознательность:", "Задают вопросы о том, как устроен мир, и не успокоятся, пока не получат точный ответ."],
-                    ["Перфекционизм:", "Переделывают рисунок из-за одной кривой линии или рыдают, если суп получился «не такой, как у мамы»."],
-                    ["Тревожность:", "Боятся ошибиться, поэтому долго проверяют домашнюю работу перед сдачей."],
-                    ["Критичность:", "Указывают на недочёты других, искренне желая «исправить» несовершенство."]
+                    ["Analytické myšlení:", "Všímají si detailů, které jiní přehlíží – od praskliny na hrnku po překlep v knížce."],
+                    ["Pracovitost:", "S chutí pomáhají doma a proměňují úklid v hru s jasnými pravidly."],
+                    ["Zvídavost:", "Kladou otázky o světě a neklidní, dokud nezískají přesnou odpověď."],
+                    ["Perfekcionismus:", "Překreslují obrázek kvůli jediné křivé čáře, pláčou, když polévka není ‚jako od maminky‘."],
+                    ["Úzkostlivost:", "Bojí se udělat chybu, proto důkladně kontrolují domácí úkoly."],
+                    ["Kritičnost:", "Upřímně poukazují na chyby druhých – ve snaze vylepšit nedokonalost."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школе Девы выделяются аккуратностью и тягой к знаниям. Они — те, кто подскажет учителю про опечатку в учебнике, отредактирует стенгазету одноклассников или останется после уроков, чтобы вымыть доску. Преуспевают в точных науках, биологии и языках, где важна структура и внимание к деталям. Их тетради — образец порядка: идеальные поля, подчёркнутые заголовки, цветовые пометки. Однако страх сделать ошибку может парализовать: они десять раз перепроверят уравнение, прежде чем решатся его озвучить. Их слабость — стремление к гиперконтролю: там, где другие импровизируют, Девы теряются без чёткого плана.",
+                "description": "Ve škole se Panny vyznačují pečlivostí a touhou po vědění. Jsou to ti, kdo upozorní učitele na chybu v učebnici, opraví nástěnku spolužáků nebo zůstanou po vyučování, aby umyli tabuli. Vynikají v přírodních vědách, biologii a jazycích, kde je důležitá struktura a smysl pro detail. Jejich sešity jsou vzorem pořádku: přesná okraje, podtržené nadpisy, barevné poznámky. Strach z chyby je však může paralyzovat – desetkrát zkontrolují výpočet, než ho nahlas řeknou. Jejich slabinou je snaha o hyperkontrolu: kde jiní improvizují, Panny ztrácí půdu pod nohama bez jasného plánu.",
 
                 "inclinations": [
-                    ["Естественные науки:", "Биология, химия — где можно систематизировать знания и проводить эксперименты по инструкции."],
-                    ["Литературный анализ:", "Разбор персонажей, поиск скрытых смыслов и структуры в текстах."],
-                    ["Волонтёрство:", "Помощь в библиотеке, уход за школьным садом — деятельность с ясными, полезными результатами."]
+                    ["Přírodní vědy:", "Biologie, chemie – obory, kde mohou třídit poznatky a provádět pokusy podle návodu."],
+                    ["Literární analýza:", "Rozbor postav, hledání skrytých významů a struktur v textech."],
+                    ["Dobrovolnictví:", "Pomoc v knihovně, péče o školní zahradu – činnost s jasným, užitečným výsledkem."]
                 ],
 
                 "perks": [
-                    ["Организованность:", "Составляют расписания, раскладывают конспекты по папкам и никогда не опаздывают."],
-                    ["Практичность:", "Выбирают самые эффективные методы решения задач, отвергая «ненужные» креативные подходы."],
-                    ["Ответственность:", "Всегда доводят проекты до конца, даже если приходится задерживаться после уроков."],
-                    ["Гиперкритичность:", "Замечают ошибки учителей и сверстников, что иногда вызывает конфликты."],
-                    ["Переутомление:", "Тратят слишком много времени на «идеальное» выполнение простых заданий."],
-                    ["Ригидность:", "Сопротивляются изменениям в учебной программе, предпочитая проверенные методы."]
+                    ["Organizovanost:", "Sestavují rozvrhy, archivují poznámky a nikdy nechodí pozdě."],
+                    ["Praktičnost:", "Volí nejefektivnější řešení, odmítají ‚zbytečnou‘ kreativitu."],
+                    ["Zodpovědnost:", "Dokončují úkoly, i když to znamená zůstat po škole."],
+                    ["Hyperkritičnost:", "Všímají si chyb učitelů i spolužáků – občas to vyvolává konflikty."],
+                    ["Přepracování:", "Věnují příliš mnoho času ‚dokonalému‘ splnění jednoduchých úkolů."],
+                    ["Rigidita:", "Odmítají změny ve výuce, dávají přednost osvědčeným metodám."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослые Девы — это мастера анализа и порядка, чья жизнь напоминает отлаженный механизм. Они преуспевают в профессиях, где важны точность, системность и служение: медицина, инженерия, образование или научные исследования. Их рациональность и практичность притягивают тех, кто ценит надёжность, а умение оптимизировать процессы делает их незаменимыми в любой команде. Однако стремление к идеалу может превратиться в навязчивый контроль, а критика — оттолкнуть окружающих. В отношениях Девы ищут партнёров, которые уважают их потребность в стабильности, но мягко учат принимать несовершенство. Их противоречие — между желанием улучшить мир и тревогой, что их усилия никогда не будут «достаточно идеальными».",
+                "description": "Dospělé Panny jsou mistry analýzy a pořádku – jejich život připomíná precizně vyladěný stroj. Vynikají v profesích vyžadujících přesnost, systémové myšlení a ochotu sloužit: medicína, inženýrství, vzdělávání či výzkum. Jejich racionalita a praktičnost přitahují ty, kdo si cení spolehlivosti, a schopnost optimalizovat procesy z nich činí nepostradatelné členy týmů. Snaha o dokonalost však může sklouznout do posedlosti kontrolou a kritika snadno odradit okolí. Ve vztazích hledají partnery, kteří respektují jejich potřebu stability, ale jemně je učí přijímat nedokonalost. Jejich vnitřní rozpor spočívá mezi touhou vylepšit svět a obavou, že jejich úsilí nikdy nebude ‚dostatečně perfektní‘.",
 
                 "perks": [
-                    ["Аналитичность:", "Разбирают проблемы на молекулы, находя корень даже в самых запутанных ситуациях."],
-                    ["Практичность:", "Превращают теории в рабочие схемы, будь то бюджет семьи или бизнес-план."],
-                    ["Ответственность:", "Всегда выполняют обещания, считая долгом доводить начатое до совершенства."],
-                    ["Гиперкритичность:", "Замечают недостатки даже в шедеврах, что иногда портит отношения с коллегами."],
-                    ["Перфекционизм:", "Тратят часы на полировку деталей, которые другие не заметят."],
-                    ["Тревожность:", "Составляют планы на все случаи жизни, боясь малейшего хаоса."]
+                    ["Analytické myšlení:", "Rozebírají problémy do detailu a nacházejí kořen i v nejzamotanějších situacích."],
+                    ["Praktičnost:", "Přetvářejí teorie na funkční postupy – ať už jde o rodinný rozpočet či byznys plán."],
+                    ["Zodpovědnost:", "Plní své sliby a považují za povinnost dotahovat vše do dokonalosti."],
+                    ["Hyperkritičnost:", "Vidí chyby i v mistrovských dílech – což může narušit kolegiální vztahy."],
+                    ["Perfekcionismus:", "Hodiny ladí detaily, kterých si jiní často ani nevšimnou."],
+                    ["Úzkostlivost:", "Tvoří záložní plány na každou eventualitu – obávají se jakéhokoli chaosu."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилые Девы — это мудрые архивариусы жизни, превращающие опыт в чёткие инструкции. Их дом — образец порядка: каждая книга на полке, каждый рецепт в алфавитной папке. Они находят радость в передаче знаний: учат внуков грамотно писать, консультируют соседей по садоводству или пишут мемуары с хронологией событий. С возрастом их перфекционизм смягчается, но любовь к системности остаётся: они сортируют фотографии по годам, а семейные традиции соблюдают с музейной точностью. Однако страх перед новыми технологиями и излишний консерватизм могут создавать барьеры с молодым поколением. Как старый дуб пускает корни в землю, Девы до конца остаются опорой разума в мире хаоса.",
+                "description": "Staří Panny jsou moudří archiváři života – přetvářejí zkušenosti v jasné návody. Jejich domov je vzorem pořádku: každá kniha má své místo, každý recept vlastní složku podle abecedy. Radost nacházejí v předávání znalostí – učí vnoučata gramatiku, radí sousedům s pěstováním nebo píšou paměti v chronologii desetiletí. S věkem se jejich perfekcionismus zjemňuje, ale láska k systému přetrvává: třídí fotografie podle let a dodržují rodinné rituály s muzejní přesností. Strach z nových technologií a sklon ke konzervatismu však mohou vytvářet propast s mladší generací. Stejně jako starý dub zapouští kořeny, Panny zůstávají až do konce oporou rozumu ve světě chaosu.",
 
                 "perks": [
-                    ["Мудрость:", "Делится проверенными методами, от кулинарных секретов до финансового планирования."],
-                    ["Организованность:", "Создают архивы, каталоги и памятки, чтобы ни одна деталь не потерялась во времени."],
-                    ["Наставничество:", "Терпеливо объясняют, как избежать ошибок, которые сами совершали в молодости."],
-                    ["Консерватизм:", "Отрицают прогресс, если он нарушает привычный уклад («Раньше трава была зеленее!»)."],
-                    ["Ностальгия:", "Хранят билеты в кино 1985 года и уверены, что «правильные» стиральные порошки уже не выпускают."],
-                    ["Педантичность:", "Поправят вашу речь, даже если вы просто цитируете анекдот."]
+                    ["Moudrost:", "Předávají osvědčené postupy – od kuchyňských triků po finanční plánování."],
+                    ["Organizovanost:", "Tvoří archivy, katalogy a poznámkové systémy, aby nic neupadlo v zapomnění."],
+                    ["Mentorství:", "Trpělivě vysvětlují, jak se vyhnout chybám, které sami kdysi udělali."],
+                    ["Konzervatismus:", "Odmítají změny, které narušují zavedený řád (‚Dřív byla tráva zelenější!‘)."],
+                    ["Nostalgie:", "Uchovávají lístky do kina z roku 1985 a věří, že starý prací prášek byl ten nejlepší."],
+                    ["Pedantství:", "Opraví vám gramatiku i během vtipu – z úcty ke správnosti."]
                 ]
             },
 
             "work": {
-                "description": "В работе Девы проявляют себя как неутомимые оптимизаторы, для которых карьера — это миссия упорядочить хаос. Они преуспевают в сферах, требующих аналитики, внимания к деталям и служения обществу: IT-тестирование, редактура, логистика или здравоохранение. Девы ценят ясные инструкции, предсказуемость и возможность улучшать процессы. Однако их одержимость идеалом может приводить к выгоранию, а неспособность делегировать — к перегрузкам. Идеальная работа для Девы сочетает чёткие KPI с возможностью работать без спешки.",
+                "description": "Panny v práci vystupují jako neúnavní optimalizátoři – kariéru vnímají jako misi uspořádat chaos. Daří se jim v oblastech, kde je klíčová analytika, smysl pro detail a služba společnosti: IT testování, redakce, logistika nebo zdravotnictví. Oceňují jasné návody, předvídatelnost a možnost zlepšovat procesy. Jejich posedlost dokonalostí však může vést k vyhoření a neochota delegovat k přetížení. Ideální zaměstnání pro Pannu kombinuje srozumitelná KPI s klidným tempem bez časového tlaku.",
 
                 "perks": [
-                    ["Системное мышление:", "Создают алгоритмы даже для утреннего кофе — чтобы всё было «по науке»."],
-                    ["Профессионализм:", "Знают каждый пункт должностной инструкции и ГОСТы своей отрасли наизусть."],
-                    ["Самодисциплина:", "Работают по графику точнее швейцарских часов, без опозданий и авралов."],
-                    ["Недоверие к интуиции:", "Отвергают креативные идеи, если те не подкреплены статистикой."],
-                    ["Микроменеджмент:", "Контролируют каждый шаг коллег, не веря, что те справятся без надзора."],
-                    ["Синдром самозванца:", "Даже с дипломом и опытом сомневаются: «А достаточно ли я хорош?»."]
+                    ["Systémové myšlení:", "Vytvářejí algoritmy i pro ranní kávu – aby vše fungovalo podle logiky."],
+                    ["Profesionalita:", "Ovládají každý bod pracovní náplně a normy svého oboru zpaměti."],
+                    ["Sebe-disciplína:", "Pracují podle rozvrhu přesněji než švýcarské hodinky – bez zpoždění i krizí."],
+                    ["Nedůvěra v intuici:", "Odmítají kreativní nápady, pokud nejsou podloženy daty."],
+                    ["Mikromanagement:", "Sledují každý krok kolegů – nevěří, že to zvládnou bez dohledu."],
+                    ["Syndrom podvodníka:", "I s diplomem a praxí si kladou otázku: ‚Jsem opravdu dost dobrý/á?‘"]
                 ],
 
                 "conditions": [
-                    ["Структурированность:", "Чёткие сроки, понятные KPI и отсутствие «подвижных» дедлайнов."],
-                    ["Тихая обстановка:", "Кабинет без открытых пространств, где можно сосредоточиться на деталях."],
-                    ["Социальная польза:", "Возможность видеть результат труда: вылеченных пациентов, отлаженные системы и т.д."]
+                    ["Strukturovanost:", "Jasné termíny, měřitelné cíle a žádné ‚plovoucí‘ uzávěrky."],
+                    ["Ticho a klid:", "Kancelář bez open-space ruchu – prostor pro soustředění a přesnost."],
+                    ["Společenský přínos:", "Možnost vidět konkrétní efekt práce: uzdravení, funkční systém či zjednodušený proces."]
                 ],
 
                 "professions": [
-                    ["Медицина:", "Диагносты, хирурги, медсёстры — где важны точность и алгоритмы."],
-                    ["IT-сфера:", "Тестировщики, аналитики данных, разработчики сложных систем."],
-                    ["Образование:", "Преподаватели точных наук, методисты, составители учебных программ."],
-                    ["Редактура:", "Корректура текстов, научное рецензирование, проверка юридических документов."],
-                    ["Логистика:", "Оптимизация маршрутов, управление цепочками поставок, складской учёт."]
+                    ["Medicína:", "Diagnostici, chirurgové, zdravotní sestry – tam, kde rozhodují přesnost a algoritmy."],
+                    ["IT oblast:", "Testeři, datoví analytici, vývojáři složitých systémů."],
+                    ["Vzdělávání:", "Učitelé přesných oborů, metodici, autoři učebních osnov."],
+                    ["Redakce:", "Korektury, vědecká recenzní činnost, revize právních textů."],
+                    ["Logistika:", "Optimalizace tras, řízení dodavatelských řetězců, skladová evidence."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Девы в романтических отношениях — это надёжные и внимательные партнёры, для которых любовь выражается через заботу и совершенствование быта. Они создают отношения как «проект»: составляют планы на будущее, оптимизируют бюджет и мягко корректируют привычки второй половинки «для их же блага». Их идеал — партнёр, который ценит их практичность, но напоминает, что жизнь — не только чек-листы. Однако их критичность может обернуться мелочными придирками, а страх ошибок — холодностью в принятии решений. Девы обожают заботу через действия (готовка, помощь), но редко говорят о чувствах вслух. Идеальный партнёр для Девы — терпеливый и эмоционально устойчивый, способный показать, что несовершенство тоже бывает прекрасным."
+                    "description": "Panny v romantických vztazích jsou spolehliví a pozorní partneři, kteří lásku vyjadřují péčí a zlepšováním každodenního života. Vztah vnímají jako projekt: plánují budoucnost, optimalizují rozpočet a jemně korigují zvyky druhého – samozřejmě pro jeho dobro. Jejich ideálem je partner, který oceňuje jejich praktičnost, ale připomíná, že život není jen kontrolní seznam. Jejich kritičnost však může sklouznout k puntičkářství a strach z chyb ochladit rozhodnutí. Panny milují péči prostřednictvím činů (vaření, pomoc), ale city vyjadřují zřídka nahlas. Ideální partner je trpělivý a emočně vyrovnaný – někdo, kdo ukáže, že i nedokonalost má své kouzlo."
                 },
 
                 "friend": {
-                    "description": "Девы в дружбе — это преданные советчики и мастера полезных мелочей. Они запомнят ваш график приёма витаминов, подарят органайзер «для упорядочивания мыслей» и тихо исправят ошибку в вашем отчёте перед отправкой. Их дом — место спокойствия: чистое, функциональное, с аптечкой на все случаи жизни. Однако дружба с Девой требует готовности к обратной связи: они укажут на пятно на рубашке, посоветуют сменить работу или раскритикуют токсичные отношения. Их слабость — стремление «исправить» вас, даже если вы не просили. Идеальный друг для Девы — тот, кто ценит их заботу, но умеет мягко остановить поток советов словами: «Я просто хочу тебя послушать»."
+                    "description": "V přátelství jsou Panny oddaní rádci a mistři drobných užitečných gest. Zapamatují si váš harmonogram vitamínů, darují organizér ‚na srovnání myšlenek‘ a tiše opraví chybu ve vašem reportu ještě před odesláním. Jejich domov je oázou klidu: čistý, funkční a vybavený lékárničkou na každou eventualitu. Přátelství s Pannou však vyžaduje ochotu přijímat zpětnou vazbu – upozorní na skvrnu na košili, doporučí změnu práce nebo zkritizují toxický vztah. Jejich slabinou je snaha ‚vylepšit‘ vás, i když o to nestojíte. Ideální přítel ví, jak ocenit jejich péči, ale dovede jemně říct: ‚Tentokrát mě jen vyslechni.‘"
                 },
 
                 "foe": {
-                    "description": "Девы в роли врагов — это холодные аналитики, атакующие не эмоциями, а фактами. Они не устроят скандал, но составят список ваших промахов и отправят его начальнику. Их оружие — педантичность: они найдут противоречие в вашем докладе, ошибку в расчётах или грамматическую опечатку в чате. Их уязвимость — страх собственной небезупречности: если вы публично укажете на их ошибку (подкреплённую доказательствами), их уверенность даст трещину. Однако Девы редко мстят — они просто исключат вас из своей «системы», как ненужный элемент. Главная опасность — их способность подорвать вашу репутацию одной фразой: «Кажется, вы не учли пункт 5.3 в инструкции»."
+                    "description": "Jako protivníci jsou Panny chladní analytici – neútočí emocemi, ale fakty. Nevyvolají skandál, ale seřadí vaše chyby a pošlou je šéfovi. Jejich zbraní je pedantství: najdou rozpor ve vaší prezentaci, chybu ve výpočtu nebo překlep v e-mailu. Jejich zranitelností je strach z vlastních nedostatků – pokud veřejně poukážete na jejich omyl (s důkazem), jejich sebedůvěra praskne. Pomstu ale nečekejte – Panny vás prostě vyškrtnou ze své ‚systému‘. Jejich hlavní nebezpečí? Dokážou vaši chybu proměnit v věcnou větu, která vám zničí reputaci: ‚Zdá se, že jste opomněl bod 5.3 ve směrnici.‘"
                 }
-            }
+            },
         },
 
         {
             "className": "libra",
-            "name": "Весы",
-            "date": "Сентябрь 23 - Октябрь 22",
+            "name": "Váhy",
+            "date": "23. září – 22. října",
             "sign": "./assets/images/signsMain/libra.jpg",
-            "planet": "Венера",
+            "planet": "Venuše",
             "planetPic": "./assets/images/planets/venus.jpg",
 
             "description": {
 
-                "common": "Весы — гармонизаторы, воплощающие эстетику, дипломатию и поиск равновесия. Этот знак ассоциируется с мифом о Фемиде, чьи весы взвешивают правду и ложь, и Афродите, дарящей любовь. Как мост между противоположностями, Весы смягчают конфликты, превращая диссонанс в симфонию. Их сущность двойственна: одни — утончённые ценители красоты, создающие идеальные образы, другие — беспристрастные миротворцы, разрешающие споры. Их сила — в умении видеть все грани истины, но тень — в вечных колебаниях между выбором и страхом нарушить баланс.",
+                "common": "Váhy jsou harmonizátory zvěrokruhu – zosobňují estetiku, diplomacii a snahu o rovnováhu. Jsou spojeny s mýtem o Themis, jejíž váhy váží pravdu a lež, a s Afroditou, která daruje lásku. Jako most mezi protiklady dokáží Váhy zjemnit konflikt a proměnit disonanci v symfonii. Jejich povaha je dvojí: někteří jsou vytříbení estétové tvořící ideální obrazy, jiní nestranní vyjednavači urovnávající spory. Jejich silou je schopnost vidět všechny odstíny pravdy – jejich stínem však bývá věčné váhání mezi volbami a strach narušit křehkou rovnováhu.",
 
                 "archetype": {
-                    "extra": "Экстраверты реализуют идеалы через социальную активность: организуют арт-ивенты, выступают медиаторами в конфликтах или создают пространства красоты вокруг себя.",
-                    "intro": "Интроверты направляют энергию в созидание гармонии: занимаются дизайном, практикуют медитацию или становятся «тихими вдохновителями» для узкого круга."
+                    "extra": "Extroverti naplňují své ideály skrze sociální aktivismus – organizují umělecké akce, působí jako mediátoři nebo vytvářejí krásu ve svém okolí.",
+                    "intro": "Introverti směřují svou energii do tvoření harmonie – věnují se designu, praktikují meditaci nebo působí jako ‚tichí inspirátoři‘ pro úzký kruh lidí."
                 },
 
-                "planet": "Планетой, управляющей знаком Весов, является Венера. В отличие от земной Венеры Тельца, воздушная Венера Весов фокусируется на интеллектуальной гармонии и социальной эстетике. Она связана с Афродитой Уранией — богиней возвышенной любви и духовной красоты. Для Весов это выражается в стремлении к идеальным партнёрствам, безупречному вкусу и справедливости. Венера наделяет их даром убеждения и чувством меры, но слабость — в зависимости от внешнего одобрения, где собственные желания тонут в океане компромиссов.",
+                "planet": "Vládcem znamení Vah je Venuše. Na rozdíl od pozemské Venuše Býka je vzdušná Venuše Vah zaměřena na intelektuální harmonii a společenskou estetiku. Je spojována s Afroditou Urania – bohyní duchovní lásky a vznešené krásy. U Vah se to projevuje jako snaha o ideální partnerství, bezchybný vkus a smysl pro spravedlnost. Venuše jim dává dar přesvědčivosti a citu pro míru – jejich slabinou však bývá závislost na souhlasu okolí, kdy se vlastní přání rozpouští v moři kompromisů.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/libraMyth/libra.jpg",
-                    "main": "Символ Весов связан с мифом о Фемиде — богине правосудия, чьи весы взвешивают добро и зло, истину и ложь. Она олицетворяет идеал беспристрастности, к которому Весы стремятся в каждом решении. Как Фемида слепа к статусам, так и Весы ищут объективность, балансируя между эмоциями и логикой. Этот миф отражает суть знака: стремление к справедливости и гармонии даже в самых противоречивых ситуациях.",
+                    "main": "Symbol Vah je spojen s mýtem o Themis – bohyni spravedlnosti, jejíž váhy váží dobro a zlo, pravdu a lež. Themis ztělesňuje ideál nestrannosti, ke kterému Váhy směřují při každém rozhodnutí. Stejně jako Themis nevidí společenské postavení, i Váhy hledají objektivitu, balancujíce mezi emocemi a rozumem. Tento mýtus dokonale vystihuje podstatu znamení: touhu po spravedlnosti a harmonii i v nejrozporuplnějších situacích.",
 
                     "branch1": {
-                        "title": "Мифы о Фемиде.",
+                        "title": "Mýty o Themis",
                         "pic": "./assets/images/myth/libraMyth/femida.jpg",
-                        "description": "Фемида — древнегреческая богиня правосудия, закона и порядка. Она была одной из титанов и дочерью Урана (Небо) и Геи (Земля). Фемида сыграла важную роль в мифологии и была известна своей мудростью и справедливостью. Фемида была почитаемой богиней, олицетворяющей справедливость и порядок. Она была второй женой Зевса и стала матерью их дочерей — Ор, богинь времени, порядка и естественного хода вещей, и Моир, богинь судьбы. Весы символизируют равновесие и справедливость. Фемида взвешивала все аспекты дела, прежде чем вынести решение. Меч символизирует силу закона и готовность к действиям в защиту справедливости. В некоторых изображениях Фемида изображена с повязкой на глазах, что символизирует её беспристрастность и непредвзятость. Фемида часто призывалась на совет Олимпийских богов, чтобы дать мудрые советы и вынести справедливое решение. Её мнение всегда было важно, и она играла роль в поддержании порядка и закона среди богов и людей. Фемида олицетворяла саму суть правосудия и была связана с системой судопроизводства. Греки часто обращались к Фемиде, когда нужно было принять важные правовые решения или разобраться в спорных вопросах. Богиня также была связана с пророчествами и предсказаниями. Считалось, что она обладала мудростью и знанием будущего, которые помогали ей вынести справедливые решения. Связь между Фемидой и знаком Зодиака Весы основана на их общей символике и ценностях, таких как справедливость, равновесие и объективность. Образ Фемиды с весами в руках является идеальной метафорой для знака Весов, который также стремится к гармонии и справедливости в своей жизни и окружении."
-                    },
+                        "description": "Themis – starořecká bohyně spravedlnosti, zákona a řádu – byla jednou z titánů, dcerou Úrana (Nebe) a Gaie (Země). Symbolizovala moudrost, rovnováhu a neúplatnost. Byla druhou manželkou Dia a matkou bohyní Hóry (pořádek, rytmus času) a Moiry (sudby). Váhy, jako znamení, sdílejí s Themis stejnou symboliku – hledání rovnováhy a nestrannosti. Její váhy vyvažovaly všechna fakta, než došla k verdiktu, a meč v ruce symbolizoval neochvějnost zákona. Často bývá zobrazována se zavázanýma očima – znakem nestrannosti. Themis byla důvěryhodnou rádkyní olympských bohů, její hlas byl důležitý při rozhodování o spravedlivém pořádku. Řekové k ní vzhlíželi při řešení právních sporů a věřili, že její znalost budoucnosti přináší spravedlnost. Znamení Vah odráží tento archetyp ve své touze po vyváženosti, morální objektivitě a harmonii ve společnosti i v sobě samých."
+                        },
 
                     "branch2": {
-                        "title": "Легенда о Весах.",
+                        "title": "Legenda o souhvězdí Vah",
                         "pic": "./assets/images/myth/libraMyth/zeus.jpg",
-                        "description": "Миф о созвездии Весов связан с соседними знаками — Девой и Скорпионом. В древности Весы считались клешнями Скорпиона, но позже были выделены как символ равновесия. Астрея (Дева), богиня справедливости, держала весы, оценивая поступки людей. Когда она вознеслась на небо, Зевс поместил её весы рядом, чтобы напоминать о необходимости баланса между добродетелью (Дева) и страстями (Скорпион). Для Весов это выражается в поиске золотой середины между разумом и эмоциями."
-                    },
+                        "description": "Mýtus o souhvězdí Vah je úzce propojen se sousedními znameními – Pannou a Štírem. Původně byly Váhy považovány za klepeta Štíra, ale později získaly vlastní význam jako symbol rovnováhy. Astraea (Panna), bohyně spravedlnosti, držela váhy k posouzení lidských činů. Když opustila Zemi a vznesla se na nebe, Zeus umístil její váhy poblíž jako připomínku potřeby vyvažovat ctnost (Panna) a vášeň (Štír). Pro Váhy to znamená hlubokou snahu hledat zlatý střed mezi rozumem a emocemi."
+                        },
                 },
 
                 "facts": [
-                    ["Сила закона:", "Знак Весов часто ассоциируют с юриспруденцией и искусством. Многие адвокаты, дизайнеры и дипломаты родились под этим знаком."],
-                    ["На стиле:", "Венера, управляющая Весами, наделяет их врождённым чувством стиля. Пик их вдохновения часто совпадает с эстетически гармоничной обстановкой — будь то арт-галерея или уютное кафе с идеальным светом."],
-                    ["Золотое сечение:", "Весы обожают симметрию и баланс: их интерьеры — это продуманные композиции, где каждый предмет «дышит» элегантностью, даже если ради этого приходится часами переставлять мебель:"],
-                    ["Паралич выбора:", "Могут неделю выбирать между двумя оттенками штор или мучиться над формулировкой сообщения, чтобы никого не обидеть."]
-                ]
+                    ["Síla práva:", "Znamení Vah je často spojováno s právem a uměním. Mnoho právníků, designérů a diplomatů se narodilo právě pod tímto znamením."],
+                    ["Ve stylu:", "Venuše, vládnoucí planeta Vah, jim dává vrozený smysl pro estetiku. Vrchol inspirace prožívají v harmonickém prostředí – ať už v umělecké galerii nebo v kavárně s dokonalým světlem."],
+                    ["Zlatý řez:", "Váhy milují symetrii a rovnováhu – jejich interiéry jsou promyšlené kompozice, kde každý prvek 'dýchá' elegancí, i když to znamená hodiny přesouvání nábytku."],
+                    ["Paralýza rozhodnutí:", "Mohou týdny zvažovat mezi dvěma odstíny závěsů nebo váhat nad zněním zprávy, jen aby se nikoho nedotkli."]
+                ],
 
             },
 
             "childhood": {
-                "description": "Весы в детстве — это маленькие миротворцы и эстеты, стремящиеся к гармонии во всём. Они рано проявляют дипломатичность: утешают ссорящихся друзей, делятся игрушками и ищут «справедливое» решение в играх. Их привлекает красота: они часами рисуют узоры, составляют наряды куклам или переставляют мебель в кукольном домике до идеальных пропорций. Однако страх нарушить баланс делает их нерешительными: они могут плакать из-за выбора между двумя вкусностями или бояться обидеть кого-то честным мнением. Их эмоции — как качели: от восторга при виде симметрии до тревоги, если мир кажется несправедливым.",
+                "description": "Děti ve znamení Vah jsou malí mírotvůrci a estétové, kteří hledají harmonii ve všem kolem sebe. Brzy projevují smysl pro diplomacii – utěšují kamarády po hádce, sdílejí hračky a snaží se najít 'spravedlivé' řešení ve hrách. Přitahuje je krása: hodiny tráví kreslením vzorů, výběrem šatů pro panenky nebo přesouváním nábytku v domečku, dokud nejsou proporce dokonalé. Strach narušit rovnováhu z nich však dělá nerozhodné – mohou se rozplakat při volbě mezi dvěma zákusky nebo se obávat upřímnosti, která by někoho zranila. Jejich emoce jsou jako houpačka: od nadšení ze symetrie až po úzkost, když je svět nespravedlivý.",
 
                 "perks": [
-                    ["Дипломатичность:", "Улаживают конфликты на детской площадке фразами вроде «Давайте играть вместе!»."],
-                    ["Эстетическое чутьё:", "Выбирают одежду по цветовым сочетаниям и сервируют «чаепития» для игрушек с особым шиком."],
-                    ["Справедливость:", "Требуют равного деления конфет и чередования ролей в играх."],
-                    ["Нерешительность:", "Могут час выбирать между синей и зелёной красками, опасаясь «неправильного» выбора."],
-                    ["Зависимость от похвалы:", "Рисуют или поют громче, когда замечают внимание взрослых."],
-                    ["Миролюбие:", "Прячут свои игрушки, лишь бы избежать ссоры с более напористыми детьми."]
+                    ["Diplomacie:", "Urovnávají spory na hřišti větami typu ‚Hrajme radši všichni spolu!‘"],
+                    ["Estetické cítění:", "Volí oblečení podle barev a připravují 'čajové dýchánky' pro hračky s noblesním citem."],
+                    ["Spravedlnost:", "Trvají na férovém dělení sladkostí a střídání rolí při hrách."],
+                    ["Nerozhodnost:", "Dlouze váhají mezi modrou a zelenou pastelkou, bojíce se špatné volby."],
+                    ["Závislost na pochvale:", "Kreslí nebo zpívají nahlas, když si jich dospělí všímají."],
+                    ["Mírumilovnost:", "Raději se vzdají hračky, než aby se přeli s asertivnějším dítětem."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школе Весы выделяются обаянием и тягой к прекрасному. Они — те, кто украшает класс к праздникам, рисует плакаты с идеальными линиями и мирит поссорившихся одноклассников. Преуспевают в творческих предметах, обществознании и языках, где можно проявить красноречие. Их тетради — произведение искусства: аккуратные заголовки, узоры на полях и пастельные подчёркивания. Однако зависимость от чужого мнения может стать ловушкой: они копируют стиль популярных сверстников или молчат, даже зная правильный ответ, чтобы не выделяться. Их слабость — страх сделать выбор: будь то тема для сочинения или партнёр по проекту.",
+                "description": "Ve škole vynikají Váhy svým šarmem a láskou k estetice. Jsou to ti, kdo zdobí třídu na svátky, kreslí plakáty s dokonalými liniemi a usmiřují rozhádané spolužáky. Daří se jim v uměleckých oborech, občanské výchově a jazycích, kde mohou uplatnit své vyjadřovací schopnosti. Jejich sešity připomínají umělecká díla: úhledné nadpisy, ornamenty na okrajích a pastelové podtrhávání. Závislost na názoru okolí se však může stát pastí – napodobují styl oblíbených spolužáků nebo mlčí i tehdy, když znají správnou odpověď. Jejich slabinou je strach z volby – ať už jde o téma slohové práce, nebo výběr spolupracovníka na projekt.",
 
                 "inclinations": [
-                    ["Искусство и дизайн:", "Рисование, школьный театр — где важны гармония и самовыражение."],
-                    ["Право и этика:", "Дебаты, модели ООН — сферы, где можно отстаивать баланс интересов."],
-                    ["Социальные проекты:", "Организация благотворительных ярмарок или мероприятий для создания атмосферы единства."]
+                    ["Umění a design:", "Kreslení, školní divadlo – kde hrají roli harmonie a sebevyjádření."],
+                    ["Právo a etika:", "Debaty, modely OSN – obory, kde lze hájit rovnováhu zájmů."],
+                    ["Sociální projekty:", "Organizace charitativních akcí či událostí podporujících soudržnost kolektivu."]
                 ],
 
                 "perks": [
-                    ["Коммуникабельность:", "Объединяют разных людей в команды, находя подход к каждому."],
-                    ["Чувство стиля:", "Превращают скучные презентации в визуальные шедевры с инфографикой."],
-                    ["Тактичность:", "Переформулируют резкие замечания учителя в конструктивные советы для класса."],
-                    ["Прокрастинация:", "Откладывают решения, надеясь, что проблема «рассосётся» сама."],
-                    ["Конформизм:", "Поддерживают мнение большинства, даже если внутренне с ним не согласны."],
-                    ["Идеализм:", "Расстраиваются, когда реальность не соответствует их представлениям о справедливости."]
+                    ["Komunikativnost:", "Spojují různé typy spolužáků do týmů a ke každému najdou cestu."],
+                    ["Vkus:", "Mění nudné prezentace v vizuální perly s infografikou."],
+                    ["Takt:", "Zmírňují ostré poznámky učitele a převádějí je na konstruktivní doporučení."],
+                    ["Prokrastinace:", "Oddalují rozhodnutí v naději, že se problém vyřeší sám."],
+                    ["Konformismus:", "Přijímají názor většiny, i když s ním vnitřně nesouhlasí."],
+                    ["Idealismus:", "Zklamání, když realita neodpovídá jejich představám o spravedlnosti."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослые Весы — это утончённые дипломаты и ценители красоты, чья жизнь напоминает изысканный перформанс. Они преуспевают в профессиях, где важны эстетика, переговоры и баланс: дизайн, юриспруденция, HR или event-менеджмент. Их харизма и чувство меры притягивают людей, а умение сглаживать конфликты делает их незаменимыми в кризисах. Однако вечный поиск компромисса может лишить их собственной позиции, а страх одиночества — удерживать в токсичных отношениях. В любви Весы ищут партнёра-зеркало, отражающего их идеалы, но учатся, что истинная гармония рождается в принятии несовершенств.",
+                "description": "Dospělé Váhy jsou vytříbení diplomaté a milovníci krásy – jejich život připomíná elegantní performance. Daří se jim v profesích, kde je klíčová estetika, vyjednávání a cit pro rovnováhu: design, právo, HR nebo event management. Jejich charisma a smysl pro míru přitahují lidi, a schopnost urovnávat konflikty z nich činí nepostradatelné v krizových situacích. Neustálé hledání kompromisu je však může připravit o vlastní postoj a strach z osamění je drží v toxických vztazích. V lásce hledají partnera-zrcadlo, který odráží jejich ideály, ale s časem se učí, že pravá harmonie vzniká v přijetí nedokonalostí.",
 
                 "perks": [
-                    ["Дипломатия:", "Разрешают корпоративные войны фразой: «Давайте найдём решение, устраивающее всех»."],
-                    ["Эстетический интеллект:", "Создают интерьеры и презентации, которые хочется разобрать на Pinterest."],
-                    ["Интуиция в отношениях:", "Чувствуют скрытые напряжения в коллективе и нейтрализуют их до взрыва."],
-                    ["Нерешительность:", "Тратят месяцы на выбор между двумя job offers, теряя оба."],
-                    ["Люднопотребность:", "Жертвуют личными границами, чтобы сохранить иллюзию гармонии."],
-                    ["Романтизация:", "Верит, что «идеальный партнёр исправит все дисбалансы», разочаровываясь в реальности."]
+                    ["Diplomacie:", "Urovnávají firemní spory větou: ‚Zkusme najít řešení, které bude vyhovovat všem.‘"],
+                    ["Estetická inteligence:", "Navrhují interiéry a prezentace, které by si Pinterest uložil jako šablonu."],
+                    ["Vztahová intuice:", "Vnímají napětí v týmu a uklidní situaci dřív, než vybuchne."],
+                    ["Nerozhodnost:", "Váhají mezi dvěma pracovními nabídkami tak dlouho, až přijdou o obě."],
+                    ["Závislost na lidech:", "Obětují osobní hranice jen proto, aby udrželi dojem harmonie."],
+                    ["Idealizace vztahů:", "Věří, že ‚ideální partner vyléčí všechny nerovnováhy‘ – až do chvíle zklamání."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилые Весы — это элегантные хранители гармонии, превращающие жизнь в непрерывный балет баланса и красоты. Их дом — музей изысканного вкуса: антикварная мебель, подобранная по цветовой гамме, и альбомы с фотографиями, где каждая композиция идеальна. Они находят радость в роли семейного дипломата: мирят поссорившихся родственников за чаем в фарфоровых чашках. С возрастом их тяга к справедливости трансформируется в мудрое принятие, но страх дисгармонии остаётся: они могут часами уговаривать внуков «не ругаться из-за мелочей». Как закатное солнце мягко касается горизонта, Весы до конца стремятся превратить даже закат жизни в произведение искусства.",
+                "description": "Staří Váhy jsou elegantní strážci harmonie, kteří proměňují život ve stálé taneční představení rovnováhy a krásy. Jejich domov je muzeem vytříbeného vkusu – starožitný nábytek ladící v barvách a alba s fotografiemi, kde každá kompozice dýchá estetikou. Radost nacházejí v roli rodinného diplomata – usmiřují znepřátelené příbuzné u čaje ve starožitném porcelánu. S věkem se jejich smysl pro spravedlnost proměňuje ve moudré přijetí, ale strach z narušení harmonie přetrvává – jsou schopni hodiny přesvědčovat vnoučata, aby se ‚nehádala kvůli maličkostem‘. Stejně jako zapadající slunce hladí obzor, i Váhy se snaží proměnit západ života v umělecké dílo.",
 
                 "perks": [
-                    ["Эстетическая мудрость:", "Создают интерьеры, где каждая ваза — философское высказывание, а шторы — поэма о свете."],
-                    ["Дипломатичность:", "Разруливают семейные ссоры фразами: «Давайте найдём решение, где все останутся в плюсе»."],
-                    ["Культура памяти:", "Хранят письма и открытки как артефакты эпохи изящных манер и каллиграфии."],
-                    ["Консерватизм вкуса:", "Считают современный дизайн «варварством» и хранят мебель 70-х как реликвии."],
-                    ["Ностальгический идеализм:", "Верят, что «раньше люди были добрее», пересматривая старые фильмы о любви."],
-                    ["Тактичность:", "Даже критикуя, оборачивают её в комплимент: «Твой пирог восхитителен... а если чуть меньше сахара?»"]
+                    ["Estetická moudrost:", "Vytvářejí interiéry, kde každá váza je filozofickým výrokem a závěsy básní o světle."],
+                    ["Diplomacie:", "Řeší rodinné spory slovy: ‚Najděme řešení, které potěší každého.‘"],
+                    ["Kultura paměti:", "Uchovávají dopisy a pohlednice jako artefakty éry jemných mravů a kaligrafie."],
+                    ["Konzervativní vkus:", "Považují moderní design za ‚barbarství‘ a s láskou uchovávají nábytek ze 70. let."],
+                    ["Nostalgický idealismus:", "Věří, že ‚dříve byli lidé laskavější‘, a znovu a znovu sledují staré filmy o lásce."],
+                    ["Takt:", "I kritiku dokážou formulovat jako kompliment: ‚Ten koláč je výtečný… a kdyby byl o trochu méně sladký, byl by dokonalý.‘"]
                 ]
             },
 
             "work": {
-                "description": "В работе Весы проявляют себя как мастера элегантных компромиссов, для которых карьера — это искусство превращать противоречия в симфонию. Они преуспевают в сферах, требующих чувства прекрасного и дипломатии: дизайн интерьеров, арт-менеджмент, HR или международные отношения. Весы ценят эстетику рабочего пространства, командную гармонию и возможность вдохновлять через красоту. Однако их стремление угодить всем может привести к потере собственной позиции, а любовь к роскоши — к нерациональным тратам на «идеальную» офисную чашку. Идеальная работа для Весов — баланс между творческой свободой и чёткими договорённостями.",
+                "description": "Váhy v práci vystupují jako mistři elegantních kompromisů – jejich kariéra je uměním přetvářet protiklady v harmonii. Daří se jim v oblastech, kde je třeba citu pro krásu a diplomacii: interiérový design, art management, HR nebo mezinárodní vztahy. Oceňují estetiku pracovního prostředí, týmovou harmonii a možnost inspirovat skrze krásu. Jejich snaha zavděčit se všem však může vést ke ztrátě vlastní pozice, a láska k luxusu ke zbytečným výdajům – třeba za dokonalý hrnek do kanceláře. Ideální pracovní podmínky pro Váhy představují rovnováhu mezi tvůrčí svobodou a jasnými dohodami.",
 
                 "perks": [
-                    ["Медиаторские навыки:", "Превращают токсичные совещания в мозговые штурмы с канапе и фоном из джаза."],
-                    ["Визуальное мышление:", "Создают презентации, где даже диаграммы выглядят как абстракционизм Кандинского."],
-                    ["Сетевой интеллект:", "Строят мосты между разными отделами, находя общие интересы."],
-                    ["Импульсные решения:", "Выбирают дорогого подрядчика «за красивый логотип», игнорируя отзывы."],
-                    ["Эмоциональный менеджмент:", "Тратят 30% времени на поддержание «правильной атмосферы» в коллективе."],
-                    ["Перфекционизм стиля:", "Переделывают годовой отчёт из-за неидеального шрифта в титульном листе."]
+                    ["Mediační schopnosti:", "Proměňují toxické porady v kreativní brainstorming s jazzovým podkresem a občerstvením."],
+                    ["Vizuální myšlení:", "Vytvářejí prezentace, kde i graf vypadá jako Kandinštího abstrakce."],
+                    ["Síťová inteligence:", "Propojují oddělení skrze společné hodnoty a zájmy."],
+                    ["Impulzivní rozhodnutí:", "Zvolí předraženého dodavatele ‚kvůli krásnému logu‘, ignorujíce recenze."],
+                    ["Emoční management:", "Třetinu pracovní doby věnují vytváření správné atmosféry v týmu."],
+                    ["Perfekcionismus ve stylu:", "Přepracují výroční zprávu kvůli neideálnímu písmu na titulní stránce."]
                 ],
 
                 "conditions": [
-                    ["Эстетичная среда:", "Офис с дизайнерским ремонтом, живыми растениями и панорамными окнами."],
-                    ["Социальное признание:", "Публичные похвалы, награды в стиле «Оскар» за вклад в корпоративную культуру."],
-                    ["Гибкий график:", "Возможность посещать вернисажи и недельные переговоры «для вдохновения»."]
+                    ["Estetické prostředí:", "Kancelář s designovým interiérem, živými rostlinami a panoramatickými okny."],
+                    ["Společenské uznání:", "Veřejná pochvala, ocenění stylu ‚Oscar za firemní kulturu‘."],
+                    ["Flexibilní rozvrh:", "Prostor navštěvovat vernisáže nebo vícedenní setkání pro inspiraci."]
                 ],
 
                 "professions": [
-                    ["Арт-консалтинг:", "Подбор идеальных цветовых схем для брендов и галерей."],
-                    ["Дипломатия:", "Разрешение международных конфликтов через метафоры и культурные аллюзии."],
-                    ["Ивент-менеджмент:", "Организация свадеб, где даже гвоздика в петлице — символ единства семей."],
-                    ["Модная журналистика:", "Написание статей о трендах с философским подтекстом."],
-                    ["Психология отношений:", "Коучинг пар через призму «гармонии энергий» и астросовместимости."]
+                    ["Art konzultace:", "Výběr barevných palet pro značky a galerie."],
+                    ["Diplomacie:", "Řešení globálních konfliktů skrze metafory a kulturní kontexty."],
+                    ["Event management:", "Organizace svateb, kde i květ v klopě má symbolickou hodnotu."],
+                    ["Módní žurnalistika:", "Psaní o trendech s filozofickým podtónem."],
+                    ["Psychologie vztahů:", "Koučink párů skrze ‚harmonii energií‘ a astrologickou kompatibilitu."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Весы в романтических отношениях — это галантные импресарио любви, превращающие каждый день в свидание из романтического романа. Они создают отношения как произведение искусства: с продуманными жестами (букеты по цветотипу партнёра), идеально сбалансированным расписанием «для двоих» и еженедельными «перезагрузками гармонии». Их идеал — партнёр, который ценит тонкость намёков и готов участвовать в перформансе «идеальной пары». Однако их страх конфронтации может превратить любовь в театр масок, где настоящие чувства прячутся за ширмой эстетики. Идеальный партнёр для Весов — тот, кто научит их, что диссонансы тоже могут быть прекрасны."
+                    "description": "Váhy v lásce jsou galantními režiséry romance – mění každý den ve scénu z milostného románu. Vztah tvoří jako umělecké dílo: s promyšlenými gesty (kyticemi ladícími k tónu pleti partnera), harmonickým rozvrhem ‚pro dva‘ a týdenními ‚restarty harmonie‘. Jejich ideálem je partner, který chápe jemné náznaky a ochotně se zapojí do performancí ideální dvojice. Jejich strach z konfrontace však může proměnit lásku v divadlo masek – city se skrývají za estetikou. Ideální protějšek pro Váhy umí ukázat, že i disonance může znít krásně."
                 },
 
                 "friend": {
-                    "description": "Весы в дружбе — это обаятельные кураторы социальной гармонии. Они помнят все дни рождения ваших домашних животных, дарят подарки в стиле «этот шарф идеально сочетается с вашими глазами», и никогда не позволят заскучать — их инстаграм идеален для вдохновения. Однако дружба с Весами требует готовности к роли «аксессуара»: они пригласят вас на вечеринку, где вы будете частью тщательно продуманного ансамбля. Их слабость — избегание «некрасивых» тем: они смягчат рассказ о болезни словами «лёгкий дисбаланс энергии». Идеальный друг для Весов — тот, кто ценит их изящество, но иногда встряхивает фразой: «Хватит приукрашивать — давай по-честному»."
+                    "description": "V přátelství jsou Váhy šarmantními kurátory společenské harmonie. Pamatují si narozeniny vašich domácích mazlíčků, darují dárky ve stylu ‚tato šála perfektně ladí s tvýma očima‘ a jejich Instagram je plný inspirace. Přátelství s Váhou však vyžaduje souhlas s tím, že se můžete stát ‚doplňkem‘ – pozvou vás na večírek jako součást promyšleného estetického konceptu. Jejich slabostí je vyhýbání se ‚ošklivým‘ tématům: nemoc popíšou jako ‚lehkou nerovnováhu energie‘. Ideální přítel pro Váhy ocení jejich kultivovanost, ale umí i jemně říct: ‚Dneska bez pozlátek – upřímně, jo?‘"
                 },
 
                 "foe": {
-                    "description": "Весы в роли врагов — это изощрённые манипуляторы элегантности. Они не станут кричать — просто «случайно» упомянут за ужином с боссом, что ваш проект нарушил фэн-шуй офиса. Их оружие — ядовитые комплименты: «Как смело вы носить это платье без фигуры модели!». Их уязвимость — страх быть «неадекватными»: если вы публично обвините их в нарушении этикета, их уверенность рассыплется как старый пазл. Главная опасность — их умение превратить вашу прямолинейность в «варварство» на фоне их утончённости."
+                    "description": "Jako nepřátelé jsou Váhy rafinovanými manipulátory elegance. Nekřičí – jen při večeři s vaším šéfem ‚mimochodem‘ zmíní, že váš projekt narušil feng-šuej kanceláře. Jejich zbraní jsou jedovaté komplimenty: ‚Obdivuji odvahu nosit ty šaty i bez postavy modelky.‘ Jejich slabinou je strach, že působí ‚nevhodně‘ – veřejné nařčení z porušení etikety je zlomí. Největší nebezpečí? Umí vaši přímočarost proměnit v obraz barbarství – vedle jejich jemnosti vypadá pravda hrubě."
                 }
-            }
+            },
         },
 
         {
             "className": "scorpio",
-            "name": "Скорпион",
-            "date": "Октябрь 23 - Ноябрь 21",
+            "name": "Štír",
+            "date": "23. října – 21. listopadu",
             "sign": "./assets/images/signsMain/scorpio.png",
-            "planet": "Плутон, Марс.",
+            "planet": "Pluto, Mars",
             "planetPic": "./assets/images/planets/plutoMars.jpg",
 
             "description": {
 
-                "common": "Скорпион — страстные преобразователи, воплощающие решительность, глубину и трансформацию. Этот знак ассоциируется с мифом о Фениксе, который возрождается из пепла, и Аидом, владыкой подземного мира. Скорпионы обладают обостренной интуицией. Их сущность двойственна: одни — яростные защитники своих убеждений, создающие мощные перемены, другие — тихие исследователи глубин, находящие истину в тишине. Их сила — в умении преобразовываться и находить силу в сложностях. Склонны к ревности и мстительности.",  
+                "common": "Štír je vášnivý transformátor – zosobňuje rozhodnost, hloubku a sílu proměny. Je spojen s mýtem o Fénixovi, který vstává z popela, a s Hádem, vládcem podsvětí. Štíři oplývají mimořádnou intuicí. Jejich povaha je dvojí: někteří jsou vášniví obránci svých zásad a motor proměn, jiní tichými průzkumníky hlubin, kteří hledají pravdu v mlčení. Jejich silou je schopnost obnovy a nalezení síly i v temnotě. Jsou však náchylní k žárlivosti a touze po odplatě.",
 
-                "archetype": {  
-                    "extra": "Экстраверты реализуют страсть через активную деятельность: занимаются бизнесом, становятся лидерами мнений или инициируют социальные реформы",  
-                    "intro": "Интроверты направляют энергию в самопознание: занимаются психологией, исследуют духовные практики или становятся хранителями тайн для узкого круга"  
-                },  
+                "archetype": {
+                    "extra": "Extroverti projevují svou vášeň skrze čin: podnikají, stávají se lídry názorů či iniciují společenské reformy.",
+                    "intro": "Introverti směřují energii k sebepoznání: zabývají se psychologií, duchovními praktikami a stávají se opatrovníky tajemství pro úzký okruh důvěrníků."
+                },
 
-                "planet": "Планетой, управляющей знаком Скорпиона, является Плутон. В отличие от красной энергии Марса, Плутон символизирует глубинные преобразования и регенерацию. Он связан с мифом о Персефоне, которая спускается в подземный мир и возвращается на Землю, что символизирует цикличность жизни и смерти. Для Скорпионов это выражается в способности к глубоким внутренним переменам, яркой страсти и целеустремлённости. Плутон наделяет их мощной энергией и проницательностью, но слабость — в склонности к обсессии и попыткам контролировать окружающих",
+                "planet": "Vládcem znamení Štíra je Pluto. Na rozdíl od ohnivé síly Marsu představuje Pluto hlubokou transformaci a regeneraci. Je spojován s mýtem o Persefoně, která sestupuje do podsvětí a vrací se zpět – symbol cyklického zániku a znovuzrození. Pro Štíry je to schopnost hlubokých vnitřních proměn, intenzivní vášně a cílevědomosti. Pluto je obdařuje silnou energií a pronikavostí, ale jejich slabinou může být posedlost a touha mít kontrolu nad druhými.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/scorpioMyth/aresAid.jpg",
-                    "main": "Символ Скорпиона связан с дуальностью мифов о Плутоне(Аиде) — владыке подземного царства, и Марсе (Аресе) — боге войны. Как Плутон перерождает души через смерть, а Марс сжигает всё лишнее в горниле битвы, так Скорпион балансирует между разрушением и возрождением. В одном мифе скорпион, посланный богиней Артемидой, убивает охотника Ориона, символизируя роковое возмездие за гордыню. В другом — Феникс, связанный со знаком, восстаёт из пепла, отражая суть Скорпиона: даже в крахе он находит семя новой жизни. Эта двойственность делает его знаком тайных метаморфоз, где агрессия Марса становится топливом для плутонической трансформации.",
+                    "main": "Symbol Štíra je spojen s dvojností mýtů o Plutovi (Hádovi) – vládci podsvětí – a Martovi (Áresovi) – bohu války. Zatímco Pluto přetváří duši skrze smrt a Mars pálí zbytečné v žáru boje, Štír balancuje mezi zničením a znovuzrozením. V jednom mýtu posílá Artemis štíra, aby zabil lovce Oriona – trest za pýchu, symbol osudového odplaty. V jiném se Fénix, spojený se znamením Štíra, zvedá z vlastního popela – obraz jeho podstaty: v troskách klíčí nový život. Tato polarita dělá ze Štíra znamení tajných proměn, kde marsovská agrese slouží jako palivo pro plutonskou alchymii přerodu.",
 
                     "branch1": {
-                        "title": "Вражда Ориона со Скорпионом.",
+                        "title": "Nepřátelství Oriona a Štíra",
                         "pic": "./assets/images/myth/scorpioMyth/oreo.jpg",
-                        "description": "Миф о Скорпионе связан с историей о гигантском скорпионе, посланном богиней Артемидой, чтобы наказать Ориона. Орион был могущественным охотником, сыном Посейдона. Он был настолько силен и ловок, что однажды похвастался, что способен уничтожить всех животных на Земле. Артемида, богиня охоты, послала скорпиона в ответ на дерзкие утверждения Ориона. Скорпион был орудием наказания за высокомерие и дерзость Ориона.Гигантский скорпион напал на Ориона и смертельно его ранил своим ядовитым жалом. Скорпион был вознесен на небеса и стал созвездием Скорпиона. Орион также был вознесен на небеса и стал созвездием Ориона. Эти два созвездия находятся на противоположных сторонах неба, чтобы они никогда не пересекались вновь."
+                        "description": "Mýtus o Štírovi vypráví o obrovi s jedovatým žihadlem, kterého vyslala bohyně Artemis, aby potrestal Oriona – pyšného lovce a syna Poseidona. Orion se totiž chlubil, že dokáže vyhubit všechna zvířata na Zemi. Jako odpověď na jeho pýchu Artemis poslala Štíra, jenž Oriona smrtelně zranil. Oba – lovec i jeho kat – byli nakonec vzneseni na oblohu jako souhvězdí. Proto se Orion a Štír nacházejí na protilehlých stranách nebes, aby se už nikdy nesetkali. Tento příběh připomíná nevyhnutelnost karmy a hlubokou sílu osudového pomsty – motivy blízké podstatě znamení Štíra."
                     },
 
                     "branch2": {
-                        "title": "Миф об Аресе и Афродите.",
+                        "title": "Mýtus o Áreovi a Afroditě",
                         "pic": "./assets/images/myth/scorpioMyth/aresAfrodita.jpg",
-                        "description": "Миф об Аресе и Афродите рассказывает о бурной и страстной любви между богом войны и богиней любви. Арес, сын Зевса и Геры, был воплощением силы, ярости и мужества на поле боя. Афродита, богиня красоты и любви, родилась из пены моря и была замужем за Гефестом, богом кузнечного дела. Однако Афродита и Арес были пленены друг другом. Их связь была столь сильной и страстной, что они не могли устоять перед взаимным влечением. Их роман развивался в тайне от других богов, пока однажды не был раскрыт Гелиосом, богом солнца, который видел все с небес. Гелиос сообщил о предательстве Гефесту, который был полон гнева и обиды. Он решил наказать влюбленных. Гефест создал невидимую и несокрушимую сеть, которую разместил на кровати Афродиты. Когда Арес и Афродита оказались в объятиях друг друга, сеть захватила их и удержала в таком положении. Гефест позвал других богов, чтобы они стали свидетелями унижения неверной пары. Однако большинство богов посмеивались и даже завидовали страстной любви Ареса и Афродиты. Миф об Аресе и Афродите резонирует с сущностью Скорпиона, подчеркивая страсть, тайны, ревность и эмоциональную интенсивность, характерные для этого знака зодиака"
+                        "description": "Mýtus o Áreovi a Afroditě odhaluje vášeň a skrytou touhu, charakteristické rysy Štíra. Áres, bůh války, ztělesňuje dravost a žár boje; Afrodíta, bohyně lásky, byla zosobněním krásy a smyslnosti – byť vdaná za Héfaista, boha kovářství. Jejich zakázaný vztah plný vášně probíhal v tajnosti, dokud je Hélios, bůh Slunce, neprozradil. Héfaistos na ně nastražil neviditelnou síť, v níž milence polapil. Zahanbení, ale hrdě milující, byli vystaveni posměchu ostatních bohů – kteří jim však mnohdy i záviděli. Tento mýtus odráží štíří témata: intenzitu, žárlivost, vášeň a tajemství – i ochotu milovat navzdory následkům."
                     },
 
                 },
 
                 "facts": [
-                    ["Интуиция по наитию:", "Этот знак обладает мощной интуицией и проницательностью. Скорпионы часто чувствуют скрытые намерения других людей и умеют читать между строк."],
-                    ["Цербер:", "Скорпионы могут быть склонны к ревности и владению, особенно в личных отношениях. Они хотят быть уверены в своих партнерах и иногда могут проявлять чрезмерную защиту."],
-                    ["Тайны и загадки:", "Любовь к тайнам и скрытым знаниям часто сопровождает Скорпионов. Они могут быть заинтересованы в исследованиях оккультных наук, психологии и мистицизма."],
-                    ["Синдромом Феникса", "Часто Скорпионы разрушают отношения или проекты на пике успеха, подсознательно жаждут перерождения через боль:"],
-                    ["Глаза боятся - руки делают:", "Плутон и Марс, управляющие Скорпионом, делают его магнитом для экстремальных ситуаций. Их лучшие решения рождаются в условиях давления — будь то аврал на работе или личный апокалипсис."]
-                ]
+                    ["Intuice na prahu vědomí:", "Tento znak má silnou intuici a pronikavost. Štíři často cítí skryté motivy ostatních a čtou mezi řádky."],
+                    ["Cerberus:", "Štíři mohou být žárliví a majetničtí, obzvlášť v osobních vztazích. Chtějí si být svým partnerem jisti, a občas přehánějí s ochranitelstvím."],
+                    ["Tajemství a záhady:", "Láska k tajemství a skrytému poznání je Štírům vlastní. Často se zajímají o okultismus, psychologii nebo mystiku."],
+                    ["Syndrom Fénixe:", "Štíři někdy záměrně ničí vztahy či projekty na vrcholu úspěchu – podvědomě touží po znovuzrození skrze bolest."],
+                    ["Strach v očích – čin v rukách:", "Pluto a Mars dělají ze Štíra magnet na extrémní situace. Nejlepší rozhodnutí rodí pod tlakem – ať už během pracovního kolapsu nebo v osobní apokalypse."]
+                ],
 
             },
 
             "childhood": {
-                "description": "Ребёнок-Скорпион с ранних лет проявляет любознательность к запретным темам (смерть, тайны) и сильную волю. Он задаёт прямые вопросы, разбирает механизмы игрушек, чтобы понять их устройство, и ревностно защищает своё личное пространство. Может быть замкнутым, но остро реагирует на несправедливость. В дружбе избирателен: предан узкому кругу и не доверяет новым людям.",
+                "description": "Dítě narozené ve znamení Štíra od raného věku projevuje silnou vůli a zvědavost k tabuizovaným tématům – smrt, tajemství či psychologické motivy. Pokládá přímočaré otázky, rozebírá hračky, aby pochopilo jejich mechanismus, a bedlivě si střeží vlastní prostor. Může působit uzavřeně, ale nespravedlnost vnímá velmi citlivě. Ve vztazích je vybíravé – věrné úzkému okruhu přátel, zatímco k novým lidem přistupuje s nedůvěrou.",
 
                 "perks": [
-                    ["Любопытство к тайнам:", "Собирает «коллекцию» запретных тем: откуда берутся дети, что такое смерть."],
-                    ["Упрямство:", "Отказывается делать уроки, если его заставляют, даже под угрозой наказания."],
-                    ["Избирательная общительность:", "Играет только с теми, кто прошел его «проверку»."],
-                    ["Ревность:", "Скрытно обижается, если родители хвалят брата/сестру."],
-                    ["Страсть к анализу:", "Составляет списки «подозреваемых», если пропадает конфета."]
+                    ["Zájem o tajemství:", "Shromažďuje témata jako: odkud přicházejí děti, co je smrt – tvoří si vlastní soukromé ‚archivy tabu‘."],
+                    ["Tvrdohlavost:", "Odmítá úkoly, pokud jsou vnuceny – i pod hrozbou trestu."],
+                    ["Výběrová socializace:", "Hraje si jen s těmi, kdo prošli jeho ‚vnitřním filtrem‘ důvěry."],
+                    ["Žárlivost:", "Tichá hořkost, pokud rodiče pochválí sourozence."],
+                    ["Analytické myšlení:", "Seznam ‚podezřelých‘ automaticky vzniká, když zmizí bonbón."]
                 ]
             },
 
             "schoolboy": {
-                "description": "В школе Скорпион выделяется умением глубоко погружаться в темы и решать сложные задачи. Часто выбирает естественные науки (биология, химия) или увлекается психологией. Избегает поверхностных разговоров, предпочитая обсуждать серьёзные проблемы. Может быть лидером неформальных групп, где ценится преданность. Конфликтует с теми, кто нарушает его границы.",
+                "description": "Školní Štír vyniká schopností hlubokého ponoření do témat a řešením komplexních úkolů. Nejčastěji si vybírá přírodní vědy (biologie, chemie) nebo se věnuje psychologii. Vyhýbá se povrchní konverzaci – upřednostňuje diskuse o skutečných problémech. Často je vůdcem neformálních skupin, kde je ceněna loajalita a vnitřní síla. Je konfliktní vůči těm, kdo narušují jeho osobní hranice – nikdy neodpustí ‚mimochodem‘.",
 
                 "inclinations": [
-                    ["Научные исследования:", "Участвует в олимпиадах по анатомии или физике."],
-                    ["Экстремальные хобби:", "Скалолазание, паркур, историческая реконструкция."],
-                    ["Творчество с подтекстом:", "Пишет рассказы с психологическими сюжетами, рисует в тёмных тонах."]
+                    ["Vědecké bádání:", "Účastní se olympiád z anatomie, fyziky nebo biologie."],
+                    ["Extrémní záliby:", "Lezení, parkour nebo historické rekonstrukce – vše, co testuje hranice těla i odvahy."],
+                    ["Tvorba s podtextem:", "Píše povídky s psychologickými motivy, kreslí v temných odstínech a symbolických vrstvách."]
                 ],
 
                 "perks": [
-                    ["Глубокий анализ:", "Разбирает литературных героев через мотивы их поступков, а не сюжет."],
-                    ["Стратегическое мышление:", "Планирует школьные проекты с учётом слабых мест команды."],
-                    ["Недоверие к авторитетам:", "Спорит с учителями, если считает их мнение необоснованным."],
-                    ["Скрытность:", "Не делится личными переживаниями даже с близкими друзьями."],
-                    ["Конкурентность:", "Ругает себя за второе место в олимпиаде."]
+                    ["Hluboká analýza:", "Neřeší, ‚co postava udělala‘, ale ‚proč‘ – zabývá se vnitřní logikou emocí."],
+                    ["Strategické myšlení:", "Koordinuje tým tak, aby každého postavil tam, kde je nejsilnější."],
+                    ["Skepticismus vůči autoritám:", "Klade otázky, zpochybňuje, nebojí se polemizovat s učiteli."],
+                    ["Uzavřenost:", "City si drží pod hladinou – i nejlepší přítel nemusí znát jeho zranění."],
+                    ["Soutěživost:", "I když vyhraje stříbro, v duchu se trestá za každý bod, který unikl."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослый Скорпион стремится к профессиям, где требуется аналитический ум и умение работать с кризисами: медицина, IT-безопасность, криминалистика. В отношениях ценит честность, но ревнует без явного повода. Умеет восстанавливаться после провалов, но долго помнит обиды. Часто увлекается самопознанием: психология, духовные практики.",
+                "description": "Dospělý Štír tíhne k profesím vyžadujícím analytické myšlení a zvládání krizí – medicína, IT bezpečnost, kriminalistika. V osobních vztazích si cení upřímnosti, ale může žárlit i bez viditelného důvodu. Umí vstát z popela po selhání, ale zášť si uchovává dlouho. Často se věnuje sebepoznání – psychologii, duchovním praktikám nebo práci se stínem.",
 
                 "perks": [
-                    ["Кризис-менеджмент:", "Сохраняет хладнокровие в аварийных ситуациях на работе."],
-                    ["Интенсивность в отношениях:", "Требует полной отдачи от партнёра, но и сам отдаётся без остатка."],
-                    ["Склонность к риску:", "Инвестирует в рискованные проекты или экстремальные виды спорта."],
-                    ["Злопамятность:", "Фиксирует несправедливость и может ответить спустя годы."],
-                    ["Самоконтроль:", "Соблюдает диету и режим, если решил достичь цели."]
+                    ["Krizový management:", "Zachovává chladnou hlavu při haváriích i ve vypjatých situacích."],
+                    ["Intenzita ve vztazích:", "Požaduje úplné odevzdání – a totéž nabízí nazpět."],
+                    ["Sklon k riziku:", "Investuje do nejistých projektů nebo zkouší extrémní sporty – jen aby cítil, že žije."],
+                    ["Zášť:", "Pamatuje si křivdy a vrací úder – klidně i po letech."],
+                    ["Sebeovládání:", "Pokud si stanoví cíl, drží se režimu a disciplíny s vojenskou přesností."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилой Скорпион остаётся независимым и подозрительным к чужим мотивам. Часто увлекается историей семьи, собирает архивы, пишет мемуары. В общении прямолинеен, даёт  практичные советы. Сохраняет интерес к загадкам: разгадывает кроссворды, изучает новые технологии. С трудом просит о помощи, даже когда она нужна.",
+                "description": "Starý Štír zůstává nezávislý a podezíravý k motivům druhých. Často se věnuje rodinné historii – sbírá archivy, píše paměti nebo katalogizuje fotografie. V komunikaci je přímočarý, nabízí praktické rady bez oklik. Zájem o hádanky ho neopouští – luští křížovky, testuje nové technologie a přestože nerad žádá o pomoc, zůstává mentálně i fyzicky aktivní. Je to strážce moudrosti – drsný, ale spravedlivý.",
 
                 "perks": [
-                    ["Архивация опыта:", "Хранит дневники, фото, документы — всё систематизировано по годам."],
-                    ["Прямолинейность:", "Говорит внуку: «Если она тебя бросила — её потеря, не ной»."],
-                    ["Скептицизм:", "Проверяет факты в Википедии, даже если врач даёт рекомендации."],
-                    ["Недоверие к новому:", "Отказывается от онлайн-банка: «Бумажная выписка надёжнее»."],
-                    ["Физическая выносливость:", "Занимается йогой или плаванием, чтобы «не развалиться»."]
+                    ["Archivace zkušeností:", "Uchovává deníky, fotografie, dokumenty – vše pečlivě tříděné podle let a událostí."],
+                    ["Přímost:", "Řekne vnukovi: ‚Pokud tě opustila, její škoda – nebreč.‘"],
+                    ["Skepticismus:", "Ověřuje fakta na Wikipedii i po rozhovoru s lékařem."],
+                    ["Nedůvěra k novotám:", "Odmítá internetové bankovnictví – věří, že papírový výpis je bezpečnější."],
+                    ["Fyzická odolnost:", "Cvičí jógu nebo chodí plavat, aby ‚nestrouchnivěl‘."]
                 ]
             },
 
             "work": {
-                "description": "В работе Скорпион проявляет себя как стратег и аналитик, предпочитающий решать сложные задачи и управлять кризисами. Он преуспевает в сферах, требующих глубины, контроля и умения работать с рисками: IT-безопасность, криминалистика, хирургия, финансы или психология. Скорпионы ценят автономию, доступ к скрытой информации и возможность влиять на ключевые процессы. Однако их подозрительность может осложнять командную работу, а склонность к перфекционизму — выливаться в эмоциональное выгорание. Идеальная работа для Скорпиона — баланс между независимостью и властью над проектом.",
+                "description": "Štír v práci působí jako strateg a analytik – preferuje komplexní úkoly a řízení krizí. Vyniká v oborech, kde je potřeba hloubka, kontrola a práce s rizikem: kybernetická bezpečnost, kriminalistika, chirurgie, finance či psychologie. Oceňuje autonomii, přístup k utajovaným datům a možnost ovlivňovat klíčové procesy. Jeho podezíravost ale může komplikovat týmovou spolupráci a perfekcionismus vést k vyčerpání. Ideální pracovní roli pro Štíra představuje rovnováha mezi nezávislostí a rozhodovací mocí nad projektem.",
 
                 "perks": [
-                    ["Кризис-менеджмент:", "Сохраняет хладнокровие в форс-мажорах, быстро находя нестандартные решения."],
-                    ["Глубинный анализ:", "Выявляет слабые места в системах или поведении людей, предотвращая угрозы."],
-                    ["Стратегическое планирование:", "Продумывает действия на несколько шагов вперёд, включая запасные варианты."],
-                    ["Склонность к гиперконтролю:", "Микроуправление командой, недоверие к чужим решениям."],
-                    ["Интуиция в рисках:", "Инвестирует в спорные проекты, которые другие считают провальными."],
-                    ["Профессиональная одержимость:", "Работает без перерывов, пока не достигнет идеального результата."]
+                    ["Krizový management:", "Zachovává chladnou hlavu při nehodách a rychle nachází nestandardní řešení."],
+                    ["Hluboká analýza:", "Odhaluje slabiny v systémech i chování – často dřív, než hrozba propukne."],
+                    ["Strategické plánování:", "Myslí několik kroků dopředu, včetně záložních scénářů."],
+                    ["Sklon k hyperkontrole:", "Tendence k mikromanagementu a nedůvěra k rozhodnutím kolegů."],
+                    ["Riziková intuice:", "Investuje do projektů, které ostatní považují za propadák – a často uspěje."],
+                    ["Profesionální posedlost:", "Pracuje bez pauzy, dokud výsledek není ideální – i za cenu vyčerpání."]
                 ],
 
                 "conditions": [
-                    ["Автономия:", "Минимум вмешательства в методы работы, свобода принимать ключевые решения."],
-                    ["Доступ к информации:", "Возможность анализировать данные, закрытые для большинства сотрудников."],
-                    ["Сложные вызовы:", "Проекты, требующие нестандартного мышления и работы под давлением."]
+                    ["Autonomie:", "Minimum zásahů do pracovních metod, svoboda klíčových rozhodnutí."],
+                    ["Přístup k informacím:", "Možnost analyzovat údaje, které nejsou běžně dostupné."],
+                    ["Složité výzvy:", "Úkoly vyžadující nestandardní logiku a schopnost jednat pod tlakem."]
                 ],
 
                 "professions": [
-                    ["Кибербезопасность:", "Поиск уязвимостей и защита данных от хакерских атак."],
-                    ["Криминалистика:", "Расследование преступлений через анализ улик и поведенческих паттернов."],
-                    ["Психотерапия:", "Работа с травмами и глубинными страхами пациентов."],
-                    ["Финансовый аудит:", "Выявление мошенничества и оптимизация рискованных инвестиций."],
-                    ["Хирургия:", "Проведение сложных операций, где нужна точность и хладнокровие."]
+                    ["Kyberbezpečnost:", "Odhalování slabin a ochrana proti hackerským útokům."],
+                    ["Kriminalistika:", "Vyšetřování zločinů skrze analýzu důkazů a psychologických vzorců."],
+                    ["Psychoterapie:", "Léčba traumat a hlubokých obav klientů."],
+                    ["Finanční audit:", "Odhalování podvodů a optimalizace rizikových investic."],
+                    ["Chirurgie:", "Precizní zákroky pod tlakem, kde jde o čas i život."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Скорпион в романтических отношениях — это преданный, но требовательный партнёр. Он ценит честность и глубину, избегая поверхностных связей. Его жесты часто интенсивны: например, запоминает мельчайшие детали о партнёре или устраивает неожиданные поездки, чтобы «проверить чувства». Однако ревность и желание контроля могут привести к конфликтам. Идеальный партнёр для Скорпиона — тот, кто уважает его потребность в доверии, но сохраняет личные границы."
+                    "description": "Štír v lásce je oddaný, ale náročný partner. Vyhledává hluboké, autentické spojení – povrchní vztahy mu nic neříkají. Jeho projevy citů jsou intenzivní: pamatuje si nejmenší detaily o partnerovi, připravuje nečekané výlety – často s cílem otestovat citovou hloubku druhého. Jeho vášeň však může sklouznout k žárlivosti a kontrole. Ideálním partnerem je pro něj někdo, kdo chápe jeho potřebu důvěry, ale dokáže udržet své vlastní hranice."
                 },
 
                 "friend": {
-                    "description": "Скорпион в дружбе — надёжный союзник, готовый поддержать в любой кризис. Он не терпит поверхностности: предпочитает обсуждать реальные проблемы, а не светские сплетни. Помогает друзьям через жёсткую, но честную обратную связь. Однако дружба с ним требует лояльности: он разрывает отношения при малейшем подозрении в предательстве. Его слабость — неумение прощать ошибки. Идеальный друг для Скорпиона — тот, кто ценит его преданность, но не боится указывать на чрезмерную подозрительность."
+                    "description": "Ve vztazích přátelství je Štír loajální spojencem, který vás podrží i v největší krizi. Nesnáší povrchnost – místo klepů vede hluboké rozhovory a poskytuje tvrdou, ale upřímnou zpětnou vazbu. V přátelství očekává věrnost: jakékoli podezření z neloajality znamená konec. Jeho slabina spočívá v neschopnosti odpustit – pamatuje si chyby jako archivář zrady. Ideální přítel mu nejen důvěřuje, ale umí také upozornit, když to s podezřívavostí přežene."
                 },
 
                 "foe": {
-                    "description": "Скорпион в роли врага — опасный противник, действующий расчётливо и без эмоций. Он не станет открыто конфликтовать, но будет методично подрывать вашу репутацию, собирая компромат или манипулируя окружением. Его оружие — знание слабых мест. Уязвимость Скорпиона — страх быть уязвимым: если вы публично вскроете его неуверенность, это выбьет его из колеи. Главная опасность — его долгая память: он может нанести ответный удар спустя годы."
+                    "description": "Jako nepřítel je Štír nebezpečný protivník – chladný, strategický a trpělivý. Nikdy nekonfrontuje přímo – místo toho pomalu rozkládá vaši pověst, sbírá kompromitující informace nebo manipuluje prostředím. Jeho zbraní je hluboká znalost vašich slabin. Největší zranitelností Štíra je strach z odhalení vlastní nejistoty – veřejné odmaskování ho může vyvést z rovnováhy. Ale jeho hlavní síla je paměť: umí čekat roky na správný okamžik k odvetě."
                 }
-            }
+            },
         },
 
         {
             "className": "sagittarius",
-            "name": "Стрелец",
-            "date": "Ноябрь 22 - Декабрь 21",
+            "name": "Střelec",
+            "date": "22. listopadu – 21. prosince",
             "sign": "./assets/images/signsMain/sagittarius.png",
-            "planet": "Юпитер",
+            "planet": "Jupiter",
             "planetPic": "./assets/images/planets/jupiter.jpg",
 
             "description": {
 
-                "common": "Стрелец — неутомимые искатели истины, воплощающие свободу, оптимизм и философский огонь. Этот знак ассоциируется с мифом о Хироне, мудром кентавре-целителе, и Зевсе, властителе небес, чья молния символизирует прозрение. Стрельцы обладают даром видеть цель за горизонтом. Их сущность двойственна: одни — авантюрные первооткрыватели, стирающие границы, другие — провидцы, ищущие смысл в книгах и духовных учениях. Их сила — в умении превращать опыт в мудрость, но слабость — в нетерпении к рутине и правилам.",  
+                "common": "Střelec je neúnavný hledač pravdy – zosobňuje svobodu, optimismus a filozofický oheň. Spojuje se s mýty o Chironovi, moudrém kentaurovi-léčiteli, a Diovi, pánovi nebes, jehož blesk značí duchovní osvícení. Střelci mají dar vidět cíl za obzorem. Jejich povaha je dvojí: někteří jsou dobrodružní průkopníci bořící hranice, jiní vizionáři, hledající smysl v knihách a duchovních naukách. Jejich silou je schopnost přetvářet zkušenost v moudrost – jejich slabinou bývá netrpělivost s rutinou a pravidly.",
 
-                "archetype": {  
-                    "extra": "Экстраверты реализуют энергию через движение: организуют экспедиции, преподают философию действия или становятся «голосом свободы» в медиа.",  
-                    "intro": "Интроверты направляют страсть в познание: изучают религиоведение, пишут трактаты о мироздании или ведут дневники странствий внутреннего мира."  
-                },  
+                "archetype": {
+                    "extra": "Extroverti žijí svou energii v pohybu – vedou expedice, učí akční filozofii nebo se stávají ‚hlasem svobody‘ v médiích.",
+                    "intro": "Introverti směřují vášeň do poznání – studují religionistiku, píší traktáty o smyslu světa nebo vedou cestopisy vlastního nitra."
+                },
 
-                "planet": "Планетой, управляющей знаком Стрельца, является Юпитер. В отличие от практичного Юпитера Девы, огненный Юпитер Стрельца символизирует экспансию, идеализм и жажду абсолюта. Он связан с мифом о Прометее, принесшем огонь человечеству, что отражает миссию Стрельца — нести свет знаний. Юпитер наделяет их щедростью, верой в лучшее и умением вдохновлять, но слабость — в склонности к догматизму и игнорированию деталей.",  
+                "planet": "Vládcem Střelce je Jupiter. Na rozdíl od praktického Jupitera Panny představuje ohnivý Jupiter Střelce expanzi, idealismus a hlad po absolutnu. Je spojován s mýtem o Prométheovi, který přinesl lidstvu oheň – což odráží poslání Střelce šířit světlo poznání. Jupiter je obdařuje štědrostí, vírou v dobro a schopností inspirovat – jejich slabinou je však dogmatismus a přehlížení detailů.",
 
                 "mythology": {  
 
                     "pic": "./assets/images/myth/sagittariusMyth/zeusHiron.jpg",
-                    "main": "Символ Стрельца связан с дуальностью мифов о Хироне — мудром кентавре, и Зевсе — громовержце, чья стрела-молния рассекает тьму. Как Хирон учил героев искусству жизни, а Зевс карал титанов во имя порядка, так Стрелец балансирует между мудростью учителя и пылом воина. В одном мифе Стрелец — это сам Хирон, жертвующий бессмертием ради исцеления Прометея. В другом — созвездие символизирует лук Зевса, готовый запустить стрелу к новым мирам. Эта двойственность делает Стрельца знаком вечного поиска, где любопытство — топливо, а истина — цель.",  
+                    "main": "Symbol Střelce je spjat s dvojicí mýtů – o Chironovi, moudrém kentaurovi-léčiteli, a Diovi, vládci hromu, jehož bleskový šíp proráží temnotu. Zatímco Chiron učil hrdiny umění života a sebeobětoval se pro Prométheovo uzdravení, Zeus trestal Titány jménem kosmického řádu. V jednom výkladu je Střelec sám Chiron – archetyp zraněného učitele, v druhém je souhvězdí lukem Dia, připraveným vyslat šíp do neznámého světa. Tato dualita dělá ze Střelce znak věčného hledání, kde zvídavost je palivem a pravda cílem.",
 
                     "branch1": {
-                        "title": "Миф о Хироне.",
+                        "title": "Mýtus o Chironovi.",
                         "pic": "./assets/images/myth/sagittariusMyth/hiron.png",
-                        "description": "Миф о Хироне рассказывает о мудром и добром кентавре, который играл важную роль в обучении и воспитании многих древнегреческих героев. Хирон был сыном Кроноса и океаниды Филиры, и отличался от своих жестоких сородичей-кентавров. Он был благородным, искусным в медицине, музыке, охоте и пророчествах. Хирон жил в пещере на горе Пелион, где обучал и воспитывал таких знаменитых героев, как Ахилл, Ясон, Асклепий и Геракл. Он был известен своей мудростью, умением исцелять и глубокими знаниями в различных областях науки и искусства. Однако судьба Хирона была трагичной. Однажды Геракл, его ученик и друг, случайно ранил его ядовитой стрелой, пропитанной ядом Гидры. Несмотря на свои знания медицины, Хирон не смог вылечить рану и страдал от невыносимой боли. Будучи бессмертным, он не мог умереть и освободиться от мучений. Чтобы прекратить свои страдания, Хирон добровольно отказался от бессмертия. Зевс принял жертву Хирона и вознес его на небеса, где тот стал созвездием Стрельца. Этот миф отражает суть знака: жертвенная мудрость, связь между страданием и просветлением, роль наставника."
+                        "description": "Mýtus o Chironovi vypráví o moudrém a laskavém kentaurovi, který sehrál klíčovou roli ve výchově a vzdělávání mnoha řeckých hrdinů. Jako syn Krona a oceánidky Philyry se lišil od divokých kentaurských příbuzných – byl ušlechtilý, zběhlý v lékařství, hudbě, lovu a věštění. Žil v jeskyni na hoře Pelion a vyučoval hrdiny jako Achilles, Jason, Asklépios a Herakles. Chironova osudem byla však tragédie: jeho žák Herakles ho nešťastnou náhodou zasáhl šípem otráveným jedem Hydry. Jako nesmrtelný trpěl bolestí, kterou nedokázal vyléčit ani svým uměním. Aby ukončil své utrpení, dobrovolně se vzdal nesmrtelnosti. Zeus přijal jeho oběť a povýšil ho mezi hvězdy jako souhvězdí Střelce. Tento příběh zosobňuje podstatu znamení: obětavost, transformaci skrze bolest, roli učitele a duchovní vzestup.",
                     },  
 
                     "branch2": {
-                        "title": "Победа Зевса над Кроносом.",
+                        "title": "Vítězství Dia nad Kronem",
                         "pic": "./assets/images/myth/sagittariusMyth/zeusFight.jpg",
-                        "description": "Миф о Зевсе и его победе над отцом, Кроносом. Кронос был титаном, сыном Урана (неба) и Геи (земли), и правил миром после того, как сверг своего отца. Кронос был предупрежден пророчеством, что один из его детей свергнет его, как он сверг своего отца. Испугавшись этого, он решил проглатывать своих детей сразу после их рождения. Жена Кроноса, Рея, была в ужасе от действий мужа и решила спасти своего младшего сына, Зевса. Она родила Зевса в тайне на Крите и спрятала его в пещере, вместо него дав Кроносу камень, завернутый в пелёнки. Когда Зевс вырос, он решил свергнуть своего отца и освободить своих братьев и сестер. Он обратился за помощью к титаниде Метиде, которая дала ему зелье, заставляющее Кроноса извергнуть проглоченных детей. Зевс дал это зелье Кроносу, и тот, выпив его, извергнул всех детей: Гестию, Деметру, Геру, Аида и Посейдона. Зевс, вместе с освобожденными братьями и сестрами, а также союзниками среди титанов и других мифологических существ, начал войну против Кроноса и других титанов. Эта война, известная как Титаномахия, длилась десять лет и завершилась победой Зевса и его союзников. После победы Зевс заключил Кроноса и других титанов в Тартар — глубокую часть подземного мира. Миф о Зевсе и титаномахии раскрывает вторую грань Стрельца. Победа зевса символизирует триумф порядка над хаосом. Стрелы Зевса — не только оружие, но и символы судьбы: они попадают в цель, предопределяя новый цикл развития. Для Стрельца это выражается в вере в «высший план» и желании быть орудием прогресса. Однако, как Зевс порой слеп в гневе, так Стрелец рискует стать тираном своих идеалов."
+                        "description": "Mýtus o Diovi a jeho vítězství nad otcem Kronem odhaluje archetyp nebeského řádu nad chaosem. Kronos, titán a syn Úrana a Gaii, vládl světu poté, co svrhl svého otce. Proroctví ho varovalo, že jeden z jeho synů ho rovněž svrhne – a tak Kronos požíral své děti hned po narození. Jeho žena Rhea ale zachránila nejmladšího – Dia – porodila ho v utajení na Krétě a Kronovi podsunula kámen zabalený v plenkách. Když Dius dospěl, podal Kronovi nápoj od Metidy, po němž Kronos vyvrhl všechny své děti – Hestii, Deméter, Héru, Háda a Poseidóna. Následná válka, známá jako Titanomachie, trvala deset let. Dius a jeho spojenci nakonec zvítězili a uvěznili Krona v Tartaru. Tento mýtus odhaluje druhou stránku Střelce: kromě učitele je i nebeským reformátorem. Jeho šípy – jako blesky Dia – míří do nitra chaosu a určují nový směr vývoje. V archeтипu Střelce se to odráží jako víra v vyšší plán a touha být nástrojem osudu. Ale stejně jako Dius v hněvu trestá i bez zohlednění detailů, i Střelec může podlehnout tyranii vlastních ideálů."
                     },
 
                 },
 
                 "facts": [
-                    ["Завтра будет лучше:", "Стрельцы обладают неиссякаемым оптимизмом. Даже в кризисах они ищут возможности, а не препятствия."],
-                    ["Ветер свободы:", "Любовь к свободе делает Стрельцов нетерпеливыми к правилам и рутине. Они могут резко менять планы, если чувствуют ограничения."],
-                    ["Вечный студент:", "Их интересует всё: от философии буддизма до устройства ракетных двигателей, но часто поверхностно."],
-                    ["Синдромом кочевника:", "Многие Стрельцы бросают проекты или отношения, как только исчезает новизна."],
-                    ["Мечты без границ:", "Юпитер, управляющий знаком, даёт тягу к масштабу: они мечтают о кругосветных путешествиях, но могут забыть купить билет."]
-                ]
+                    ["Zítra bude líp:", "Střelci jsou nenapravitelní optimisté – i v krizi hledají příležitosti místo překážek."],
+                    ["Vítr svobody:", "Láska ke svobodě činí Střelce netrpělivými vůči pravidlům – pokud cítí omezení, rychle mění směr."],
+                    ["Věčný student:", "Zajímají se o všechno – od buddhistické filozofie po konstrukci raket, ale málokdy do hloubky."],
+                    ["Syndrom kočovníka:", "Opouštějí projekty nebo vztahy, jakmile zmizí novota – dychtí po nových obzorech."],
+                    ["Sny bez hranic:", "Jupiter jim dává smysl pro velikost – sní o expedicích kolem světa, ale zapomenou si koupit jízdenku."]
+                ],
 
             },
 
-        "childhood": {
-                "description": "Ребёнок-Стрелец это маленький искатель приключений с жаждой знаний и открытий. С самых ранних лет он проявляет неутомимую любознательность ко всему, что его окружает. Его тяга к знаниям безгранична, и он всегда стремится узнать что-то новое и удивительное. Игры с воображаемыми путешествиями — это его любимое занятие. Он легко перенесет себя и своих друзей в далекие земли, где они будут бороться с драконами, искать сокровища и открывать неизвестные цивилизации. Ребёнок-Стрелец ненавидит правила и ограничения, которые мешают ему исследовать мир. Он стремится к свободе и независимости, не терпит рамок и условностей. Ему важно иметь возможность проявлять свою индивидуальность и следовать своим интересам. Он может быть довольно непоседливым, так как постоянно находится в поисках новых впечатлений и знаний. В кругу друзей ребёнок-Стрелец открыт и дружелюбен. Он легко заводит знакомства и быстро становится душой компании. Однако его интерес может угаснуть, если в дружбе нет новизны и постоянного движения. Он предпочитает дружить с теми, кто готов вместе с ним отправляться в новые приключения и исследовать мир. Его энергия и жизнелюбие вдохновляют других, и он становится настоящим источником радости и вдохновения для всех, кто его окружает. Однако его родителям и воспитателям важно помнить о необходимости направлять его энергию в конструктивное русло, чтобы он мог раскрыть свои таланты и потенциал в полной мере.",
+            "childhood": {
+                "description": "Dítě ve znamení Střelce je malý objevitel – neúnavný, zvídavý a poháněný touhou prozkoumávat svět i vlastní představivost. Od útlého věku klade zvídavé otázky a zapojuje ostatní do fantazijních výprav – bojuje s draky, hledá poklady, objevuje ztracené civilizace. Nenávidí omezení a pravidla, která brání svobodě. Potřebuje prostor pro svou individualitu a pohyb – fyzický i mentální. Je neposedný, protože jeho mozek stále hledá nové podněty a smysluplné výzvy. V kolektivu je veselý, otevřený a rychle si získává přátele. Miluje dynamické vztahy – pokud přátelství stagnuje, ztrácí zájem. Pro okolí je inspirací, nositelem radosti a nadšení – ale potřebuje dospělého, který mu pomůže směrovat jeho energii do růstu, nikoli v chaos.",
 
                 "perks": [
-                    ["Любопытство к миру:", "Составляет списки «стран, которые посетит», рисуя карты на обоях."],
-                    ["Независимость:", "Убегает с уроков, чтобы исследовать лес за школой, несмотря на запреты."],
-                    ["Энтузиазм:", "Убеждает весь класс устроить пикник вместо контрольной."],
-                    ["Нетерпеливость:", "Бросает паззлы и книги, если результат не мгновенный."],
-                    ["Фантазёрство:", "Придумывает эпичные истории о том, как вчера «спас динозавра»."]
+                    ["Zvědavost o světě:", "Vytváří seznam ‚zemí, které navštíví‘ a maluje mapy na zdi."],
+                    ["Nezávislost:", "Utíká z vyučování, aby prozkoumal les za školou – bez ohledu na zákazy."],
+                    ["Nadšení:", "Přesvědčí třídu, aby místo testu uspořádala piknik."],
+                    ["Netrpělivost:", "Opouští puzzle i knížky, pokud výsledek nepřijde okamžitě."],
+                    ["Fantazijní myšlení:", "Vypráví hrdinské historky, jak včera ‚zachránil dinosaura‘."]
                 ]
             },
 
             "schoolboy": {
-                "description": "Ребёнок-Стрелец в школе — это вечный источник энергии и энтузиазма. Он легко превращает даже самые скучные занятия в увлекательные приключения. Ребёнок-Стрелец особенно преуспевает в таких предметах, как география, иностранные языки и физическая культура. Эти дисциплины позволяют ему удовлетворить его жажду к открытиям и движению. В географии он очарован картами, историями о далеких странах и культурах. Иностранные языки даются ему легко, так как он видит в них возможность общаться с людьми из разных уголков мира и узнавать о новых традициях и обычаях. Физическая культура — это ещё одна область, где ребёнок-Стрелец блистает. Он активно участвует в спортивных играх, командных видах спорта и различных соревнованиях. Он ищет способы разнообразить своё обучение и сделать его более интересным. В кругу друзей Стрелец становится душой компании. Он легко заводит новые знакомства и всегда готов поделиться своими идеями и открытиями. Его оптимизм и жизнелюбие заразительны, и он привлекает к себе людей своей искренностью и добротой. Однако его идеализм иногда вызывает конфликты с теми, кто критикует его взгляды или не разделяет его энтузиазм. Ребёнок-Стрелец может быть очень чувствителен к критике и старается избегать конфликтов, предпочитая окружать себя теми, кто поддерживает и вдохновляет его.",
+                "description": "Školní Střelec je ztělesněný entuziasmus – promění i nudnou výuku v dobrodružství. Září v předmětech jako geografie, cizí jazyky a tělocvik – miluje mapy, příběhy cizích kultur a týmové hry. Jazykům se učí snadno, protože ho fascinuje možnost mluvit s lidmi z celého světa. Pohyb je pro něj přirozený – běhá, leze, kope, tančí. Neustále hledá způsob, jak udělat školu zábavnější – divadelními scénkami, výpravami nebo nečekanými nápady. Ve třídě je oblíbený – jeho životní elán je nakažlivý. Přestože je otevřený a dobrosrdečný, může být přecitlivělý na kritiku. Nerad stagnuje – v přátelství i učení hledá pohyb, růst, výzvu a smysl.",
 
                 "inclinations": [
-                    ["Языки и культура:", "Участвует в обменах, учит хинди ради фильмов Болливуда."],
-                    ["Спорт и природа:", "Туристические клубы, футбол, велопоходы с палатками."],
-                    ["Творчество-эксперименты:", "Пишет фанфики о межгалактических ковбоях, ставит абсурдные пьесы."]
+                    ["Jazyky a kultura:", "Účastní se výměnných pobytů, učí se hindsky kvůli bollywoodským filmům."],
+                    ["Sport a příroda:", "Turistické oddíly, fotbal, výpravy na kole s tábořením."],
+                    ["Tvořivý experimentátor:", "Píše fanfikce o mezihvězdných kovbojích, inscenuje absurdní hry ve školním divadle."]
                 ],
 
                 "perks": [
-                    ["Оптимизм:", "Убеждает всех, что двойка — это «трамплин для будущего успеха»."],
-                    ["Импровизация:", "Сдаёт доклад о Древнем Риме в стиле рэп-баттла."],
-                    ["Прямолинейность:", "Говорит учителю: «Ваш предмет скучнее сыра без плесени»."],
-                    ["Авантюризм:", "Пробирается на крышу школы, чтобы «увидеть горизонт»."],
-                    ["Поверхностность:", "Начинает десять хобби за месяц, бросая их на третьем шаге."]
+                    ["Optimismus:", "Přesvědčí ostatní, že pětka je ‚odrazový můstek ke hvězdám‘."],
+                    ["Improvizace:", "Prezentaci o antickém Římu pojme jako rap battle."],
+                    ["Přímost:", "Řekne učiteli: ‚Váš předmět je nudnější než sýr bez plísně.‘"],
+                    ["Dobrodružnost:", "Proplíží se na školní střechu – jen aby viděl obzor."],
+                    ["Povrchnost:", "Za měsíc začne deset koníčků – na třetím kroku ztrácí zájem."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослый Стрелец — это человек, для которого свобода и разнообразие являются важнейшими аспектами жизни. Он стремится к профессиям, которые позволяют ему реализовать свою тягу к приключениям и новым впечатлениям. Журналистика, туризм, преподавание или спорт — это лишь несколько примеров областей, где Стрелец может проявить себя. В журналистике он может исследовать и рассказывать истории со всего мира, в туризме — организовывать и проводить захватывающие путешествия, в преподавании — делиться своими знаниями и вдохновлять студентов, а в спорте — достигать новых высот и поддерживать активный образ жизни. В отношениях взрослый Стрелец ценит партнёра-единомышленника, который готов вместе с ним отправляться в спонтанные поездки и разделять его жажду к новым впечатлениям. Для Стрельца важно, чтобы его партнёр был открыт к новым опытам и поддерживал его стремление к свободе. Он легко забывает обиды и не держит зла, предпочитая смотреть в будущее с оптимизмом. Однако он ненавидит чувствовать себя в клетке и стремится к независимости. Любые попытки ограничить его свободу могут привести к конфликтам и недовольству. Взрослый Стрелец часто увлекается философией или религиями, стремясь найти «смысл всего». Его глубокое желание понять мир и своё место в нём приводит его к изучению различных философских концепций и духовных практик. Он может проводить много времени, размышляя о жизни, вселенной и своем предназначении. Эти поиски помогают ему лучше понимать себя и окружающий мир, а также находить гармонию и баланс в жизни. Стрелец также обладает природным оптимизмом и жизнелюбием. Он заряжает окружающих своей энергией и энтузиазмом, всегда готов помочь и поддержать друзей и близких. Его дружелюбие и открытость делают его привлекательным для людей, и он легко заводит новые знакомства. В то же время, его искренность и честность иногда могут приводить к недоразумениям, особенно если его прямолинейность воспринимается как критика. В целом, взрослый Стрелец — это энергичный и увлечённый человек, который стремится к свободе, разнообразию и новым впечатлениям. Его стремление к знаниям и пониманию мира делает его интересным собеседником и надёжным другом. Он всегда готов поддержать близких и делиться своими открытиями, вдохновляя окружающих на новые свершения.",
+                "description": "Dospělý Střelec je bytost svobody – potřebuje pestrost, pohyb a možnost objevovat. Tíhne k profesím, které mu umožňují poznávat svět, inspirovat druhé a být stále na cestě: žurnalistika, cestovní ruch, výuka nebo sport jsou jeho přirozeným polem působnosti. V novinařině odhaluje příběhy z celého světa, v turistice organizuje výpravy, ve školství zapaluje jiskru poznání a ve sportu překonává vlastní limity. Ve vztazích hledá partnera-parťáka – někoho, kdo s ním nasedne do nočního vlaku do пустыни или начнёт курс по древним цивилизациям. Neodpouští svazující pravidla – jakýkoli pokus ‚zamknout ho v kleci‘ vyvolá odpor. Zranění ho nezastaví – má přirozený dar obracet bolest v růst. Střelec často hledá hlubší smysl – zajímá se o filozofii, spirituality, píše deníky z vnitřních cest. Ať je v jakémkoli koutě světa nebo vědomí, vždy hledá světlo poznání. Ostatní ho vnímají jako zdroj energie, optimismu a inspirace – jeho přímost může občas bolet, ale nikdy nelže. Jeho úkolem není stát na místě – je to posel horizontů.",
 
                 "perks": [
-                    ["Адаптивность:", "Переезжает в другую страну, потому что «надоели те же облака»."],
-                    ["Щедрость:", "Тратит последние деньги на билеты друзьям для совместного похода."],
-                    ["Идеализм:", "Вкладывается в провальный стартап, веря в «миссию»."],
-                    ["Такт-фристайл:", "Спрашивает на первом свидании: «Веришь ли ты в инопланетян?»."],
-                    ["Непостоянство:", "Меняет работу каждые два года, ища «то самое»."]
+                    ["Adaptabilita:", "Stěhuje se na Island, protože ‚mraky jsou tu jiné‘."],
+                    ["Štědrost:", "Utrácí poslední výplatu, aby mohl vzít kamarády do hor."],
+                    ["Idealismus:", "Investuje do utopického projektu – protože v něj věří."],
+                    ["Takt jako freestyle:", "Na prvním rande se ptá: ‚Myslíš, že duše má GPS?‘"],
+                    ["Nestálost:", "Mění práci každé dva roky – dokud nenajde svou vizi."]
                 ]
             },
 
-            "oldman": {
-                "description": "Пожилой Стрелец — это воплощение вечного искателя приключений и философа. Несмотря на возраст, он сохраняет свою жажду к новым открытиям и желание делиться своими знаниями и опытом с окружающими. Его энергичность и оптимизм не угасают с годами, и он продолжает жить полной жизнью, оставаясь верным своим принципам и убеждениям. Его способность видеть забавные стороны даже в самых сложных ситуациях делает его рассказы интересными и вдохновляющими. В общении пожилой Стрелец — веселый и увлекательный рассказчик. Он любит делиться своими историями и всегда находит способ поднять настроение окружающим. Его рассказы наполнены живыми описаниями и эмоциональными деталями, что делает их еще более интересными. Однако, несмотря на свою жизнерадостность, он может грустить, если мир вокруг него становится «слишком предсказуемым». Для него важны новизна и неожиданности, и он стремится избегать рутины и однообразия. Таким образом, пожилой Стрелец продолжает жить полной жизнью, оставаясь верным себе и своим идеалам. Он вдохновляет окружающих своим оптимизмом и жизнерадостностью",
+           "oldman": {
+                "description": "Starý Střelec je zosobněním věčného dobrodruha a filozofa. Ani s věkem v něm nehasne touha po poznání a potřeba sdílet své životní zkušenosti s okolím. Zůstává věrný svým ideálům – a zároveň si uchovává nadhled, humor a energii, která inspiruje. Vypráví s vášní, proměňuje i běžné situace v epické příběhy plné nadsázky. Jeho vyprávění jsou plná detailů, emocí a smyslu pro absurditu. Pokud ho ale svět začne nudit, může podlehnout melancholii – rutina a předvídatelnost jsou pro něj jako klícka pro volného ptáka. Přesto dál hledá nové impulzy – a inspiruje ostatní, že život má smysl v každé fázi.",
 
                 "perks": [
-                    ["Сторителлинг:", "Превращает поход в магазин в сагу о встрече со «шпионом» у касс."],
-                    ["Вера в прогресс:", "В 70 лет записывается на курс по VR, чтобы «гулять по Марсу»."],
-                    ["Ностальгия:", "Хранит рюкзак 1960-х, пахнущий кострами и свободой."],
-                    ["Импульсивность:", "Покупает билет в Непал, забыв, что врач запретил нагрузки."],
-                    ["Юмор:", "Шутит на собственных похоронах: «Если там Wi-Fi нет — я вернусь!»."]
+                    ["Storytelling:", "Z běžného nákupu udělá špionážní thriller o tajemném agentovi u samoobslužné pokladny."],
+                    ["Víra v pokrok:", "V 70 letech se přihlásí do kurzu VR, aby mohl 'chodit po Marsu'."],
+                    ["Nostalgie:", "Schovává batoh z 60. let, který stále voní po ohni a svobodě."],
+                    ["Impulzivita:", "Koupí letenku do Nepálu a zapomene, že mu doktor zakázal námahu."],
+                    ["Humor:", "Poznamená na vlastním pohřbu: 'Jestli tam nebude Wi-Fi, vracím se zpátky!'"]
                 ]
             },
 
             "work": {
-                "description": "В работе Стрелец проявляет себя как авантюрный новатор, который постоянно стремится к новым горизонтам и возможности проявить свою независимость и креативность. Его природная жажда к знаниям и новым впечатлениям делает его идеальным кандидатом для проектов с глобальным масштабом и свободой действий. Этот знак зодиака любит работать в средах, которые дают ему возможность проявить свои лидерские качества и исследовать новые области. Стрелец преуспевает в таких сферах, как образование, туризм, международные отношения и философия. Стрельцы ценят возможность постоянно учиться, путешествовать и вдохновлять других. Они любят узнавать новые вещи, посещать новые места и делиться своим опытом с окружающими. Для них важно не только иметь свободу действий, но и возможность развиваться и расти в своей карьере. Они обладают природным оптимизмом и жизнерадостностью, что делает их отличными лидерами и коллегами. Однако, несмотря на свои многочисленные таланты, Стрельцы могут сталкиваться с некоторыми трудностями в работе. Их нетерпеливость к рутине и склонность переоценивать свои силы могут приводить к незавершённым задачам. Стрелец может легко увлечься новым проектом и оставить начатое дело без завершения. Кроме того, их независимость и стремление к свободе иногда могут вызывать конфликты с руководством или коллегами, особенно если им приходится работать в жестко регламентированных условиях. Идеальная работа для Стрельца — это баланс между приключениями и смыслом. Им нужны проекты, которые дают им свободу действий и возможность проявить свою креативность, но также включают элемент вызова и значимости. Стрелец ищет работу, где он может внести свой вклад и почувствовать, что его усилия приносят пользу не только ему самому, но и окружающим.",
+                "description": "Střelec v práci působí jako dobrodružný novátor – stále hledá nové horizonty, příležitosti k růstu a projevu kreativity. Jeho touha po poznání a svoboda v rozhodování ho předurčují k projektům globálního rozsahu a k profesím, kde může být inspirací i hybatelem změn. Nejlépe se uplatňuje v oblastech jako je vzdělávání, cestovní ruch, mezinárodní vztahy nebo filozofie. Rád se učí, cestuje a sdílí zkušenosti – jeho optimismus a nadšení dělají z něj přirozeného lídra. Ideální práce kombinuje nezávislost s výzvou a smyslem. Mezi jeho slabiny patří netrpělivost s rutinou, tendence přeceňovat své možnosti a obtíže se závazky – jeho svobodomyslnost někdy naráží na strukturu a systém. Potřebuje prostor, kde může zkoušet, inspirovat a cítit dopad své práce.",
 
                 "perks": [
-                    ["Энтузиазм:", "Заряжает команду идеями о покорении Марса или открытии кафе в джунглях."],
-                    ["Гибкое мышление:", "Меняет стратегию на лету, если видит новые возможности."],
-                    ["Наставничество:", "Объясняет сложные темы с юмором, превращая лекции в стендап."],
-                    ["Импульсивность:", "Бросает проект на полпути, если пропадает азарт."],
-                    ["Склонность к идеализму:", "Верит в утопичные стартапы, игнорируя финансовые риски."],
-                    ["Мультизадачность:", "Одновременно пишет книгу, учит суахили и планирует треккинг в Гималаи."]
+                    ["Entuziasmus:", "Nadchne tým vizí kavárny v džungli nebo kolonie na Marsu."],
+                    ["Flexibilní myšlení:", "Přizpůsobuje se změnám a rychle přehodnocuje strategii."],
+                    ["Mentorství:", "Předává znalosti s humorem – i filozofii promění v stand-up."],
+                    ["Impulzivita:", "Nadšeně začne, ale může opustit projekt, jakmile opadne vzrušení."],
+                    ["Idealismus:", "Investuje do utopií bez ohledu na realistické vyhlídky."],
+                    ["Multitasking:", "Zároveň píše knihu, učí se svahilsky a plánuje výšlap do Himálaje."]
                 ],
 
                 "conditions": [
-                    ["Свобода передвижений:", "Возможность работать из любой точки мира и менять график."],
-                    ["Интеллектуальный рост:", "Доступ к курсам, конференциям и междисциплинарным проектам."],
-                    ["Яркие вызовы:", "Задачи, где можно нарушать шаблоны и экспериментировать."]
+                    ["Svoboda pohybu:", "Možnost měnit místo a čas práce podle chuti."],
+                    ["Intelektuální růst:", "Přístup ke kurzům, výzkumům a novým oborům."],
+                    ["Tvůrčí výzvy:", "Projekty, kde se smí bořit pravidla a zkoušet nové přístupy."]
                 ],
 
                 "professions": [
-                    ["Международная журналистика:", "Освещение событий в горячих точках и культурных феноменов."],
-                    ["Основатель стартапа:", "Создание проектов в духе «революции в образовании» или «спасения экологии»."],
-                    ["Преподаватель философии:", "Обучение через диалоги на свежем воздухе и дебаты о смысле бытия."],
-                    ["Тур-лидер:", "Проведение экспедиций в Антарктиду или этнические деревни Амазонии."],
-                    ["Автор мотивационных книг:", "Написание бестселлеров о том, «как жить без границ»."]
+                    ["Mezinárodní žurnalistika:", "Reportáže z horkých zón i kulturní výpravy."],
+                    ["Zakladatel startupu:", "Projekty, co chtějí změnit svět – ekologicky nebo vzděláváním."],
+                    ["Učitel filozofie:", "Výuka formou debat a výprav – hledání smyslu pod širým nebem."],
+                    ["Expediční průvodce:", "Výpravy do Antarktidy nebo amazonských komunit."],
+                    ["Autor motivačních knih:", "Inspirace, jak žít bez omezení – s batohem i bez něj."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Стрелец в романтических отношениях — это вдохновляющий авантюрист, для которого любовь — путь к новым горизонтам. Он обожает спонтанные поездки и неожиданные приключения, стремясь поделиться своей жаждой к новым впечатлениям и открытиям с партнёром. В его глазах каждый момент — это возможность для нового открытия, и он готов превратить каждое свидание в увлекательное путешествие. Стрелец — интеллектуал, который любит глубокие беседы и обсуждения. Он может обсуждать теорию струн на свиданиях, вдохновлять партнёра своим знанием различных философских концепций и делиться своими размышлениями о смысле жизни. Для него важно иметь партнёра, который может поддерживать эти беседы и вместе с ним исследовать мир идей. Мечты о партнёре-единомышленнике — это ключевой аспект для Стрельца. Он ищет человека, который будет разделять его страсть к свободе и приключениям, но при этом будет понимать важность эмоциональной связи. Стрельца может избегать ситуаций, где чувствует себя ограниченным или связанным, что иногда приводит к трудностям в отношениях. Ему необходимо чувствовать себя свободным и независимым, чтобы сохранить свою жизнерадостность и оптимизм. Идеальный партнёр для Стрельца — это тот, кто разделит его страсть к свободе и приключениям, но при этом мягко напомнит ему о важности стабильности и обязательств. Такой партнёр будет понимать, что даже самые яркие и свободолюбивые души нуждаются в эмоциональной поддержке и уверенности. Вместе они смогут найти баланс между свободой и обязательствами, создавая гармоничные и вдохновляющие отношения."
+                    "description": "Střelec v lásce je inspirující dobrodruh – pro něho je vztah cestou k novým obzorům, nikoli k uzavřeným dveřím. Miluje spontánní výlety, nečekaná dobrodružství a sdílení fascinace světem s partnerem. Každé rande může proměnit v výpravu – do džungle i do hlubin vesmíru. Je intelektuál: na večeři rozebírá teorii strun nebo klade otázku, zda náhoda vůbec existuje. Potřebuje partnera, který dokáže držet krok – nejen v batohu, ale i ve filozofickém dialogu. Jeho ideálem je spojenec, který chápe vášeň pro svobodu i potřebu duševního pouta. Nesnese dusivá pravidla – jakmile vztah připomíná klec, jeho jiskra zhasíná. Ale pokud vedle sebe najde někoho, kdo mu ponechá křídla a zároveň nabídne přístav, vznikne mezi nimi harmonická a inspirující láska – založená na důvěře, prostoru a společném růstu."
                 },
 
                 "friend": {
-                    "description": "Стрелец в дружбе — это генератор идей и душа авантюр. С ним никогда не бывает скучно. Его стремление к новизне и жажда приключений делает его великолепным другом, который всегда готов подбросить интересную идею или предложить неожиданное путешествие. Его энтузиазм заразителен, и он легко вовлекает друзей в свои авантюры, делая каждое событие запоминающимся. Однако дружба со Стрельцом требует определённого терпения. Его жажда к новым впечатлениям и увлечённая натура могут приводить к тому, что он забывает о важных событиях, таких как ваш день рождения, так как его мысли заняты планированием кругосветного путешествия или изучением новой теории. Он может быть рассеянным и непостоянным в мелочах, что иногда вызывает недовольство друзей. Стрелец — великолепный рассказчик, который умеет оживить любую беседу своими историями и анекдотами. Он всегда готов поддержать беседу и поднять настроение. Однако, когда дело доходит до бытовых кризисов, он может оказаться менее полезным. Его оптимизм и стремление к приключениям не всегда находят себе применение в сложных и рутинных ситуациях, что делает его менее эффективным в поддержке друзей в трудные времена. Идеальный друг для Стрельца — это тот, кто способен простить его рассеянность и непостоянство, понимая, что за этим скрывается искреннее желание сделать жизнь ярче и интереснее. Такой друг должен быть готов к спонтанным приключениям и неожиданных поворотам, но также уметь мягко напоминать Стрельцу о важности обязательств и ответственности. В идеале, такой друг будет тем, кто сможет останавливать Стрельца от необдуманных действий, сохраняя при этом лёгкость и радость в их отношениях."
+                    "description": "Střelec jako přítel je generátor nápadů a duše každého dobrodružství. Nuda? Nikdy. Jeho touha po novém a nečekaném dělá z každého obyčejného dne výpravu – na festival v horách, do nové kavárny na konci města nebo do říše alternativních teorií vesmíru. Jeho nadšení je nakažlivé a z přátel dělá účastníky vlastní legendy. Ale přátelství s ním vyžaduje trpělivost: zapomene na vaše narozeniny, protože právě balí batoh na Island. Roztržitost a nepředvídatelnost jsou cenou za jeho jiskru. Není mistrem krizových situací – při výměně pneumatiky vám spíš zazpívá píseň o tom, jak to dělali Vikingové. Zato umí pozvednout náladu a rozesmát i v bouři. Ideální přítel pro Střelce? Ten, kdo chápe, že chaos je někdy formou kreativity – a kdo dokáže připomenout, že i duše s křídly potřebuje někdy uzemnění. S takovým spojením roste přátelství, kde humor, odvaha a smysl pro nadsázku tvoří skutečný poklad."
                 },
 
                 "foe": {
-                    "description": "Стрелец в роли врага — это прямолинейный критик, который не боится высмеивать и откровенно заявлять о своих взглядах. Он рассматривает традиционные или консервативные принципы как «сковывающие цепи» и с удовольствием подвергнет их язвительной критике. Вместо интриг и закулисных манипуляций Стрелец предпочитает открытое и прямое столкновение взглядов. Он заявит при всех о своей позиции, зачастую использует юмор и сарказм, чтобы подчеркнуть свою точку зрения. Его уязвимость заключается в неприятии глубины и детального анализа. Стрелец может делать поверхностные выводы и избегать глубокого погружения в суть проблемы. Если вы раскроете недостатки его аргументов и продемонстрируете их поверхностность, он, скорее всего, уйдёт в глухую оборону, стараясь избежать дальнейшей дискуссии. Это может стать его слабым местом в конфликтах. Главная опасность Стрельца в роли врага — это его харизма. Он легко привлекает людей, переманивая на свою сторону тех, кто жаждет «лёгкости бытия». Его уверенность и обаяние могут оказаться очень убедительными, особенно для тех, кто ценит свободу и независимость. Он умеет вдохновлять и привлекать людей к своим идеям, создавая вокруг себя кружок преданных сторонников."
-                }
+                    "description": "Střelec jako nepřítel je přímý kritik s ostrým jazykem a neochotou hrát zákulisní hry. Konzervativní hodnoty vnímá jako okovy – s potěšením je demaskuje vtipem, ironií a veřejným prohlášením. Konfrontaci se nevyhýbá, spíše ji vyhledává – jeho styl je otevřený názorový střet, nikoli manipulace. Jeho slabinou je nechuť k hloubce: pokud jeho argumenty narazí na dobře připravený protiútok, začne couvat a mění téma, aby se vyhnul detailům. Jeho síla však tkví v charismatu – snadno získá publikum, které obdivuje jeho svobodomyslnost a schopnost zjednodušit složité otázky do výstižné fráze. Pokud hledáte spojence do rebelie – jde s vámi. Pokud hledáte klidný konsenzus – počítejte s výbuchem ohnivého sarkasmu."
+                },
             }
         },
 
         {
             "className": "capricorn",
-            "name": "Овен",
-            "date": "Декабрь 22 - Январь 19",
+            "name": "Kozoroh",
+            "date": "22. prosince – 19. ledna",
             "sign": "./assets/images/signsMain/capricorn.png",
-            "planet": "Сатурн",
+            "planet": "Saturn",
             "planetPic": "./assets/images/planets/saturn.jpg",
 
             "description": {
 
-                "common": "Козерог — это целеустремлённый архитектор реальности, воплощающий дисциплину, амбиции и практичность. Эти люди обладают уникальным даром видеть путь к вершине даже сквозь самые сложные препятствия. Их сущность двойственна: одни — амбициозные стратеги, строящие империи и достижения, другие — терпеливые аскеты, достигающие своих целей через упорство и самоотречение. Их амбиции подкреплены железной волей и стремлением к совершенству во всём, что они делают. Одна из ключевых характеристик Козерогов — это их способность сохранять хладнокровие и рассудительность в любых ситуациях. Они умеют тщательно анализировать обстоятельства и находить наилучшие решения даже в самых сложных условиях. Их стратегическое мышление и дальновидность позволяют им создавать долговременные планы и следовать им без отклонений. Однако у Козерогов есть и свои слабости. Их стремление к контролю и желание держать всё под своим контролем может приводить к страху потерять над этим контроль. Они могут быть слишком осторожны и нерешительны, опасаясь сделать ошибку или столкнуться с непредвиденными обстоятельствами. Это может ограничивать их гибкость и способность адаптироваться к изменениям.",  
+                "common": "Kozoroh je cílevědomý architekt reality – ztělesňuje disciplínu, ambice a praktičnost. Má jedinečný dar vidět cestu k vrcholu i přes ty největší překážky. Jeho podstata je dvojí: někteří Kozorozi jsou ambiciózní stratégové, kteří budují impéria, jiní jsou trpěliví asketové, dosahující svých cílů vytrvalostí a sebeodříkáním. Jejich ambice se opírá o železnou vůli a touhu po dokonalosti. Klíčovou vlastností Kozorohů je jejich chladnokrevnost a rozvaha – i v nejtěžších situacích zachovávají jasnou mysl. Dokážou pečlivě analyzovat situace a najít nejlepší řešení. Strategické myšlení a dlouhodobé plánování jsou jejich doménou. Ale mají i slabiny: jejich touha po kontrole může přerůst ve strach z neznáma. Nadměrná opatrnost je někdy paralyzuje a ztěžuje přizpůsobení změnám. Jejich síla – stabilita – se někdy obrací v tíhu nehybnosti.",
 
-                "archetype": {  
-                    "extra": "Экстраверты реализуют амбиции через социальный статус: становятся инженерами, политиками или создают структуры, меняющие индустрии.",  
-                    "intro": "Интроверты направляют энергию в систематизацию: проектируют алгоритмы, восстанавливают исторические хроники или строят карьеру как «невидимые гении»."  
-                },  
+                "archetype": {
+                    "extra": "Extroverti naplňují své ambice skrze společenský status – stávají se inženýry, politiky nebo budují struktury, které mění celé odvětví.",
+                    "intro": "Introverti směřují energii do systematizace – navrhují algoritmy, rekonstruují historické archivy nebo budují kariéru jako 'neviditelní géniové'."
+                },
 
-                "planet": "Планетой, управляющей знаком Козерога, является Сатурн. В астрологической традиции Сатурн символизирует ограничения, ответственность и дисциплину. Эта планета наделяет Козерогов стойкостью, выносливостью и стремлением к долгосрочным достижениям. Сатурн символизирует необходимость придерживаться правил и структур, чтобы достичь успеха. Влияние Сатурна призывает к принятию ответственности за свои действия и решения. Под влиянием Сатурна Козероги развивают стратегическое мышление и способность планировать свои действия на долгосрочную перспективу. Это помогает им достигать своих целей через последовательные и продуманные шаги. Однако Сатурн может делать Козерогов слишком консервативными. Они могут сопротивляться переменам и новым идеям, предпочитая придерживаться проверенных методов. Под влиянием Сатурна Козероги могут испытывать страх перед неудачей. Это может приводить к излишней самокритичности. Влияние Сатурна иногда может делать Козерогов склонными к пессимизму. Они могут видеть больше препятствий, чем возможностей, и это может мешать им быть более гибкими и открытыми.",
+                "planet": "Vládnoucí planetou Kozoroha je Saturn. V astrologické tradici představuje hranice, odpovědnost a disciplínu. Právě Saturn dává Kozorohům vytrvalost, sílu a orientaci na dlouhodobé cíle. Učí je dodržovat pravidla a stavět na stabilních strukturách. Toto vlivné postavení rozvíjí v Kozorozích strategické myšlení a schopnost plánovat daleko dopředu. Díky tomu jsou schopni dosáhnout svých ambicí krok za krokem. Saturn však může vést i k přílišné opatrnosti a konzervatismu – Kozorozi se někdy zdráhají přijmout nové postupy, raději se drží osvědčeného. Strach ze selhání je vede k přehnané sebekritice, někdy i k pesimismu. Vidí víc překážek než příležitostí – a to může oslabit jejich schopnost pružně reagovat na změny.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/capricornMyth/almatea.jpg",
-                    "main": "Символ Козерога связан с мифом об Амальтее, козе, которая сыграла важную роль в воспитании и защите Зевса, верховного бога древнегреческой мифологии. Когда Зевс был младенцем, его мать Рея спрятала его от отца, в пещере на горе Ида. Рея доверила сына козе Амальтее, которая вскормила Зевса своим молоком и охраняла его. Амальтея была настолько важна для Зевса, что, когда он вырос и стал верховным богом, он поместил её изображение на небо как созвездие Козерога в знак благодарности. Амальтея выжила в суровых условиях и обеспечила выживание Зевса. Козероги обладают выносливостью и стойкостью, позволяющими им преодолевать трудности и достигать своих целей, несмотря на препятствия. Таким образом, миф об Амальтее глубоко переплетается с символикой и качествами знака Козерога, подчеркивая их выносливость и способность преодолевать трудности.",  
+                    "main": "Symbol Kozoroha je spojen s mýtem o Amalteie – koze, která sehrála zásadní roli při ochraně a výchově nejvyššího boha Dia. Když byl Dius ještě nemluvně, jeho matka Rhea ho ukryla před krutým Kronem v jeskyni na hoře Ida. Péči o něj svěřila právě Amalteie, která ho kojila a hlídala. Když se Dius stal bohem, vděčně vyzdvihl její podobu na nebe jako souhvězdí Kozoroha. Amalteia přežila v drsných podmínkách a zajistila Diovi přežití – právě tato houževnatost, nenápadná síla a péče v náročném světě se staly esencí Kozoroží symboliky. Stejně jako ona chrání и питает порядок среди хаоса, Козерог строит свои вершины на терпении и стойкости. Jeho cesta není o slávě, ale o výsledku, který přetrvá věky.",
 
                     "branch1": {
-                        "title": "Миф о Кроносе.",
+                        "title": "Mýtus o Kronovi",
                         "pic": "./assets/images/myth/capricornMyth/cronos.jpg",
-                        "description": "Миф о Кроносе(Сатурне), боге времени и земледелия — это одна из самых древних и значимых историй древнегреческой мифологии, рассказывающая о происхождении и смене поколений богов. В начале времени существовали Хаос, Гея (Земля) и Уран (Небо). Гея родила Урана, и они стали супругами. Вместе они породили первых существ — титанов. Однако Уран был жестоким и тираничным отцом. Он боялся силы своих детей и заключил их в глубины земли, чтобы они не могли угрожать его власти. Гея страдала от этого и задумала отомстить Урану за его жестокость. Гея обратилась к своим детям и попросила их помочь ей свергнуть Урана. Но все титаны боялись своего отца, кроме одного — Кроноса, самого младшего и хитрого из титанов. Гея дала Кроносу серп и сказала, что он должен использовать его, чтобы свергнуть Урана. Когда наступила ночь, Уран спустился к Гее. Кронос спрятался и, когда Уран приблизился, неожиданно напал на него с серпом. Он кастрировал своего отца и сбросил его с небес. Капли крови Урана упали на землю и породили Эриний (богинь мести), гигантов и нимф Мелиад. После свержения Урана Кронос стал верховным правителем мира. Он освободил своих братьев и сестер из глубин земли и взял себе жену — Рею. Вместе с Реей они стали родителями нового поколения богов — Гестии, Деметры, Геры, Аида, Посейдона и Зевса."
-                    },  
+                        "description": "Mýtus o Kronovi (Saturnovi), bohu času a zemědělství, je jedním z nejstarších příběhů řecké mytologie a pojednává o původu a výměně generací bohů. Na počátku byli Chaos, Gaia (Země) a Uranos (Nebe). Gaia porodila Uranose, stal se jejím manželem a spolu zplodili první bytosti – Titány. Uranos však byl krutý otec, který se bál síly svých dětí a uvěznil je v hlubinách země. Gaia, plná bolesti, se rozhodla jednat – nabídla svým dětem možnost svrhnout tyrana. Všichni se báli, kromě nejmladšího – lstivého Krona. Gaia mu dala srp a Kronos přišel v noci, když Uranos sestoupil – a v překvapivém útoku ho zbavil moci i plodnosti. Z krve Uranose vznikly Erinye, obři a nymfy Meliady. Kronos pak osvobodil své sourozence a stal se vládcem světa. Vzal si svou sestru Rheu a spolu zplodili nové božstvo – Hestii, Deméter, Héru, Háda, Poseidóna a nakonec Dia."
+                    },
 
                     "branch2": {
-                        "title": "Миф о Пане.",
+                        "title": "Mýtus o Panovi",
                         "pic": "./assets/images/myth/capricornMyth/pan.jpg",
-                        "description": "Миф о Пане рассказывает о древнегреческом боге лесов, пастушества, природы и плодородия, который изображался с рогами, копытами и бородой, напоминающими козла. Пан был сыном Гермеса и нимфы Дриопы и родился с козлиными ногами и рогами, что вызвало ужас у его матери. Однако Гермес, его отец, принял его и перенес на Олимп, где боги и нимфы с радостью приняли Пана. Пан был известен своим весёлым и беззаботным нравом, он любил играть на флейте и устраивать забавы. Одна из наиболее известных историй о Пане — это его спасение от чудовищного Тифона. Когда Тифон атаковал Олимп, боги были вынуждены бежать. Пан бросился к реке и прыгнул в воду, чтобы скрыться. В воде нижняя часть его тела превратилась в рыбий хвост, в то время как верхняя часть осталась козлиной."
+                        "description": "Mýtus o Panovi vypráví o řeckém bohu lesů, pastvin, přírody a plodnosti, zobrazovaném s rohy, kopyty a kozlí bradou. Byl synem Herma a nymfy Dryopy a narodil se s kozlími nohami a rohy, což vyděsilo jeho matku. Hermes však dítě přijal a odnesl ho na Olymp, kde si ho bohové i nymfy oblíbili. Pan byl známý svou veselou a bezstarostnou povahou – miloval hudbu, tanec a žerty. Jedním z nejznámějších příběhů je jeho útěk před Týfónem: když toto monstrum napadlo Olymp, Pan skočil do řeky a jeho spodní část těla se proměnila v rybí ocas, zatímco horní zůstala kozlí. Tato podoba dala vzniknout obrazu Kozoroha – napůl kozy, napůl ryby – jako symbolu přežití skrze přizpůsobení."
                     },
 
                 },
 
                 "facts": [
-                    ["Шаг за шагом:", "Козероги обладают железной дисциплиной и верой в «план выше сиюминутных желаний». Даже в кризисах они методично идут к цели, как альпинисты к вершине."],
-                    ["Все идет по плану:", "Любовь к порядку делает Козерогов мастерами систем. Они создают чёткие планы и следуют им, даже если это требует многих лет упорного труда."],
-                    ["Глубокое погружение:", "Козероги — перфекционисты в своей области. Они изучают предмет до мелочей, будь то финансовая отчётность или кладка кирпича, стремясь к безупречности."],
-                    ["Синдром долгостроя:", "Многие Козероги годами улучшают проект, откладывая его запуск «до идеала»."],
-                    ["Альпинист:", "Сатурн, управляющий знаком, даёт тягу к иерархии: они мечтают о карьерных вершинах и готовы десятилетиями карабкаться к ним."]
-                ]
+                    ["Krok za krokem:", "Kozorozi mají železnou disciplínu a víru v ‚plán nad touhami okamžiku‘. I v krizích kráčejí metodicky – jako horolezci k vrcholu."],
+                    ["Všechno podle plánu:", "Láska k řádu z nich dělá mistry systémů. Vytvářejí dlouhodobé plány a vytrvale je naplňují – i za cenu let úsilí."],
+                    ["Hluboké ponoření:", "Jsou perfekcionisty ve svém oboru – ať jde o finanční výkaznictví či kladení cihel, chtějí znát každý detail."],
+                    ["Syndrom nedokončeného díla:", "Mnoho Kozorohů roky vylepšuje projekt, odkládají jeho spuštění ‚až to bude dokonalé‘."],
+                    ["Horolezec:", "Saturn, jejich vládce, vdechuje touhu po hierarchii: sní o vrcholcích a jsou ochotni lézt k nim celé dekády."]
+                ],
             },
 
-        "childhood": {
-                "description": "Ребёнок-Козерог — маленький стратег с врождённым чувством ответственности. С ранних лет он проявляет серьёзность, предпочитая игры с чёткими правилами и измеримым результатом. Его домик из кубиков всегда симметричен, а игрушки рассортированы по категориям. Он рано учится читать, выбирая энциклопедии вместо сказок, и составляет расписания «на взрослый манер». В дружбе избирателен: ценит тех, кто разделяет его амбиции, но держит дистанцию с легкомысленными сверстниками. Его сила — в упорстве: если решил собрать пазл из 1000 деталей, не отступит до последней частички.",
+            "childhood": {
+                "description": "Dítě Kozoroh je malý stratég s vrozeným smyslem pro odpovědnost. Už od raného věku je vážné, dává přednost hrám s jasnými pravidly a měřitelným výsledkem. Jeho domeček z kostek je vždy symetrický a hračky pečlivě roztříděné podle kategorií. Rádo čte encyklopedie místo pohádek a vytváří si rozvrhy jako 'dospělí'. Ve vztazích je vybíravé – váží si vrstevníků, kteří sdílejí jeho cíle, a drží odstup od lehkovážných kamarádů. Jeho síla spočívá ve vytrvalosti: rozhodne-li se složit tisícidílné puzzle, nevzdá to, dokud nedosadí poslední kousek.",
 
                 "perks": [
-                    ["Целеустремлённость:", "В 6 лет объявляет, что станет директором банка, и копит «стартовый капитал» в копилке."],
-                    ["Организованность:", "Раскладывает школьные принадлежности по цветам и размерам, как музейные экспонаты."],
-                    ["Прагматизм:", "Меняет карманные деньги на «акции» домашнего ларька с печеньем."],
-                    ["Сдержанность:", "Отвечает на похвалу кивком, но тайно гордится своими пятерками."],
-                    ["Терпение:", "Собирает модель замка неделями, не пропуская ни одной детали."]
+                    ["Cílevědomost:", "V šesti letech prohlásí, že bude ředitelem banky, a spoří si 'startovní kapitál' do prasátka."],
+                    ["Organizovanost:", "Seřadí školní potřeby podle barev a velikostí – jako kurátor ve vitríně."],
+                    ["Pragmatismus:", "Vymění kapesné za 'akcie' domácího sušenkového stánku."],
+                    ["Střídmost:", "Na pochvalu kývne, ale uvnitř si potají užívá svých jedniček."],
+                    ["Trpělivost:", "Týdny skládá model hradu, aniž by vynechal jediný detail."]
                 ]
             },
 
             "schoolboy": {
-                "description": "Козерог в школе — выделяется своей организованностью, дисциплиной и целеустремлённостью. Его конспекты — это настоящий образец порядка: аккуратные записи, цветные схемы, пометки на полях и графики прогресса. Он тщательно подходит к каждому учебному предмету, стремясь к совершенству во всём, что делает. Для него учеба — это не просто необходимость, а важная часть его пути к будущей карьере. Козерог часто доминирует в олимпиадах по таким предметам, как математика и история. Он видит в них возможность для саморазвития и тренировки своих интеллектуальных способностей. Олимпиады для него — это не просто соревнования, а способ проверить свои знания и умения на практике, а также подготовиться к будущим профессиональным вызовам. Даже на уроках физической культуры Козерог подходит к заданиям стратегически. Он тщательно рассчитывает свои силы на весь забег, избегая бросков с первых секунд. Его подход основан на планировании и рациональном использовании ресурсов, что помогает ему достигать высоких результатов и в спорте. В общении с одноклассниками Козерог известен своей надёжностью и ответственностью. Ему доверяют важные задания и проекты, зная, что он справится с ними на высшем уровне. Однако его требовательность и стремление к совершенству могут вызывать некоторое напряжение в командной работе. Командный проект с Козерогом часто превращается в настоящую защиту диплома, так как он стремится к высоким стандартам и не приемлет халатного отношения к задачам. Кроме того, Козерог обладает высоким уровнем самоорганизации и умеет планировать своё время. Он умеет совмещать учёбу, дополнительные занятия и личные интересы, находя баланс между всеми аспектами своей жизни. Его подход к учёбе и жизни основан на дисциплине и целеустремлённости, что позволяет ему достигать высоких результатов и быть примером для других.",
+                "description": "Školní Kozoroh je zosobněním organizovanosti a cílevědomosti. Jeho sešity připomínají architektonické výkresy – čisté, barevně členěné, s postranními poznámkami a grafy pokroku. Věří, že každá hodina je cihlou v jeho budoucí kariéře. Exceluje v předmětech jako matematika či dějepis – olympiády pro něj nejsou soutěž, ale trénink odolnosti a přesnosti. I v tělocviku jede na strategii – správně rozkládá síly a dosahuje vyvážených výkonů. Mezi spolužáky je respektovaný – dostává klíčové role v projektech, protože nezklame. Ale jeho důslednost a vysoké nároky mohou působit jako tlak. Spolupráce s ním připomíná zkoušku dospělosti – vyžaduje disciplínu, ale učí profesionalitě. Umí si skvěle organizovat čas, ať už jde o učení, kroužky nebo volno. Jeho přístup k životu je jako dobře naplánovaná expedice – trpělivá, systematická a vedoucí ke skutečným výšinám.",
 
                 "inclinations": [
-                    ["Научные кружки:", "Участвует в математических боях и исторических реконструкциях с точностью до дат."],
-                    ["Шахматы и стратегии:", "Выигрывает турниры благодаря расчёту на 10 ходов вперёд."],
-                    ["Предпринимательство:", "Организует школьную ярмарку с бизнес-планом и отчётом о прибыли."]
+                    ["Vědecké kroužky:", "Účastní se matematických bitev a historických rekonstrukcí – s daty v malíčku."],
+                    ["Šachy a strategie:", "Vyhrává turnaje díky plánování o deset tahů dopředu."],
+                    ["Podnikavost:", "Organizuje školní jarmark s byznysplánem a přehledem zisku."]
                 ],
 
                 "perks": [
-                    ["Системное мышление:", "Делит большой проект на этапы с дедлайнами, как генеральный директор."],
-                    ["Амбициозность:", "Соревнуется не с одноклассниками, а с рекордами нобелевских лауреатов."],
-                    ["Самоконтроль:", "Отказывается от соцсетей в экзаменационный период «ради фокуса»."],
-                    ["Консерватизм:", "Спорит с учителем литературы, защищая классиков от модернистских трактовок."],
-                    ["Перфекционизм:", "Переписывает конспект из-за одной помарки, хотя текст идеально читается."]
+                    ["Systémové myšlení:", "Rozděluje projekt na fáze s termíny – jako generální ředitel."],
+                    ["Ambicióznost:", "Nezávodí se spolužáky, ale s rekordy Nobelových laureátů."],
+                    ["Sebeovládání:", "V době zkoušek blokuje sociální sítě ‚kvůli soustředění‘."],
+                    ["Konzervatismus:", "Hájí klasiky proti avantgardě – klidně i proti učiteli."],
+                    ["Perfekcionismus:", "Přepisuje celý sešit kvůli jediné chybičce – i když je stále čitelný."]
                 ]
             },
 
             "adult": {
-                "description": "Взрослый Козерог — это человек, который стремится к построению своей собственной империи. Он обладает амбициозностью, целеустремлённостью и стремлением к профессиональному росту. Козероги выбирают профессии, где ценятся опыт, иерархия и дисциплина. Такие сферы, как юриспруденция, управление проектами, архитектура или госслужба, идеально подходят для них. В этих областях они могут реализовать свои способности к стратегическому планированию, анализу и управлению. Офис взрослого Козерога — это образец минимализма и организованности. Козероги тщательно следят за своим рабочим пространством, стремясь к максимальной эффективности и продуктивности. В отношениях взрослый Козерог ценит стабильность, надёжность и поддержку. Козерогам важна эмоциональная безопасность и уверенность в своём партнёре. Они стремятся к долгосрочным отношениям, основанным на взаимном уважении и доверии. Идеальный партнёр для Козерога — это тот, кто понимает его амбиции и готов поддерживать его в достижении целей. Козероги также воспитывают своих детей по системе «бонусов за достижения». Они поощряют успехи и поддерживают стремление к развитию. В их воспитательном подходе важное место занимает дисциплина, трудолюбие и целеустремлённость. Козероги помогают своим детям ставить цели и достигать их, учат их ответственности и самостоятельности. Взрослый Козерог — это также человек, который ценит личное развитие и самообразование. Для них важно быть в курсе последних тенденций и технологий в своей сфере деятельности. Это позволяет им оставаться конкурентоспособными и достигать новых высот в карьере. Козероги обладают способностью видеть перспективы и превращать идеи в реальные проекты. Они умеют анализировать ситуации и принимать взвешенные решения. Их стратегическое мышление и дальновидность помогают им достигать своих целей и строить успешную карьеру.",
+                "description": "Dospělý Kozoroh je stavitel vlastní říše – ambiciózní, cílevědomý a oddaný profesnímu růstu. Volí profese, kde se cení zkušenost, hierarchie a disciplína: právo, projektový management, architektura či státní správa mu nabízejí prostor pro strategii, rozhodování i systematický rozvoj. Jeho kancelář je vzorem minimalismu – každý předmět má své místo, vše směřuje k produktivitě. V osobních vztazích hledá stabilitu, spolehlivost a emocionální jistotu. Partnera vnímá jako spojence – potřebuje důvěru i podporu na cestě k cílům. Ve výchově aplikuje ‚bonusový systém‘ – úspěch se odměňuje, růst se podporuje. Děti učí zodpovědnosti, samostatnosti a cílené práci. Kozoroh se neustále vzdělává – sleduje trendy, učí se nové technologie, rozvíjí kompetence. Má výjimečný dar měnit vize ve struktury – promyšleně, krok po kroku. Jeho myšlení je jako šachová partie – vidí několik tahů dopředu a rozhoduje bez zbytečných emocí.",
 
                 "perks": [
-                    ["Карьерный альпинизм:", "Поднимается с должности стажёра до топ-менеджера быстрее, чем коллеги осваивают офисный кофеварку."],
-                    ["Финансовая дисциплина:", "Инвестирует 30% зарплаты даже при скромном доходе."],
-                    ["Дипломатия власти:", "Разрешает конфликты молчаливым взглядом, без повышения тона."],
-                    ["Традиционализм:", "Выбирает классический костюм даже на корпоратив в стиле «хиппи»."],
-                    ["Ответственность:", "Работает в выходные, если это «спасёт квартальный отчёт»."]
+                    ["Kariérní horolezec:", "Vyšplhá z pozice stážisty na seniora dřív, než ostatní zjistí, jak funguje kávovar."],
+                    ["Finanční disciplína:", "Odkládá 30 % platu, i když se živí instantními nudlemi."],
+                    ["Diplomacie moci:", "Utiší konflikt pohledem – bez zvednutí hlasu."],
+                    ["Tradicionalismus:", "Na hippie večírek přijde v saku a s poznámkovým blokem."],
+                    ["Odpovědnost:", "Zachraňuje kvartální výkaz i za cenu víkendů bez spánku."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилой Козерог — это воплощение мудрости, дисциплины и стратегического мышления. С годами он приобрёл огромный жизненный опыт и накопил множество достижений. Пожилой Козерог часто занимает важные руководящие должности, такие как глава совета директоров крупных компаний или авторитетный консультант в своей области. Пожилой Козерог не только наслаждается плодами своих трудов, но и активно передаёт свои знания и опыт молодым поколениям. Он учит своих внуков играть в шахматы, объясняя им стратегические принципы, которые можно применять не только на шахматной доске, но и в жизни. Попутно он делится своими знаниями, рассказывая о важности планирования и рационального использования ресурсов. Даже на пенсии пожилой Козерог остаётся верен своим принципам организованности и планирования. Он составляет расписание на год вперёд, тщательно планируя своё время и дела. Отпуск для него — это не просто время отдыха, а продуманный и структурированный процесс. Он рассматривает его как бизнес-трип, стремясь максимально эффективно использовать время для восстановления сил.",
+                "description": "Starý Kozoroh je ztělesněním moudrosti, disciplíny a strategického myšlení. V průběhu života nasbíral cenné zkušenosti a často stojí v čele významných institucí – jako předseda správní rady nebo vážený poradce. Své dovednosti však neukrývá – aktivně je předává dál, učí vnoučata šachům jako škole života a vysvětluje principy plánování jako nástroj růstu. I na důchodu se řídí kalendářem – dovolenou plánuje jako pracovní cestu, aby z ní vytěžil maximum. Jeho každodenní rituály jsou promyšlené jako stavební plán – protože i odpočinek má sloužit účelu. V rodině je ikonou stability – jeho ticho často váží víc než mnohá slova. A pokud sestavuje závěť, pak s tabulkou, poznámkami a plánem na několik generací dopředu.",
 
                 "perks": [
-                    ["Наставничество:", "Читает лекции в университете, требуя от студентов «железных конспектов»."],
-                    ["Филантропия:", "Создаёт фонд помощи, но проверяет каждую копейку отчётов лично."],
-                    ["Консервация привычек:", "Пьёт кофе ровно в 7:47 утра из одной и той же чашки 40 лет."],
-                    ["Авторитетность:", "Его молчание на семейном ужине весомее часовых тирад."],
-                    ["Легаси-менеджмент:", "Составляет завещание с приложениями в Excel на 20 листах."]
+                    ["Mentorství:", "Přednáší na univerzitě a trvá na ‚železných poznámkách‘."],
+                    ["Filantropie:", "Zakládá nadační fond – ale účtenky kontroluje osobně."],
+                    ["Zachování rituálů:", "Pije kávu každý den v 7:47 z téhož hrnku už 40 let."],
+                    ["Autorita ticha:", "Na rodinné večeři říká málo – ale to málo váží mnoho."],
+                    ["Správa odkazu:", "Dědictví sestavuje v Excelu – na dvacet listů."]
                 ]
             },
 
             "work": {
-                "description": "В работе Козерог проявляет себя как стратег и архитектор систем, ценящий стабильность и долгосрочное планирование. Его природная дисциплина и амбиции делают его идеальным кандидатом для проектов, требующих структуры и последовательности. Этот знак зодиака преуспевает в средах с чёткими иерархиями, где можно постепенно подниматься по карьерной лестнице. Козерог выбирает профессии в управлении, финансах, юриспруденции и инженерии. Он ценит возможность строить наследие, а не мгновенные результаты, и готов десятилетиями работать ради цели. Однако его консерватизм и ригидность иногда мешают адаптироваться к изменениям, а перфекционизм может замедлять прогресс. Идеальная работа для Козерога — баланс между амбициями и стабильностью, где каждый шаг укрепляет его авторитет.",
+                "description": "Kozoroh v práci vystupuje jako strateg a stavitel systémů – cení si stability, struktury a dlouhodobého plánování. Díky přirozené disciplíně a ambicím je ideálním hráčem pro projekty vyžadující precizní postup a odolnost. Vyniká v prostředích s jasnou hierarchií, kde může klidně a cílevědomě stoupat výš. Upřednostňuje profese ve vedení, financích, právu a inženýrství – kde lze budovat odkaz namísto okamžitého lesku. Jeho silou je trpělivá vytrvalost – slabinou může být neochota změnit zažitý systém nebo perfekcionismus, který brzdí tempo. Ideální práce mu nabízí kombinaci ambice a bezpečného rámce – kde každý krok buduje pevnější základ autority.",
 
                 "perks": [
-                    ["Системное мышление:", "Разрабатывает пошаговые планы, учитывающие риски на десятилетия вперёд."],
-                    ["Карьерный альпинизм:", "Методично поднимается от стажёра до топ-менеджера, минуя все ступени иерархии."],
-                    ["Финансовая дисциплина:", "Инвестирует в надёжные активы, избегая спекулятивных авантюр."],
-                    ["Ответственность:", "Выполняет обязательства даже в кризисах, становясь «последней опорой» команды."],
-                    ["Терпение:", "Готов годами улучшать проект, чтобы выпустить его в идеальном состоянии."],
-                    ["Авторитет:", "Разрешает конфликты одним взглядом, не повышая голоса."]
+                    ["Systémové myšlení:", "Navrhuje plány s rezervami a variantami – na dekády dopředu."],
+                    ["Kariérní horolezec:", "Metodicky stoupá z pozice stážisty až k výkonnému řediteli."],
+                    ["Finanční kázeň:", "Investuje do stabilních aktiv – riskuje jen s dobrým důvodem."],
+                    ["Zodpovědnost:", "Drží tým i v krizi – stává se posledním pilířem stability."],
+                    ["Trpělivost:", "Ladí projekt roky, aby byl uveden v perfektní podobě."],
+                    ["Autorita:", "Uklidní hádku jediným pohledem – bez jediného výkřiku."]
                 ],
 
                 "conditions": [
-                    ["Чёткая иерархия:", "Понятные правила продвижения и уважение к опыту."],
-                    ["Долгосрочные цели:", "Проекты с измеримыми результатами и планом на годы."],
-                    ["Стабильность:", "Гарантии занятости и предсказуемый рабочий график."]
+                    ["Jasná hierarchie:", "Průhledná pravidla postupu a úcta k senioritě."],
+                    ["Dlouhodobé cíle:", "Projekty s měřitelnými výsledky a výhledem na roky."],
+                    ["Stabilita:", "Záruka zaměstnání a předvídatelný pracovní rytmus."]
                 ],
 
                 "professions": [
-                    ["Управляющий директор:", "Построение корпоративных структур и контроль над операциями."],
-                    ["Финансовый аналитик:", "Прогнозирование рынков и минимизация рисков для клиентов."],
-                    ["Архитектор:", "Проектирование зданий, которые простоят века."],
-                    ["Госслужащий:", "Реформирование систем с опорой на традиции и законы."],
-                    ["Ювелир:", "Создание timeless-украшений с безупречной точностью."]
+                    ["Výkonný ředitel:", "Budování struktur a dohled nad klíčovými procesy."],
+                    ["Finanční analytik:", "Predikce trhů a ochrana investic klientů."],
+                    ["Architekt:", "Navrhování staveb, které přežijí staletí."],
+                    ["Státní úředník:", "Reformy založené na zákonech a tradici."],
+                    ["Klenotník:", "Vytváření bezčasových šperků s mistrovskou přesností."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Козерог в романтических отношениях — это надёжный партнёр, для которого любовь — фундамент, а не огонь. Он выбирает свидания с смыслом: ужин в ресторане с мишленовской звездой или посещение лекции о инвестициях. Его подарки практичны: антикварные часы или акции перспективной компании. Он ищет партнёра, который станет «соавтором» его успеха — того, кто ценит традиции, уважает личное пространство и готов строить отношения как долгосрочный проект. Его слабость — эмоциональная сдержанность: он выражает заботу через действия, а не слова. Идеальный партнёр для Козерога — тот, кто не требует постоянных признаний, но ценит стабильность и глубину."
+                    "description": "Kozoroh v lásce je jako kámen v základě domu – stabilní, věrný a spolehlivý. Lásku chápe jako dlouhodobý projekt, ne jako krátkodobý románek. Jeho rande nejsou o růžových balónech, ale o smyslu – výjimečná večeře, návštěva přednášky nebo sdílení životních hodnot. Dárky dává s vizí – třeba starožitné hodinky nebo akcie slibné firmy. Hledá partnera, který bude parťákem v budování – někdo, kdo ctí tradice, chápe potřebu prostoru a věří ve společnou budoucnost. Emoce ukazuje spíše činy než slovy – oporou, loajalitou, zajištěním. Ideální vztah s Kozorohem nestojí na dramatu, ale na důvěře a tichém respektu."
                 },
 
                 "friend": {
-                    "description": "Козерог в дружбе — это опора. Он не организует спонтанные походы, но поможет составить бизнес-план или даст совет по ипотеке. Его дружба проверяется временем: он избегает поверхностных связей, предпочитая узкий круг «проверенных десятилетиями». Он поддержит в кризисе деньгами или связями, но вряд ли будет утешать — вместо этого предложит чёткий план действий. Его слабость — неумение расслабляться: даже на пикнике он может начать обсуждать налоговые вычеты. Идеальный друг для Козерога — тот, кто напомнит, что жизнь не только про достижения, но и про тихие вечера у камина."
+                    "description": "Přátelství s Kozorohem je jako most – pevné, tiché a stabilní. Neskočí s vámi do bazénu o půlnoci, ale pomůže spočítat hypotéku a postavit kariérní plán. Upřednostňuje trvalé vazby před náhodnými známostmi – jeho přátelé jsou ti, kdo vydrželi zkoušku času. V krizích nepodává kapesník, ale mapu – nabídne řešení, ne lítost. Jeho slabinou je neschopnost vypnout – i na grilovačce otevře téma daní. Nejlepší přítel pro Kozoroha? Ten, kdo mu připomene, že život je i o radosti, ne jen o výsledcích."
                 },
 
                 "foe": {
-                    "description": "Козерог в роли врага — это холодный и расчетливый стратег, который действует с точностью и планированием. Его подход к противникам не основан на эмоциях, а на методичном и систематическом подходе. Он не будет кричать или высмеивать, вместо этого он применяет свои знания и умения, чтобы заблокировать продвижение своего оппонента. Козерог тщательно изучает слабости своего врага и методично собирает компромат, который может использовать в нужный момент. Он знает правила игры и умеет пользоваться бюрократическими механизмами, законами и корпоративными уставами, чтобы нейтрализовать своих противников. Его глубокие познания в этих областях позволяют ему действовать в рамках закона, но при этом эффективно мешать своим оппонентам достигать целей. Оружие Козерога — это его знание правил. Его подход к конфликтам всегда стратегический и дальновидный. Козерог внимательно планирует каждый свой шаг и избегает необдуманных действий. Главная уязвимость Козерога — это страх публичного провала. Он стремится к безупречной репутации и боится, что его ошибки или недостатки станут известны авторитетным фигурам и широкому кругу людей. Если вы сможете раскрыть его ошибки или недостатки перед важными лицами, его репутация даст трещину, и это станет сильным ударом для него. Главная опасность Козерога — его терпение. Он может ждать годы, чтобы нанести удар в самый подходящий момент. Козерог не спешит и готов вкладывать время и усилия в подготовку своих действий. Его умение ждать и планировать делает его чрезвычайно опасным противником. Кроме того, Козерог не подвержен импульсивным решениям и эмоциональным вспышкам. Его хладнокровие и способность оставаться спокойным даже в напряжённых ситуациях позволяют ему принимать взвешенные и обдуманные решения. Он всегда действует с целью и не теряет времени на бессмысленные конфликты."
+                    "description": "Kozoroh jako nepřítel je jako šachista s dokonalou pamětí – klidný, vyčkávající a extrémně nebezpečný. Nebude křičet – ale najde vaši slabinu, vyhodnotí okolnosti a zasadí přesný úder v ten nejcitlivější okamžik. Vládne pravidlům, byrokracii a struktuře – a dokáže s jejich pomocí zastavit váš postup bez porušení pravidel. Neútočí emotivně – ale strategicky. Jeho největším zranitelným bodem je reputace: obává se veřejného selhání, a pokud jej někdo usvědčí z chyby před autoritou, je to pro něj devastující. Jeho největší zbraní je však trpělivost – čeká klidně roky, aby se pomstil bezchybně. Konflikt s ním není bouře – ale dlouhé, tiché zemětřesení."
                 }
-            }
+            },
         },
 
         {
             "className": "aquarius",
-            "name": "Водолей",
-            "date": "Январь 20 - Февраль 18",
+            "name": "Vodnář",
+            "date": "20. ledna – 18. února",
             "sign": "./assets/images/signsMain/aquarius.png",
-            "planet": "Уран, Сатурн",
+            "planet": "Uran, Saturn",
             "planetPic": "./assets/images/planets/uranusSaturn.jpg",
 
             "description": {
 
-            "common": "Водолей — это провидец будущего, воплощающий инновации, гуманизм и коллективный прогресс. Эти люди обладают даром видеть мир не таким, какой он есть, а каким он мог бы быть. Их сущность двойственна: одни — бунтари-одиночки, ломающие шаблоны ради прорывных идей, другие — вдохновители масс, сплачивающие людей вокруг утопических идеалов. Их мышление — сплав научной фантастики и социальной инженерии, где каждый проект становится экспериментом по улучшению человечества. Ключевая характеристика Водолеев — попытка балансировать между гениальностью и эксцентричностью. Они создают технологии завтрашнего дня, но могут забыть поесть сегодня. Их слабость — неприятие рамок: попытка втиснуть их в традиционные роли вызывает внутренний бунт.",  
+                "common": "Vodnář je vizionář budoucnosti – ztělesňuje inovace, humanismus a kolektivní pokrok. Vidí svět ne takový, jaký je, ale jaký by mohl být. Jeho podstata je dvojí: jedni jsou osamělí rebelové bořící stereotypy kvůli průlomovým nápadům, druzí jsou inspirátoři davů, kteří spojují lidi kolem utopických vizí. Jeho myšlení je slitinou sci-fi a sociálního inženýrství – každý projekt je pokus o zlepšení lidstva. Klíčovou vlastností Vodnáře je balanc mezi genialitou a excentričností. Vytváří technologie zítřka, ale zapomene dnes obědvat. Jeho slabinou je odpor ke škatulkám – pokus vtlačit ho do tradičních rolí vyvolá vnitřní revoltu.", 
 
-                "archetype": {  
-                    "extra": "Экстравертные Водолеи предпочитают коллективные действия и общественную деятельность. Их стремление к объединению и сотрудничеству позволяет им воплощать свои идеи через взаимодействие с другими людьми и коллективное творчество.",  
-                    "intro": "Интровертные Водолеи направляют свою энергию внутрь себя и в цифровые миры. Они могут разрабатывать нейросети, писать манифесты для Web 4.0 или становиться «тихими диссидентами» в социальных сетях. Их способности к глубокому анализу и самостоятельной работе позволяют им добиваться значительных успехов в цифровых и виртуальных пространствах."  
-                },  
+                "archetype": {
+                    "extra": "Extrovertní Vodnáři tíhnou k veřejnému působení – své ideály a vize naplňují skrze kolektivní akce, komunitní projekty a spolupráci. Umí spojovat lidi, inspirovat a vést týmy za účelem sociálních nebo kulturních změn.",
+                    "intro": "Introvertní Vodnáři směřují svou sílu do vnitřního světa a digitální sféry – tvoří neuronové sítě, píší manifesty pro Web 4.0 nebo působí jako tiší rebelové v online komunitách. Jejich analytické schopnosti a samostatnost vedou k inovacím v kyberprostoru i intelektuální originalitě."
+                },
 
-                "planet": "Знаком Водолея управляет дуэт Урана и Сатурна. Уран — бунтующий гений, приносящий озарения как удар молнии. Он дарит способность видеть связи там, где другие видят хаос, и смелость отвергать догмы. Сатурн (традиционный управитель) добавляет системность: превращает бунт в реформы, а хаотичные идеи — в работающие прототипы. Уран хочет революционных изменений и разрушения старых правил, в то время как Сатурн говорит, что сначала нужно всё тщательно спланировать и подготовить. Вместе они создают интересное сочетание — стремление к новаторству и желание сохранять порядок. Слабость этого дуэта — в разрыве между мечтой и реальностью: Водолеи могут годами совершенствовать идею, которая уже устарела, или шокировать общество ради самого шока.",
+                "planet": "Znamení Vodnáře ovládá dvojice Uran a Saturn. Uran je elektrický génius – přináší náhlé vhledy, revoluční nápady a schopnost propojit nespojitelné. Saturn přidává rámec a strukturu – proměňuje rebelii v reformu a chaos v metodu. Uran říká: ‚Znič staré!‘, Saturn odpovídá: ‚Postav něco lepšího.‘ Společně tvoří zvláštní spojení: touhu po revoluci a potřebu systému. Jejich slabinou může být rozpor mezi vizí a realitou – Vodnáři někdy ladí nápady tak dlouho, až svět jde dál, nebo provokují jen kvůli reakci. Ale právě tento tanec mezi chaosem a řádem je jejich jedinečnou silou.",
 
                 "mythology": {
 
                     "pic": "./assets/images/myth/aquarisMyth/eagle.jpg",
-                    "main": "Символ Водолея связан с мифом о Ганимеде — прекрасном юноше, который был вознесён на Олимп по велению самого Зевса. Ганимед, сын царя Троса и молодой принц Трои необычайной красоты, привлёк внимание Зевса своей внешностью и добродетелью. Восхищённый юношей, Зевс превратился в орла и похитил Ганимеда, перенеся его на Олимп, чтобы тот стал виночерпием богов. Ганимед должен был подавать богам амброзию и нектар, дарующие бессмертие. Однако, вместо традиционных обязанностей виночерпия, Ганимед решил предложить богам не вино, а воду знаний. Он стремился одарить человечество мудростью и просвещением, желая разрушить существующие иерархии и дать людям равный доступ к истине. Его поступок символизировал бунт против установленных порядков и стремление к прогрессу. Разгневанные его действиями, боги низвергли кувшин с водой знаний, но вместо того, чтобы уничтожить его дар, из разлившейся воды родились реки просвещения. Эти реки начали течь по всей земле, принося знания и мудрость каждому, кто был готов принять их. Таким образом, усилия Ганимеда не прошли даром, и его стремление к равенству и просвещению стало осуществляться, несмотря на сопротивление богов. Этот миф отражает суть знака Водолея: бунт против иерархий и установленных правил ради равного доступа к истине и знаниям. Как Ганимед бросил вызов богам, так и Водолеи стремятся ломать системы и разрушать старые порядки, чтобы идеи могли течь свободно и достигать каждого. Водолеи известны своей оригинальностью, независимостью и стремлением к новаторству. Они не боятся идти против течения, искать новые пути и делиться своими открытиями с миром.",  
+                    "main": "Symbol Vodnáře je spojen s mýtem o Ganymédovi – krásném princi z Tróje, kterého Zeus unesl na Olymp v podobě orla. Původně měl Ganyméd sloužit bohům jako číšník nesmrtelnosti – podávat ambrosii a nektar. Ale v této verzi příběhu se rozhodl nabídnout bohům místo vína vodu poznání – chtěl otevřít přístup ke moudrosti pro celé lidstvo. Jeho čin byl vzpourou proti hierarchii a snahou o rovnost – ačkoli rozhněval bohy, jeho gesto rozlilo řeky poznání po celém světě. Tento mýtus vystihuje podstatu Vodnáře: intelektuální rebelii, která neničí pro chaos, ale proto, aby proudilo světlo poznání ke všem. Ganymédova odvaha stát se nositelem změny, navzdory božskému řádu, rezonuje s Vodnáři, kteří jdou proti proudu, aby otevřeli nové obzory – ne pro slávu, ale pro sdílenou budoucnost.",
 
                     "branch1": {
-                        "title": "Миф о Прометее.",
+                        "title": "Mýtus o Prométheovi",
                         "pic": "./assets/images/myth/aquarisMyth/prometey.jpg",
-                        "description": "Миф о Прометее рассказывает о титане-благодетеле, который стал символом мужества и жертвенности ради человеческого прогресса. Прометей был сыном титана Иапета и нимфы Климены. Он отличался умом и мудростью и был известен своей симпатией к людям. Прометей увидел, что люди живут в темноте и холоде, не имея огня для тепла и приготовления пищи. Он решил помочь им, несмотря на запрет Зевса, верховного бога Олимпа, дарить огонь смертным. Прометей обманул Зевса, украл огонь с Олимпа и принёс его людям, спрятав в тростниковом стебле. Этот огонь стал источником света и тепла для человечества, позволив людям развивать ремесла, науку и искусство. Зевс был в ярости, узнав о поступке Прометея. Он решил жестоко наказать титана за его непослушание и помощь людям. Прометея приковали к скале на Кавказских горах, где каждый день орёл прилетал и клевал его печень. Это бесконечное страдание символизировало вечное наказание за его бунт против воли богов. Миф о Прометее отражает темы жертвенности, мужества и стремления к знанию и прогрессу. Прометей стал «отцом» человеческого прогресса, подарив людям огонь и тем самым способствовав их развитию и процветанию. Его муки и страдания не были напрасны, так как они привели к освещению пути для многих поколений. Для Водолея Прометей — это архетип революционера, готового пожертвовать собой ради большего блага. Его стремление к знаниям и желание помочь человечеству олицетворяют ценности Водолея: борьбу за свободу, равенство и просвещение. Водолеи, как и Прометей, стремятся ломать устаревшие системы и принципы, чтобы дать людям доступ к новым знаниям и возможностям."
-                    },  
+                        "description": "Mýtus o Prométheovi vypráví o titánovi, který se stal symbolem odvahy, oběti a pokroku lidstva. Byl synem titána Iapeta a nymfy Klymeny – proslul svou moudrostí a empatií k lidem. Když viděl, že lidé trpí zimou a tmou, rozhodl se jednat. Navzdory zákazu Dia ukradl z Olympu oheň – skrytý v rákosové stéble ho přinesl lidem. Tento dar umožnil rozvoj řemesel, vědy i kultury. Zeus ho však za neposlušnost krutě potrestal: připoutal ho ke skále v Kavkazu, kde mu denně orel trhal játra. Tento nekonečný trest byl cenou za jeho rebelii. Prométheus se tak stal otcem lidského pokroku – jeho utrpení osvítilo cestu pro generace. V kontextu Vodnáře zosobňuje archetyp revolucionáře, který nese světlo poznání i za cenu bolesti. Jeho snaha osvobodit lidstvo od nevědomosti a nastolit rovnost rezonuje s vodnářskými hodnotami – svoboda, vizionářství a sdílení poznání. Stejně jako Prométheus bourají Vodnáři staré struktury, aby svět mohl růst skrze nové myšlenky."
+                    },
 
                     "branch2": {
-                        "title": "Миф о Девкалионе и Пирре.",
+                        "title": "Mýtus o Deukalionovi a Pyrrze",
                         "pic": "./assets/images/myth/aquarisMyth/flud.jpg",
-                        "description": "Миф о Девкалионе и Пирре рассказывает историю о потопе, посланном Зевсом, и о единственных выживших, которые спаслись и возродили человечество. Девкалион был сыном Прометея, а его жена Пирра была дочерью Эпиметея и Пандоры. Когда Зевс решил уничтожить человечество из-за его грехов, он послал великий потоп, чтобы очистить землю от злых людей. Прометей, зная о приближающейся катастрофе, предупредил своего сына Девкалиона и посоветовал ему построить ковчег. Девкалион и Пирра последовали совету и построили большой ковчег, в котором они смогли укрыться. Потоп продолжался девять дней и ночей, и вся земля была покрыта водой, уничтожив всех людей и животных, за исключением Девкалиона и Пирры. После того, как вода начала отступать, ковчег Девкалиона и Пирры пристал к горе Парнас. Они вышли из ковчега и оказались на опустошённой земле. Они были единственными оставшимися в живых и не знали, как возродить человечество. В поисках совета они обратились к святилищу богини Фемиды, титаниды, которая олицетворяла правосудие и пророчество. Фемида дала им загадочный совет: «Бросайте кости матери за спину». Сначала они не поняли, что это значит, но затем Девкалион догадался, что «кости матери» — это камни, представляющие собой кости Земли (Геи). Девкалион и Пирра начали бросать камни за спину, и каждый камень, упавший на землю, превращался в нового человека. Камни, брошенные Девкалионом, становились мужчинами, а камни, брошенные Пиррой, превращались в женщин. Таким образом, человечество возродилось и начало новую жизнь. Этот миф символизирует не только возрождение после катастрофы, но и силу мужества, мудрости и находчивости. Девкалион и Пирра смогли превозмочь испытания и вернуть жизнь на землю, следуя совету Фемиды и используя символическое действие. В контексте знака Водолея, этот миф также имеет глубокий смысл. Водолей — это символ изменений, прогресса и стремления к обновлению. Потоп, посланный Зевсом, символизирует разрушение старых порядков и очищение от прошлого. Водолей, как и Девкалион, несёт «ковчег идей», спасая важные знания и открытия для будущего возрождения. Он стремится к равенству, справедливости и свободе, разрушая устаревшие системы и создавая новые возможности для прогресса."
-                    
+                        "description": "Příběh o Deukalionovi a Pyrrze vypráví o potopě, kterou seslal Zeus, a o jediných přeživších – kteří díky odvaze a moudrosti dokázali obnovit lidstvo. Deukalion, syn Prométhea, a jeho žena Pyrrha, dcera Epiméthea a Pandory, byli varováni před zkázou. Poslechli radu Prométhea a postavili loď, v níž devět dní přežívali světový potop. Když vody opadly, jejich loď zakotvila na hoře Parnas – ocitli se sami na vyprahlé zemi. V chrámu bohyně Thémy obdrželi záhadné proroctví: ‚Hoďte kosti své matky za sebe.‘ Deukalion pochopil, že ‚matkou‘ je Gaia, Země – a jejími ‚kostmi‘ jsou kameny. Když kameny házeli za sebe, z těch Deukalionových se stávali muži, z Pyrrhiných ženy – a tak lidstvo vstalo znovu. Tento mýtus vypráví nejen o přežití, ale o obrodě přes symbolický čin – kde kámen se mění v život. V kontextu Vodnáře je Deukalion nositelem idejí: jako Vodnář přenáší ‚archu myšlenek‘ přes období destrukce k novému začátku. Potopa představuje zánik starých struktur, a Vodnář – jako archetyp pokroku – znovu rozlévá možnosti, vdechuje život tam, kde už byl jen kámen."
                     },
 
                 },
 
                 "facts": [
-                    ["Особое видение:", "Водолеи обладают даром видеть мир через призму «что если?». Даже в кризисах они ищут нестандартные решения, как изобретатели, переписывающие правила."],
-                    ["Бунтарь:", "Любовь к свободе делает Водолеев архитекторами новых систем. Они ломают шаблоны, заменяя их, даже если мир не готов."],
-                    ["Мечтатель:", "Водолеи — провидцы в своей области. Их идеи опережают время, будь то децентрализованный интернет или колония на Марсе, но часто без детального плана."],
-                    ["Синдром бета-теста:", "Многие Водолеи запускают проекты, чтобы «взорвать рынок», но редко доводят их до релиза."],
-                ]
+                    ["Zvláštní vidění:", "Vodnáři mají dar dívat se na svět prizmatem ‚co kdyby?‘. I v krizích nacházejí nečekaná řešení – jako vynálezci, co přepisují pravidla."],
+                    ["Rebel:", "Láska ke svobodě z nich dělá architekty nových systémů – bourají šablony a tvoří nové struktury, i když na ně svět není připraven."],
+                    ["Snivec:", "Vodnáři jsou vizionáři – jejich nápady předbíhají dobu, ať už jde o decentralizovaný internet nebo kolonii na Marsu. Jen detailní plán často chybí."],
+                    ["Syndrom beta-verze:", "Spousta Vodnářů spustí projekt, který má ‚roztříštit trh‘ – ale jen málokdy ho dotáhnou do finální podoby."]
+                ],
             },
 
-        "childhood": {
-                "description": "Ребёнок-Водолей — это настоящий маленький изобретатель с врождённым любопытством и жаждой знаний. С самого раннего возраста его интересуют вопросы о мире вокруг. Он задаёт неудобные и неожиданные вопросы, которые могут поставить в тупик взрослых: «А почему облака не падают?» или «Как работает электричество?». Его пытливый ум постоянно ищет ответы и новые открытия. Его комната напоминает настоящую лабораторию. Здесь можно найти провода и микросхемы вместо обычных игрушек. Он разбирает свои игрушки, чтобы понять, как они устроены, и нередко пытается собрать из них что-то новое, например, робота или механическое устройство. Его изобретательность не знает границ, и он постоянно придумывает новые проекты и эксперименты. В дружбе ребёнок-Водолей — это магнит для таких же увлечённых и необычных детей. Вместе с друзьями они строят ракеты из картона, шифруют послания инопланетянам и разрабатывают свои собственные научные эксперименты. Их игры и занятия всегда полны креативности и нестандартного подхода. Его сила заключается в умении видеть магию в обычных вещах. Даже лужа на улице может стать для него порталом в другое измерение, где он воображает фантастические приключения и невероятные истории. Его воображение и креативность позволяют ему превращать повседневные объекты в удивительные источники вдохновения.",
+            "childhood": {
+                "description": "Dítě Vodnář je malý vynálezce s vrozenou zvídavostí a neutuchající touhou po poznání. Od útlého věku pokládá záludné otázky, které zaskočí dospělé: „Proč nespadnou mraky?“ nebo „Jak funguje elektřina?“. Jeho pokoj vypadá spíš jako laboratoř než dětský pokoj – všude vodiče, mikročipy a rozebrané hračky, které se snaží přeměnit v roboty nebo nové přístroje. Jeho představivost nezná hranice – i louže na chodníku se v jeho očích mění v portál do jiné dimenze plné dobrodružství. S kamarády vytváří utopické projekty: kartonové rakety, tajné zprávy mimozemšťanům a vlastní pokusy, které připomínají školu budoucnosti. Jeho síla spočívá ve schopnosti vidět kouzlo v obyčejných věcech – ze světa dělá laboratoř snů.",
 
                 "perks": [
-                    ["Любознательность:", "Составляет «список вопросов Вселенной» и ищет ответы в YouTube вместо учебников."],
-                    ["Независимость:", "Отказывается носить школьную форму, превращая её в арт-объект с светодиодами."],
-                    ["Креативность:", "Убеждает класс устроить флешмоб с танцующими роботами вместо контрольной."],
-                    ["Нетерпимость к рутине:", "Взрывает химический набор, чтобы «увидеть настоящую науку»."],
-                    ["Футуризм:", "Рисует комиксы о том, как люди будут жить на астероидах в 3023 году."]
+                    ["Zvídavost:", "Sepisuje ‚seznam otázek Vesmíru‘ a hledá odpovědi na YouTube místo v učebnici."],
+                    ["Nezávislost:", "Školní uniformu přetváří na umělecký projekt se svítícími LED pásky."],
+                    ["Kreativita:", "Přesvědčí třídu, aby místo písemky uspořádala flashmob s roboty."],
+                    ["Nesnášenlivost rutiny:", "Nechává bouchnout chemickou sadu, aby ‚zažil opravdovou vědu‘."],
+                    ["Futurismus:", "Kreslí komiksy o životě lidí na asteroidech v roce 3023."]
                 ]
             },
 
             "schoolboy": {
-                "description": "Водолей в школе — это бунтарь с паяльником и мечтой изменить мир. На уроках он спорит с учителями, доказывая, что история — это «прошлое, которое мешает будущему». Преуспевает в физике и информатике, но терпеть не может шаблонные задания. В школе ребёнок-Водолей проявляет неординарные способности к учёбе. Его интерес к науке и технике делает его отличником в таких предметах, как математика, физика и информатика. Он часто участвует в научных проектах и конкурсах, где может проявить свои таланты и показать свои изобретения. Учителя и одноклассники восхищаются его знаниями и умением решать сложные задачи нестандартным образом. Однако у ребёнка-Водолея могут возникать трудности с дисциплиной и организацией. Его увлечённость новыми идеями и проектами иногда мешает ему сосредоточиться на рутинных заданиях и завершить начатое. Ему важно научиться управлять своим временем и развивать навыки самоорганизации. Родителям и учителям следует поддерживать и поощрять любопытство и креативность Водолея. Они могут создать для него благоприятную среду, где он сможет развивать свои таланты и реализовывать свои идеи. Важно дать ему возможность экспериментировать, пробовать новые вещи и учиться на своих ошибках. Таким образом, ребёнок-Водолей — это маленький изобретатель и креативный мыслитель, который с ранних лет проявляет интерес к миру вокруг и стремится к новым открытиям. Его умение видеть магию в обычных вещах и превращать их в источники вдохновения делает его уникальным и талантливым.",
+                "description": "Školní Vodnář je rebel s páječkou v batohu a vizí změnit svět. Diskutuje s učiteli, tvrdí, že dějepis brzdí budoucnost, a místo slohovky o jarních prázdninách předkládá manifest o decentralizaci školního systému. Exceluje ve fyzice, informatice a matematice – ne kvůli známkám, ale z vášně k poznání. Překypuje nápady, ale rutinní úkoly ho nudí – jeho pozornost je zacílená na to, co přesahuje běžný rámec výuky. Účastní se soutěží, tvoří start-upy z vědeckých projektů a kreslí svou vizi světa zítřka. Potřebuje prostor pro volnost myšlení i trpělivé mentory, kteří přijmou jeho nespoutanost. Je to tvůrce, futurista a mladý disruptor školních vzorců – s hlavou v oblacích a rukama v kódu budoucnosti.",
 
                 "inclinations": [
-                    ["Кружки физики и информатики:", "Участвует в кружках, где изучает физику и информатику, разрабатывает новые изобретения и программирует."],
-                    ["Обсуждения будущих технологий:", "Организует разговоры и дебаты о том, как будет проходить технологическая революция в будущем, и какие изменения она принесёт."],
-                    ["Творчество:", "Занимается творчеством, пишет музыку, рисует и создаёт арт-проекты, проявляя свою креативность и нестандартное мышление."]
+                    ["Kroužky fyziky a informatiky:", "Tvoří prototypy, programuje experimenty a ladí algoritmy na vlastní neuronové síti."],
+                    ["Diskuse o budoucnosti:", "Organizuje debaty o tom, jaké profese vzniknou po roce 2050."],
+                    ["Tvorba a umění:", "Píše postcyberpunkové novely a komponuje hudbu ze zvuků mikroprocesoru."]
                 ],
 
                 "perks": [
-                    ["Гениальная рассеянность:", "Приходит на урок в разных носках, но решает задачи уровня олимпиады."],
-                    ["Нонконформизм:", "Отказывается от оценок, заявляя: «Знания не измерить цифрами»."],
-                    ["Экспериментаторство:", "Превращает школьный проект в стартап по переработке пластика в биотопливо."],
-                    ["Цифровой активизм:", "Взламывает школьный сайт, чтобы добавить туда раздел про этичный хакерство."],
-                    ["Утопическое мышление:", "Пишет манифест школы будущего, где уроки ведут голограммы."]
+                    ["Genialita v chaosu:", "Má ponožky každou jinou, ale počítá integrály v hlavě."],
+                    ["Nonkonformismus:", "Při testu kreslí satiru na hodnotící systém."],
+                    ["Experimentátorství:", "Z projektu na chemii udělá ekologický start-up."],
+                    ["Digitální aktivismus:", "Hackne školní web, aby přidal sekci o bezpečnosti AI."],
+                    ["Utopické myšlení:", "Navrhne školu, kde učí hologramy a učebnice jsou open source."
+                    ]
                 ]
             },
 
             "adult": {
-                "description": "Взрослый Водолей — это новатор и провидец, стремящийся изменить мир в соответствии со своими идеалами. Он выбирает нестандартные профессии, которые позволяют ему реализовать свои уникальные идеи и видение. Водолей может стать организатором культурных событий, курировать арт-галереи или работать над социальными проектами, направленными на улучшение общества. Его рабочие инструменты включают всё, что помогает ему творить и воплощать свои идеи: от холстов и красок до камер и ноутбуков.  Интровертный Водолей часто предпочитает оставаться в стороне от системы. Его интересы сосредоточены на личных проектах и идеях, которые он развивает в одиночку или в небольшой компании единомышленников. Ему важно иметь свободное пространство для творчества и экспериментов, где он может реализовывать свои планы без давления и влияния внешних факторов. Водолей может относиться к системе с определённой долей равнодушия, предпочитая не тратить энергию на борьбу с ней. Вместо этого он фокусируется на своих личных целях и стремится к их достижению, не обращая внимания на мнения других. Его сила — в умении сосредоточиться на своём видении и следовать своим внутренним убеждениям, даже если они не совпадают с общепринятыми нормами.",
+                "description": "Dospělý Vodnář je vizionář a inovátor, který usiluje o proměnu světa podle svých ideálů. Vyhledává profese mimo šablonu – může být kurátorem progresivní galerie, organizátorem kulturních akcí nebo tahounem komunitních projektů. Jeho nástroje? Notebook, fotoaparát, plátno i experimentální platformy – vše, co podpoří realizaci neotřelých nápadů. Introvertní Vodnář funguje v autonomii – tvoří v ústraní, v malém kruhu stejně smýšlejících, bez tlaku a diktátu systému. Společnost pozoruje s odstupem, místo boje ji obchází – soustředí se na vlastní projektovou trajektorii, často radikálně jinou než mainstream. Jeho síla je ve schopnosti jít neprošlapanou cestou – s vnitřní integritou, navzdory konvencím.",
 
                 "perks": [
-                    ["Оптимизм:", "Видит возможности там, где другие видят преграды, и вдохновляет окружающих на изменения."],
-                    ["Коллективное лидерство:", "Создаёт децентрализованные организации без боссов, где каждый участник имеет голос и влияние."],
-                    ["Враг системы:", "Использует творчество и искусство, чтобы критиковать устаревшие нормы и вдохновлять на перемены."],
-                    ["Цифровой кочевник:", "Работает из разных уголков мира, находя вдохновение в путешествиях и новых культурах."],
-                    ["Современный Робин Гуд:", "Реализует социальные проекты, направленные на помощь нуждающимся и улучшение общества."],
-                    ["Мне всё равно:", "Предпочитает оставаться в стороне от системы, фокусируясь на своих личных проектах и идеях, не обращая внимания на мнения других."]
+                    ["Optimismus:", "Vidí příležitosti tam, kde ostatní zahlédnou jen překážky – a inspiruje ostatní k akci."],
+                    ["Kolektivní leadership:", "Zakládá horizontální týmy bez šéfů – každý hlas má váhu."],
+                    ["Protisystémový postoj:", "Kritizuje zastaralé normy uměním, performancí i ironickou estetikou."],
+                    ["Digitální nomádství:", "Pracuje odkudkoli – s hlavou v cloudu a nohama v jurtě."],
+                    ["Sociální Robin Hood:", "Spouští projekty s dopadem – od etických hackathonů po komunitní zahrady."],
+                    ["Nesystémové ladění:", "Ignoruje názor většiny – následuje vlastní vektor, nehledí na poptávku."]
                 ]
             },
 
             "oldman": {
-                "description": "Пожилой Водолей — это мудрый и дальновидный мыслитель, который продолжает стремиться к изменениям и нововведениям. Он может жить в уединённом доме у озера или в экологически чистом поселении, где сочетаются природа и современные технологии. Его дом — это место, где встречаются история и будущее: здесь можно найти старинные книги, артефакты из разных культур и произведения искусства, наряду с современными гаджетами и технологиями. Пожилой Водолей часто рассказывает о будущем и изменениях, которые ждут человечество. Его мудрость и знания привлекают слушателей. Внуков он учит не только новым технологиям, но и важности сохранения природы и культурного наследия. В свободное время он путешествует, пишет мемуары и делится своими знаниями с молодыми поколениями, вдохновляя их на новые свершения.",
-                
+                "description": "Starý Vodnář je moudrý vizionář, který i ve stáří zůstává otevřený změnám, pokroku a humanitárním ideálům. Často žije v harmonii s přírodou – v domě u jezera, kde se snoubí ekologická udržitelnost s nejnovějšími technologiemi. Jeho domov je koláží minulosti a budoucnosti: antické artefakty vedle 3D tiskárny, knihy o metafyzice hned vedle solárních panelů. I v pokročilém věku sdílí svou vizi světa – učí vnoučata nejen programovat, ale i rozpoznávat hodnoty, které přetrvají. V jeho přítomnosti se člověk cítí jako na přednášce z budoucnosti, zakončené šálkem bylinkového čaje. Cestuje, píše, tvoří a nikdy se nezastaví – protože budoucnost, v jeho očích, nikdy nekončí.",
+
                 "perks": [
-                    ["Мудрость веков:", "Делится своим опытом и знаниями с молодыми, помогая им понять мир и найти своё место в нём."],
-                    ["Защитник природы:", "Участвует в экологических проектах и инициативах по сохранению природы и биоразнообразия."],
-                    ["Сам себе на уме:", "Предпочитает действовать независимо и принимать решения на основе своих внутренних убеждений, не считаясь с окружающими."],
-                    ["Поток мыслей:", "Его разговоры часто переполнены поверхностными идеями и концепциями, что может быть трудным для понимания окружающими."],
-                    ["Путешественник времени:", "Посещает исторические места и исследует новые страны, открывая для себя и других культурные и исторические богатства."]
+                    ["Moudrost věků:", "Předává životní zkušenosti a pomáhá mladým chápat svět v jeho hloubce."],
+                    ["Ochránce přírody:", "Aktivně se podílí na projektech udržitelnosti a boji za klimatickou spravedlnost."],
+                    ["Sólový myslitel:", "Jedná podle svého přesvědčení, nezávisle na společenských očekáváních."],
+                    ["Proudy nápadů:", "Mluví v myšlenkových spirálách – někdy osvícení, jindy těžce uchopitelné."],
+                    ["Cestovatel časem:", "Navštěvuje historické lokality a objevuje budoucnost v odrazech minulosti."]
                 ]
             },
 
             "work": {
-                "description": "Водолей в работе — это настоящий изобретатель и реформатор, бросающий вызов привычным нормам и стремящийся к созданию чего-то нового и значимого. Он преуспевает в сферах, где можно придумывать новаторские идеи и воплощать их в жизнь: социальные проекты, экспериментальное искусство, наука или образование. Его рабочее место — это мастерская идей, где царит креативность и свобода самовыражения. Они ценят коллективные усилия и стремятся к созданию гармоничной и продуктивной среды, где люди могут свободно обмениваться идеями и работать над совместными проектами. Сила Водолея в его умении видеть возможности там, где другие видят тупик. Однако у Водолея есть и слабые стороны. Водолеи часто увлекаются новыми идеями и проектами, забывая о завершении ранее начатых дел. Это может привести к тому, что их проекты остаются недоделанными. Кроме того, Водолеи могут быть слишком независимыми и склонны к непредсказуемым действиям. Они могут испытывать трудности в работе в строго структурированных организациях, где требуется подчинение правилам и дисциплина. Их стремление к свободе и независимости иногда приводит к конфликтам с начальством или коллегами. Ещё одной отрицательной чертой Водолея может быть его склонность к идеализму. Они часто видят мир в розовых очках и стремятся к утопическим идеям, что может создавать проблемы в реальности, где требуется прагматичный подход и реалистичное восприятие ситуации. Идеальная работа для Водолея — это место, где он может свободно творить и менять мир, даже если это начинается с малого. Он любит работать над проектами, которые приносят пользу обществу и способствуют прогрессу. Водолеи чувствуют себя наилучшим образом в атмосфере креативности и новаторства, где они могут воплотить свои идеи и видение в жизнь.",
+                "description": "Vodnář v práci je vizionář a reformátor – vnáší nové principy do zaběhlých struktur a mění pravidla hry. Nejvíce vyniká tam, kde může tvořit, přetvářet a přinášet změny: v sociálních inovacích, experimentálním umění, vědě nebo vzdělávání. Jeho pracovní prostor je laboratoří nápadů – plný chaosu, kreativity a odvahy zkoušet nové směry. Silou Vodnáře je schopnost najít řešení tam, kde ostatní vidí slepou uličku. Umí propojovat lidi kolem idejí, inspirovat ke spolupráci a proměnit chaos ve společné vize. Jeho slabinou může být nestálost – začíná víc, než dokončí. Striktní hierarchie a rigidní pravidla ho dusí – jeho místo je tam, kde se tvoří budoucnost, ne kde se opakuje minulost. Jeho ideální práce nabízí svobodu tvořit, měnit svět – byť po malých krocích.",
 
                 "perks": [
-                    ["Новаторство:", "Превращает старые вещи в арт-объекты или придумывает новые правила для устаревших игр."],
-                    ["Сила единства:", "Организует сообщества вокруг идей — от книжного клуба до экодвижения, создавая прочные связи между людьми."],
-                    ["Движение по наитию:", "Обладает интуитивной способностью предсказывать тренды раньше всех, будь то мода на ретро или бум на ЗОЖ."],
-                    ["Бунт против шаблонов:", "Ломает корпоративные правила, внедряя гибкий график или уроки йоги на работе."],
-                    ["Мультизадачность:", "Пишет пьесу, ремонтирует велосипед и планирует фестиваль уличного искусства одновременно. Как правило, все дела остаются незавершёнными."]
+                    ["Inovátor:", "Proměňuje odpadky v umění, klasiku v remix a schůzky ve think-tank."],
+                    ["Síla komunity:", "Zakládá hnutí – od ekologického trhu po digitální manifest."],
+                    ["Čich na trendy:", "Vycítí ‚co přijde‘ dřív, než to vyhledávače zachytí."],
+                    ["Bourání zvyklostí:", "Navrhuje otevřenou kancelář s meditací místo meetingů."],
+                    ["Multitasking:", "Píše hru, kreslí mural a vymýšlí festival – často paralelně a nedokončeně."]
                 ],
 
-
                 "conditions": [
-                    ["Творческая свобода:", "Возможность экспериментировать без страха осуждения."],
-                    ["Социальная значимость:", "Проекты, которые делают мир лучше, а не просто приносят прибыль."],
-                    ["Динамичная среда:", "Отсутствие рутины и пространство для импровизации."]
+                    ["Kreativní svoboda:", "Prostor pro pokusy a originální přístupy – bez cenzury."],
+                    ["Společenský smysl:", "Směřování práce k dopadu, ne k výnosu."],
+                    ["Rychlé tempo:", "Dynamika, kde se nové stává normou, a rutina neexistuje."]
                 ],
 
                 "professions": [
-                    ["Социальный предприниматель:", "Создание приюта для бездомных животных или мастерской для подростков."],
-                    ["Художник-перформансист:", "Превращение городских улиц в галереи под открытым небом."],
-                    ["Учитель-новатор:", "Обучение через игры, квесты и эксперименты вместо учебников."],
-                    ["Экоактивист:", "Организация субботников с музыкой и фудтраками."],
-                    ["Автор футуристических романов:", "Писательство о мирах, где деньги отменены, а люди летают на дирижаблях."]
+                    ["Sociální podnikatel:", "Zakládá komunitní dílnu nebo azyl pro zvířata s příběhem."],
+                    ["Performance umělec:", "Mění město v galerii a diváka v účastníka."],
+                    ["Inovativní pedagog:", "Vede výuku jako misi, kde se učí z her a experimentů."],
+                    ["Ekoaktivista:", "Organizuje akce s rytmem a vizí – piknik i protest."],
+                    ["Futuristický spisovatel:", "Píše světy, kde se platí myšlenkami a žije v symbióze s algoritmem."]
                 ]
             },
 
             "relationships": {
                 "romantic": {
-                    "description": "Водолей в любви — это вечный искатель приключений и новых впечатлений. Он ищет партнёра, который станет его соратником по этим авантюрам и готовым вместе покорять новые горизонты. Для Водолея романтические свидания — это не просто прогулка по парку или ужин в ресторане. Он предпочитает организовывать захватывающие квесты, которые создают незабываемые воспоминания. Он может пригласить своего партнёра на пикник на крыше заброшенного завода, где откроется захватывающий вид на город. Или предложит провести ночь в планетарии, наблюдая за звёздами и обсуждая тайны Вселенной. Когда Водолей делает подарки, это не будут традиционные цветы или коробка конфет. Вместо этого он предпочитает дарить билеты на странные и оригинальные спектакли. Для Водолея в отношениях важна не только романтика, но и интеллектуальная и духовная связь. Его партнёр — не просто «половинка», а равный участник безумных идей и авантюр. Водолей ценит независимость и свободу, поэтому его идеальные отношения основаны на взаимном уважении и понимании. Однако у Водолея есть и слабости. Одна из них — боязнь рутины и предсказуемости. Он стремится к новизне и разнообразию, и если чувства становятся слишком предсказуемыми, он может исчезнуть, чтобы искать новые впечатления. Это может создавать трудности в отношениях, так как его партнёру нужно постоянно удивлять его и поддерживать огонь страсти. Ключ к сердцу Водолея — это постоянное удивление и новизна. Он любит, когда его партнёр готов к экспериментам и новым идеям. Водолей ценит креативность и нестандартный подход, поэтому для него важно, чтобы отношения были полны ярких моментов и неожиданных сюрпризов. Ещё одна важная черта Водолея в любви — его стремление к равноправию и справедливости. Он ищет партнёра, который будет поддерживать его идеалы и стремление к изменениям. Вместе они могут работать над социальными проектами, участвовать в общественной жизни и вносить вклад в улучшение общества."
-                },
+                    "description": "Vodnář v lásce je dobrodruh s duší futuristy. Hledá partnera, který se s ním vydá na cesty duševní i doslovné – od nočního pikniku na střeše opuštěné továrny po debaty o smyslu vesmíru v planetáriu. Místo růží přináší lístky na podivnou imerzivní výstavu. Vztah pro něj není jen romantika, ale propojení myslí a ideálů. Svoboda je klíčová – pouta nesnáší, ale spojenectví, které respektuje individualitu, považuje za nejvyšší formu lásky. Slabinou může být odpor k rutině: pokud vztah ztratí jiskru objevování, Vodnář se může stáhnout nebo ztratit zájem. Oheň jeho lásky udržují překvapení, společné vize a ochota jít za hranice běžného. Nejvíc ho přitahuje partner, který s ním bude tvořit a měnit svět – ideálně rovný spoluhráč ideálů."
 
+                },
                 "friend": {
-                    "description": "Друг-Водолей — это настоящий генератор сюрпризов и неожиданностей. Он всегда готов предложить что-то необычное и захватывающее. Например, он может позвать вас в поход с ночёвкой в лесу без палатки, где вы будете под звёздами обсуждать философские вопросы и наслаждаться природой. Или устроит вечеринку в стиле «всё наоборот», где каждый гость должен будет выполнить необычные задания и надеть одежду задом наперёд. Его дружба наполнена смехом до слёз, глубокими философскими спорами о смысле жизни и внезапными поездками за город в 3 часа ночи, чтобы встретить рассвет на берегу озера или организовать импровизированный пикник. Водолеи умеют превращать рутинные моменты в незабываемые приключения, добавляя к ним свою неповторимую нотку креативности. Если вы попросите Водолея помочь с переездом, будьте готовы к настоящему перформансу. Он может притащить своих друзей-музыкантов, чтобы переезд превратился в музыкальное представление с живым концертом. Водолей всегда стремится сделать даже самые обычные задачи необычными и запоминающимися. Слабость Водолея — это его забывчивость. Он может легко забыть о вашем дне рождения или важном событии, погружённый в свои идеи и проекты. Однако, когда он всё-таки вспоминает, он может сделать что-то необычное и трогательное. Например, он может подарить handmade открытку с цитатой из Кафки, вложив в неё своё внимание и душу."
+                    "description": "Přítel Vodnář je jako festival osobnosti – spontánní, originální a inspirující. Vymyslí večírek naruby, přátelský manifest na nočním tábořišti, nebo vás ve tři ráno vytáhne na útes, kde budete čekat na východ slunce se sluchátky a playlistem planetárních tónů. Jeho přátelství je směs šílenství a hloubky – od filozofických diskusí přes improvizované koncerty až po kódování etického hackathonu na balkoně. Slabinou může být roztržitost: zapomene narozeniny, ale o týden později pošle ručně vyrobené přání s citátem od Kafky a LED podsvícením. Vodnář je typ, který přináší nečekané barvy do všedních dní – a mění kávu s přáteli na zážitek na celý život."
                 },
-
                 "foe": {
-                    "description": "Враг-Водолей — это саркастичный провокатор, который не терпит лицемерия и не скрывает своих намерений. Он предпочитает открытую конфронтацию и не станет мстить исподтишка. Вместо этого он высмеет ваши слабости при всех, доведя их до абсурда. Его оружие — остроумие, проницательность и умение собрать толпу зрителей, что делает его опасным оппонентом в любых публичных дебатах или конфликтах. Водолей мастерски использует свои знания и наблюдательность, чтобы подчеркнуть недостатки противника. Он обладает талантом превращать ваши ошибки и промахи в зрелищное шоу, которое надолго запомнится окружающим. Его саркастические комментарии и язвительные замечания могут быть настолько меткими и точными, что они способны деморализовать и вывести из себя даже самого стойкого оппонента. Уязвимость Водолея — это его ненависть быть «как все». Он стремится к уникальности и оригинальности во всем, что делает. Если вы назовёте его идеи банальными или обычными, это будет для него ударом по самолюбию. Он может взорваться, как новогодний фейерверк, и начать защищать свои идеи с удвоенной силой, доказывая их уникальность и значимость. Водолей, как враг, отличается своим стремлением к изменениям и бунту против устаревших норм. Он может использовать любые средства, чтобы поставить вас в неудобное положение и доказать свою правоту. Его остроумие и креативность делают его непростым противником, который всегда готов к неожиданным ходам и нестандартным решениям."
+                    "description": "Nepřítel Vodnář je sarkastický disruptor – neútočí zákeřně, ale přesně, a často veřejně. Nezastaví se před ničím, pokud cítí faleš, manipulaci nebo útok na své hodnoty. Jeho síla spočívá ve slovech, v ironii ostřejší než skalpel – slabiny protivníka rozebere na fóru, u kulatého stolu i v podcastu. Vodnář neplánuje pomstu – ale když přijde chvíle, nebrání se performativnímu zúčtování. Co ho skutečně zraní? Nazvat ho průměrným. Jeho potřeba výjimečnosti je jeho slabinou i palivem. Když někdo zpochybní jeho originalitu, probudí to v něm ohnivého obhájce vlastních ideálů. V konfliktu není agresor, ale reformátor: přijde s absurditou, která zrcadlí nedokonalost systému – a z něj udělá vaši slabinu."
                 }
-            }
+            },
         },
 
         {
