@@ -1,16 +1,20 @@
+import getLanguage from "../localization/localizationUtils.js";
 import zodiacDescription from "./zodiacDescription.js";
 import zodiacItemCreate from "./zodiacItemCreate.js";
 
+
 const zodiacButtons = () => {
+    const lang = getLanguage();
     const button = document.querySelectorAll('.sign-elements__item');
     
     button.forEach((item) => {
         const spinner = document.querySelector('.loader-container');
         item.addEventListener('click', () => {
             spinner.classList.toggle('loader-container_disable');
-            let signUnit = zodiacDescription.find((unit) => {
+            let signUnit = zodiacDescription[lang].find((unit) => {
                 return unit.className == item.dataset.sign;
             });
+            console.log(signUnit)
             setTimeout(() => {
                 spinner.classList.toggle('loader-container_disable');
                 const discriptionOfSigns = document.querySelector('.sign-description');

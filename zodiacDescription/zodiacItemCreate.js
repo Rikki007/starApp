@@ -1,6 +1,9 @@
+import getLanguage from "../localization/localizationUtils.js";
 import perksDevide from "./perksDevide.js";
+import localization from "./zodiacListLanguageData.js";
 
 const zodiacItemCreate = (signUnit) => {
+    const lang = getLanguage();
 
     return `
       <div class="description-container">
@@ -38,13 +41,13 @@ const zodiacItemCreate = (signUnit) => {
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Особенности знака.</h3>
+          <h3 class="sign__title">${localization[lang].signTitle}</h3>
           <div class="perks">${perksDevide(signUnit.description.facts)}</div>
         </div>
         
         <div class="common-description-wrapper">
 
-          <h3 class="sign__title">Мифология</h3>
+          <h3 class="sign__title">${localization[lang].mithTitle}</h3>
           <div class="pic-disc">
             <img src="${signUnit.description.mythology.pic}" class="common-description__pic" alt="picture"/>
             <p class="common-description__data">${signUnit.description.mythology.main}</p>
@@ -65,80 +68,77 @@ const zodiacItemCreate = (signUnit) => {
               <p class="common-description__data">${signUnit.description.mythology.branch2.description}</p>
             </div>
           </div>
-
-          
-
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Детство</h3>
+          <h3 class="sign__title">${localization[lang].childTitle}</h3>
           <p class="common-description__data">${signUnit.childhood.description}</p>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Особенности знака.</h3>
+            <h3 class="sign__title">${localization[lang].signTitle}</h3>
             <div class="perks">${perksDevide(signUnit.childhood.perks)}</div>
           </div>
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Школьные годы</h3>
+          <h3 class="sign__title">${localization[lang].schoolTitle}</h3>
           <p class="common-description__data">${signUnit.schoolboy.description}</p>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Склонности знака.</h3>
+            <h3 class="sign__title">${localization[lang].inclinationsTitle}</h3>
             <div class="perks">${perksDevide(signUnit.schoolboy.inclinations)}</div>
           </div>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Особенности знака.</h3>
+            <h3 class="sign__title">${localization[lang].signTitle}</h3>
             <div class="perks">${perksDevide(signUnit.schoolboy.perks)}</div>
           </div>
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Взрослая жизнь.</h3>
+          <h3 class="sign__title">${localization[lang].adultTitle}</h3>
           <p class="common-description__data">${signUnit.adult.description}</p>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Особенности знака.</h3>
+            <h3 class="sign__title">${localization[lang].signTitle}</h3>
             <div class="perks">${perksDevide(signUnit.adult.perks)}</div>
           </div>
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Старость.</h3>
+          <h3 class="sign__title">${localization[lang].oldTitle}</h3>
           <p class="common-description__data">${signUnit.oldman.description}</p>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Особенности знака.</h3>
+            <h3 class="sign__title">${localization[lang].signTitle}</h3>
             <div class="perks">${perksDevide(signUnit.oldman.perks)}</div>
           </div>
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Работа.</h3>
+          <h3 class="sign__title">${localization[lang].workTitle}</h3>
           <p class="common-description__data">${signUnit.work.description}</p>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Особенности знака.</h3>
+            <h3 class="sign__title">${localization[lang].signTitle}</h3>
             <div class="perks">${perksDevide(signUnit.work.perks)}</div>
           </div>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Подходящие рабочие условия.</h3>
+            <h3 class="sign__title">${localization[lang].conditionsTitle}</h3>
             <div class="perks">${perksDevide(signUnit.work.conditions)}</div>
           </div>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Подходящие профессии.</h3>
+            <h3 class="sign__title">${localization[lang].professionsTitle}</h3>
             <div class="perks">${perksDevide(signUnit.work.professions)}</div>
           </div>
         </div>
 
         <div class="common-description-wrapper">
-          <h3 class="sign__title">Отношения.</h3>
+          <h3 class="sign__title">${localization[lang].relationshipsTitle}</h3>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Романтические.</h3>
+            <h3 class="sign__title">${localization[lang].romanticTitle}</h3>
             <p class="common-description__data">${signUnit.relationships.romantic.description}</p>
           </div>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Дружба.</h3>
+            <h3 class="sign__title">${localization[lang].friendshipTitle}</h3>
             <p class="common-description__data">${signUnit.relationships.friend.description}</p>
           </div>
           <div class="common-description-wrapper start-wrapper">
-            <h3 class="sign__title">Вражда.</h3>
+            <h3 class="sign__title">${localization[lang].enmity}</h3>
             <p class="common-description__data">${signUnit.relationships.foe.description}</p>
           </div>
         </div>
