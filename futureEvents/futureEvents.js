@@ -1,94 +1,35 @@
-import localization from "../localization/localizationData.js";
 import getLanguage from "../localization/localizationUtils.js";
-import dateFilter from "./dateFilter.js";
+import todaySolsticeEquinox from "./todaySolsticeEquinox.js";
 
 
 const futureEvents = () => {
 
     const lang = getLanguage();
-    const lunarEclipses = localization[lang].lunarEclipses;
-    const solarEclipses =  localization[lang].solarEclipses;
-    const retrogradMercuryDates = localization.en.retrogradMercuryDates;
-    const eventTitles = localization[lang].futureEvents;
-
-    const lunarEvent = dateFilter(lunarEclipses);
-    const solarEvent = dateFilter(solarEclipses);
-    const mercuryEvents = dateFilter(retrogradMercuryDates);
     const main = document.querySelector('.main');
 
-    if (lunarEvent && solarEvent && mercuryEvents) {
-        return main.innerHTML = `
+    return main.innerHTML = `
 
-            <section class="event-section">
-
-                <h2 class="event-section__title">${eventTitles.eventSectionTitle}</h2>
-
-                <article class="event-item">
-
-                    <div class="image-container">
-                        <img src="${lunarEvent.picture}" alt="${lunarEvent.name}" class="event-image">
-                    </div>
-
-                    <div class="event-container">
-
-                        <h2 class="container__title">${lunarEvent.name}.</h2>
-                        <p class="container__description">${lunarEvent.description}.</p>
-                        <h3 class="container__date">${eventTitles.containerDate} ${lunarEvent.date}.</h3>
-
-                    </div>
-                    
-                </article>
-
-                <article class="event-item">
-
-                    <div class="image-container">
-                        <img src="${solarEvent.picture}" alt="${solarEvent.name}" class="event-image">
-                    </div>
-
-                    <div class="event-container">
-
-                        <h2 class="container__title">${solarEvent.name}.</h2>
-                        <p class="container__description">${solarEvent.description}.</p>
-                        <h3 class="container__location">${eventTitles.containerLocation} ${solarEvent.location}.</h3>
-                        <h3 class="container__date">${eventTitles.containerDate} ${solarEvent.date}.</h3>
-
-                    </div>
-                    
-                </article>
-
-                <article class="event-item">
-
-                    <div class="image-container">
-
-                        <img src="${mercuryEvents.picture}" alt="${mercuryEvents.name}" class="event-image">
-
-                    </div>
-
-                    <div class="event-container">
-
-                        <h2 class="container__title">${eventTitles.name}.</h2>
-
-                        <p class="container__description">${eventTitles.containerDescription}</p>
-
-                        <h3 class="container__date">${eventTitles.containerDateStart} ${mercuryEvents.date} ${eventTitles.containerDateEnd} ${mercuryEvents.end}.</h3>
-
-                    </div>
-                    
-                </article>
-
-            </section>
-        `;
-    } else {
-
-        main.innerHTML = `
-            <section class="event-section">
-                <article class="event-item">
-                    <h2 class="event-title">No upcoming events found</h2>
-                </article>
-            </section>
-        `;
-
-    }
+        <section class="event-section">
+            <article class="solstice-equinox">
+                <h3 class="solstice-equinox__title">Солнцестояния и равноденствия</h3>
+                <div class="solstice-equinox-description">
+                    <p class="solstice-equinox-description__child">
+                        Солнцестояние — это момент, когда Солнце достигает наивысшей (летом) или наинизшей (зимой) точки на небесной сфере в полдень, что делает день самым длинным или самым коротким в году. Равноденствие — это день, когда продолжительность дня и ночи почти одинакова, происходит весной и осенью, когда Солнце пересекает небесный экватор.
+                    </p>
+                    <p class="solstice-equinox-description__child">
+                        Исторически солнцестояния и равноденствия играли ключевую роль в формировании календарей, религиозных обрядов и сельскохозяйственных циклов. В мегалитических сооружениях, таких как Стоунхендж, архитектура точно выровнена по направлению восхода или заката Солнца в дни этих событий, что указывает на их значение для древних астрономов и жрецов. В Древнем Египте храмы, посвящённые Ра и другим солнечным божествам, были спроектированы так, чтобы солнечные лучи проникали в святилища именно в дни солнцестояний. У славян летнее солнцестояние отмечалось праздником Купалы, символизирующим расцвет природы и очищение через огонь и воду. Весеннее равноденствие использовалось для расчёта даты Пасхи, а зимнее — воспринималось как момент возрождения света, когда дни начинают становиться длиннее. Эти астрономические вехи объединяли людей в праздновании цикличности жизни и природы, формируя основу многих культурных традиций.
+                    </p>
+                    <p class="solstice-equinox-description__child">
+                        Астрологическое влияние солнцестояний и равноденствий воспринимается как мощные энергетические поворотные точки года. Эти моменты совпадают с переходом Солнца в кардинальные знаки зодиака — Овен, Рак, Весы и Козерог — что символизирует начало нового астрологического сезона и задаёт тон ближайшим трём месяцам. Весеннее равноденствие в Овне активирует импульс к действию, обновлению и личной инициативе, а летнее солнцестояние в Раке усиливает эмоциональную чувствительность, потребность в заботе и укреплении семейных связей. Осеннее равноденствие в Весах акцентирует баланс, партнёрство и гармонию, в то время как зимнее солнцестояние в Козероге направляет внимание на дисциплину, цели и внутреннюю устойчивость. Эти точки часто используются астрологами для построения прогнозов, ритуалов и медитаций, так как они считаются моментами, когда энергия Солнца особенно восприимчива. Также считается, что в эти периоды легче отпустить старое и заложить намерения на новый цикл. Влияние может ощущаться за несколько дней до и после события, особенно у людей с чувствительной натальной картой.
+                    </p>
+                </div>
+                <h3>Ближайшее событие.</h3>
+                <p>${todaySolsticeEquinox()}</p>
+            </article>
+            <article class="eclipses"></article>
+            <article class="retrograde-motion"></article>
+        </section>
+    `;
 }
 
 export default futureEvents;

@@ -1,10 +1,32 @@
 const testEvents = () => {
     // Лунное затмение
-    let moonEclipse = Astronomy.SearchLunarEclipse(new Date());
-    let moonEclipseTime = new Date(moonEclipse.peak); // Преобразуем в Date
-    console.log(moonEclipse);
-    console.log(`Лунное затмение: ${moonEclipseTime.toISOString()}`);
-    console.log(moonEclipse.kind);
+    // let moonEclipse = Astronomy.SearchLunarEclipse(new Date());
+    // let moonEclipseTime = new Date(moonEclipse.peak); // Преобразуем в Date
+    // console.log(moonEclipse);
+    // console.log(`Лунное затмение: ${moonEclipseTime.toISOString()}`);
+    // console.log(moonEclipse.kind);
+
+    async function getLunarEclipses() {
+        const eclipses = [];
+        let date = new Date();
+
+        for (let i = 0; i < 9; i++) {
+            const eclipse = await Astronomy.SearchLunarEclipse(date);
+            eclipses.push(eclipse);
+
+            // Переводим peak (AstroTime) в обычный Date
+            const peakDate = eclipse.peak.date;
+            date = new Date(peakDate.getTime() + 1); // +1 миллисекунда, чтобы найти следующее
+        }
+
+        eclipses.forEach((eclipse, index) => {
+            const time = eclipse.peak.date.toISOString(); // снова используем .date
+            console.log(`Затмение ${index + 1}: ${time} (${eclipse.kind})`);
+        });
+    }
+
+    getLunarEclipses();
+
 
     // Солнечное затмение
     let sunEclipse = Astronomy.SearchGlobalSolarEclipse(new Date());
@@ -31,10 +53,10 @@ const testEvents = () => {
 
     const seasons = Astronomy.Seasons(year);
 
-    console.log(`Весеннее равноденствие: ${seasons.mar_equinox.date.toISOString().split('T')[0]}`);
-    console.log(`Летнее солнцестояние: ${seasons.jun_solstice.date.toISOString().split('T')[0]}`);
-    console.log(`Осеннее равноденствие: ${seasons.sep_equinox.date.toISOString().split('T')[0]}`);
-    console.log(`Зимнее солнцестояние: ${seasons.dec_solstice.date.toISOString().split('T')[0]}`);
+    // console.log(`Весеннее равноденствие: ${seasons.mar_equinox.date.toISOString().split('T')[0]}`);
+    // console.log(`Летнее солнцестояние: ${seasons.jun_solstice.date.toISOString().split('T')[0]}`);
+    // console.log(`Осеннее равноденствие: ${seasons.sep_equinox.date.toISOString().split('T')[0]}`);
+    // console.log(`Зимнее солнцестояние: ${seasons.dec_solstice.date.toISOString().split('T')[0]}`);
 
     // обьекты в созвездиях
 
