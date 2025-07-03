@@ -40,5 +40,3 @@ const solsticeEquinoxDefinition = () => {
 
 
 export default solsticeEquinoxDefinition;
-
-dateComparison()

@@ -1,10 +1,12 @@
-const dateComparison = (todayDate, solsticeEquinoxDate) => {
-    const todayComparableDate = new Date(todayDate).setHours(0, 0, 0, 0);
-    const solsticeEquinoxComparableDate = new Date(solsticeEquinoxDate).setHours(0, 0, 0, 0);
+const dateComparison = (todayDate, targetDate) => {
+    const oneDay = 1000 * 60 * 60 * 24;
+    const firstDate = new Date(todayDate);
+    const secondDate = new Date(targetDate);
 
-    const dayDifference = (solsticeEquinoxComparableDate - todayComparableDate) / (1000 * 60 * 60 * 24);
+    firstDate.setHours(0, 0, 0, 0);
+    secondDate.setHours(0, 0, 0, 0);
 
-    return dayDifference;
-}
+    return Math.round((secondDate - firstDate) / oneDay);
+};
 
 export default dateComparison;
